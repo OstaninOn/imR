@@ -722,7 +722,25 @@
             ],
           },
           
-          
+          {
+            "name": "Праўда Радыё",
+            "coordinates": {
+              "lat": 54.887251, 
+              "lon": 28.690257
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Праўда Радыё (Там дзе ты)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Mogilev.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/gomelskayapravda"
+              }
+            ],
+          },
           
           
           
