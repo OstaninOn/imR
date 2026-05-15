@@ -705,8 +705,8 @@
           {
             "name": "Радио Могилев",
             "coordinates": {
-              "lat": 53.682208,
-              "lon": 23.812500
+              "lat": 53.895285, 
+              "lon": 30.329504
             },
             "radioStations": [
               {
@@ -781,7 +781,29 @@
               }
             ],
           },
-          
+
+         {
+            "name": "Міжнароднае радыё",
+            "coordinates": {
+              "lat": 52.892256, 
+              "lon": 30.037822,   
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Міжнароднае радыё Беларусь (Інфармацыйна-аналітычны канал.",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/MDNRADIO.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media1.datacenter.by:1936/belarus/belarus.stream/playlist.m3u8"
+              }
+            ],
+          },
+
+
+        
           
           
           
