@@ -762,7 +762,25 @@
             ],
           },
           
-          
+          {
+            "name": "Радыё MФM",
+            "coordinates": {
+              "lat": 53.164223, 
+              "lon": 24.461857  
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё MФM (Мой горад. Маё радыё.",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/MFM.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://radio.105fm.by/radio.105.0mfm"
+              }
+            ],
+          },
           
           
           
