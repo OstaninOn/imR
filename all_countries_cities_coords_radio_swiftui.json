@@ -742,7 +742,25 @@
             ],
           },
           
-          
+          {
+            "name": "Супер ФМ",
+            "coordinates": {
+              "lat": 55.139586, 
+              "lon": 27.684513 
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Супер ФМ (Ты і твая музыка)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Super.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/sfm"
+              }
+            ],
+          },
           
           
           
