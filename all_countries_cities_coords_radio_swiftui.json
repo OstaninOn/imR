@@ -822,7 +822,25 @@
             ],
           },
         
-          
+          {
+            "name": "Рускае Радыё - Мінск",
+            "coordinates": {
+              "lat": 52.217665, 
+              "lon": 27.853401     
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Рускае Радыё - Мінск (Все будет хорошо!",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/RUSKOE.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream.rusradio.by/russkoe.m3u8"
+              }
+            ],
+          },
           
           
           
