@@ -771,7 +771,7 @@
             "radioStations": [
               {
                   
-                "title": "Радыё MФM (Мой горад. Маё радыё.",
+                "title": "Радыё MФM (Мой горад. Маё радыё.)",
                 "subtitle": "Беларусь",
                 "logo": "dot.radiowaves.left.and.right",
                 "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/MFM.png",
@@ -791,7 +791,7 @@
             "radioStations": [
               {
                   
-                "title": "Міжнароднае радыё Беларусь (Інфармацыйна-аналітычны канал.",
+                "title": "Міжнароднае радыё Беларусь (Інфармацыйна-аналітычны канал.)",
                 "subtitle": "Беларусь",
                 "logo": "dot.radiowaves.left.and.right",
                 "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/MDNRADIO.png",
@@ -811,7 +811,7 @@
             "radioStations": [
               {
                   
-                "title": "Energy FM (Hot Hit Music.",
+                "title": "Energy FM (Hot Hit Music.)",
                 "subtitle": "Беларусь",
                 "logo": "dot.radiowaves.left.and.right",
                 "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ENERGY.png",
@@ -831,7 +831,7 @@
             "radioStations": [
               {
                   
-                "title": "Рускае Радыё - Мінск (Все будет хорошо!",
+                "title": "Рускае Радыё - Мінск (Все будет хорошо!)",
                 "subtitle": "Беларусь",
                 "logo": "dot.radiowaves.left.and.right",
                 "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/RUSKOE.png",
@@ -842,7 +842,25 @@
             ],
           },
           
-          
+           {
+            "name": "Międzynarodowe Radio Białoruś",
+            "coordinates": {
+              "lat": 53.834601, 
+              "lon": 28.994249     
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Międzynarodowe Radio Białoruś (Вольнае слова для Польшчы)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/PolRadio.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media1.datacenter.by:1936/belarusfm/_definst_/belarusfm.stream/chunklist_w621215115.m3u8"
+              }
+            ],
+          },
           
           
           
