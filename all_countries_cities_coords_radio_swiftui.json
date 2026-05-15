@@ -1,0 +1,791 @@
+{
+  "version": "3.0",
+  "description": "All 195 widely recognized countries with country coordinates, city objects, and runtime radio station lookup metadata. City coordinates are filled where verified locally; radioStations is intentionally empty unless direct streams are verified.",
+  
+  "country_count": 195,
+  "radio_source": {
+    "name": "Radio Browser",
+    "docs": "https://docs.radio-browser.info/",
+    "api": "https://de1.api.radio-browser.info/json/stations/search",
+    "recommendation": "Fetch station streams at runtime and cache only stations with lastcheckok=true / hidebroken=true."
+  },
+  "countries": [
+      {
+  
+    
+      "code": "BY",
+      "name": "Belarus",
+      "subtitle": "Беларусь1",
+      "capital": "Minsk",
+      "coordinates": {
+        "lat": 53.0,
+        "lon": 28.0
+      },
+      "cities": [
+          {
+            "name": "Minsk",
+            "coordinates": {
+              "lat": 53.9006,
+              "lon": 27.559
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Сталіца (Слухай любімае)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=20e1a6dd61c81fc1310468e78b639c0f_l-4445204-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by/stream/stalica/stream"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+    
+          {
+            "name": "Юнистар хит за хитом",
+            "coordinates": {
+              "lat": 52.111688,
+              "lon": 26.101103
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Юністар (хіт за хітом)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=fed3f5886d1861eab16abce7eb77a1bc_l-4375862-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream.usp.unistar.by/hls/unistar_main/master.m3u8"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+   
+          {
+            "name": "Першы нацыянальны канал",
+            "coordinates": {
+              "lat": 54.224176,
+              "lon": 28.511719
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Першы нацыянальны канал (Беларускае радыё)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://yt3.ggpht.com/ytc/AAUvwniylB3E78HNKkz7qeP-GJuqpo6i07yObLNJgj0JDA=s900-c-k-c0x00ffffff-no-rj",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by/stream/1kanal/stream"
+              }
+            ],
+          },
+          
+          
+          {
+            "name": "Канал Культура",
+            "coordinates": {
+              "lat": 53.465163,
+              "lon": 27.214384
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Канал Культура (Беларускага радыё)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radioplayer.by/media/cache/radio/upload/media/bez-nazvania-636ea8477ee05968347079.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by/stream/kultura/stream"
+              }
+            ],
+          },
+          
+          
+          {
+            "name": "Радыё РОКС",
+            "coordinates": {
+              "lat": 53.027708,
+              "lon": 27.550781
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё РОКС (Лепшыя песні аб галоўным)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=c184d08f1c777845c5a1c56abecda547_l-5194778-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream.roks.com:8443/live_sd"
+              }
+            ],
+          },
+          
+          
+          {
+            "name": "Душэўнае Радыё",
+            "coordinates": {
+              "lat": 53.598641,
+              "lon": 25.822610
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Душэўнае Радыё (Незабыўныя імгненні твайго жыцця)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radiopotok.ru/f/station/512/626.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/dushevnoe"
+              }
+            ],
+          },
+          
+          {
+            "name": "Пілот ФМ",
+            "coordinates": {
+              "lat": 52.052230,
+              "lon": 29.263787
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Пілот ФМ (Максімум музыкі)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radioplayer.by/media/cache/radio/upload/media/pilot-685acd1b7f2d7588616196.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://live.pilotfm.com/stream/pilotfm/aac128"
+              }
+            ],
+          },
+          
+          {
+            "name": "Радыё Свет",
+            "coordinates": {
+              "lat": 53.512031,
+              "lon": 28.146369
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Свет (Усё ўключана!)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://yt3.ggpht.com/ytc/AKedOLQ8j00evj0AGd4OhR9HKp3IgkYMm_q1shVwfvFHHA=s900-c-k-c0x00ffffff-no-rj",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8"
+              }
+            ],
+          },
+          
+          {
+            "name": "Цэнтр ФМ",
+            "coordinates": {
+              "lat": 54.308107,
+              "lon": 26.838006
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Цэнтр ФМ (Электронная музыка!)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/CentrFM.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream.centerfm.by/live/smil:CFM.smil/playlist.m3u8"
+              }
+            ],
+          },
+          
+          {
+            "name": "Радыё Мінск",
+            "coordinates": {
+              "lat": 54.006695,
+              "lon": 27.289522
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Мінск (Мінск - гэта мы)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/RadioMinsk.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://radio.mk.by:8443/radiominsk"
+              }
+            ],
+          },
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          {
+            "name": "Радыус ФМ",
+            "coordinates": {
+              "lat": 52.793088,
+              "lon": 27.541820
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыус ФМ (Радыус ФМ)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://dl-media.viber.com/5/share/2/long/vibes/icon/image/0x0/4e22/d89f51f693391dcc7bde09aac27d59711dc1216f880c21fa78805235a07d4e22.jpg",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media1.datacenter.by:1936/radiusfm/_definst_/radius.stream/chunklist_w1421275744.m3u8"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          
+          {
+            "name": "Minsk - Радио Шансон",
+            "coordinates": {
+              "lat": 55.536025,
+              "lon": 28.644761
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Шансон (Добрае радыё)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=c00f1cbd83b19a96d253477b81664a5c_l-4012791-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/shanson"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+
+   
+          
+          {
+            "name": "Барановичи FM(Барановичи)",
+            "coordinates": {
+              "lat": 53.132363,
+              "lon": 26.017618
+            },
+            "radioStations": [
+              {
+                "title": "Баранавічы ФМ (Радыё нашага горада)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=6c6d72b462cf482d141d74af0fb0c50d_sr-9220416-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://radio.100fm.by:8000/100fm128"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Брест",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          {
+            "name": "Скиф(Орша)",
+            "coordinates": {
+              "lat": 54.513574,
+              "lon": 30.427390
+            },
+            "radioStations": [
+              {
+                "title": "Скіф (Радыё Орша 99,9 ФМ)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=611733725d0deb3ba3fefdf03c1c76f4_l-13197814-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://178.172.150.248:2530/;stream.mp3;nocache=32"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Витебск",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+        
+          
+      
+          {
+            "name": "Зефир ФМ (Бобруйск)",
+            "coordinates": {
+              "lat": 53.145597,
+              "lon": 29.225538
+            },
+            "radioStations": [
+              {
+                "title": "Зефір ФМ (Самае салодкае радыё краіны)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://www.prfm.ru/logo/zefir-fm-logo.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://178.124.152.212:8008/Zefir"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Светлогорск",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+         
+          
+          
+          
+        
+         
+         
+          {
+            "name": "Авторадио (Минск)",
+            "coordinates": {
+              "lat": 54.067964,
+              "lon": 27.696921
+            },
+            "radioStations": [
+              {
+                "title": "Аўтарадыё (Толькі Рок)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=8719e07ddb5db967e5d535a3c02a7005_l-5449757-images-thumbs&ref=rim&n=13&w=900&h=900",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://live.humorfm.by:8000/avtoradio"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Минск",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+         
+       
+         
+          {
+            "name": "Юмор FM(Беларусь)",
+            "coordinates": {
+              "lat": 54.8764,
+              "lon": 29.9384
+            },
+            "radioStations": [
+              {
+                "title": "Гумар ФМ (Радуйся жыцьцю)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radiopotok.ru/f/station/512/2526.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://live.humorfm.by:8000/veseloe"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Лида",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          {
+            "name": "Легенды FM(Беларусь)",
+            "coordinates": {
+              "lat": 53.685225,
+              "lon": 27.131415
+            },
+            "radioStations": [
+              {
+                "title": "Легенды ФМ (Музыка мінулага стагоддзя)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://sun9-75.userapi.com/impf/c846020/v846020728/87fd5/i7_el_J-rL4.jpg?size=604x604&quality=96&sign=f6f2e2d5be3edbee06f0904e6183c2ad&type=album",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://live.legendy.by:8000/legendyfm"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Молодечно",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          {
+            "name": "Альфа радио(Беларусь)",
+            "coordinates": {
+              "lat": 53.740688,
+              "lon": 27.691406
+            },
+            "radioStations": [
+              {
+                "title": "Альфа радыё (Радыё твайго дня)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=7d97271fe9f7210f0abe4c05117667bc_l-5306827-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://live.alpha.by:7000/alpha"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Пинск",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+        
+          {
+            "name": "Радыё Марыя(Беларусь)",
+            "coordinates": {
+              "lat": 52.213431,
+              "lon": 24.347426
+            },
+            "radioStations": [
+              {
+                "title": "Радыё Марыя (Міжнародная сям'я радыёстанцый)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://yt3.googleusercontent.com/ytc/AIdro_nPJyJHiBDG9ZueevfFVWRffs-t0Q2XDvKE9xlHm6_yrw=s900-c-k-c0x00ffffff-no-rj",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://server.radiorm.by:8000/live"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Гомель",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          {
+            "name": "Радио Relax(Беларусь)",
+            "coordinates": {
+              "lat": 54.030239,
+              "lon": 28.087776
+            },
+            "radioStations": [
+              {
+                "title": "Радыё Рэлакс (Лёгкае ды спакойнае радыё)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://avatars.mds.yandex.net/i?id=34ed9e9ba081b6cc1762e2b4239fa4fb_l-4012459-images-thumbs&n=13",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://live.humorfm.by:8000/radiorelax"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Гродно",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          
+          
+          {
+            "name": "ТрансМировое радио(Беларусь)",
+            "coordinates": {
+              "lat": 53.8274,
+              "lon": 24.9798
+            },
+            "radioStations": [
+              {
+                "title": "ТрансСусветнае радыё (Рэлігія)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://sun9-66.userapi.com/impf/Br7WLgxY-PoTA8mVPBkzZ9rXbFRxOlzYB_gF_Q/jEcVIqC60FE.jpg?size=604x604&quality=96&sign=94fd4648d26d566cbe37e8dee610a542&type=album",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "http://eu3.fastcast4u.com:5026/;stream/1"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Барановичи",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          
+        
+         
+      
+        
+          
+          
+          {
+            "name": "Minsk - Радио Компас FM",
+            "coordinates": {
+              "lat": 54.156384,
+              "lon": 27.242273
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Компас ФМ (Заўсёды па дарозе)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radioplayer.by/media/cache/radio/upload/media/kompas-fm-radioplayer-66ffb2402d504838374379.jpg",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://radio.mil.by/live"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+
+          
+          
+          {
+            "name": "Minsk - Новое радио",
+            "coordinates": {
+              "lat": 52.537438,
+              "lon": 24.976103
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Новае радыё (Радыё сучасных хітоў)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://radioplayer.by/media/cache/radio/upload/media/logo-novoe-radio-638e4c46da45d242500163.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          
+          {
+            "name": "Радыё Віцебск",
+            "coordinates": {
+              "lat": 55.189704,
+              "lon": 30.193015
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Віцебск (Радыё Нашага Горада)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Vitebsk.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media1.datacenter.by:1936/radiovitebsk/radiovitebsk.stream/playlist.m3u8"
+              }
+            ],
+            "radioBrowserSearch": {
+              "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+              "countryCode": "BY",
+              "cityQuery": "Minsk",
+              "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+            }
+          },
+          
+          
+          {
+            "name": "Гомель ФМ",
+            "coordinates": {
+              "lat": 52.429701,
+              "lon": 31.009191
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Гомель ФМ (На хвалі добрага настрою)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/GomelFM.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://r.gomelradio.by:2020/gomelradio"
+              }
+            ],
+          },
+          
+          
+          {
+            "name": "Гродно ФМ",
+            "coordinates": {
+              "lat": 53.682208,
+              "lon": 23.812500
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Гродно ФМ (Слушай свое!)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Grodno.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by/stream/8006"
+              }
+            ],
+          },
+          
+          
+          {
+            "name": "Радио Могилев",
+            "coordinates": {
+              "lat": 53.682208,
+              "lon": 23.812500
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радио Могилев (Только хиты)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Mogilev.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/tvrmogilev"
+              }
+            ],
+          },
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          {
+            "name": "Радыё Рацыя",
+            "coordinates": {
+              "lat": 53.133141,
+              "lon": 23.159697
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Рацыя (Трансграничная радыё рацыя)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Racia.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://air.racyja.com/racja128"
+              }
+            ],
+          },
+          
+          
+        {
+          "name": "Радыё Брэст",
+          "coordinates": {
+            "lat": 52.0976,
+            "lon": 23.7341
+          },
+          "radioStations": [
+            {
+              "title": "Радыё Брэст (Лепшыя і сучасныя хіты)",
+              "subtitle": "Беларусь",
+              "logo": "dot.radiowaves.left.and.right",
+              "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/radioBrest.png",
+              "imageSize": 85,
+              "playerImageSize": 85,
+              "streamURL": "https://stream2.datacenter.by/trkbrest"
+            }
+          ],
+          "radioBrowserSearch": {
+            "note": "Use this API at runtime to get current working live radio streams; direct stream URLs often change.",
+            "countryCode": "BY",
+            "cityQuery": "Minsk",
+            "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
+          }
+        }
+      ]
+    }
+  ]
+}
