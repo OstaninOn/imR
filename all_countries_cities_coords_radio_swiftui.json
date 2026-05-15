@@ -802,7 +802,25 @@
             ],
           },
 
-
+         {
+            "name": "Energy FM",
+            "coordinates": {
+              "lat": 52.246447, 
+              "lon": 26.800092    
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Energy FM (Hot Hit Music.",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ENERGY.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by/stream/energyfm/energy"
+              }
+            ],
+          },
         
           
           
