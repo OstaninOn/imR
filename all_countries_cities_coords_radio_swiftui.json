@@ -882,7 +882,25 @@
             ],
           },
 
-
+          {
+            "name": "Радыё Рэтра",
+            "coordinates": {
+              "lat": 52.762506, 
+              "lon": 26.427313      
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Рэтра (Лепшая музыка 80х, 90х і 00х)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Retro.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://air.sammit.tv/retro/retro.m3u8"
+              }
+            ],
+          },
 
 
         
