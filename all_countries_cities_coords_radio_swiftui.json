@@ -922,11 +922,34 @@
             ],
           },
 
+        {
+            "name": "Горад FМ",
+            "coordinates": {
+              "lat": 53.308832, 
+              "lon": 28.638219       
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Горад FМ (Любімыя мелодыі для любімага горада)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/GorodFM.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/GorodFM"
+              }
+            ],
+          },
+          
+          
+          
+
+
+
+
+
         
-          
-          
-          
-          
           
           
           
