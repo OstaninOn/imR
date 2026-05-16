@@ -942,6 +942,25 @@
             ],
           },
           
+          {
+            "name": "Народнае радыё",
+            "coordinates": {
+              "lat": 54.521131, 
+              "lon": 27.602866       
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Народнае радыё (Падпявай)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Norodnoe.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://live.novoeradio.by:444/live/narodnoeradio_adaptive/playlist.m3u8"
+              }
+            ],
+          },
           
           
 
