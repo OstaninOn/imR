@@ -902,6 +902,25 @@
             ],
           },
 
+        {
+            "name": "Жаночае радыё",
+            "coordinates": {
+              "lat": 53.714177, 
+              "lon": 28.418114      
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Жаночае радыё (Чуем і слухаем)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Woman.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://media2.datacenter.by:8020/ladyfm"
+              }
+            ],
+          },
 
         
           
