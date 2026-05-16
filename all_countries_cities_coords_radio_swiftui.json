@@ -861,7 +861,31 @@
               }
             ],
           },
-          
+
+         {
+            "name": "Мінская Хваля",
+            "coordinates": {
+              "lat": 53.890602, 
+              "lon": 27.911650      
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Мінская Хваля (Зроблена з хітоў)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Volna.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/mvradio"
+              }
+            ],
+          },
+
+
+
+
+        
           
           
           
