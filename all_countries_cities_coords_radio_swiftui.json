@@ -213,8 +213,8 @@
           {
             "name": "Цэнтр ФМ",
             "coordinates": {
-              "lat": 54.308107,
-              "lon": 26.838006
+              "lat": 54.481658, 
+              "lon": 26.402609
             },
             "radioStations": [
               {
@@ -986,10 +986,46 @@
           },
 
 
+           {
+            "name": "Гомель Плюс",
+            "coordinates": {
+              "lat": 52.371556, 
+              "lon": 30.386566         
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Гомель Плюс (Музыка на ўсе часы)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/GomelPlus.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream2.datacenter.by/gomelplus"
+              }
+            ],
+          },
 
 
-
-        
+        {
+            "name": "Маладзечна ФМ",
+            "coordinates": {
+              "lat": 54.307332, 
+              "lon": 26.838939         
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Маладзечна ФМ (Сонечнае радыё)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Maladechna.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://radio.tvs.by:8089/Radio/index.m3u8"
+              }
+            ],
+          },
 
 
 
