@@ -47,7 +47,8 @@
               "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
             }
           },
-    
+
+        
           {
             "name": "Юнистар хит за хитом",
             "coordinates": {
@@ -73,7 +74,9 @@
               "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
             }
           },
-   
+
+
+        
           {
             "name": "Першы нацыянальны канал",
             "coordinates": {
@@ -93,7 +96,8 @@
               }
             ],
           },
-          
+
+        
           
           {
             "name": "Канал Культура",
@@ -115,7 +119,8 @@
             ],
           },
           
-          
+
+        
           {
             "name": "Радыё РОКС",
             "coordinates": {
@@ -136,7 +141,8 @@
             ],
           },
           
-          
+
+        
           {
             "name": "Душэўнае Радыё",
             "coordinates": {
@@ -156,7 +162,10 @@
               }
             ],
           },
-          
+
+
+
+        
           {
             "name": "Пілот ФМ",
             "coordinates": {
@@ -176,7 +185,9 @@
               }
             ],
           },
-          
+
+
+        
           {
             "name": "Радыё Свет",
             "coordinates": {
@@ -196,7 +207,9 @@
               }
             ],
           },
-          
+
+
+        
           {
             "name": "Цэнтр ФМ",
             "coordinates": {
@@ -216,7 +229,9 @@
               }
             ],
           },
-          
+
+
+        
           {
             "name": "Радыё Мінск",
             "coordinates": {
@@ -265,12 +280,13 @@
             }
           },
           
-          
+
+        
           {
             "name": "Minsk - Радио Шансон",
             "coordinates": {
-              "lat": 55.536025,
-              "lon": 28.644761
+              "lat": 55.783091, 
+              "lon": 27.934743
             },
             "radioStations": [
               {
@@ -452,6 +468,8 @@
               "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
             }
           },
+
+        
           {
             "name": "Альфа радио(Беларусь)",
             "coordinates": {
@@ -502,6 +520,8 @@
               "endpointTemplate": "https://de1.api.radio-browser.info/json/stations/search?countrycode={countryCode}&name={cityQuery}&hidebroken=true&order=clickcount&reverse=true"
             }
           },
+
+        
           {
             "name": "Радио Relax(Беларусь)",
             "coordinates": {
