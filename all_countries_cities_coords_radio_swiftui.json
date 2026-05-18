@@ -239,23 +239,6 @@
           
           
           
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
           {
             "name": "Радыус ФМ",
             "coordinates": {
@@ -373,7 +356,7 @@
                 "title": "Зефір ФМ (Самае салодкае радыё краіны)",
                 "subtitle": "Беларусь",
                 "logo": "dot.radiowaves.left.and.right",
-                "imageURL": "https://www.prfm.ru/logo/zefir-fm-logo.png",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Zefir.png",
                 "imageSize": 85,
                 "playerImageSize": 85,
                 "streamURL": "http://178.124.152.212:8008/Zefir"
@@ -962,7 +945,31 @@
             ],
           },
           
-          
+          {
+            "name": "Еўропа Плюс Полацк",
+            "coordinates": {
+              "lat": 55.485576, 
+              "lon": 28.768349       
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Еўропа Плюс Полацк (Все хиты на одном радио)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Polock.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://air.sammit.tv/europa/europa.m3u8"
+              }
+            ],
+          },
+
+
+
+
+
+        
 
 
 
