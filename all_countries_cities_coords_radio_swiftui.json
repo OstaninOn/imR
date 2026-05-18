@@ -1028,6 +1028,46 @@
           },
 
 
+         {
+            "name": "Радыё Перамога",
+            "coordinates": {
+              "lat": 52.647106, 
+              "lon": 28.882938         
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Радыё Перамога (Радыё Перамога - Беларусь памятае!)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Pobeda.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://stream.sb.by/den_pobedy"
+              }
+            ],
+          },
+
+        
+          {
+            "name": "Лідэр FM",
+            "coordinates": {
+              "lat": 53.569455, 
+              "lon": 31.380587          
+            },
+            "radioStations": [
+              {
+                  
+                "title": "Лідэр FM (Слухай тое, што падабаецца.)",
+                "subtitle": "Беларусь",
+                "logo": "dot.radiowaves.left.and.right",
+                "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Lider.png",
+                "imageSize": 85,
+                "playerImageSize": 85,
+                "streamURL": "https://icecast.lider-fm.by/liderfm"
+              }
+            ],
+          },
 
 
 
