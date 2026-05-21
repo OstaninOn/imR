@@ -103,7 +103,7 @@
     {
       "name": "Belarus",
       "name_ru": "Беларусь",
-      "flag": "https://flagcdn.com/w320/by.png"
+      "flag": "https://flagcdn.com/w320/by.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/all_countries_cities_coords_radio_swiftui.json"
     },
     {
