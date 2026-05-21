@@ -35,24 +35,7 @@
       }
     ]
   },
-  {
-    "name": "Antyradio",
-    "coordinates": {
-      "lat": 52.230397,
-      "lon": 21.00423
-    },
-    "radioStations": [
-      {
-        "title": "Antyradio",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5"
-      }
-    ]
-  },
+ 
   {
     "name": "Polskie Radio 24",
     "coordinates": {
