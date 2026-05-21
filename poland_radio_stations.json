@@ -1587,24 +1587,7 @@
       }
     ]
   },
-  {
-    "name": " Radio ZET Chilli ",
-    "coordinates": {
-      "lat": 52.285126,
-      "lon": 20.9802
-    },
-    "radioStations": [
-      {
-        "title": " Radio ZET Chilli ",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ch.cdn.eurozet.pl/chi-net.mp3"
-      }
-    ]
-  },
+ 
   {
     "name": "ESKA - Gorąca 20",
     "coordinates": {
