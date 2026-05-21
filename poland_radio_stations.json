@@ -215,24 +215,7 @@
       }
     ]
   },
-  {
-    "name": "TOK FM",
-    "coordinates": {
-      "lat": 52.244735,
-      "lon": 21.017672
-    },
-    "radioStations": [
-      {
-        "title": "TOK FM",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://static.im-g.pl/im/6/7455/m7455556.gif",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiostream.pl/tuba10-1.mp3#TOK_FM"
-      }
-    ]
-  },
+  
   {
     "name": "Radio 357",
     "coordinates": {
@@ -701,24 +684,7 @@
       }
     ]
   },
-  {
-    "name": "Radioparty.pl Energy 2000 AAC+",
-    "coordinates": {
-      "lat": 52.218755,
-      "lon": 20.98213
-    },
-    "radioStations": [
-      {
-        "title": "Radioparty.pl Energy 2000 AAC+",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioparty.pl//favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://s2.radioparty.pl:8040/energy2000"
-      }
-    ]
-  },
+
   {
     "name": "Wnet.fm",
     "coordinates": {
@@ -845,24 +811,7 @@
       }
     ]
   },
-  {
-    "name": "VOX FM 128",
-    "coordinates": {
-      "lat": 52.197966,
-      "lon": 20.98785
-    },
-    "radioStations": [
-      {
-        "title": "VOX FM 128",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://voxfm.pl/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ic2.smcdn.pl/3990-1.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Polskie Radio Katowice",
     "coordinates": {
@@ -2087,24 +2036,7 @@
       }
     ]
   },
-  {
-    "name": "Radioparty.pl Trance Party",
-    "coordinates": {
-      "lat": 52.250406,
-      "lon": 20.934926
-    },
-    "radioStations": [
-      {
-        "title": "Radioparty.pl Trance Party",
-        "subtitle": "Wieliczka",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://radioparty.pl//favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://trance.radioparty.pl:8015/"
-      }
-    ]
-  },
+ 
   {
     "name": "Radio Warszawa 106.2",
     "coordinates": {
@@ -2501,24 +2433,7 @@
       }
     ]
   },
-  {
-    "name": "Zloteprzeboje",
-    "coordinates": {
-      "lat": 52.291408,
-      "lon": 21.08574
-    },
-    "radioStations": [
-      {
-        "title": "Zloteprzeboje",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://zloteprzeboje.pl/wp-content/uploads/2022/06/zp-logo-normal-color.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiostream.pl/tuba8904-1.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Chilli ZET Deep",
     "coordinates": {
@@ -2645,24 +2560,7 @@
       }
     ]
   },
-  {
-    "name": "SmoothJazz.com.pl 192k aac+",
-    "coordinates": {
-      "lat": 52.269499,
-      "lon": 20.916117
-    },
-    "radioStations": [
-      {
-        "title": "SmoothJazz.com.pl 192k aac+",
-        "subtitle": "Pomorskie",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Centrum Lublin",
     "coordinates": {
@@ -2789,24 +2687,7 @@
       }
     ]
   },
-  {
-    "name": "VOX FM 128kbps",
-    "coordinates": {
-      "lat": 52.318556,
-      "lon": 21.080381
-    },
-    "radioStations": [
-      {
-        "title": "VOX FM 128kbps",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.voxfm.pl/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm"
-      }
-    ]
-  },
+  
   {
     "name": "PR24",
     "coordinates": {
@@ -3545,24 +3426,7 @@
       }
     ]
   },
-  {
-    "name": "RMF Hip Hop + FAKTY",
-    "coordinates": {
-      "lat": 50.091724,
-      "lon": 19.974491
-    },
-    "radioStations": [
-      {
-        "title": "RMF Hip Hop + FAKTY",
-        "subtitle": "Krakow",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://195.150.20.8/HIPHOPF"
-      }
-    ]
-  },
+  
   {
     "name": "RMF Depeche Mode + FAKTY",
     "coordinates": {
@@ -4157,24 +4021,7 @@
       }
     ]
   },
-  {
-    "name": "RMF FM 128 Kbps",
-    "coordinates": {
-      "lat": 50.021197,
-      "lon": 19.924714
-    },
-    "radioStations": [
-      {
-        "title": "RMF FM 128 Kbps",
-        "subtitle": "Kraków",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.postimg.cc/9FVktSTL/rmf-fm-cc5c0df7.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rs101-krk.rmfstream.pl/rmf_fm"
-      }
-    ]
-  },
+  
   {
     "name": "RMF 2 Pop",
     "coordinates": {
@@ -4517,24 +4364,7 @@
       }
     ]
   },
-  {
-    "name": "radio",
-    "coordinates": {
-      "lat": 52.121712,
-      "lon": 20.883505
-    },
-    "radioStations": [
-      {
-        "title": "radio",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://teoriachaosu.info/wp-content/plugins/under-construction-page/themes/images/favicon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://c16.radioboss.fm:18014/stream"
-      }
-    ]
-  },
+  
   {
     "name": "Hitradio",
     "coordinates": {
@@ -4859,24 +4689,7 @@
       }
     ]
   },
-  {
-    "name": "Rock Radio Klasyka Rocka",
-    "coordinates": {
-      "lat": 52.105391,
-      "lon": 21.147859
-    },
-    "radioStations": [
-      {
-        "title": "Rock Radio Klasyka Rocka",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://static.im-g.pl/im/7/24937/m24937627.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Kielce",
     "coordinates": {
@@ -5561,24 +5374,7 @@
       }
     ]
   },
-  {
-    "name": "SmoothJazz.com.pl 64k aac+",
-    "coordinates": {
-      "lat": 52.409833,
-      "lon": 20.9082
-    },
-    "radioStations": [
-      {
-        "title": "SmoothJazz.com.pl 64k aac+",
-        "subtitle": "Pomorskie",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
-      }
-    ]
-  },
+ 
   {
     "name": "RMF 90s Dance + FAKTY",
     "coordinates": {
@@ -6065,24 +5861,7 @@
       }
     ]
   },
-  {
-    "name": "Zet Radio",
-    "coordinates": {
-      "lat": 52.44404,
-      "lon": 20.923417
-    },
-    "radioStations": [
-      {
-        "title": "Zet Radio",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx"
-      }
-    ]
-  },
+  
   {
     "name": "MojePolskieRadio - Szanty",
     "coordinates": {
@@ -7739,24 +7518,7 @@
       }
     ]
   },
-  {
-    "name": "trap",
-    "coordinates": {
-      "lat": 51.938197,
-      "lon": 20.9608
-    },
-    "radioStations": [
-      {
-        "title": "trap",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://getradio.reconv.pl/openfm?s=trap-pl"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Safira",
     "coordinates": {
@@ -7883,24 +7645,7 @@
       }
     ]
   },
-  {
-    "name": "Trendy Radio Mobile",
-    "coordinates": {
-      "lat": 52.321115,
-      "lon": 21.30213
-    },
-    "radioStations": [
-      {
-        "title": "Trendy Radio Mobile",
-        "subtitle": "Podkarpacie",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://trendyradio.pl/assets/images/logo.gif",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.trendyradio.pl/m"
-      }
-    ]
-  },
+
   {
     "name": "Radio Mbox - Polska Muzyka",
     "coordinates": {
