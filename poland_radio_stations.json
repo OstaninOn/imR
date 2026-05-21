@@ -4239,24 +4239,7 @@
       }
     ]
   },
-  {
-    "name": "Akademickie Radio Centrum UMCS",
-    "coordinates": {
-      "lat": 51.247197,
-      "lon": 22.56043
-    },
-    "radioStations": [
-      {
-        "title": "Akademickie Radio Centrum UMCS",
-        "subtitle": "Lublin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://5.201.13.191/live"
-      }
-    ]
-  },
+  
   {
     "name": "DiscoParty.pl - Disco Impreza",
     "coordinates": {
