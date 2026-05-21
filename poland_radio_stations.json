@@ -6674,24 +6674,7 @@
       }
     ]
   },
-  {
-    "name": " PR PRZEBOJE PRL ",
-    "coordinates": {
-      "lat": 52.275543,
-      "lon": 20.752211
-    },
-    "radioStations": [
-      {
-        "title": " PR PRZEBOJE PRL ",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250603_134757118.jpg?alt=media&token=8cb43701-9fb1-486a-93cb-1a47406f30e4",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3.polskieradio.pl:8066/;"
-      }
-    ]
-  },
+  
   {
     "name": "Wesołe Slonzoki ",
     "coordinates": {
