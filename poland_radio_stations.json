@@ -5539,7 +5539,7 @@
         "title": "Disco Radio",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/DiscoRadio.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://kiyi.radioca.st:8108/stream"
