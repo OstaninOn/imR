@@ -716,7 +716,7 @@
         "title": "Chilli Zet",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ChilliZet.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://ch.cdn.eurozet.pl/chi-net.mp3"
