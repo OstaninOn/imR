@@ -5917,7 +5917,7 @@
         "title": "BEST Radio (192Kbps)",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://stream.radiobest.eu:8000/logo.jpg",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/BESTRadio.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://stream.radiobest.eu:8000/192"
