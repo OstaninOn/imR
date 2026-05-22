@@ -6906,7 +6906,7 @@
         "title": "Aniol Beskidów",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AniolBeskidów.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://media.aniolbeskidow.pl:22000/aniolbeskidow"
