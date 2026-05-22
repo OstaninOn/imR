@@ -1494,7 +1494,7 @@
         "title": "ESKA - Summer City",
         "subtitle": "Warsaw",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKASummerCity.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://waw.ic.smcdn.pl/6120-1.mp3"
