@@ -2330,24 +2330,7 @@
       }
     ]
   },
-  {
-    "name": "DISCOPARTY.PL - Kanał Club",
-    "coordinates": {
-      "lat": 52.233887,
-      "lon": 20.916291
-    },
-    "radioStations": [
-      {
-        "title": "DISCOPARTY.PL - Kanał Club",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://s3.slotex.pl/shoutcast/7354/stream"
-      }
-    ]
-  },
+  
   
   {
     "name": "Chilli ZET Deep",
@@ -4805,24 +4788,7 @@
       }
     ]
   },
-  {
-    "name": "Radio Disco Party - Disco Impreza",
-    "coordinates": {
-      "lat": 52.295368,
-      "lon": 20.831779
-    },
-    "radioStations": [
-      {
-        "title": "Radio Disco Party - Disco Impreza",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://s3.slotex.pl/shoutcast/7046/stream"
-      }
-    ]
-  },
+  
   {
     "name": "RMF Hot new",
     "coordinates": {
