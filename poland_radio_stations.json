@@ -1175,24 +1175,7 @@
       }
     ]
   },
-  {
-    "name": "Anty Radio",
-    "coordinates": {
-      "lat": 52.275478,
-      "lon": 20.997766
-    },
-    "radioStations": [
-      {
-        "title": "Anty Radio",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/programy/antyradio-ekstra/936460-5-pol-PL/Antyradio-Ekstra_size-70x70.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361"
-      }
-    ]
-  },
+  
   {
     "name": "Polskie Radio Program 3",
     "coordinates": {
@@ -5760,24 +5743,7 @@
     ]
   },
   
-  {
-    "name": "MojePolskieRadio - Szanty",
-    "coordinates": {
-      "lat": 52.131653,
-      "lon": 21.222463
-    },
-    "radioStations": [
-      {
-        "title": "MojePolskieRadio - Szanty",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream3.polskieradio.pl:8120/"
-      }
-    ]
-  },
+  
   {
     "name": "Jazzkultura",
     "coordinates": {
