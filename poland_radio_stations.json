@@ -5881,7 +5881,7 @@
         "title": "Antyradio Warszawa",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioWarszawa.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
