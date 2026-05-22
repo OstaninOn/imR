@@ -210,7 +210,7 @@
         "title": "Radio 357",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radio357.pl/wp-content/uploads/2022/04/c5399c0d-1b8e-43d5-b23b-e5cef1857856.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/357.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0"
@@ -1029,24 +1029,7 @@
       }
     ]
   },
-  {
-    "name": "357",
-    "coordinates": {
-      "lat": 52.221365,
-      "lon": 21.059471
-    },
-    "radioStations": [
-      {
-        "title": "357",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Kampus",
     "coordinates": {
