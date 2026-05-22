@@ -7490,24 +7490,7 @@
       }
     ]
   },
-  {
-    "name": "Radio Aniołek",
-    "coordinates": {
-      "lat": 51.948841,
-      "lon": 21.128536
-    },
-    "radioStations": [
-      {
-        "title": "Radio Aniołek",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.zeno.fm/nvz73r6m7yzuv"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Pielgrzym English",
     "coordinates": {
