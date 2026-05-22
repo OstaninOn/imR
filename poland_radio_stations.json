@@ -6547,7 +6547,7 @@
         "title": "Antyradio Greatest",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/favicon-32x32.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioGreatest.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
