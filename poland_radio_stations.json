@@ -5339,7 +5339,7 @@
         "title": "CYBERStacja",
         "subtitle": "Dolnyśląsk",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/CYBERStacja.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://sc.cyberstacja.pl:8000/radio.mp3"
