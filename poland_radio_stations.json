@@ -2161,7 +2161,7 @@
         "title": "Antyradio Classic Rock",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioClassicRock.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01"
