@@ -595,24 +595,7 @@
       }
     ]
   },
-  {
-    "name": "Radio Italo4you 64kbps",
-    "coordinates": {
-      "lat": 52.199181,
-      "lon": 21.002577
-    },
-    "radioStations": [
-      {
-        "title": "Radio Italo4you 64kbps",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://cdn-radiotime-logos.tunein.com/s98663q.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://s0.radiohost.pl:8018/Italo4you"
-      }
-    ]
-  },
+  
   {
     "name": "Radioparty.pl Vocal Trance",
     "coordinates": {
@@ -3989,24 +3972,7 @@
       }
     ]
   },
-  {
-    "name": "Radio Italo4you",
-    "coordinates": {
-      "lat": 52.297319,
-      "lon": 20.867191
-    },
-    "radioStations": [
-      {
-        "title": "Radio Italo4you",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radioitalo4you.net/images/logo.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ssl-1.radiohost.pl:8018/stream"
-      }
-    ]
-  },
+  
   {
     "name": "RMF 80s Disco + FAKTY",
     "coordinates": {
