@@ -7293,24 +7293,7 @@
       }
     ]
   },
-  {
-    "name": "Białoruskie Radio Racja",
-    "coordinates": {
-      "lat": 52.011466,
-      "lon": 21.212175
-    },
-    "radioStations": [
-      {
-        "title": "Białoruskie Radio Racja",
-        "subtitle": "Podlasie",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://air.racyja.com:8000/racja320"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Slask",
     "coordinates": {
