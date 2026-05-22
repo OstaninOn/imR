@@ -4726,7 +4726,7 @@
         "title": "Damismania Dj Radio",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://damisdjs.forumgreek.com/images/icons-120.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Damismania.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://s1.slotex.pl:7512/"
