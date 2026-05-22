@@ -5865,7 +5865,7 @@
         "title": "Disco Party - Lata 90.",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/DiscoPartyLata90.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://s3.slotex.pl:7170/stream"
