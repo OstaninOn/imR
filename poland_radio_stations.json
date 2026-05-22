@@ -1103,24 +1103,7 @@
       }
     ]
   },
-  {
-    "name": "ESKA - Do Pracy",
-    "coordinates": {
-      "lat": 52.246117,
-      "lon": 20.967095
-    },
-    "radioStations": [
-      {
-        "title": "ESKA - Do Pracy",
-        "subtitle": "Warsaw",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://waw.ic.smcdn.pl/6140-1.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Party - Kanał Główny",
     "coordinates": {
@@ -5016,7 +4999,7 @@
         "title": "ESKA DO PRACY ",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKADOPRACY.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://ic1.smcdn.pl/6140-1.mp3"
