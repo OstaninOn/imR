@@ -7567,24 +7567,7 @@
       }
     ]
   },
-  {
-    "name": "BEST Radio (128Kbps)",
-    "coordinates": {
-      "lat": 52.450317,
-      "lon": 20.791583
-    },
-    "radioStations": [
-      {
-        "title": "BEST Radio (128Kbps)",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://stream.radiobest.eu:8000/logo.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.radiobest.eu:8000/128"
-      }
-    ]
-  },
+
   {
     "name": "13 ESKA 2",
     "coordinates": {
