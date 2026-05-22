@@ -1404,7 +1404,7 @@
         "title": "ESKA IMPRESKA ",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKAIMPRESKA.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://ic1.smcdn.pl/6030-1.mp3"
@@ -4555,24 +4555,7 @@
       }
     ]
   },
-  {
-    "name": "ESKA - Impreska",
-    "coordinates": {
-      "lat": 52.354009,
-      "lon": 21.147859
-    },
-    "radioStations": [
-      {
-        "title": "ESKA - Impreska",
-        "subtitle": "Warsaw",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://ecsmedia.pl/c/impreska-volume-4-w-iext120267303.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://waw.ic.smcdn.pl/6030-1.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "JEDYNKA.PL",
     "coordinates": {
