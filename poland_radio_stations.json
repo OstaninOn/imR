@@ -2974,7 +2974,7 @@
         "title": "Bonton Chełm",
         "subtitle": "Chełm",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Bonton.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://streaming.inten.pl:8022/bonton.mp3"
