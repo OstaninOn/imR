@@ -6545,7 +6545,7 @@
         "title": "Akademickie Radio Luz 91.6",
         "subtitle": "dolnośląskie",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Akademickie.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://stream.radioluz.pl:8000/luz_hifi.mp3"
