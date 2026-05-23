@@ -618,7 +618,8 @@
     {
       "name": "Latvia",
       "name_ru": "Латвия",
-      "flag": "https://flagcdn.com/w320/lv.png"
+      "flag": "https://flagcdn.com/w320/lv.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/latvia_radio_stations.json"
     },
     {
       "name": "Lebanon",
