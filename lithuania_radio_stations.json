@@ -1,0 +1,1730 @@
+[
+  {
+    "name": "Žinių radijas [64 kbps MP3]",
+    "coordinates": {
+      "lat": 55.208792,
+      "lon": 23.929232
+    },
+    "radioStations": [
+      {
+        "title": "Žinių radijas [64 kbps MP3]",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.ziniur.lt/ziniur_64.mp3"
+      }
+    ]
+  },
+  {
+    "name": "M-1 Plius",
+    "coordinates": {
+      "lat": 55.679054,
+      "lon": 24.182151
+    },
+    "radioStations": [
+      {
+        "title": "M-1 Plius",
+        "subtitle": "Vilniaus m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.m-1.fm/m1plius/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laluna [MP3]",
+    "coordinates": {
+      "lat": 55.882298,
+      "lon": 24.972842
+    },
+    "radioStations": [
+      {
+        "title": "Laluna [MP3]",
+        "subtitle": "Klaipėdos m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://laluna.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.m-1.fm/laluna/mp3"
+      }
+    ]
+  },
+  {
+    "name": "RELAX FM Lietuva",
+    "coordinates": {
+      "lat": 55.371479,
+      "lon": 25.393808
+    },
+    "radioStations": [
+      {
+        "title": "RELAX FM Lietuva",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.relaxfm.lt/relaxfm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Easy FM",
+    "coordinates": {
+      "lat": 55.564169,
+      "lon": 23.736281
+    },
+    "radioStations": [
+      {
+        "title": "Easy FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.ziniur.lt/easyfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ZipFM",
+    "coordinates": {
+      "lat": 56.48899,
+      "lon": 23.758557
+    },
+    "radioStations": [
+      {
+        "title": "ZipFM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.zipfm.lt/zipfm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Žinių Radijas",
+    "coordinates": {
+      "lat": 55.154173,
+      "lon": 25.544985
+    },
+    "radioStations": [
+      {
+        "title": "Žinių Radijas",
+        "subtitle": "Vilniaus m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.ziniur.lt:8000/ziniur.mp3"
+      }
+    ]
+  },
+  {
+    "name": "M-1 Dance",
+    "coordinates": {
+      "lat": 54.863065,
+      "lon": 23.256127
+    },
+    "radioStations": [
+      {
+        "title": "M-1 Dance",
+        "subtitle": "Vilniaus m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.m-1.fm/m-1dance/aac"
+      }
+    ]
+  },
+  {
+    "name": "Radiocentras",
+    "coordinates": {
+      "lat": 56.360295,
+      "lon": 23.618162
+    },
+    "radioStations": [
+      {
+        "title": "Radiocentras",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.rc.lt/rc128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио Лента stream 2",
+    "coordinates": {
+      "lat": 55.200368,
+      "lon": 23.429675
+    },
+    "radioStations": [
+      {
+        "title": "Радио Лента stream 2",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.broadcastrd.com/audio/radio-lenta.mp3"
+      }
+    ]
+  },
+  {
+    "name": "M-1 [AAC]",
+    "coordinates": {
+      "lat": 56.006799,
+      "lon": 23.397305
+    },
+    "radioStations": [
+      {
+        "title": "M-1 [AAC]",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.m-1.fm/M-1aacp"
+      }
+    ]
+  },
+  {
+    "name": "Радио Сигнал",
+    "coordinates": {
+      "lat": 54.900909,
+      "lon": 25.991769
+    },
+    "radioStations": [
+      {
+        "title": "Радио Сигнал",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3"
+      }
+    ]
+  },
+  {
+    "name": "m-1",
+    "coordinates": {
+      "lat": 55.333449,
+      "lon": 23.840634
+    },
+    "radioStations": [
+      {
+        "title": "m-1",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.m-1.fm/lietus/MP3320"
+      }
+    ]
+  },
+  {
+    "name": "RADIO R",
+    "coordinates": {
+      "lat": 54.6942,
+      "lon": 25.2797
+    },
+    "radioStations": [
+      {
+        "title": "RADIO R",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.rusradio.lt/rrb128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laluna [AAC]",
+    "coordinates": {
+      "lat": 55.998534,
+      "lon": 24.995736
+    },
+    "radioStations": [
+      {
+        "title": "Laluna [AAC]",
+        "subtitle": "Klaipėdos m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://laluna.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.m-1.fm/laluna/high"
+      }
+    ]
+  },
+  {
+    "name": "Start FM 94.2 MHz Vilnius [MP3]",
+    "coordinates": {
+      "lat": 54.682039,
+      "lon": 25.284429
+    },
+    "radioStations": [
+      {
+        "title": "Start FM 94.2 MHz Vilnius [MP3]",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eteris.startfm.lt/startfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MANO FM",
+    "coordinates": {
+      "lat": 55.553428,
+      "lon": 26.431762
+    },
+    "radioStations": [
+      {
+        "title": "MANO FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://klausyk.manofm.lt:8000/Icecast2"
+      }
+    ]
+  },
+  {
+    "name": "Radijo stotis Lietus",
+    "coordinates": {
+      "lat": 55.746721,
+      "lon": 23.310074
+    },
+    "radioStations": [
+      {
+        "title": "Radijo stotis Lietus",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.m-1.fm/LIETUS"
+      }
+    ]
+  },
+  {
+    "name": "Palanga Street Radio",
+    "coordinates": {
+      "lat": 54.68781,
+      "lon": 25.272727
+    },
+    "radioStations": [
+      {
+        "title": "Palanga Street Radio",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://palanga.live/assets/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.palanga.live:8443/palanga128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Marijos radijas",
+    "coordinates": {
+      "lat": 54.785549,
+      "lon": 24.359396
+    },
+    "radioStations": [
+      {
+        "title": "Marijos radijas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock FM",
+    "coordinates": {
+      "lat": 55.226369,
+      "lon": 22.930507
+    },
+    "radioStations": [
+      {
+        "title": "Rock FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rockfm.lt/wp-content/uploads/2024/11/logo-fav-100x100.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.rockfm.lt/crf128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vaikų radijas",
+    "coordinates": {
+      "lat": 54.631203,
+      "lon": 24.670109
+    },
+    "radioStations": [
+      {
+        "title": "Vaikų radijas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.vaikuradijas.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://88.119.151.74:8001/vaikuradijas"
+      }
+    ]
+  },
+  {
+    "name": "Super FM",
+    "coordinates": {
+      "lat": 55.583929,
+      "lon": 25.541503
+    },
+    "radioStations": [
+      {
+        "title": "Super FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.superfmradio.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://82.140.131.217:8000/superfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mažeikių Aidas",
+    "coordinates": {
+      "lat": 55.187473,
+      "lon": 25.470439
+    },
+    "radioStations": [
+      {
+        "title": "Mažeikių Aidas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://maidas.kli.lt:8000/admin.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tauragės radijas",
+    "coordinates": {
+      "lat": 55.2576,
+      "lon": 22.2891
+    },
+    "radioStations": [
+      {
+        "title": "Tauragės radijas",
+        "subtitle": "Tauragė",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://tauragesradijas.lt/images/120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.tauragesradijas.lt:8000/tr1"
+      }
+    ]
+  },
+  {
+    "name": "pmr.lt - world music radio",
+    "coordinates": {
+      "lat": 55.812763,
+      "lon": 22.717991
+    },
+    "radioStations": [
+      {
+        "title": "pmr.lt - world music radio",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pmr.lt/favicons/favicon-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://pmr.lt/streams/pmr-1"
+      }
+    ]
+  },
+  {
+    "name": "XFM Radijas",
+    "coordinates": {
+      "lat": 55.7153,
+      "lon": 23.298479
+    },
+    "radioStations": [
+      {
+        "title": "XFM Radijas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://xfm.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://88.119.151.74:8001/xfm"
+      }
+    ]
+  },
+  {
+    "name": "Tau",
+    "coordinates": {
+      "lat": 55.084814,
+      "lon": 24.566801
+    },
+    "radioStations": [
+      {
+        "title": "Tau",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radijas.tau.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio",
+    "coordinates": {
+      "lat": 55.197412,
+      "lon": 24.10395
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio",
+        "subtitle": "Vilniaus m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n08.radiojar.com/d9cm273ystzuv"
+      }
+    ]
+  },
+  {
+    "name": "Neringa FM",
+    "coordinates": {
+      "lat": 54.844371,
+      "lon": 23.851359
+    },
+    "radioStations": [
+      {
+        "title": "Neringa FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.15min.lt:8000/neringafm"
+      }
+    ]
+  },
+  {
+    "name": "Saules radijas",
+    "coordinates": {
+      "lat": 56.27283,
+      "lon": 22.771359
+    },
+    "radioStations": [
+      {
+        "title": "Saules radijas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://saulesradijas.lt/wp-content/themes/sr/img/icons/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://saule-aac.vinlita.lt:8000/stream.aac"
+      }
+    ]
+  },
+  {
+    "name": "MANO FM LT",
+    "coordinates": {
+      "lat": 54.988389,
+      "lon": 23.115521
+    },
+    "radioStations": [
+      {
+        "title": "MANO FM LT",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.manofm.lt/listen?"
+      }
+    ]
+  },
+  {
+    "name": "Pulsas",
+    "coordinates": {
+      "lat": 55.10246,
+      "lon": 23.173459
+    },
+    "radioStations": [
+      {
+        "title": "Pulsas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://pulsas.lt/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio stotis Laluna",
+    "coordinates": {
+      "lat": 55.591434,
+      "lon": 24.420412
+    },
+    "radioStations": [
+      {
+        "title": "Radio stotis Laluna",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.laluna.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.m-1.fm/laluna/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gold FM",
+    "coordinates": {
+      "lat": 55.36739,
+      "lon": 23.576021
+    },
+    "radioStations": [
+      {
+        "title": "Gold FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.goldfm.lt/goldfm.aac"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio",
+    "coordinates": {
+      "lat": 54.5802,
+      "lon": 25.24831
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://65.21.202.84:8026/stream"
+      }
+    ]
+  },
+  {
+    "name": "Power Hit Radio LT",
+    "coordinates": {
+      "lat": 56.187363,
+      "lon": 22.642662
+    },
+    "radioStations": [
+      {
+        "title": "Power Hit Radio LT",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.leviracloud.eu/phr192-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sol fm",
+    "coordinates": {
+      "lat": 54.611311,
+      "lon": 23.325118
+    },
+    "radioStations": [
+      {
+        "title": "Sol fm",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiosolfm.bounceme.net:8002/solfm"
+      }
+    ]
+  },
+  {
+    "name": "Mano",
+    "coordinates": {
+      "lat": 54.9055,
+      "lon": 23.9036
+    },
+    "radioStations": [
+      {
+        "title": "Mano",
+        "subtitle": "Kaunas",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://klausyk.manofm.lt:8000/Icecast2"
+      }
+    ]
+  },
+  {
+    "name": "Kapsai",
+    "coordinates": {
+      "lat": 56.062834,
+      "lon": 24.378924
+    },
+    "radioStations": [
+      {
+        "title": "Kapsai",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.211.246.42:8000/Kapsai-HD"
+      }
+    ]
+  },
+  {
+    "name": "Vilnius fm",
+    "coordinates": {
+      "lat": 54.691461,
+      "lon": 25.285253
+    },
+    "radioStations": [
+      {
+        "title": "Vilnius fm",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vilniusfm.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.vilniusfm.lt/stream"
+      }
+    ]
+  },
+  {
+    "name": "Mazeikiai FM",
+    "coordinates": {
+      "lat": 56.3169,
+      "lon": 22.3408
+    },
+    "radioStations": [
+      {
+        "title": "Mazeikiai FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.211.246.42:8000/Mazeikiai"
+      }
+    ]
+  },
+  {
+    "name": "Radio LaLuna",
+    "coordinates": {
+      "lat": 54.881965,
+      "lon": 26.185273
+    },
+    "radioStations": [
+      {
+        "title": "Radio LaLuna",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://laluna.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.m-1.fm/laluna/high"
+      }
+    ]
+  },
+  {
+    "name": "-=PoWeR=-",
+    "coordinates": {
+      "lat": 55.786811,
+      "lon": 22.810679
+    },
+    "radioStations": [
+      {
+        "title": "-=PoWeR=-",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast1.my-control-panel.com/proxy/eventas/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Fiesta",
+    "coordinates": {
+      "lat": 54.885243,
+      "lon": 25.425156
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fiesta",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofiesta.lt/wp-content/uploads/2023/02/RadioFiesta-logo-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.radiofiesta.lt/rfs128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "LRT Opus",
+    "coordinates": {
+      "lat": 54.80125,
+      "lon": 26.052044
+    },
+    "radioStations": [
+      {
+        "title": "LRT Opus",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lrt.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-live.lrt.lt/opus/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Cold Tear Radio",
+    "coordinates": {
+      "lat": 54.680306,
+      "lon": 25.278484
+    },
+    "radioStations": [
+      {
+        "title": "Cold Tear Radio",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://th.bing.com/th/id/OIP.0bD3EllJGSWsRQhdkQGuygHaL9?pid=ImgDet",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3"
+      }
+    ]
+  },
+  {
+    "name": "European Hit Radio",
+    "coordinates": {
+      "lat": 56.261113,
+      "lon": 25.611545
+    },
+    "radioStations": [
+      {
+        "title": "European Hit Radio",
+        "subtitle": "Vilniaus m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.ehr.lt:8443/ehr"
+      }
+    ]
+  },
+  {
+    "name": "Geras FM",
+    "coordinates": {
+      "lat": 55.753343,
+      "lon": 24.100799
+    },
+    "radioStations": [
+      {
+        "title": "Geras FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.goldfm.lt/gerasfm.aac"
+      }
+    ]
+  },
+  {
+    "name": "TOPFM",
+    "coordinates": {
+      "lat": 54.730873,
+      "lon": 23.947257
+    },
+    "radioStations": [
+      {
+        "title": "TOPFM",
+        "subtitle": "Klaipėdos m.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://topfm.lt/img/tamsus.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.topfm.lt/listen/topfm/topfm-320"
+      }
+    ]
+  },
+  {
+    "name": "Tavo Balsas LT",
+    "coordinates": {
+      "lat": 54.832852,
+      "lon": 24.448863
+    },
+    "radioStations": [
+      {
+        "title": "Tavo Balsas LT",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c18.radioboss.fm:8529/stream"
+      }
+    ]
+  },
+  {
+    "name": "LRT Radijas",
+    "coordinates": {
+      "lat": 56.342979,
+      "lon": 24.473577
+    },
+    "radioStations": [
+      {
+        "title": "LRT Radijas",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lrt.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-live.lrt.lt/radijas/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "PMR",
+    "coordinates": {
+      "lat": 54.836419,
+      "lon": 23.681961
+    },
+    "radioStations": [
+      {
+        "title": "PMR",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pmr.lt/favicons/favicon-194x194.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://pmr.lt/streams/pmr-1"
+      }
+    ]
+  },
+  {
+    "name": "Zip FM is Kasetes",
+    "coordinates": {
+      "lat": 54.693104,
+      "lon": 25.275939
+    },
+    "radioStations": [
+      {
+        "title": "Zip FM is Kasetes",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klausyk.radijas.lt/listen/is-kasetes/live"
+      }
+    ]
+  },
+  {
+    "name": "Fred Film Radio-24 lietuvių kalba",
+    "coordinates": {
+      "lat": 56.119863,
+      "lon": 24.945997
+    },
+    "radioStations": [
+      {
+        "title": "Fred Film Radio-24 lietuvių kalba",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tauragės Radijas 98.2 FM",
+    "coordinates": {
+      "lat": 55.245439,
+      "lon": 22.293829
+    },
+    "radioStations": [
+      {
+        "title": "Tauragės Radijas 98.2 FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.tauragesradijas.lt:8000/tr1"
+      }
+    ]
+  },
+  {
+    "name": "TopFm.lt",
+    "coordinates": {
+      "lat": 54.685388,
+      "lon": 25.286461
+    },
+    "radioStations": [
+      {
+        "title": "TopFm.lt",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.topfm.lt/listen/topfm/topfm-320"
+      }
+    ]
+  },
+  {
+    "name": "Power LT",
+    "coordinates": {
+      "lat": 54.683968,
+      "lon": 25.273491
+    },
+    "radioStations": [
+      {
+        "title": "Power LT",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast1.my-control-panel.com:8527/;"
+      }
+    ]
+  },
+  {
+    "name": "Radijo Musikii",
+    "coordinates": {
+      "lat": 54.828363,
+      "lon": 24.822986
+    },
+    "radioStations": [
+      {
+        "title": "Radijo Musikii",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radijo-musikii.net/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "X-RADIO",
+    "coordinates": {
+      "lat": 54.82548,
+      "lon": 26.146933
+    },
+    "radioStations": [
+      {
+        "title": "X-RADIO",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://185.8.60.5:8000/;"
+      }
+    ]
+  },
+  {
+    "name": "lsg radijas",
+    "coordinates": {
+      "lat": 54.700356,
+      "lon": 25.284488
+    },
+    "radioStations": [
+      {
+        "title": "lsg radijas",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9"
+      }
+    ]
+  },
+  {
+    "name": "Saules Radijas LT",
+    "coordinates": {
+      "lat": 55.325074,
+      "lon": 26.03341
+    },
+    "radioStations": [
+      {
+        "title": "Saules Radijas LT",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://saule-mp3.vinlita.lt:8008/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 56.237483,
+      "lon": 22.89402
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Relax FM 100 Hitu",
+    "coordinates": {
+      "lat": 54.674266,
+      "lon": 25.285058
+    },
+    "radioStations": [
+      {
+        "title": "Relax FM 100 Hitu",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klausyk.radijas.lt/listen/100hitu/live"
+      }
+    ]
+  },
+  {
+    "name": "Kelyje Kaunas",
+    "coordinates": {
+      "lat": 54.893339,
+      "lon": 23.908329
+    },
+    "radioStations": [
+      {
+        "title": "Kelyje Kaunas",
+        "subtitle": "Kaunas ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.95.45.82:8014/stream"
+      }
+    ]
+  },
+  {
+    "name": "Relax FM Sentimentai",
+    "coordinates": {
+      "lat": 55.27352,
+      "lon": 23.391589
+    },
+    "radioStations": [
+      {
+        "title": "Relax FM Sentimentai",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klausyk.radijas.lt/listen/sentimentai/live"
+      }
+    ]
+  },
+  {
+    "name": "Pukas Lt",
+    "coordinates": {
+      "lat": 54.693117,
+      "lon": 25.267012
+    },
+    "radioStations": [
+      {
+        "title": "Pukas Lt",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.95.45.82:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Радио Свободынх Народов",
+    "coordinates": {
+      "lat": 55.447074,
+      "lon": 24.221405
+    },
+    "radioStations": [
+      {
+        "title": "Радио Свободынх Народов",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250"
+      }
+    ]
+  },
+  {
+    "name": "Leproradio",
+    "coordinates": {
+      "lat": 54.721114,
+      "lon": 23.75197
+    },
+    "radioStations": [
+      {
+        "title": "Leproradio",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://leproradio.com/static/img/icon90.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.leproradio.com/bender.ogg"
+      }
+    ]
+  },
+  {
+    "name": "LRT Klasika",
+    "coordinates": {
+      "lat": 55.157189,
+      "lon": 23.603094
+    },
+    "radioStations": [
+      {
+        "title": "LRT Klasika",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lrt.lt/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-live.lrt.lt/klasika/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Fréquence Protestante",
+    "coordinates": {
+      "lat": 55.574269,
+      "lon": 25.388011
+    },
+    "radioStations": [
+      {
+        "title": "Fréquence Protestante",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://frequenceprotestante.com/wp-content/uploads/2022/01/icon_player.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://freqpro.streamakaci.com/frequenceprotestante.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Utenos Radijas",
+    "coordinates": {
+      "lat": 55.5056,
+      "lon": 25.6031
+    },
+    "radioStations": [
+      {
+        "title": "Utenos Radijas",
+        "subtitle": "Utena ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gyvai.ursrv.eu/stream"
+      }
+    ]
+  },
+  {
+    "name": "Patejago",
+    "coordinates": {
+      "lat": 54.539636,
+      "lon": 23.09664
+    },
+    "radioStations": [
+      {
+        "title": "Patejago",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-46.zeno.fm/f6m1zbud5p8uv"
+      }
+    ]
+  },
+  {
+    "name": "Kelyje Klaipėda",
+    "coordinates": {
+      "lat": 55.7103,
+      "lon": 21.1443
+    },
+    "radioStations": [
+      {
+        "title": "Kelyje Klaipėda",
+        "subtitle": "Klaipėda ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.95.45.82:8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "Geras2 FM",
+    "coordinates": {
+      "lat": 54.69141,
+      "lon": 25.293052
+    },
+    "radioStations": [
+      {
+        "title": "Geras2 FM",
+        "subtitle": "Vilnius ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.goldfm.lt/gerasfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Audiomastering.lt",
+    "coordinates": {
+      "lat": 55.033085,
+      "lon": 23.249032
+    },
+    "radioStations": [
+      {
+        "title": "Audiomastering.lt",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.audiomastering.lt:8000/hq"
+      }
+    ]
+  },
+  {
+    "name": "Relax FM Senti",
+    "coordinates": {
+      "lat": 54.675076,
+      "lon": 25.2727
+    },
+    "radioStations": [
+      {
+        "title": "Relax FM Senti",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klausyk.radijas.lt/listen/sentimentai/live"
+      }
+    ]
+  },
+  {
+    "name": "KAB Radio",
+    "coordinates": {
+      "lat": 54.700868,
+      "lon": 25.27667
+    },
+    "radioStations": [
+      {
+        "title": "KAB Radio",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://node-25.zeno.fm/29xtapvkzhhvv"
+      }
+    ]
+  },
+  {
+    "name": "thisislit",
+    "coordinates": {
+      "lat": 55.9419,
+      "lon": 23.3137
+    },
+    "radioStations": [
+      {
+        "title": "thisislit",
+        "subtitle": "Šiauliai",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://litradio.org/static/uploads/browser_icon/192.1769443347.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://litradio.org/listen/thisislit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Puko Radijas",
+    "coordinates": {
+      "lat": 54.89911,
+      "lon": 23.896627
+    },
+    "radioStations": [
+      {
+        "title": "Puko Radijas",
+        "subtitle": "Kaunas ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.95.45.82:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio RU",
+    "coordinates": {
+      "lat": 54.67917,
+      "lon": 25.291168
+    },
+    "radioStations": [
+      {
+        "title": "Radio RU",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.rusradio.lt/rrb128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DomantasFM",
+    "coordinates": {
+      "lat": 55.929739,
+      "lon": 23.318429
+    },
+    "radioStations": [
+      {
+        "title": "DomantasFM",
+        "subtitle": "Šiauliai",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.domkutis.com/listen/domantasfm/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mantinho Dance Pulse FM",
+    "coordinates": {
+      "lat": 55.709007,
+      "lon": 25.101824
+    },
+    "radioStations": [
+      {
+        "title": "Mantinho Dance Pulse FM",
+        "subtitle": "Lithuania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mantinhodancepulsefm.com/wp-content/uploads/2020/06/download.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac"
+      }
+    ]
+  },
+  {
+    "name": "Relax FM",
+    "coordinates": {
+      "lat": 54.685373,
+      "lon": 25.26582
+    },
+    "radioStations": [
+      {
+        "title": "Relax FM",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiocentras.lt:8000/relax128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Power Hit Radio",
+    "coordinates": {
+      "lat": 54.703287,
+      "lon": 25.293199
+    },
+    "radioStations": [
+      {
+        "title": "Power Hit Radio",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://powerhitradio.tv3.lt/phr_live/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Pūkas",
+    "coordinates": {
+      "lat": 54.66622,
+      "lon": 25.280616
+    },
+    "radioStations": [
+      {
+        "title": "Pūkas",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.15min.lt/pukas-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lietus",
+    "coordinates": {
+      "lat": 54.702049,
+      "lon": 25.264851
+    },
+    "radioStations": [
+      {
+        "title": "Lietus",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.grupemazeikiai.lt:8000/lietus.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laluna",
+    "coordinates": {
+      "lat": 54.686284,
+      "lon": 25.30068
+    },
+    "radioStations": [
+      {
+        "title": "Laluna",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.viastreaming.net:9020/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jazz FM",
+    "coordinates": {
+      "lat": 54.673701,
+      "lon": 25.263613
+    },
+    "radioStations": [
+      {
+        "title": "Jazz FM",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://jazzfm.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "XFM",
+    "coordinates": {
+      "lat": 54.70802,
+      "lon": 25.282441
+    },
+    "radioStations": [
+      {
+        "title": "XFM",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://xfm.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radijas Kelyje",
+    "coordinates": {
+      "lat": 54.669998,
+      "lon": 25.291745
+    },
+    "radioStations": [
+      {
+        "title": "Radijas Kelyje",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.kelyjefm.lt:8000/128"
+      }
+    ]
+  },
+  {
+    "name": "Raduga",
+    "coordinates": {
+      "lat": 54.691745,
+      "lon": 25.259198
+    },
+    "radioStations": [
+      {
+        "title": "Raduga",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://raduga.lt:8000/raduga.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nano Radijas",
+    "coordinates": {
+      "lat": 54.902761,
+      "lon": 23.909153
+    },
+    "radioStations": [
+      {
+        "title": "Nano Radijas",
+        "subtitle": "Kaunas",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nano.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Extra FM",
+    "coordinates": {
+      "lat": 54.7012,
+      "lon": 25.303949
+    },
+    "radioStations": [
+      {
+        "title": "Extra FM",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://extrafm.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tau FM",
+    "coordinates": {
+      "lat": 55.93551,
+      "lon": 23.306727
+    },
+    "radioStations": [
+      {
+        "title": "Tau FM",
+        "subtitle": "Šiauliai",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://taufm.lt:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radijo Gold",
+    "coordinates": {
+      "lat": 54.660496,
+      "lon": 25.27128
+    },
+    "radioStations": [
+      {
+        "title": "Radijo Gold",
+        "subtitle": "Vilnius",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiojogold.lt:8000/stream"
+      }
+    ]
+  }
+]
