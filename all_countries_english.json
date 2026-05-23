@@ -648,7 +648,7 @@
     {
       "name": "Lithuania",
       "name_ru": "Литва",
-      "flag": "https://flagcdn.com/w320/lt.png"
+      "flag": "https://flagcdn.com/w320/lt.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/lithuania_radio_stations.json"  
     },
     {
