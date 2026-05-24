@@ -5415,7 +5415,7 @@
         "title": "EL-Stacja HQ",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://el-stacja.pl/assets/img/favicon.ico",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ELStacjaHQ.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://radio.el-stacja.pl:8000/elstacja320mp3"
