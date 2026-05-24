@@ -1531,7 +1531,7 @@
         "title": "ESKA - Gorąca 20",
         "subtitle": "Warsaw",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/favicon.ico",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKAGoraga20.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://waw.ic.smcdn.pl/6130-1.mp3"
