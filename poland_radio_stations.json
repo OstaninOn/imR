@@ -3883,24 +3883,7 @@
       }
     ]
   },
-  {
-    "name": "Polskie Radio Białystok",
-    "coordinates": {
-      "lat": 52.324265,
-      "lon": 20.863763
-    },
-    "radioStations": [
-      {
-        "title": "Polskie Radio Białystok",
-        "subtitle": "Podlasie",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream4.nadaje.com:15476/radiobialystok"
-      }
-    ]
-  },
+  
   {
     "name": "RMF Chopin + FAKTY",
     "coordinates": {
