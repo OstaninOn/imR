@@ -672,24 +672,7 @@
       }
     ]
   },
-  {
-    "name": "Eska Wrocław",
-    "coordinates": {
-      "lat": 51.1159,
-      "lon": 17.0385
-    },
-    "radioStations": [
-      {
-        "title": "Eska Wrocław",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+  
   {
     "name": "Radioparty.pl",
     "coordinates": {
@@ -1060,24 +1043,7 @@
     ]
   },
   
-  {
-    "name": "ESKA Łódź",
-    "coordinates": {
-      "lat": 51.7672,
-      "lon": 19.456
-    },
-    "radioStations": [
-      {
-        "title": "ESKA Łódź",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://images.app.goo.gl/gbW7KM9ZVvTmnMvr6",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2100-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+ 
   {
     "name": "Radio Złote Przeboje Białystok",
     "coordinates": {
@@ -1297,24 +1263,7 @@
       }
     ]
   },
-  {
-    "name": "ESKA POZNAŃ ",
-    "coordinates": {
-      "lat": 52.407097,
-      "lon": 16.91723
-    },
-    "radioStations": [
-      {
-        "title": "ESKA POZNAŃ ",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_150439740.jpg?alt=media&token=879bb2b7-8416-4957-b2dd-4bcdc67e6898",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ic2.smcdn.pl/2140-1.aac"
-      }
-    ]
-  },
+  
  
   {
     "name": "ESKA - Gorąca 20",
@@ -1500,24 +1449,7 @@
       }
     ]
   },
-  {
-    "name": "Eska Śląskie",
-    "coordinates": {
-      "lat": 52.223425,
-      "lon": 20.940474
-    },
-    "radioStations": [
-      {
-        "title": "Eska Śląskie",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/media/eska/desktop/images/logo-ESKA2023.svg?nocache",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/timeradio-p/2220-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+  
   {
     "name": "RMF 70s",
     "coordinates": {
@@ -1610,24 +1542,7 @@
       }
     ]
   },
-  {
-    "name": "EskaROCK",
-    "coordinates": {
-      "lat": 52.162229,
-      "lon": 21.055184
-    },
-    "radioStations": [
-      {
-        "title": "EskaROCK",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eskarock.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+ 
  
   {
     "name": "Radio Warszawa 106.2",
@@ -2286,24 +2201,7 @@
       }
     ]
   },
-  {
-    "name": "Eska Trójmiasto",
-    "coordinates": {
-      "lat": 52.341274,
-      "lon": 21.021961
-    },
-    "radioStations": [
-      {
-        "title": "Eska Trójmiasto",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+  
   {
     "name": "RMF Koledy",
     "coordinates": {
@@ -3194,24 +3092,7 @@
       }
     ]
   },
-  {
-    "name": "ESKA2 POLSKIE NA CZASIE ",
-    "coordinates": {
-      "lat": 52.242948,
-      "lon": 20.860778
-    },
-    "radioStations": [
-      {
-        "title": "ESKA2 POLSKIE NA CZASIE ",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240117_102831913.jpg?alt=media&token=c871a44d-bea5-4b1c-9371-30a1913d8720",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+  
   {
     "name": "Antyradio Made In Poland",
     "coordinates": {
@@ -3757,24 +3638,7 @@
       }
     ]
   },
-  {
-    "name": "Eska - Rzeszów",
-    "coordinates": {
-      "lat": 50.04607,
-      "lon": 22.005447
-    },
-    "radioStations": [
-      {
-        "title": "Eska - Rzeszów",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ic1.smcdn.pl/2240-1.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Jedynka",
     "coordinates": {
@@ -3978,24 +3842,7 @@
       }
     ]
   },
-  {
-    "name": "Eska zamość 128",
-    "coordinates": {
-      "lat": 52.375677,
-      "lon": 20.900188
-    },
-    "radioStations": [
-      {
-        "title": "Eska zamość 128",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ic2.smcdn.pl/2230-1.mp3"
-      }
-    ]
-  },
+ 
   {
     "name": "Radio Koszalin",
     "coordinates": {
@@ -4413,24 +4260,7 @@
       }
     ]
   },
-  {
-    "name": "Radio Eska 2 Kultowe Polskie",
-    "coordinates": {
-      "lat": 51.105829,
-      "lon": 17.046227
-    },
-    "radioStations": [
-      {
-        "title": "Radio Eska 2 Kultowe Polskie",
-        "subtitle": "Wrocław",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://waw.ic.smcdn.pl/6040-1.aac"
-      }
-    ]
-  },
+  
   {
     "name": "RMF Muzyka Klasyczna",
     "coordinates": {
@@ -4467,24 +4297,7 @@
       }
     ]
   },
-  {
-    "name": "Eska Gdańsk",
-    "coordinates": {
-      "lat": 54.352697,
-      "lon": 18.63863
-    },
-    "radioStations": [
-      {
-        "title": "Eska Gdańsk",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+  
   {
     "name": "RMFmaxx",
     "coordinates": {
@@ -5343,24 +5156,7 @@
       }
     ]
   },
-  {
-    "name": "Eska Koszalin",
-    "coordinates": {
-      "lat": 54.194997,
-      "lon": 16.16363
-    },
-    "radioStations": [
-      {
-        "title": "Eska Koszalin",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8"
-      }
-    ]
-  },
+ 
   
   
   {
@@ -5455,24 +5251,6 @@
     ]
   },
   
-  {
-    "name": "Eska Lublin 128",
-    "coordinates": {
-      "lat": 51.25137,
-      "lon": 22.574747
-    },
-    "radioStations": [
-      {
-        "title": "Eska Lublin 128",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ic2.smcdn.pl/2130-1.mp3"
-      }
-    ]
-  },
   
   {
     "name": "RMF Blues + FAKTY",
@@ -5492,6 +5270,7 @@
       }
     ]
   },
+  
   {
     "name": "Radio DOXA",
     "coordinates": {
@@ -6024,24 +5803,7 @@
     ]
   },
   
-  {
-    "name": "Eska Szczecin",
-    "coordinates": {
-      "lat": 53.420622,
-      "lon": 14.551411
-    },
-    "radioStations": [
-      {
-        "title": "Eska Szczecin",
-        "subtitle": "Poland",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.eska.pl/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ic1.smcdn.pl/2260-1.mp3"
-      }
-    ]
-  },
+ 
   {
     "name": "Radio FAMA",
     "coordinates": {
