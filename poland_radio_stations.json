@@ -5964,7 +5964,7 @@
         "title": "Antyradio Hard",
         "subtitle": "Poland",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-hard/710016-10-pol-PL/Antyradio-Hard_size-228x228.jpg",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioHard.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
