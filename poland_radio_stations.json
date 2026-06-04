@@ -3944,7 +3944,7 @@
         "title": "4 Fun TV",
         "subtitle": "Masovia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/4FunTV.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/4FUNTV.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
