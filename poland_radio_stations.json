@@ -3936,15 +3936,15 @@
   {
     "name": "4 Fun TV",
     "coordinates": {
-      "lat": 52.059394,
-      "lon": 21.100856
+      "lat": 52.596733, 
+      "lon": 21.450736
     },
     "radioStations": [
       {
         "title": "4 Fun TV",
         "subtitle": "Masovia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://4fun.tv/apple-touch-icon-120x120.png",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/4FunTV.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
