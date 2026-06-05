@@ -1,6 +1,5 @@
 [
-
-{
+  {
     "name": "Deutschlandfunk Dokumente und Debatten",
     "coordinates": {
       "lat": 52.52,
@@ -21,8 +20,8 @@
   {
     "name": "Bayern 1 Niederbayern/Oberpfalz",
     "coordinates": {
-      "lat": 49.0134,
-      "lon": 12.1016
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
@@ -39,8 +38,8 @@
   {
     "name": "Bayern 1 Schwaben",
     "coordinates": {
-      "lat": 48.3705,
-      "lon": 10.8978
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
@@ -57,8 +56,8 @@
   {
     "name": "Bayern 1 Franken",
     "coordinates": {
-      "lat": 49.4521,
-      "lon": 11.0767
+      "lat": 50.9375,
+      "lon": 6.9603
     },
     "radioStations": [
       {
@@ -75,8 +74,8 @@
   {
     "name": "Bayern 1 Mainfranken",
     "coordinates": {
-      "lat": 49.7913,
-      "lon": 9.9534
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
@@ -93,8 +92,8 @@
   {
     "name": "BR Heimat",
     "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.582
+      "lat": 48.7758,
+      "lon": 9.1829
     },
     "radioStations": [
       {
@@ -111,8 +110,8 @@
   {
     "name": "BR Schlager",
     "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.596984
+      "lat": 51.2277,
+      "lon": 6.7735
     },
     "radioStations": [
       {
@@ -129,8 +128,8 @@
   {
     "name": "BR24live",
     "coordinates": {
-      "lat": 48.137587,
-      "lon": 11.596513
+      "lat": 51.5136,
+      "lon": 7.4653
     },
     "radioStations": [
       {
@@ -147,8 +146,8 @@
   {
     "name": "1LIVE diggi",
     "coordinates": {
-      "lat": 50.9375,
-      "lon": 6.9603
+      "lat": 51.4556,
+      "lon": 7.0116
     },
     "radioStations": [
       {
@@ -165,8 +164,8 @@
   {
     "name": "WDR Event",
     "coordinates": {
-      "lat": 50.9375,
-      "lon": 6.976169
+      "lat": 51.3397,
+      "lon": 12.3731
     },
     "radioStations": [
       {
@@ -183,8 +182,8 @@
   {
     "name": "NDR Blue",
     "coordinates": {
-      "lat": 53.5511,
-      "lon": 9.9937
+      "lat": 53.0793,
+      "lon": 8.8017
     },
     "radioStations": [
       {
@@ -201,8 +200,8 @@
   {
     "name": "NDR Schlager",
     "coordinates": {
-      "lat": 53.5511,
-      "lon": 10.010532
+      "lat": 51.0504,
+      "lon": 13.7373
     },
     "radioStations": [
       {
@@ -219,8 +218,8 @@
   {
     "name": "NDR 1 Radio MV",
     "coordinates": {
-      "lat": 53.6355,
-      "lon": 11.4012
+      "lat": 52.3759,
+      "lon": 9.732
     },
     "radioStations": [
       {
@@ -237,8 +236,8 @@
   {
     "name": "MDR Sachsen",
     "coordinates": {
-      "lat": 51.0504,
-      "lon": 13.7373
+      "lat": 49.4521,
+      "lon": 11.0767
     },
     "radioStations": [
       {
@@ -255,8 +254,8 @@
   {
     "name": "MDR Sachsen-Anhalt",
     "coordinates": {
-      "lat": 52.1205,
-      "lon": 11.6276
+      "lat": 51.4344,
+      "lon": 6.7623
     },
     "radioStations": [
       {
@@ -273,8 +272,8 @@
   {
     "name": "MDR Thüringen",
     "coordinates": {
-      "lat": 50.9848,
-      "lon": 11.0299
+      "lat": 51.4818,
+      "lon": 7.2162
     },
     "radioStations": [
       {
@@ -291,8 +290,8 @@
   {
     "name": "MDR Schlagerwelt",
     "coordinates": {
-      "lat": 51.3397,
-      "lon": 12.3731
+      "lat": 51.2562,
+      "lon": 7.1508
     },
     "radioStations": [
       {
@@ -309,8 +308,8 @@
   {
     "name": "SR 1 Europawelle",
     "coordinates": {
-      "lat": 49.2402,
-      "lon": 6.9969
+      "lat": 52.0302,
+      "lon": 8.5325
     },
     "radioStations": [
       {
@@ -327,8 +326,8 @@
   {
     "name": "SR 2 KulturRadio",
     "coordinates": {
-      "lat": 49.2402,
-      "lon": 7.012217
+      "lat": 50.7374,
+      "lon": 7.0982
     },
     "radioStations": [
       {
@@ -345,8 +344,8 @@
   {
     "name": "SR 3 Saarlandwelle",
     "coordinates": {
-      "lat": 49.24886,
-      "lon": 6.989242
+      "lat": 51.9607,
+      "lon": 7.6261
     },
     "radioStations": [
       {
@@ -363,8 +362,8 @@
   {
     "name": "UNSERDING",
     "coordinates": {
-      "lat": 49.23154,
-      "lon": 6.989242
+      "lat": 49.0069,
+      "lon": 8.4037
     },
     "radioStations": [
       {
@@ -381,8 +380,8 @@
   {
     "name": "Radio 3",
     "coordinates": {
-      "lat": 52.3906,
-      "lon": 13.0645
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
@@ -399,8 +398,8 @@
   {
     "name": "Absolut TOP",
     "coordinates": {
-      "lat": 48.139918,
-      "lon": 11.595131
+      "lat": 48.3705,
+      "lon": 10.8978
     },
     "radioStations": [
       {
@@ -417,8 +416,8 @@
   {
     "name": "Absolut relax",
     "coordinates": {
-      "lat": 48.141945,
-      "lon": 11.592923
+      "lat": 50.0782,
+      "lon": 8.2398
     },
     "radioStations": [
       {
@@ -435,8 +434,8 @@
   {
     "name": "Absolut HOT",
     "coordinates": {
-      "lat": 48.143543,
-      "lon": 11.590029
+      "lat": 51.5177,
+      "lon": 7.0857
     },
     "radioStations": [
       {
@@ -453,8 +452,8 @@
   {
     "name": "Absolut Bella",
     "coordinates": {
-      "lat": 48.144611,
-      "lon": 11.58663
+      "lat": 51.1805,
+      "lon": 6.4428
     },
     "radioStations": [
       {
@@ -471,8 +470,8 @@
   {
     "name": "Absolut Oldie Classics",
     "coordinates": {
-      "lat": 48.14508,
-      "lon": 11.582941
+      "lat": 52.2689,
+      "lon": 10.5268
     },
     "radioStations": [
       {
@@ -489,8 +488,8 @@
   {
     "name": "Absolut Germany",
     "coordinates": {
-      "lat": 48.144923,
-      "lon": 11.579192
+      "lat": 50.8278,
+      "lon": 12.9214
     },
     "radioStations": [
       {
@@ -507,8 +506,8 @@
   {
     "name": "Absolut musicXL",
     "coordinates": {
-      "lat": 48.147768,
-      "lon": 11.573068
+      "lat": 54.3233,
+      "lon": 10.1228
     },
     "radioStations": [
       {
@@ -525,8 +524,8 @@
   {
     "name": "Antenne Bayern Top 40",
     "coordinates": {
-      "lat": 48.145887,
-      "lon": 11.568628
+      "lat": 50.7753,
+      "lon": 6.0839
     },
     "radioStations": [
       {
@@ -543,8 +542,8 @@
   {
     "name": "Antenne Bayern Classic Rock",
     "coordinates": {
-      "lat": 48.143329,
-      "lon": 11.565029
+      "lat": 51.4969,
+      "lon": 11.9688
     },
     "radioStations": [
       {
@@ -561,8 +560,8 @@
   {
     "name": "Antenne Bayern Chillout",
     "coordinates": {
-      "lat": 48.140254,
-      "lon": 11.562495
+      "lat": 52.1205,
+      "lon": 11.6276
     },
     "radioStations": [
       {
@@ -579,8 +578,8 @@
   {
     "name": "Antenne Bayern 80er Kulthits",
     "coordinates": {
-      "lat": 48.136855,
-      "lon": 11.561188
+      "lat": 47.999,
+      "lon": 7.8421
     },
     "radioStations": [
       {
@@ -597,8 +596,8 @@
   {
     "name": "Antenne Bayern Oldies but Goldies",
     "coordinates": {
-      "lat": 48.133345,
-      "lon": 11.561188
+      "lat": 51.3388,
+      "lon": 6.5853
     },
     "radioStations": [
       {
@@ -615,8 +614,8 @@
   {
     "name": "Antenne Bayern Lovesongs",
     "coordinates": {
-      "lat": 48.129946,
-      "lon": 11.562495
+      "lat": 53.8655,
+      "lon": 10.6866
     },
     "radioStations": [
       {
@@ -633,8 +632,8 @@
   {
     "name": "Antenne Bayern Schlagersahne",
     "coordinates": {
-      "lat": 48.126871,
-      "lon": 11.565029
+      "lat": 51.4963,
+      "lon": 6.8638
     },
     "radioStations": [
       {
@@ -651,8 +650,8 @@
   {
     "name": "Antenne Bayern Hits für Kids",
     "coordinates": {
-      "lat": 48.121231,
-      "lon": 11.564808
+      "lat": 50.9848,
+      "lon": 11.0299
     },
     "radioStations": [
       {
@@ -669,8 +668,8 @@
   {
     "name": "Rock Antenne Classic Perlen",
     "coordinates": {
-      "lat": 48.118813,
-      "lon": 11.570516
+      "lat": 49.9929,
+      "lon": 8.2473
     },
     "radioStations": [
       {
@@ -687,8 +686,8 @@
   {
     "name": "Rock Antenne Heavy Metal",
     "coordinates": {
-      "lat": 48.117419,
-      "lon": 11.576946
+      "lat": 54.0924,
+      "lon": 12.0991
     },
     "radioStations": [
       {
@@ -705,8 +704,8 @@
   {
     "name": "Rock Antenne Alternative",
     "coordinates": {
-      "lat": 48.117136,
-      "lon": 11.583694
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
@@ -723,8 +722,8 @@
   {
     "name": "Rock Antenne Deutschrock",
     "coordinates": {
-      "lat": 48.117981,
-      "lon": 11.590335
+      "lat": 51.3671,
+      "lon": 7.4633
     },
     "radioStations": [
       {
@@ -741,8 +740,8 @@
   {
     "name": "Rock Antenne 80er Rock",
     "coordinates": {
-      "lat": 48.119902,
-      "lon": 11.596452
+      "lat": 51.6739,
+      "lon": 7.815
     },
     "radioStations": [
       {
@@ -759,8 +758,8 @@
   {
     "name": "Rock Antenne 90er Rock",
     "coordinates": {
-      "lat": 48.122778,
-      "lon": 11.601661
+      "lat": 49.2402,
+      "lon": 6.9969
     },
     "radioStations": [
       {
@@ -777,8 +776,8 @@
   {
     "name": "Rock Antenne Soft Rock",
     "coordinates": {
-      "lat": 48.126428,
-      "lon": 11.605635
+      "lat": 51.4186,
+      "lon": 6.8845
     },
     "radioStations": [
       {
@@ -795,8 +794,8 @@
   {
     "name": "Rock Antenne Blues Rock",
     "coordinates": {
-      "lat": 48.129629,
-      "lon": 11.613929
+      "lat": 52.3906,
+      "lon": 13.0645
     },
     "radioStations": [
       {
@@ -813,8 +812,8 @@
   {
     "name": "Radio BOB! Classic Rock",
     "coordinates": {
-      "lat": 51.3127,
-      "lon": 9.4797
+      "lat": 49.4774,
+      "lon": 8.4452
     },
     "radioStations": [
       {
@@ -831,8 +830,8 @@
   {
     "name": "Radio BOB! Metal",
     "coordinates": {
-      "lat": 51.3127,
-      "lon": 9.495698
+      "lat": 53.1435,
+      "lon": 8.2146
     },
     "radioStations": [
       {
@@ -849,8 +848,8 @@
   {
     "name": "Radio BOB! Alternative Rock",
     "coordinates": {
-      "lat": 51.320518,
-      "lon": 9.489675
+      "lat": 51.0459,
+      "lon": 7.0192
     },
     "radioStations": [
       {
@@ -867,8 +866,8 @@
   {
     "name": "Radio BOB! Deutsch Rock",
     "coordinates": {
-      "lat": 51.322449,
-      "lon": 9.47614
+      "lat": 52.2799,
+      "lon": 8.0472
     },
     "radioStations": [
       {
@@ -885,8 +884,8 @@
   {
     "name": "Radio BOB! Punk",
     "coordinates": {
-      "lat": 51.317039,
-      "lon": 9.465286
+      "lat": 51.1652,
+      "lon": 7.0671
     },
     "radioStations": [
       {
@@ -903,8 +902,8 @@
   {
     "name": "Radio BOB! 80er Rock",
     "coordinates": {
-      "lat": 51.308361,
-      "lon": 9.465286
+      "lat": 49.3988,
+      "lon": 8.6724
     },
     "radioStations": [
       {
@@ -921,8 +920,8 @@
   {
     "name": "Radio BOB! 90er Rock",
     "coordinates": {
-      "lat": 51.302951,
-      "lon": 9.47614
+      "lat": 51.5369,
+      "lon": 7.2009
     },
     "radioStations": [
       {
@@ -939,8 +938,8 @@
   {
     "name": "Radio BOB! Kuschelrock",
     "coordinates": {
-      "lat": 51.304882,
-      "lon": 9.489675
+      "lat": 51.2042,
+      "lon": 6.6879
     },
     "radioStations": [
       {
@@ -957,8 +956,8 @@
   {
     "name": "FFH Die 80er",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.6821
+      "lat": 49.8728,
+      "lon": 8.6512
     },
     "radioStations": [
       {
@@ -975,8 +974,8 @@
   {
     "name": "FFH Die 90er",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.697693
+      "lat": 51.7189,
+      "lon": 8.7575
     },
     "radioStations": [
       {
@@ -993,8 +992,8 @@
   {
     "name": "FFH Eurodance",
     "coordinates": {
-      "lat": 50.11956,
-      "lon": 8.689897
+      "lat": 49.0134,
+      "lon": 12.1016
     },
     "radioStations": [
       {
@@ -1011,8 +1010,8 @@
   {
     "name": "FFH Rock",
     "coordinates": {
-      "lat": 50.11956,
-      "lon": 8.674303
+      "lat": 48.7665,
+      "lon": 11.4258
     },
     "radioStations": [
       {
@@ -1029,8 +1028,8 @@
   {
     "name": "FFH Lounge",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.666507
+      "lat": 49.7913,
+      "lon": 9.9534
     },
     "radioStations": [
       {
@@ -1047,8 +1046,8 @@
   {
     "name": "FFH Weihnachtsradio",
     "coordinates": {
-      "lat": 50.10224,
-      "lon": 8.674303
+      "lat": 49.4771,
+      "lon": 10.9887
     },
     "radioStations": [
       {
@@ -1065,8 +1064,8 @@
   {
     "name": "FFH Schlager",
     "coordinates": {
-      "lat": 50.10224,
-      "lon": 8.689897
+      "lat": 52.4227,
+      "lon": 10.7865
     },
     "radioStations": [
       {
@@ -1083,8 +1082,8 @@
   {
     "name": "Klassik Radio Movie",
     "coordinates": {
-      "lat": 53.560611,
-      "lon": 9.998901
+      "lat": 50.0956,
+      "lon": 8.7761
     },
     "radioStations": [
       {
@@ -1101,8 +1100,8 @@
   {
     "name": "Klassik Radio Piano",
     "coordinates": {
-      "lat": 53.556978,
-      "lon": 9.980083
+      "lat": 48.4011,
+      "lon": 9.9876
     },
     "radioStations": [
       {
@@ -1119,8 +1118,8 @@
   {
     "name": "Klassik Radio Bach",
     "coordinates": {
-      "lat": 53.545222,
-      "lon": 9.980083
+      "lat": 49.1427,
+      "lon": 9.2109
     },
     "radioStations": [
       {
@@ -1137,8 +1136,8 @@
   {
     "name": "Klassik Radio Opera",
     "coordinates": {
-      "lat": 53.541589,
-      "lon": 9.998901
+      "lat": 48.8922,
+      "lon": 8.6946
     },
     "radioStations": [
       {
@@ -1155,8 +1154,8 @@
   {
     "name": "sunshine live Classics",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 8.466
+      "lat": 51.5413,
+      "lon": 9.9158
     },
     "radioStations": [
       {
@@ -1173,8 +1172,8 @@
   {
     "name": "sunshine live 90er",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 8.481394
+      "lat": 51.5291,
+      "lon": 6.9447
     },
     "radioStations": [
       {
@@ -1191,8 +1190,8 @@
   {
     "name": "sunshine live Techno",
     "coordinates": {
-      "lat": 49.49616,
-      "lon": 8.473697
+      "lat": 49.7499,
+      "lon": 6.6371
     },
     "radioStations": [
       {
@@ -1209,8 +1208,8 @@
   {
     "name": "sunshine live Trance",
     "coordinates": {
-      "lat": 49.49616,
-      "lon": 8.458303
+      "lat": 51.6141,
+      "lon": 7.1979
     },
     "radioStations": [
       {
@@ -1227,8 +1226,8 @@
   {
     "name": "RPR1. 80er",
     "coordinates": {
-      "lat": 49.4774,
-      "lon": 8.4452
+      "lat": 48.4914,
+      "lon": 9.2043
     },
     "radioStations": [
       {
@@ -1245,8 +1244,8 @@
   {
     "name": "RPR1. 90er",
     "coordinates": {
-      "lat": 49.4774,
-      "lon": 8.460591
+      "lat": 53.5396,
+      "lon": 8.5809
     },
     "radioStations": [
       {
@@ -1263,8 +1262,8 @@
   {
     "name": "RPR1. Classic Rock",
     "coordinates": {
-      "lat": 49.48606,
-      "lon": 8.437505
+      "lat": 50.3569,
+      "lon": 7.589
     },
     "radioStations": [
       {
@@ -1281,8 +1280,8 @@
   {
     "name": "RPR1. Neue Deutsche Welle",
     "coordinates": {
-      "lat": 49.46874,
-      "lon": 8.437505
+      "lat": 50.9923,
+      "lon": 7.1286
     },
     "radioStations": [
       {
@@ -1299,8 +1298,8 @@
   {
     "name": "Radio Regenbogen 80er",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 8.450606
+      "lat": 50.9271,
+      "lon": 11.5892
     },
     "radioStations": [
       {
@@ -1317,8 +1316,8 @@
   {
     "name": "Radio Regenbogen 90er",
     "coordinates": {
-      "lat": 49.47884,
-      "lon": 8.458303
+      "lat": 51.1787,
+      "lon": 7.1897
     },
     "radioStations": [
       {
@@ -1335,8 +1334,8 @@
   {
     "name": "Radio Regenbogen Classic Rock",
     "coordinates": {
-      "lat": 49.47884,
-      "lon": 8.473697
+      "lat": 49.5897,
+      "lon": 11.0119
     },
     "radioStations": [
       {
@@ -1353,8 +1352,8 @@
   {
     "name": "bigFM US Rap & Hip-Hop",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.1829
+      "lat": 51.4516,
+      "lon": 6.6408
     },
     "radioStations": [
       {
@@ -1371,8 +1370,8 @@
   {
     "name": "bigFM Dance",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.198074
+      "lat": 50.8838,
+      "lon": 8.0209
     },
     "radioStations": [
       {
@@ -1389,8 +1388,8 @@
   {
     "name": "bigFM Deutschrap",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.167726
+      "lat": 52.1548,
+      "lon": 9.9579
     },
     "radioStations": [
       {
@@ -1404,17 +1403,11 @@
       }
     ]
   },
-
-
-
-
-
-  
   {
     "name": "Deutschlandfunk",
     "coordinates": {
-      "lat": 50.9375,
-      "lon": 6.9603
+      "lat": 52.1379,
+      "lon": 10.3899
     },
     "radioStations": [
       {
@@ -1431,8 +1424,8 @@
   {
     "name": "Deutschlandfunk Kultur",
     "coordinates": {
-      "lat": 52.52,
-      "lon": 13.405
+      "lat": 51.7563,
+      "lon": 14.3329
     },
     "radioStations": [
       {
@@ -1449,8 +1442,8 @@
   {
     "name": "Deutschlandfunk Nova",
     "coordinates": {
-      "lat": 50.9375,
-      "lon": 6.979343
+      "lat": 51.9032,
+      "lon": 8.3858
     },
     "radioStations": [
       {
@@ -1467,8 +1460,8 @@
   {
     "name": "Bayern 1 Oberbayern",
     "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.582
+      "lat": 49.4401,
+      "lon": 7.7491
     },
     "radioStations": [
       {
@@ -1485,8 +1478,8 @@
   {
     "name": "Bayern 2",
     "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.599981
+      "lat": 51.4439,
+      "lon": 7.3532
     },
     "radioStations": [
       {
@@ -1503,8 +1496,8 @@
   {
     "name": "Bayern 3",
     "coordinates": {
-      "lat": 48.142153,
-      "lon": 11.596547
+      "lat": 50.7189,
+      "lon": 12.4961
     },
     "radioStations": [
       {
@@ -1521,8 +1514,8 @@
   {
     "name": "BR Klassik",
     "coordinates": {
-      "lat": 48.146513,
-      "lon": 11.587556
+      "lat": 53.6355,
+      "lon": 11.4012
     },
     "radioStations": [
       {
@@ -1539,8 +1532,8 @@
   {
     "name": "BR24",
     "coordinates": {
-      "lat": 48.146513,
-      "lon": 11.576444
+      "lat": 50.8772,
+      "lon": 12.079
     },
     "radioStations": [
       {
@@ -1557,8 +1550,8 @@
   {
     "name": "PULS",
     "coordinates": {
-      "lat": 48.142153,
-      "lon": 11.567453
+      "lat": 51.3755,
+      "lon": 7.7028
     },
     "radioStations": [
       {
@@ -1575,8 +1568,8 @@
   {
     "name": "1LIVE",
     "coordinates": {
-      "lat": 50.946882,
-      "lon": 6.972173
+      "lat": 50.8022,
+      "lon": 6.4821
     },
     "radioStations": [
       {
@@ -1593,8 +1586,8 @@
   {
     "name": "WDR 2",
     "coordinates": {
-      "lat": 50.949199,
-      "lon": 6.956063
+      "lat": 48.7428,
+      "lon": 9.3072
     },
     "radioStations": [
       {
@@ -1611,8 +1604,8 @@
   {
     "name": "WDR 3",
     "coordinates": {
-      "lat": 50.942707,
-      "lon": 6.943143
+      "lat": 51.2964,
+      "lon": 6.8402
     },
     "radioStations": [
       {
@@ -1629,8 +1622,8 @@
   {
     "name": "WDR 4",
     "coordinates": {
-      "lat": 50.932293,
-      "lon": 6.943143
+      "lat": 51.6163,
+      "lon": 7.5287
     },
     "radioStations": [
       {
@@ -1647,8 +1640,8 @@
   {
     "name": "WDR 5",
     "coordinates": {
-      "lat": 50.925801,
-      "lon": 6.956063
+      "lat": 51.6567,
+      "lon": 7.0904
     },
     "radioStations": [
       {
@@ -1665,8 +1658,8 @@
   {
     "name": "COSMO",
     "coordinates": {
-      "lat": 50.928118,
-      "lon": 6.972173
+      "lat": 48.8941,
+      "lon": 9.1955
     },
     "radioStations": [
       {
@@ -1683,8 +1676,8 @@
   {
     "name": "SWR1 Baden-Württemberg",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.1829
+      "lat": 51.3402,
+      "lon": 7.0435
     },
     "radioStations": [
       {
@@ -1701,8 +1694,8 @@
   {
     "name": "SWR1 Rheinland-Pfalz",
     "coordinates": {
-      "lat": 49.9929,
-      "lon": 8.2473
+      "lat": 54.7937,
+      "lon": 9.4469
     },
     "radioStations": [
       {
@@ -1719,8 +1712,8 @@
   {
     "name": "SWR2",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.201109
+      "lat": 48.5216,
+      "lon": 9.0576
     },
     "radioStations": [
       {
@@ -1737,8 +1730,8 @@
   {
     "name": "SWR3",
     "coordinates": {
-      "lat": 48.786192,
-      "lon": 9.192005
+      "lat": 53.5323,
+      "lon": 8.1069
     },
     "radioStations": [
       {
@@ -1755,8 +1748,8 @@
   {
     "name": "SWR4 Baden-Württemberg",
     "coordinates": {
-      "lat": 48.786192,
-      "lon": 9.173795
+      "lat": 47.6779,
+      "lon": 9.1732
     },
     "radioStations": [
       {
@@ -1773,8 +1766,8 @@
   {
     "name": "SWR Aktuell",
     "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.164691
+      "lat": 48.0623,
+      "lon": 8.4936
     },
     "radioStations": [
       {
@@ -1791,8 +1784,8 @@
   {
     "name": "DASDING",
     "coordinates": {
-      "lat": 49.0069,
-      "lon": 8.4037
+      "lat": 50.809,
+      "lon": 8.7707
     },
     "radioStations": [
       {
@@ -1809,8 +1802,8 @@
   {
     "name": "NDR 2",
     "coordinates": {
-      "lat": 52.3759,
-      "lon": 9.732
+      "lat": 54.0729,
+      "lon": 9.984
     },
     "radioStations": [
       {
@@ -1827,8 +1820,8 @@
   {
     "name": "NDR Info",
     "coordinates": {
-      "lat": 53.5511,
-      "lon": 9.9937
+      "lat": 52.4125,
+      "lon": 12.5316
     },
     "radioStations": [
       {
@@ -1845,8 +1838,8 @@
   {
     "name": "NDR Kultur",
     "coordinates": {
-      "lat": 53.5511,
-      "lon": 10.013898
+      "lat": 52.285,
+      "lon": 7.4406
     },
     "radioStations": [
       {
@@ -1863,8 +1856,8 @@
   {
     "name": "N-JOY",
     "coordinates": {
-      "lat": 53.561492,
-      "lon": 10.003799
+      "lat": 51.5708,
+      "lon": 6.9859
     },
     "radioStations": [
       {
@@ -1881,8 +1874,8 @@
   {
     "name": "NDR 1 Niedersachsen",
     "coordinates": {
-      "lat": 52.3759,
-      "lon": 9.751657
+      "lat": 53.2464,
+      "lon": 10.4115
     },
     "radioStations": [
       {
@@ -1899,8 +1892,8 @@
   {
     "name": "NDR 1 Welle Nord",
     "coordinates": {
-      "lat": 54.3233,
-      "lon": 10.1228
+      "lat": 51.6617,
+      "lon": 6.9651
     },
     "radioStations": [
       {
@@ -1917,8 +1910,8 @@
   {
     "name": "NDR 90,3",
     "coordinates": {
-      "lat": 53.561492,
-      "lon": 9.983601
+      "lat": 51.9385,
+      "lon": 8.8732
     },
     "radioStations": [
       {
@@ -1935,8 +1928,8 @@
   {
     "name": "radioeins",
     "coordinates": {
-      "lat": 52.3906,
-      "lon": 13.0645
+      "lat": 51.3967,
+      "lon": 8.0648
     },
     "radioStations": [
       {
@@ -1953,8 +1946,8 @@
   {
     "name": "Fritz",
     "coordinates": {
-      "lat": 52.3906,
-      "lon": 13.084163
+      "lat": 51.5566,
+      "lon": 7.3116
     },
     "radioStations": [
       {
@@ -1971,8 +1964,8 @@
   {
     "name": "rbb 88.8",
     "coordinates": {
-      "lat": 52.52,
-      "lon": 13.424721
+      "lat": 51.2191,
+      "lon": 7.6316
     },
     "radioStations": [
       {
@@ -1989,8 +1982,8 @@
   {
     "name": "rbbKultur",
     "coordinates": {
-      "lat": 52.527053,
-      "lon": 13.420955
+      "lat": 49.9456,
+      "lon": 11.5713
     },
     "radioStations": [
       {
@@ -2007,8 +2000,8 @@
   {
     "name": "Inforadio",
     "coordinates": {
-      "lat": 52.531413,
-      "lon": 13.411094
+      "lat": 49.8988,
+      "lon": 10.9028
     },
     "radioStations": [
       {
@@ -2025,8 +2018,8 @@
   {
     "name": "Antenne Brandenburg",
     "coordinates": {
-      "lat": 52.400992,
-      "lon": 13.054668
+      "lat": 49.9807,
+      "lon": 9.1356
     },
     "radioStations": [
       {
@@ -2043,8 +2036,8 @@
   {
     "name": "hr1",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.6821
+      "lat": 48.5442,
+      "lon": 12.1469
     },
     "radioStations": [
       {
@@ -2061,8 +2054,8 @@
   {
     "name": "hr2-kultur",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.700812
+      "lat": 47.8564,
+      "lon": 12.1225
     },
     "radioStations": [
       {
@@ -2079,8 +2072,8 @@
   {
     "name": "hr3",
     "coordinates": {
-      "lat": 50.119385,
-      "lon": 8.695331
+      "lat": 47.7267,
+      "lon": 10.3139
     },
     "radioStations": [
       {
@@ -2097,8 +2090,8 @@
   {
     "name": "hr4",
     "coordinates": {
-      "lat": 50.1229,
-      "lon": 8.6821
+      "lat": 48.5667,
+      "lon": 13.4319
     },
     "radioStations": [
       {
@@ -2115,8 +2108,8 @@
   {
     "name": "YOU FM",
     "coordinates": {
-      "lat": 50.119385,
-      "lon": 8.668869
+      "lat": 48.8777,
+      "lon": 12.5802
     },
     "radioStations": [
       {
@@ -2133,8 +2126,8 @@
   {
     "name": "hr-iNFO",
     "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.663388
+      "lat": 49.6768,
+      "lon": 12.1561
     },
     "radioStations": [
       {
@@ -2151,8 +2144,8 @@
   {
     "name": "Bremen Eins",
     "coordinates": {
-      "lat": 53.0793,
-      "lon": 8.8017
+      "lat": 49.3004,
+      "lon": 10.5719
     },
     "radioStations": [
       {
@@ -2169,8 +2162,8 @@
   {
     "name": "Bremen Zwei",
     "coordinates": {
-      "lat": 53.0793,
-      "lon": 8.821676
+      "lat": 50.2594,
+      "lon": 10.9638
     },
     "radioStations": [
       {
@@ -2187,8 +2180,8 @@
   {
     "name": "Bremen Vier",
     "coordinates": {
-      "lat": 53.0793,
-      "lon": 8.781724
+      "lat": 50.3135,
+      "lon": 11.9128
     },
     "radioStations": [
       {
@@ -2205,8 +2198,8 @@
   {
     "name": "MDR JUMP",
     "coordinates": {
-      "lat": 51.3397,
-      "lon": 12.3731
+      "lat": 50.0492,
+      "lon": 10.2217
     },
     "radioStations": [
       {
@@ -2223,8 +2216,8 @@
   {
     "name": "MDR AKTUELL",
     "coordinates": {
-      "lat": 51.3397,
-      "lon": 12.392309
+      "lat": 47.6618,
+      "lon": 9.48
     },
     "radioStations": [
       {
@@ -2241,8 +2234,8 @@
   {
     "name": "MDR KULTUR",
     "coordinates": {
-      "lat": 51.350092,
-      "lon": 12.363495
+      "lat": 47.781,
+      "lon": 9.6106
     },
     "radioStations": [
       {
@@ -2259,8 +2252,8 @@
   {
     "name": "MDR SPUTNIK",
     "coordinates": {
-      "lat": 51.4969,
-      "lon": 11.9688
+      "lat": 48.8378,
+      "lon": 10.0933
     },
     "radioStations": [
       {
@@ -2277,8 +2270,8 @@
   {
     "name": "MDR KLASSIK",
     "coordinates": {
-      "lat": 51.329308,
-      "lon": 12.363495
+      "lat": 48.7995,
+      "lon": 9.7981
     },
     "radioStations": [
       {
@@ -2295,8 +2288,8 @@
   {
     "name": "Antenne Bayern",
     "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.564019
+      "lat": 48.4735,
+      "lon": 7.9441
     },
     "radioStations": [
       {
@@ -2313,8 +2306,8 @@
   {
     "name": "Rock Antenne",
     "coordinates": {
-      "lat": 48.128047,
-      "lon": 11.567453
+      "lat": 48.7606,
+      "lon": 8.2398
     },
     "radioStations": [
       {
@@ -2331,8 +2324,8 @@
   {
     "name": "Klassik Radio",
     "coordinates": {
-      "lat": 53.5511,
-      "lon": 9.973502
+      "lat": 47.6146,
+      "lon": 7.6646
     },
     "radioStations": [
       {
@@ -2349,8 +2342,8 @@
   {
     "name": "sunshine live",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 8.466
+      "lat": 47.7599,
+      "lon": 8.8403
     },
     "radioStations": [
       {
@@ -2367,8 +2360,8 @@
   {
     "name": "Radio BOB!",
     "coordinates": {
-      "lat": 51.3127,
-      "lon": 9.4797
+      "lat": 48.7035,
+      "lon": 9.6521
     },
     "radioStations": [
       {
@@ -2385,8 +2378,8 @@
   {
     "name": "HIT RADIO FFH",
     "coordinates": {
-      "lat": 50.102415,
-      "lon": 8.668869
+      "lat": 48.8324,
+      "lon": 9.3164
     },
     "radioStations": [
       {
@@ -2403,8 +2396,8 @@
   {
     "name": "planet radio",
     "coordinates": {
-      "lat": 50.0989,
-      "lon": 8.6821
+      "lat": 48.7075,
+      "lon": 9.0037
     },
     "radioStations": [
       {
@@ -2421,8 +2414,8 @@
   {
     "name": "harmony.fm",
     "coordinates": {
-      "lat": 50.099586,
-      "lon": 8.699742
+      "lat": 48.6851,
+      "lon": 9.009
     },
     "radioStations": [
       {
@@ -2439,8 +2432,8 @@
   {
     "name": "bigFM Deutschland",
     "coordinates": {
-      "lat": 48.765408,
-      "lon": 9.173795
+      "lat": 48.9474,
+      "lon": 9.4372
     },
     "radioStations": [
       {
@@ -2457,8 +2450,8 @@
   {
     "name": "RPR1.",
     "coordinates": {
-      "lat": 49.4774,
-      "lon": 8.4452
+      "lat": 48.6941,
+      "lon": 9.6713
     },
     "radioStations": [
       {
@@ -2475,8 +2468,8 @@
   {
     "name": "Radio Regenbogen",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 8.484473
+      "lat": 50.5558,
+      "lon": 9.6808
     },
     "radioStations": [
       {
@@ -2493,8 +2486,8 @@
   {
     "name": "Radio Paloma",
     "coordinates": {
-      "lat": 52.531413,
-      "lon": 13.398906
+      "lat": 50.5841,
+      "lon": 8.6784
     },
     "radioStations": [
       {
@@ -2511,8 +2504,8 @@
   {
     "name": "89.0 RTL",
     "coordinates": {
-      "lat": 52.1205,
-      "lon": 11.6276
+      "lat": 50.5611,
+      "lon": 8.5049
     },
     "radioStations": [
       {
@@ -2529,8 +2522,8 @@
   {
     "name": "Radio Brocken",
     "coordinates": {
-      "lat": 52.1205,
-      "lon": 11.647144
+      "lat": 50.1264,
+      "lon": 8.9283
     },
     "radioStations": [
       {
@@ -2547,8 +2540,8 @@
   {
     "name": "104.6 RTL",
     "coordinates": {
-      "lat": 52.527053,
-      "lon": 13.389045
+      "lat": 49.9896,
+      "lon": 8.4225
     },
     "radioStations": [
       {
@@ -2565,8 +2558,8 @@
   {
     "name": "Radio Hamburg",
     "coordinates": {
-      "lat": 53.540708,
-      "lon": 9.983601
+      "lat": 50.2268,
+      "lon": 8.6182
     },
     "radioStations": [
       {
@@ -2583,8 +2576,8 @@
   {
     "name": "Radio 7",
     "coordinates": {
-      "lat": 48.4011,
-      "lon": 9.9876
+      "lat": 50.3373,
+      "lon": 8.755
     },
     "radioStations": [
       {
@@ -2601,8 +2594,8 @@
   {
     "name": "Radio Gong 96.3",
     "coordinates": {
-      "lat": 48.119883,
-      "lon": 11.574591
+      "lat": 50.3836,
+      "lon": 8.0503
     },
     "radioStations": [
       {
@@ -2619,8 +2612,8 @@
   {
     "name": "Gong 97.1",
     "coordinates": {
-      "lat": 49.4521,
-      "lon": 11.0767
+      "lat": 49.844,
+      "lon": 7.867
     },
     "radioStations": [
       {
@@ -2637,8 +2630,8 @@
   {
     "name": "ENERGY Berlin",
     "coordinates": {
-      "lat": 52.52,
-      "lon": 13.385279
+      "lat": 49.6341,
+      "lon": 8.3507
     },
     "radioStations": [
       {
@@ -2655,8 +2648,8 @@
   {
     "name": "ENERGY Hamburg",
     "coordinates": {
-      "lat": 53.540708,
-      "lon": 10.003799
+      "lat": 49.3173,
+      "lon": 8.4412
     },
     "radioStations": [
       {
@@ -2673,8 +2666,8 @@
   {
     "name": "ENERGY München",
     "coordinates": {
-      "lat": 48.119883,
-      "lon": 11.589409
+      "lat": 50.4289,
+      "lon": 7.4614
     },
     "radioStations": [
       {
@@ -2691,8 +2684,8 @@
   {
     "name": "ENERGY Stuttgart",
     "coordinates": {
-      "lat": 48.765408,
-      "lon": 9.192005
+      "lat": 50.4406,
+      "lon": 7.4017
     },
     "radioStations": [
       {
@@ -2709,8 +2702,8 @@
   {
     "name": "Radio TEDDY",
     "coordinates": {
-      "lat": 52.380208,
-      "lon": 13.054668
+      "lat": 49.7147,
+      "lon": 7.3075
     },
     "radioStations": [
       {
@@ -2727,8 +2720,8 @@
   {
     "name": "JAM FM",
     "coordinates": {
-      "lat": 52.512947,
-      "lon": 13.389045
+      "lat": 49.2015,
+      "lon": 7.6053
     },
     "radioStations": [
       {
@@ -2745,8 +2738,8 @@
   {
     "name": "STAR FM Berlin",
     "coordinates": {
-      "lat": 52.504783,
-      "lon": 13.396874
+      "lat": 49.2469,
+      "lon": 7.3698
     },
     "radioStations": [
       {
@@ -2763,8 +2756,8 @@
   {
     "name": "FluxFM",
     "coordinates": {
-      "lat": 52.504783,
-      "lon": 13.413126
+      "lat": 49.4433,
+      "lon": 6.6387
     },
     "radioStations": [
       {
@@ -2781,8 +2774,8 @@
   {
     "name": "egoFM",
     "coordinates": {
-      "lat": 48.125695,
-      "lon": 11.601396
+      "lat": 49.4667,
+      "lon": 7.1667
     },
     "radioStations": [
       {
@@ -2799,8 +2792,8 @@
   {
     "name": "ALEX Berlin",
     "coordinates": {
-      "lat": 52.510595,
-      "lon": 13.426273
+      "lat": 49.3445,
+      "lon": 7.1805
     },
     "radioStations": [
       {
