@@ -419,7 +419,7 @@
       "name": "Germany",
       "name_ru": "Германия",
       "flag": "https://flagcdn.com/w320/de.png",
-      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/poland_radio_stations.json"
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/germany_radio_stations.json"
     },
     {
       "name": "Ghana",
