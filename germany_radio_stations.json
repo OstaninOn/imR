@@ -1,5 +1,1419 @@
 [
   {
+    "name": "Deutschlandfunk",
+    "coordinates": {
+      "lat": 50.9375,
+      "lon": 6.9603
+    },
+    "radioStations": [
+      {
+        "title": "Deutschlandfunk",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=deutschlandfunk.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Deutschlandfunk Kultur",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.405
+    },
+    "radioStations": [
+      {
+        "title": "Deutschlandfunk Kultur",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=deutschlandfunkkultur.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Deutschlandfunk Nova",
+    "coordinates": {
+      "lat": 50.9375,
+      "lon": 6.979343
+    },
+    "radioStations": [
+      {
+        "title": "Deutschlandfunk Nova",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=deutschlandfunknova.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bayern 1 Oberbayern",
+    "coordinates": {
+      "lat": 48.1351,
+      "lon": 11.582
+    },
+    "radioStations": [
+      {
+        "title": "Bayern 1 Oberbayern",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "Bayern 2",
+    "coordinates": {
+      "lat": 48.1351,
+      "lon": 11.599981
+    },
+    "radioStations": [
+      {
+        "title": "Bayern 2",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "Bayern 3",
+    "coordinates": {
+      "lat": 48.142153,
+      "lon": 11.596547
+    },
+    "radioStations": [
+      {
+        "title": "Bayern 3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "BR Klassik",
+    "coordinates": {
+      "lat": 48.146513,
+      "lon": 11.587556
+    },
+    "radioStations": [
+      {
+        "title": "BR Klassik",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br-klassik.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "BR24",
+    "coordinates": {
+      "lat": 48.146513,
+      "lon": 11.576444
+    },
+    "radioStations": [
+      {
+        "title": "BR24",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "PULS",
+    "coordinates": {
+      "lat": 48.142153,
+      "lon": 11.567453
+    },
+    "radioStations": [
+      {
+        "title": "PULS",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/br/puls/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "1LIVE",
+    "coordinates": {
+      "lat": 50.946882,
+      "lon": 6.972173
+    },
+    "radioStations": [
+      {
+        "title": "1LIVE",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=1live.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "WDR 2",
+    "coordinates": {
+      "lat": 50.949199,
+      "lon": 6.956063
+    },
+    "radioStations": [
+      {
+        "title": "WDR 2",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-wdr2-live.icecastssl.wdr.de/wdr/wdr2/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "WDR 3",
+    "coordinates": {
+      "lat": 50.942707,
+      "lon": 6.943143
+    },
+    "radioStations": [
+      {
+        "title": "WDR 3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "WDR 4",
+    "coordinates": {
+      "lat": 50.932293,
+      "lon": 6.943143
+    },
+    "radioStations": [
+      {
+        "title": "WDR 4",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "WDR 5",
+    "coordinates": {
+      "lat": 50.925801,
+      "lon": 6.956063
+    },
+    "radioStations": [
+      {
+        "title": "WDR 5",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "COSMO",
+    "coordinates": {
+      "lat": 50.928118,
+      "lon": 6.972173
+    },
+    "radioStations": [
+      {
+        "title": "COSMO",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=cosmoradio.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SWR1 Baden-Württemberg",
+    "coordinates": {
+      "lat": 48.7758,
+      "lon": 9.1829
+    },
+    "radioStations": [
+      {
+        "title": "SWR1 Baden-Württemberg",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swr1bw/"
+      }
+    ]
+  },
+  {
+    "name": "SWR1 Rheinland-Pfalz",
+    "coordinates": {
+      "lat": 49.9929,
+      "lon": 8.2473
+    },
+    "radioStations": [
+      {
+        "title": "SWR1 Rheinland-Pfalz",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swr1rp/"
+      }
+    ]
+  },
+  {
+    "name": "SWR2",
+    "coordinates": {
+      "lat": 48.7758,
+      "lon": 9.201109
+    },
+    "radioStations": [
+      {
+        "title": "SWR2",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swr2/"
+      }
+    ]
+  },
+  {
+    "name": "SWR3",
+    "coordinates": {
+      "lat": 48.786192,
+      "lon": 9.192005
+    },
+    "radioStations": [
+      {
+        "title": "SWR3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr3.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swr3/"
+      }
+    ]
+  },
+  {
+    "name": "SWR4 Baden-Württemberg",
+    "coordinates": {
+      "lat": 48.786192,
+      "lon": 9.173795
+    },
+    "radioStations": [
+      {
+        "title": "SWR4 Baden-Württemberg",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swr4bw/"
+      }
+    ]
+  },
+  {
+    "name": "SWR Aktuell",
+    "coordinates": {
+      "lat": 48.7758,
+      "lon": 9.164691
+    },
+    "radioStations": [
+      {
+        "title": "SWR Aktuell",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=swr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/swraktuell/"
+      }
+    ]
+  },
+  {
+    "name": "DASDING",
+    "coordinates": {
+      "lat": 49.0069,
+      "lon": 8.4037
+    },
+    "radioStations": [
+      {
+        "title": "DASDING",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dasding.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liveradio.swr.de/sw282p3/dasding/"
+      }
+    ]
+  },
+  {
+    "name": "NDR 2",
+    "coordinates": {
+      "lat": 52.3759,
+      "lon": 9.732
+    },
+    "radioStations": [
+      {
+        "title": "NDR 2",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NDR Info",
+    "coordinates": {
+      "lat": 53.5511,
+      "lon": 9.9937
+    },
+    "radioStations": [
+      {
+        "title": "NDR Info",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NDR Kultur",
+    "coordinates": {
+      "lat": 53.5511,
+      "lon": 10.013898
+    },
+    "radioStations": [
+      {
+        "title": "NDR Kultur",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "N-JOY",
+    "coordinates": {
+      "lat": 53.561492,
+      "lon": 10.003799
+    },
+    "radioStations": [
+      {
+        "title": "N-JOY",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=n-joy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NDR 1 Niedersachsen",
+    "coordinates": {
+      "lat": 52.3759,
+      "lon": 9.751657
+    },
+    "radioStations": [
+      {
+        "title": "NDR 1 Niedersachsen",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NDR 1 Welle Nord",
+    "coordinates": {
+      "lat": 54.3233,
+      "lon": 10.1228
+    },
+    "radioStations": [
+      {
+        "title": "NDR 1 Welle Nord",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NDR 90,3",
+    "coordinates": {
+      "lat": 53.561492,
+      "lon": 9.983601
+    },
+    "radioStations": [
+      {
+        "title": "NDR 90,3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "radioeins",
+    "coordinates": {
+      "lat": 52.3906,
+      "lon": 13.0645
+    },
+    "radioStations": [
+      {
+        "title": "radioeins",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioeins.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "Fritz",
+    "coordinates": {
+      "lat": 52.3906,
+      "lon": 13.084163
+    },
+    "radioStations": [
+      {
+        "title": "Fritz",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=fritz.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "rbb 88.8",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.424721
+    },
+    "radioStations": [
+      {
+        "title": "rbb 88.8",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rbb888.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "rbbKultur",
+    "coordinates": {
+      "lat": 52.527053,
+      "lon": 13.420955
+    },
+    "radioStations": [
+      {
+        "title": "rbbKultur",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rbbkultur.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "Inforadio",
+    "coordinates": {
+      "lat": 52.531413,
+      "lon": 13.411094
+    },
+    "radioStations": [
+      {
+        "title": "Inforadio",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=inforadio.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Brandenburg",
+    "coordinates": {
+      "lat": 52.400992,
+      "lon": 13.054668
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Brandenburg",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antennebrandenburg.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid"
+      }
+    ]
+  },
+  {
+    "name": "hr1",
+    "coordinates": {
+      "lat": 50.1109,
+      "lon": 8.6821
+    },
+    "radioStations": [
+      {
+        "title": "hr1",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=hr1.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "hr2-kultur",
+    "coordinates": {
+      "lat": 50.1109,
+      "lon": 8.700812
+    },
+    "radioStations": [
+      {
+        "title": "hr2-kultur",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=hr2.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "hr3",
+    "coordinates": {
+      "lat": 50.119385,
+      "lon": 8.695331
+    },
+    "radioStations": [
+      {
+        "title": "hr3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=hr3.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "hr4",
+    "coordinates": {
+      "lat": 50.1229,
+      "lon": 8.6821
+    },
+    "radioStations": [
+      {
+        "title": "hr4",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=hr4.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "YOU FM",
+    "coordinates": {
+      "lat": 50.119385,
+      "lon": 8.668869
+    },
+    "radioStations": [
+      {
+        "title": "YOU FM",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=you-fm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "hr-iNFO",
+    "coordinates": {
+      "lat": 50.1109,
+      "lon": 8.663388
+    },
+    "radioStations": [
+      {
+        "title": "hr-iNFO",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=hr-info.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high"
+      }
+    ]
+  },
+  {
+    "name": "Bremen Eins",
+    "coordinates": {
+      "lat": 53.0793,
+      "lon": 8.8017
+    },
+    "radioStations": [
+      {
+        "title": "Bremen Eins",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bremeneins.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bremen Zwei",
+    "coordinates": {
+      "lat": 53.0793,
+      "lon": 8.821676
+    },
+    "radioStations": [
+      {
+        "title": "Bremen Zwei",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bremenzwei.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bremen Vier",
+    "coordinates": {
+      "lat": 53.0793,
+      "lon": 8.781724
+    },
+    "radioStations": [
+      {
+        "title": "Bremen Vier",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bremenvier.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MDR JUMP",
+    "coordinates": {
+      "lat": 51.3397,
+      "lon": 12.3731
+    },
+    "radioStations": [
+      {
+        "title": "MDR JUMP",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdrjump.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MDR AKTUELL",
+    "coordinates": {
+      "lat": 51.3397,
+      "lon": 12.392309
+    },
+    "radioStations": [
+      {
+        "title": "MDR AKTUELL",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MDR KULTUR",
+    "coordinates": {
+      "lat": 51.350092,
+      "lon": 12.363495
+    },
+    "radioStations": [
+      {
+        "title": "MDR KULTUR",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MDR SPUTNIK",
+    "coordinates": {
+      "lat": 51.4969,
+      "lon": 11.9688
+    },
+    "radioStations": [
+      {
+        "title": "MDR SPUTNIK",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sputnik.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MDR KLASSIK",
+    "coordinates": {
+      "lat": 51.329308,
+      "lon": 12.363495
+    },
+    "radioStations": [
+      {
+        "title": "MDR KLASSIK",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Bayern",
+    "coordinates": {
+      "lat": 48.1351,
+      "lon": 11.564019
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Bayern",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.antenne.de/antenne/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock Antenne",
+    "coordinates": {
+      "lat": 48.128047,
+      "lon": 11.567453
+    },
+    "radioStations": [
+      {
+        "title": "Rock Antenne",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rockantenne.de/rockantenne/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Klassik Radio",
+    "coordinates": {
+      "lat": 53.5511,
+      "lon": 9.973502
+    },
+    "radioStations": [
+      {
+        "title": "Klassik Radio",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=klassikradio.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.klassikradio.de/live/mp3-192/stream.klassikradio.de/"
+      }
+    ]
+  },
+  {
+    "name": "sunshine live",
+    "coordinates": {
+      "lat": 49.4875,
+      "lon": 8.466
+    },
+    "radioStations": [
+      {
+        "title": "sunshine live",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sunshine-live.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/"
+      }
+    ]
+  },
+  {
+    "name": "Radio BOB!",
+    "coordinates": {
+      "lat": 51.3127,
+      "lon": 9.4797
+    },
+    "radioStations": [
+      {
+        "title": "Radio BOB!",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/"
+      }
+    ]
+  },
+  {
+    "name": "HIT RADIO FFH",
+    "coordinates": {
+      "lat": 50.102415,
+      "lon": 8.668869
+    },
+    "radioStations": [
+      {
+        "title": "HIT RADIO FFH",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.ffh.de/radioffh/hqlivestream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "planet radio",
+    "coordinates": {
+      "lat": 50.0989,
+      "lon": 8.6821
+    },
+    "radioStations": [
+      {
+        "title": "planet radio",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=planetradio.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.planetradio.de/planetradio/hqlivestream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "harmony.fm",
+    "coordinates": {
+      "lat": 50.099586,
+      "lon": 8.699742
+    },
+    "radioStations": [
+      {
+        "title": "harmony.fm",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=harmonyfm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "bigFM Deutschland",
+    "coordinates": {
+      "lat": 48.765408,
+      "lon": 9.173795
+    },
+    "radioStations": [
+      {
+        "title": "bigFM Deutschland",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bigfm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bigfm.de/deutschland/mp3-128"
+      }
+    ]
+  },
+  {
+    "name": "RPR1.",
+    "coordinates": {
+      "lat": 49.4774,
+      "lon": 8.4452
+    },
+    "radioStations": [
+      {
+        "title": "RPR1.",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rpr1.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.rpr1.de/rpr-128-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Regenbogen",
+    "coordinates": {
+      "lat": 49.4875,
+      "lon": 8.484473
+    },
+    "radioStations": [
+      {
+        "title": "Radio Regenbogen",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=regenbogen.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.regenbogen.de/radio/mp3-128"
+      }
+    ]
+  },
+  {
+    "name": "Radio Paloma",
+    "coordinates": {
+      "lat": 52.531413,
+      "lon": 13.398906
+    },
+    "radioStations": [
+      {
+        "title": "Radio Paloma",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiopaloma.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://pool.radiopaloma.de/RADIOPALOMA.mp3"
+      }
+    ]
+  },
+  {
+    "name": "89.0 RTL",
+    "coordinates": {
+      "lat": 52.1205,
+      "lon": 11.6276
+    },
+    "radioStations": [
+      {
+        "title": "89.0 RTL",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=89.0rtl.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.89.0rtl.de/live/mp3-192/stream.89.0rtl.de/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Brocken",
+    "coordinates": {
+      "lat": 52.1205,
+      "lon": 11.647144
+    },
+    "radioStations": [
+      {
+        "title": "Radio Brocken",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobrocken.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiobrocken.de/live/mp3-192/stream.radiobrocken.de/"
+      }
+    ]
+  },
+  {
+    "name": "104.6 RTL",
+    "coordinates": {
+      "lat": 52.527053,
+      "lon": 13.389045
+    },
+    "radioStations": [
+      {
+        "title": "104.6 RTL",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=104.6rtl.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.104.6rtl.com/rtl-live/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "Radio Hamburg",
+    "coordinates": {
+      "lat": 53.540708,
+      "lon": 9.983601
+    },
+    "radioStations": [
+      {
+        "title": "Radio Hamburg",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiohamburg.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/rhh-radiohamburg/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 7",
+    "coordinates": {
+      "lat": 48.4011,
+      "lon": 9.9876
+    },
+    "radioStations": [
+      {
+        "title": "Radio 7",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radio7.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio7.de/radio7-live/mp3-192/stream.radio7.de/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gong 96.3",
+    "coordinates": {
+      "lat": 48.119883,
+      "lon": 11.574591
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gong 96.3",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiogong.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.radiogong963.c.nmdn.net/ps-radiogong/livestream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gong 97.1",
+    "coordinates": {
+      "lat": 49.4521,
+      "lon": 11.0767
+    },
+    "radioStations": [
+      {
+        "title": "Gong 97.1",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=gong971.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gong971-de-hz-fal-stream01-cluster01.radiohost.de/gong971-live_mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "ENERGY Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lon": 13.385279
+    },
+    "radioStations": [
+      {
+        "title": "ENERGY Berlin",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/energy-berlin/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "ENERGY Hamburg",
+    "coordinates": {
+      "lat": 53.540708,
+      "lon": 10.003799
+    },
+    "radioStations": [
+      {
+        "title": "ENERGY Hamburg",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/energy-hamburg/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "ENERGY München",
+    "coordinates": {
+      "lat": 48.119883,
+      "lon": 11.589409
+    },
+    "radioStations": [
+      {
+        "title": "ENERGY München",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/energy-muenchen/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "ENERGY Stuttgart",
+    "coordinates": {
+      "lat": 48.765408,
+      "lon": 9.192005
+    },
+    "radioStations": [
+      {
+        "title": "ENERGY Stuttgart",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/energy-stuttgart/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio TEDDY",
+    "coordinates": {
+      "lat": 52.380208,
+      "lon": 13.054668
+    },
+    "radioStations": [
+      {
+        "title": "Radio TEDDY",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioteddy.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ir-media.hoerradar.de/teddy-live-mp3-mq"
+      }
+    ]
+  },
+  {
+    "name": "JAM FM",
+    "coordinates": {
+      "lat": 52.512947,
+      "lon": 13.389045
+    },
+    "radioStations": [
+      {
+        "title": "JAM FM",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=jam.fm",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.jam.fm/jamfm-live/mp3-128"
+      }
+    ]
+  },
+  {
+    "name": "STAR FM Berlin",
+    "coordinates": {
+      "lat": 52.504783,
+      "lon": 13.396874
+    },
+    "radioStations": [
+      {
+        "title": "STAR FM Berlin",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=starfm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.starfm.de/berlin/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "FluxFM",
+    "coordinates": {
+      "lat": 52.504783,
+      "lon": 13.413126
+    },
+    "radioStations": [
+      {
+        "title": "FluxFM",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=fluxfm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.fluxfm.de/live/mp3-128/streams.fluxfm.de/"
+      }
+    ]
+  },
+  {
+    "name": "egoFM",
+    "coordinates": {
+      "lat": 48.125695,
+      "lon": 11.601396
+    },
+    "radioStations": [
+      {
+        "title": "egoFM",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=egofm.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.egofm.de/egoFM-hq"
+      }
+    ]
+  },
+  {
+    "name": "ALEX Berlin",
+    "coordinates": {
+      "lat": 52.510595,
+      "lon": 13.426273
+    },
+    "radioStations": [
+      {
+        "title": "ALEX Berlin",
+        "subtitle": "Germany",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=alex-berlin.de",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://alex-stream.rosebud-media.de:8443/live.mp3"
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+  
+  {
     "name": "Deutschlandfunk Dokumente und Debatten",
     "coordinates": {
       "lat": 52.52,
