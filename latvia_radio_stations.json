@@ -1,2233 +1,1405 @@
 [
   {
-    "name": "Ретро FM Рига (Retro FM)",
+    "name": "Deutschlandfunk Dokumente und Debatten",
     "coordinates": {
-      "lat": 57.729438,
-      "lon": 25.691308
+      "lat": 52.52,
+      "lon": 13.405
     },
     "radioStations": [
       {
-        "title": "Ретро FM Рига (Retro FM)",
-        "subtitle": "Latvia",
+        "title": "Deutschlandfunk Dokumente und Debatten",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://retrofm.lv/view/site/favicons/apple-touch-icon.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=deutschlandradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.retrofm.lv/retrofmlatvia"
+        "streamURL": "https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Dance",
+    "name": "Bayern 1 Niederbayern/Oberpfalz",
     "coordinates": {
-      "lat": 56.668217,
-      "lon": 23.085412
+      "lat": 49.0134,
+      "lon": 12.1016
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Dance",
-        "subtitle": "Latvia",
+        "title": "Bayern 1 Niederbayern/Oberpfalz",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_24.aac"
+        "streamURL": "https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid"
       }
     ]
   },
   {
-    "name": "NewDanceRadio",
+    "name": "Bayern 1 Schwaben",
     "coordinates": {
-      "lat": 56.959525,
-      "lon": 25.411662
+      "lat": 48.3705,
+      "lon": 10.8978
     },
     "radioStations": [
       {
-        "title": "NewDanceRadio",
-        "subtitle": "Latvia",
+        "title": "Bayern 1 Schwaben",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.newdanceradio.ru",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.newdanceradio.ru/"
+        "streamURL": "https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid"
       }
     ]
   },
   {
-    "name": "Latvijas Radio 2",
+    "name": "Bayern 1 Franken",
     "coordinates": {
-      "lat": 57.346189,
-      "lon": 24.293944
+      "lat": 49.4521,
+      "lon": 11.0767
     },
     "radioStations": [
       {
-        "title": "Latvijas Radio 2",
-        "subtitle": "Latvia",
+        "title": "Bayern 1 Franken",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr2.lsm.lv/favicon/lr2-favicon-180x180.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr2mp1.latvijasradio.lv:8002/;"
+        "streamURL": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid"
       }
     ]
   },
   {
-    "name": "European Hit Radio - SuperHits",
+    "name": "Bayern 1 Mainfranken",
     "coordinates": {
-      "lat": 57.705566,
-      "lon": 23.379874
+      "lat": 49.7913,
+      "lon": 9.9534
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - SuperHits",
-        "subtitle": "Latvia",
+        "title": "Bayern 1 Mainfranken",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_21.aac"
+        "streamURL": "https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid"
       }
     ]
   },
   {
-    "name": "Latvijas Radio 1",
+    "name": "BR Heimat",
     "coordinates": {
-      "lat": 57.309284,
-      "lon": 25.017272
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Latvijas Radio 1",
-        "subtitle": "Latvia",
+        "title": "BR Heimat",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr1.lsm.lv/favicon/lr1-favicon-180x180.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr1mp1.latvijasradio.lv:8012/;"
+        "streamURL": "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
       }
     ]
   },
   {
-    "name": "Radio ENERGY.LV - Russian",
+    "name": "BR Schlager",
     "coordinates": {
-      "lat": 57.473489,
-      "lon": 25.183711
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio ENERGY.LV - Russian",
-        "subtitle": "Latvia",
+        "title": "BR Schlager",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=www.radioenergy.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://www.radioenergy.lv:9000/"
+        "streamURL": "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Russkie Hiti",
+    "name": "BR24live",
     "coordinates": {
-      "lat": 57.60505,
-      "lon": 26.672702
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Russkie Hiti",
-        "subtitle": "Latvia",
+        "title": "BR24live",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/khr.aac"
+        "streamURL": "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
       }
     ]
   },
   {
-    "name": "Авторадио Латвия",
+    "name": "1LIVE diggi",
     "coordinates": {
-      "lat": 56.953,
-      "lon": 24.1059
+      "lat": 50.9375,
+      "lon": 6.9603
     },
     "radioStations": [
       {
-        "title": "Авторадио Латвия",
-        "subtitle": "Riga",
+        "title": "1LIVE diggi",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://avtoradio.lv/upload/design/64df68073caa85.35482071.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=1live.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.relaxfm.lv/03"
+        "streamURL": "https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "Latvijas Radio 4",
+    "name": "WDR Event",
     "coordinates": {
-      "lat": 57.323466,
-      "lon": 24.308495
+      "lat": 50.9375,
+      "lon": 6.9603
     },
     "radioStations": [
       {
-        "title": "Latvijas Radio 4",
-        "subtitle": "Latvia",
+        "title": "WDR Event",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr4.lsm.lv/favicon/lr4-favicon-180x180.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wdr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr4mp1.latvijasradio.lv:8020/;"
+        "streamURL": "https://wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Party Service",
+    "name": "NDR Blue",
     "coordinates": {
-      "lat": 57.397444,
-      "lon": 25.530462
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Party Service",
-        "subtitle": "Latvia",
+        "title": "NDR Blue",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_12.aac"
+        "streamURL": "https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "Alise Plus",
+    "name": "NDR Schlager",
     "coordinates": {
-      "lat": 57.567994,
-      "lon": 24.565467
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "Alise Plus",
-        "subtitle": "Latvia",
+        "title": "NDR Schlager",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=fm2inet.aliseplus.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://fm2inet.aliseplus.lv:8080/"
+        "streamURL": "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Top 40",
+    "name": "NDR 1 Radio MV",
     "coordinates": {
-      "lat": 57.807575,
-      "lon": 26.174923
+      "lat": 53.6355,
+      "lon": 11.4012
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Top 40",
-        "subtitle": "Latvia",
+        "title": "NDR 1 Radio MV",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ndr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_27.aac"
+        "streamURL": "https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Latviešu Hiti",
+    "name": "MDR Sachsen",
     "coordinates": {
-      "lat": 56.608794,
-      "lon": 25.049803
+      "lat": 51.0504,
+      "lon": 13.7373
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Latviešu Hiti",
-        "subtitle": "Latvia",
+        "title": "MDR Sachsen",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_22.aac"
+        "streamURL": "https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio",
+    "name": "MDR Sachsen-Anhalt",
     "coordinates": {
-      "lat": 56.517352,
-      "lon": 24.644988
+      "lat": 52.1205,
+      "lon": 11.6276
     },
     "radioStations": [
       {
-        "title": "European Hit Radio",
-        "subtitle": "Latvia",
+        "title": "MDR Sachsen-Anhalt",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/ehr.aac"
+        "streamURL": "https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3"
       }
     ]
   },
   {
-    "name": "Radio SWH",
+    "name": "MDR Thüringen",
     "coordinates": {
-      "lat": 57.522233,
-      "lon": 24.250819
+      "lat": 50.9848,
+      "lon": 11.0299
     },
     "radioStations": [
       {
-        "title": "Radio SWH",
-        "subtitle": "Latvia",
+        "title": "MDR Thüringen",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.radioswh.lv/favicon.ico",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/swh96mp3"
+        "streamURL": "https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3"
       }
     ]
   },
   {
-    "name": "TOP radio",
+    "name": "MDR Schlagerwelt",
     "coordinates": {
-      "lat": 57.149676,
-      "lon": 26.821498
+      "lat": 51.3397,
+      "lon": 12.3731
     },
     "radioStations": [
       {
-        "title": "TOP radio",
-        "subtitle": "Latvia",
+        "title": "MDR Schlagerwelt",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://topradio.lv/favicon.ico",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mdr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio"
+        "streamURL": "https://mdr-284360-0.sslcast.mdr.de/mdr/284360/0/mp3/high/stream.mp3"
       }
     ]
   },
   {
-    "name": "Radio TEV",
+    "name": "SR 1 Europawelle",
     "coordinates": {
-      "lat": 56.940839,
-      "lon": 24.110629
+      "lat": 49.2402,
+      "lon": 6.9969
     },
     "radioStations": [
       {
-        "title": "Radio TEV",
-        "subtitle": "Riga",
+        "title": "SR 1 Europawelle",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radiotev.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.radiotev.lv:8002/radiov"
+        "streamURL": "https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "Radio SWH Rock",
+    "name": "SR 2 KulturRadio",
     "coordinates": {
-      "lat": 57.579045,
-      "lon": 26.143742
+      "lat": 49.2402,
+      "lon": 6.9969
     },
     "radioStations": [
       {
-        "title": "Radio SWH Rock",
-        "subtitle": "Latvia",
+        "title": "SR 2 KulturRadio",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioswhrock.lv/wp-content/uploads/2019/11/cropped-favicon-1-180x180.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/rock96mp3"
+        "streamURL": "https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "Star Fm",
+    "name": "SR 3 Saarlandwelle",
     "coordinates": {
-      "lat": 56.595545,
-      "lon": 22.788904
+      "lat": 49.2402,
+      "lon": 6.9969
     },
     "radioStations": [
       {
-        "title": "Star Fm",
-        "subtitle": "Latvia",
+        "title": "SR 3 Saarlandwelle",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=starfm.live.advailo.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sr.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://starfm.live.advailo.com/audio/mp3/icecast.audio"
+        "streamURL": "https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "Radio ENERGY.LV",
+    "name": "UNSERDING",
     "coordinates": {
-      "lat": 56.747901,
-      "lon": 23.31697
+      "lat": 49.2402,
+      "lon": 6.9969
     },
     "radioStations": [
       {
-        "title": "Radio ENERGY.LV",
-        "subtitle": "Latvia",
+        "title": "UNSERDING",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=www.radioenergy.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=unserding.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://www.radioenergy.lv:8000/"
+        "streamURL": "https://liveradio.sr.de/sr/unserding/mp3/128/stream.mp3"
       }
     ]
   },
   {
-    "name": "LRMAROCKRADIO",
+    "name": "Radio 3",
     "coordinates": {
-      "lat": 57.675691,
-      "lon": 24.417578
+      "lat": 52.3906,
+      "lon": 13.0645
     },
     "radioStations": [
       {
-        "title": "LRMAROCKRADIO",
-        "subtitle": "Latvia",
+        "title": "Radio 3",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=c22.radioboss.fm",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radio3.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://c22.radioboss.fm:18318/stream"
+        "streamURL": "https://dispatcher.rndfnk.com/rbb/radio3/live/mp3/mid"
       }
     ]
   },
   {
-    "name": "Talsi Lounge",
+    "name": "Absolut TOP",
     "coordinates": {
-      "lat": 57.253,
-      "lon": 22.5842
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Talsi Lounge",
-        "subtitle": "Latvia",
+        "title": "Absolut TOP",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.kuums.lv/img/kuums-draugiem.jpg",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://radio.kuums.lv:5555/;"
+        "streamURL": "https://absolutradio.stream24.net/absolut-top.mp3"
       }
     ]
   },
   {
-    "name": "Skonto",
+    "name": "Absolut relax",
     "coordinates": {
-      "lat": 57.455563,
-      "lon": 24.816538
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Skonto",
-        "subtitle": "Rīgā ",
+        "title": "Absolut relax",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radioskonto.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.radioskonto.lv:8443/stereo"
+        "streamURL": "https://absolutradio.stream24.net/absolut-relax.mp3"
       }
     ]
   },
   {
-    "name": "SWHPlus",
+    "name": "Absolut HOT",
     "coordinates": {
-      "lat": 57.797829,
-      "lon": 22.067215
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "SWHPlus",
-        "subtitle": "Rīgā ",
+        "title": "Absolut HOT",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=80.232.162.149",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/plus96mp3"
+        "streamURL": "https://absolutradio.stream24.net/absolut-hot.mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Darbam",
+    "name": "Absolut Bella",
     "coordinates": {
-      "lat": 57.721572,
-      "lon": 22.511804
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Darbam",
-        "subtitle": "Latvia",
+        "title": "Absolut Bella",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_23.aac"
+        "streamURL": "https://absolutradio.stream24.net/absolut-bella.mp3"
       }
     ]
   },
   {
-    "name": "Talsi Remix",
+    "name": "Absolut Oldie Classics",
     "coordinates": {
-      "lat": 57.240839,
-      "lon": 22.588929
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Talsi Remix",
-        "subtitle": "Latvia",
+        "title": "Absolut Oldie Classics",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.kuums.lv/favicon.ico",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://radio.kuums.lv:5555/"
+        "streamURL": "https://absolutradio.stream24.net/absolut-oldieclassics.mp3"
       }
     ]
   },
   {
-    "name": "XO.FM",
+    "name": "Absolut Germany",
     "coordinates": {
-      "lat": 57.360358,
-      "lon": 26.221189
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "XO.FM",
-        "subtitle": "Latvia",
+        "title": "Absolut Germany",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=live.xo.fm",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.xo.fm/xofm128"
+        "streamURL": "https://absolutradio.stream24.net/absolut-germany.mp3"
       }
     ]
   },
   {
-    "name": "Latvijas Radio 3 - Klasika",
+    "name": "Absolut musicXL",
     "coordinates": {
-      "lat": 57.376266,
-      "lon": 23.852982
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Latvijas Radio 3 - Klasika",
-        "subtitle": "Latvia",
+        "title": "Absolut musicXL",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZRsZ-GV51S6hs4kQcT_QaM1BKdoGfqAomjATuY0XgZQ444zqfiw",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr3mp0.latvijasradio.lv:8004/;"
+        "streamURL": "https://absolutradio.stream24.net/absolut-musicxl.mp3"
       }
     ]
   },
   {
-    "name": "Radio SWH Gold",
+    "name": "Antenne Bayern Top 40",
     "coordinates": {
-      "lat": 56.868256,
-      "lon": 23.446075
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio SWH Gold",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Top 40",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.radioswh.lv/favicon.ico",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/gold96mp3"
+        "streamURL": "https://stream.antenne.de/top-40/stream/mp3"
       }
     ]
   },
   {
-    "name": "Latgales Radio",
+    "name": "Antenne Bayern Classic Rock",
     "coordinates": {
-      "lat": 57.518047,
-      "lon": 25.224733
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Latgales Radio",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Classic Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=www.radiolg.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://www.radiolg.lv:8000/128_aac"
+        "streamURL": "https://stream.antenne.de/classic-rock/stream/mp3"
       }
     ]
   },
   {
-    "name": "Radio SWH - Spin FM",
+    "name": "Antenne Bayern Chillout",
     "coordinates": {
-      "lat": 57.706592,
-      "lon": 22.525924
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio SWH - Spin FM",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Chillout",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=80.232.162.149",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/spin96mp3"
+        "streamURL": "https://stream.antenne.de/chillout/stream/mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Fresh",
+    "name": "Antenne Bayern 80er Kulthits",
     "coordinates": {
-      "lat": 57.993993,
-      "lon": 26.357691
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Fresh",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern 80er Kulthits",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_25.aac"
+        "streamURL": "https://stream.antenne.de/80er-kulthits/stream/mp3"
       }
     ]
   },
   {
-    "name": "Radio NABA",
+    "name": "Antenne Bayern Oldies but Goldies",
     "coordinates": {
-      "lat": 56.64151,
-      "lon": 23.502824
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio NABA",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Oldies but Goldies",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nabamp0.latvijasradio.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://nabamp0.latvijasradio.lv:8016/;"
+        "streamURL": "https://stream.antenne.de/oldies-but-goldies/stream/mp3"
       }
     ]
   },
   {
-    "name": "European Hit Radio - Eurochart",
+    "name": "Antenne Bayern Lovesongs",
     "coordinates": {
-      "lat": 57.856372,
-      "lon": 24.925268
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "European Hit Radio - Eurochart",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Lovesongs",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_31.aac"
+        "streamURL": "https://stream.antenne.de/lovesongs/stream/mp3"
       }
     ]
   },
   {
-    "name": "Eiropas Hītu Radio",
+    "name": "Antenne Bayern Schlagersahne",
     "coordinates": {
-      "lat": 56.663433,
-      "lon": 22.498303
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Eiropas Hītu Radio",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Schlagersahne",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/ehr.mp3"
+        "streamURL": "https://stream.antenne.de/schlagersahne/stream/mp3"
       }
     ]
   },
   {
-    "name": "Radio 7",
+    "name": "Antenne Bayern Hits für Kids",
     "coordinates": {
-      "lat": 57.03434,
-      "lon": 22.941965
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio 7",
-        "subtitle": "Latvia",
+        "title": "Antenne Bayern Hits für Kids",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-180x180.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.radio7.lv:8024/Radio7"
+        "streamURL": "https://stream.antenne.de/hits-fuer-kids/stream/mp3"
       }
     ]
   },
   {
-    "name": "Relax",
+    "name": "Rock Antenne Classic Perlen",
     "coordinates": {
-      "lat": 56.6581,
-      "lon": 23.7213
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Relax",
-        "subtitle": "Jelgava",
+        "title": "Rock Antenne Classic Perlen",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=live.relaxfm.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.relaxfm.lv/02"
+        "streamURL": "https://stream.rockantenne.de/classic-perlen/stream/mp3"
       }
     ]
   },
   {
-    "name": "Skonto Plus",
+    "name": "Rock Antenne Heavy Metal",
     "coordinates": {
-      "lat": 56.94661,
-      "lon": 24.098927
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Skonto Plus",
-        "subtitle": "Riga ",
+        "title": "Rock Antenne Heavy Metal",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radioskontoplus.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.radioskontoplus.lv:8443/st128"
+        "streamURL": "https://stream.rockantenne.de/heavy-metal/stream/mp3"
       }
     ]
   },
   {
-    "name": "Nordic Chillout Radio",
+    "name": "Rock Antenne Alternative",
     "coordinates": {
-      "lat": 56.950261,
-      "lon": 24.111453
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Nordic Chillout Radio",
-        "subtitle": "Riga",
+        "title": "Rock Antenne Alternative",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://play.radioking.io/nordic-chillout-radio/736489"
+        "streamURL": "https://stream.rockantenne.de/alternative/stream/mp3"
       }
     ]
   },
   {
-    "name": "RADIO MARIA LATVIA",
+    "name": "Rock Antenne Deutschrock",
     "coordinates": {
-      "lat": 56.8866,
-      "lon": 24.6032
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "RADIO MARIA LATVIA",
-        "subtitle": "Latvia",
+        "title": "Rock Antenne Deutschrock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dreamsiteradiocp2.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://dreamsiteradiocp2.com:8046/stream"
+        "streamURL": "https://stream.rockantenne.de/deutschrock/stream/mp3"
       }
     ]
   },
   {
-    "name": "LV Radio 4",
+    "name": "Rock Antenne 80er Rock",
     "coordinates": {
-      "lat": 56.939106,
-      "lon": 24.104684
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "LV Radio 4",
-        "subtitle": "Riga",
+        "title": "Rock Antenne 80er Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr4mp1.latvijasradio.lv:8020/",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr4mp1.latvijasradio.lv:8020/"
+        "streamURL": "https://stream.rockantenne.de/80er-rock/stream/mp3"
       }
     ]
   },
   {
-    "name": "Latvijas Radio 5",
+    "name": "Rock Antenne 90er Rock",
     "coordinates": {
-      "lat": 57.603188,
-      "lon": 23.546062
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Latvijas Radio 5",
-        "subtitle": "Latvia",
+        "title": "Rock Antenne 90er Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=lr5mp1.latvijasradio.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr5mp1.latvijasradio.lv:8012/;"
+        "streamURL": "https://stream.rockantenne.de/90er-rock/stream/mp3"
       }
     ]
   },
   {
-    "name": "LV Radio 2",
+    "name": "Rock Antenne Soft Rock",
     "coordinates": {
-      "lat": 56.951904,
-      "lon": 24.102139
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "LV Radio 2",
-        "subtitle": "Riga",
+        "title": "Rock Antenne Soft Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr2mp1.latvijasradio.lv:8002/",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr2mp1.latvijasradio.lv:8002/"
+        "streamURL": "https://stream.rockantenne.de/soft-rock/stream/mp3"
       }
     ]
   },
   {
-    "name": "Radio SWH LV",
+    "name": "Rock Antenne Blues Rock",
     "coordinates": {
-      "lat": 57.662216,
-      "lon": 23.551375
+      "lat": 48.1351,
+      "lon": 11.582
     },
     "radioStations": [
       {
-        "title": "Radio SWH LV",
-        "subtitle": "Latvia",
+        "title": "Rock Antenne Blues Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioswhlv.lv/wp-content/uploads/2022/02/cropped-swh_lv_512_2-32x32.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rockantenne.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.radioswh.lv:8443/swh_lv"
+        "streamURL": "https://stream.rockantenne.de/blues-rock/stream/mp3"
       }
     ]
   },
   {
-    "name": "Radio Roks",
+    "name": "Radio BOB! Classic Rock",
     "coordinates": {
-      "lat": 56.590714,
-      "lon": 22.769212
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "Radio Roks",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! Classic Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioroks.lv/upload/design/63891096d7cfc0.23308165.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.relaxfm.lv/06"
+        "streamURL": "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "EHR",
+    "name": "Radio BOB! Metal",
     "coordinates": {
-      "lat": 56.690849,
-      "lon": 25.769896
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "EHR",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! Metal",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ehr.fm/build/favicons/favicon.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.ehrhiti.lv:8000/ehr.aac"
+        "streamURL": "https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "SWH",
+    "name": "Radio BOB! Alternative Rock",
     "coordinates": {
-      "lat": 56.944188,
-      "lon": 24.112661
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "SWH",
-        "subtitle": "Riga ",
+        "title": "Radio BOB! Alternative Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://80.232.162.149:8000/swh96mp3",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://80.232.162.149:8000/swh96mp3"
+        "streamURL": "https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "Latvijas Kristīgais Radio",
+    "name": "Radio BOB! Deutsch Rock",
     "coordinates": {
-      "lat": 57.703055,
-      "lon": 25.528058
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "Latvijas Kristīgais Radio",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! Deutsch Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://lkr.lv/icon-128x128.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://radio.lkr.lv/;?type=http&nocache=40"
+        "streamURL": "https://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "Kurzemes Radio",
+    "name": "Radio BOB! Punk",
     "coordinates": {
-      "lat": 57.205391,
-      "lon": 26.601093
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "Kurzemes Radio",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! Punk",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=31.170.16.6",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://31.170.16.6:8000/"
+        "streamURL": "https://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "Radio Skonto Plus",
+    "name": "Radio BOB! 80er Rock",
     "coordinates": {
-      "lat": 57.398409,
-      "lon": 22.36412
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "Radio Skonto Plus",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! 80er Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radioskontoplus.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.radioskontoplus.lv:8443/st128"
+        "streamURL": "https://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "SuperHits",
+    "name": "Radio BOB! 90er Rock",
     "coordinates": {
-      "lat": 56.872384,
-      "lon": 25.553225
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "SuperHits",
-        "subtitle": "Latvia",
+        "title": "Radio BOB! 90er Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ehr.fm/content/channels/1097ed8f-d318-4a08-89bd-a1fa548674f5.png?w=205&h=205&fm=webp&s=ab323f7af1c6835a75ef5b27185f360d",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.ehrhiti.lv:8000/Stream_21.aac"
+        "streamURL": "https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "EHR Remixes",
+    "name": "Radio BOB! Kuschelrock",
     "coordinates": {
-      "lat": 56.942768,
-      "lon": 24.099691
+      "lat": 51.3127,
+      "lon": 9.4797
     },
     "radioStations": [
       {
-        "title": "EHR Remixes",
-        "subtitle": "Riga",
+        "title": "Radio BOB! Kuschelrock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobob.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_32.mp3"
+        "streamURL": "https://streams.radiobob.de/bob-kuschelrock/mp3-192/streams.radiobob.de/"
       }
     ]
   },
   {
-    "name": "LV Radio 1",
+    "name": "FFH Die 80er",
     "coordinates": {
-      "lat": 56.959156,
-      "lon": 24.110688
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "LV Radio 1",
-        "subtitle": "Riga ",
+        "title": "FFH Die 80er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://lr1mp1.latvijasradio.lv:8012/",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://lr1mp1.latvijasradio.lv:8012/"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hq80er.mp3"
       }
     ]
   },
   {
-    "name": "Retro FM Latvija",
+    "name": "FFH Die 90er",
     "coordinates": {
-      "lat": 57.711774,
-      "lon": 22.003903
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "Retro FM Latvija",
-        "subtitle": "Latvia",
+        "title": "FFH Die 90er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ehr.fm/content/channels/614c776f-f4e9-4370-a221-999d4c675c97.png?w=205&h=205&fm=webp&s=63442b5cdd1bc22bc65780825c083d18",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.ehrhiti.lv:8000/Stream_RE.aac"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hq90er.mp3"
       }
     ]
   },
   {
-    "name": "Latviešu hiti",
+    "name": "FFH Eurodance",
     "coordinates": {
-      "lat": 56.905952,
-      "lon": 24.195506
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "Latviešu hiti",
-        "subtitle": "Latvia",
+        "title": "FFH Eurodance",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ehr.fm/content/channels/e253bd86-c97a-4117-a7d8-4dd65fe00a2c.png?w=205&h=205&fm=webp&s=ce07c22c9642da2d67534f85b1c14180",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.ehrhiti.lv:8000/Stream_22.aac"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hqeurodance.mp3"
       }
     ]
   },
   {
-    "name": "EHR TOP-40",
+    "name": "FFH Rock",
     "coordinates": {
-      "lat": 57.79105,
-      "lon": 25.601152
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "EHR TOP-40",
-        "subtitle": "Latvia",
+        "title": "FFH Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_27.aac"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hqrock.mp3"
       }
     ]
   },
   {
-    "name": "EHR Fresh",
+    "name": "FFH Lounge",
     "coordinates": {
-      "lat": 56.647489,
-      "lon": 26.052453
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "EHR Fresh",
-        "subtitle": "Latvia",
+        "title": "FFH Lounge",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_25.aac"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hqlounge.mp3"
       }
     ]
   },
   {
-    "name": "EHR Party Service",
+    "name": "FFH Weihnachtsradio",
     "coordinates": {
-      "lat": 56.933066,
-      "lon": 24.111258
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "EHR Party Service",
-        "subtitle": "Riga",
+        "title": "FFH Weihnachtsradio",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_12.mp3"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hqxmas.mp3"
       }
     ]
   },
   {
-    "name": "EHR Dance",
+    "name": "FFH Schlager",
     "coordinates": {
-      "lat": 56.951917,
-      "lon": 24.093212
+      "lat": 50.1109,
+      "lon": 8.6821
     },
     "radioStations": [
       {
-        "title": "EHR Dance",
-        "subtitle": "Riga",
+        "title": "FFH Schlager",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.europeanhitradio.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ffh.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_24.mp3"
+        "streamURL": "https://mp3.ffh.de/ffhchannels/hqschlager.mp3"
       }
     ]
   },
   {
-    "name": "Njoyradio",
+    "name": "Klassik Radio Movie",
     "coordinates": {
-      "lat": 57.775327,
-      "lon": 24.376375
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "Njoyradio",
-        "subtitle": "Latvia",
+        "title": "Klassik Radio Movie",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=live.njoyradio.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=klassikradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.njoyradio.lv/02"
+        "streamURL": "https://stream.klassikradio.de/movie/mp3-192/stream.klassikradio.de/"
       }
     ]
   },
   {
-    "name": "TOP radio lv",
+    "name": "Klassik Radio Piano",
     "coordinates": {
-      "lat": 56.95021,
-      "lon": 24.119252
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "TOP radio lv",
-        "subtitle": "Riga",
+        "title": "Klassik Radio Piano",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=live.advailo.com",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=klassikradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.advailo.com/topradio/live/playlist.m3u8"
+        "streamURL": "https://stream.klassikradio.de/piano/mp3-192/stream.klassikradio.de/"
       }
     ]
   },
   {
-    "name": "Radio Melodija",
+    "name": "Klassik Radio Bach",
     "coordinates": {
-      "lat": 57.844163,
-      "lon": 26.496118
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "Radio Melodija",
-        "subtitle": "Рига",
+        "title": "Klassik Radio Bach",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radiomelodija.lv/upload/photos/69048604d622c8.08038779_final.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=klassikradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.relaxfm.lv/08"
+        "streamURL": "https://stream.klassikradio.de/bach/mp3-192/stream.klassikradio.de/"
       }
     ]
   },
   {
-    "name": "EHR Gold",
+    "name": "Klassik Radio Opera",
     "coordinates": {
-      "lat": 56.933876,
-      "lon": 24.0989
+      "lat": 53.5511,
+      "lon": 9.9937
     },
     "radioStations": [
       {
-        "title": "EHR Gold",
-        "subtitle": "Riga",
+        "title": "Klassik Radio Opera",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=klassikradio.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_64.mp3"
+        "streamURL": "https://stream.klassikradio.de/opera/mp3-192/stream.klassikradio.de/"
       }
     ]
   },
   {
-    "name": "Mix FM 102,7",
+    "name": "sunshine live Classics",
     "coordinates": {
-      "lat": 56.522657,
-      "lon": 22.540401
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Mix FM 102,7",
-        "subtitle": "Rīgā ",
+        "title": "sunshine live Classics",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://mixfm.lv/upload/players/6564bef731b954.54432755.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sunshine-live.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.relaxfm.lv/07"
+        "streamURL": "https://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/"
       }
     ]
   },
   {
-    "name": "Chillax FM",
+    "name": "sunshine live 90er",
     "coordinates": {
-      "lat": 56.959668,
-      "lon": 24.10287
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Chillax FM",
-        "subtitle": "Riga",
+        "title": "sunshine live 90er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://skontotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/straumes_1a_kartite_chillax%20FM.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sunshine-live.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://streams.chillaxfm.lv/chillaxfm"
+        "streamURL": "https://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de/"
       }
     ]
   },
   {
-    "name": "Your City Padio",
+    "name": "sunshine live Techno",
     "coordinates": {
-      "lat": 56.93797,
-      "lon": 24.117368
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Your City Padio",
-        "subtitle": "Riga",
+        "title": "sunshine live Techno",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=c28.radioboss.fm",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sunshine-live.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://c28.radioboss.fm:18234/stream"
+        "streamURL": "https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/"
       }
     ]
   },
   {
-    "name": "Your City Radio",
+    "name": "sunshine live Trance",
     "coordinates": {
-      "lat": 56.986971,
-      "lon": 24.514844
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Your City Radio",
-        "subtitle": "Latvia",
+        "title": "sunshine live Trance",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://c28.radioboss.fm/stationlogo/234.jpg?9299",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=sunshine-live.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://c34.radioboss.fm:8234/stream"
+        "streamURL": "https://stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/"
       }
     ]
   },
   {
-    "name": "EHR Festivālu Hiti",
+    "name": "RPR1. 80er",
     "coordinates": {
-      "lat": 56.944173,
-      "lon": 24.09202
+      "lat": 49.4774,
+      "lon": 8.4452
     },
     "radioStations": [
       {
-        "title": "EHR Festivālu Hiti",
-        "subtitle": "Riga",
+        "title": "RPR1. 80er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rpr1.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_73.mp3"
+        "streamURL": "https://streams.rpr1.de/rpr-80er-128-mp3"
       }
     ]
   },
   {
-    "name": "EHR Ice Ice Party",
+    "name": "RPR1. 90er",
     "coordinates": {
-      "lat": 56.962087,
-      "lon": 24.119399
+      "lat": 49.4774,
+      "lon": 8.4452
     },
     "radioStations": [
       {
-        "title": "EHR Ice Ice Party",
-        "subtitle": "Riga",
+        "title": "RPR1. 90er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rpr1.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_67.mp3"
+        "streamURL": "https://streams.rpr1.de/rpr-90er-128-mp3"
       }
     ]
   },
   {
-    "name": "gradio.lv ONE",
+    "name": "RPR1. Classic Rock",
     "coordinates": {
-      "lat": 57.208587,
-      "lon": 25.490539
+      "lat": 49.4774,
+      "lon": 8.4452
     },
     "radioStations": [
       {
-        "title": "gradio.lv ONE",
-        "subtitle": "Grobina",
+        "title": "RPR1. Classic Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://gradio.lv/logo/only-g-without-gloss-web-200.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rpr1.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.gradio.lv/gradio-one.mp4a"
+        "streamURL": "https://streams.rpr1.de/rpr-classicrock-128-mp3"
       }
     ]
   },
   {
-    "name": "Star FM Latvia",
+    "name": "RPR1. Neue Deutsche Welle",
     "coordinates": {
-      "lat": 56.874439,
-      "lon": 24.607929
+      "lat": 49.4774,
+      "lon": 8.4452
     },
     "radioStations": [
       {
-        "title": "Star FM Latvia",
-        "subtitle": "Latvia",
+        "title": "RPR1. Neue Deutsche Welle",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://tv3cdn.lv/skaties/images/starfm/apple-touch-icon-precomposed.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rpr1.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://live.advailo.com/audio/live/playlist.m3u8"
+        "streamURL": "https://streams.rpr1.de/rpr-ndw-128-mp3"
       }
     ]
   },
   {
-    "name": "Abdulbasit Abdulsamad",
+    "name": "Radio Regenbogen 80er",
     "coordinates": {
-      "lat": 57.011165,
-      "lon": 25.5254
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Latvia",
+        "title": "Radio Regenbogen 80er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=regenbogen.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+        "streamURL": "https://stream.regenbogen.de/80er/mp3-128"
       }
     ]
   },
   {
-    "name": "Radio Pik 100 FM",
+    "name": "Radio Regenbogen 90er",
     "coordinates": {
-      "lat": 57.244144,
-      "lon": 25.026559
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "Radio Pik 100 FM",
-        "subtitle": "Рига",
+        "title": "Radio Regenbogen 90er",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://pik.lv/wp-content/uploads/2019/03/cropped-fav_pik-180x180.jpg",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=regenbogen.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://91.90.255.85:8000/01"
+        "streamURL": "https://stream.regenbogen.de/90er/mp3-128"
       }
     ]
   },
   {
-    "name": "EHR Darbam",
+    "name": "Radio Regenbogen Classic Rock",
     "coordinates": {
-      "lat": 56.92502,
-      "lon": 24.106816
+      "lat": 49.4875,
+      "lon": 8.466
     },
     "radioStations": [
       {
-        "title": "EHR Darbam",
-        "subtitle": "Riga",
+        "title": "Radio Regenbogen Classic Rock",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=regenbogen.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_23.mp3"
+        "streamURL": "https://stream.regenbogen.de/classicrock/mp3-128"
       }
     ]
   },
   {
-    "name": "EHR iDeal Music",
+    "name": "bigFM US Rap & Hip-Hop",
     "coordinates": {
-      "lat": 56.960849,
-      "lon": 24.091051
+      "lat": 48.7758,
+      "lon": 9.1829
     },
     "radioStations": [
       {
-        "title": "EHR iDeal Music",
-        "subtitle": "Riga",
+        "title": "bigFM US Rap & Hip-Hop",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bigfm.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_78.mp3"
+        "streamURL": "https://stream.bigfm.de/usradhd/mp3-128"
       }
     ]
   },
   {
-    "name": "Tīrkultūra",
+    "name": "bigFM Dance",
     "coordinates": {
-      "lat": 57.006816,
-      "lon": 22.486828
+      "lat": 48.7758,
+      "lon": 9.1829
     },
     "radioStations": [
       {
-        "title": "Tīrkultūra",
-        "subtitle": "Rīgā ",
+        "title": "bigFM Dance",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://tirkultura.lv/favicon-32x32.png",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bigfm.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://s3.radio.co/s216811754/listen"
+        "streamURL": "https://stream.bigfm.de/dance/mp3-128"
       }
     ]
   },
   {
-    "name": "EHR Rise & Shine",
+    "name": "bigFM Deutschrap",
     "coordinates": {
-      "lat": 56.945084,
-      "lon": 24.12688
+      "lat": 48.7758,
+      "lon": 9.1829
     },
     "radioStations": [
       {
-        "title": "EHR Rise & Shine",
-        "subtitle": "Riga",
+        "title": "bigFM Deutschrap",
+        "subtitle": "Germany",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.ehrhiti.lv",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bigfm.de",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.ehrhiti.lv:8000/Stream_36.mp3"
-      }
-    ]
-  },
-  {
-    "name": "IvoFm",
-    "coordinates": {
-      "lat": 57.322949,
-      "lon": 24.83753
-    },
-    "radioStations": [
-      {
-        "title": "IvoFm",
-        "subtitle": "Latvia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ivofm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ivofm.lv/radio"
-      }
-    ]
-  },
-  {
-    "name": "LRADIO BALTIJA",
-    "coordinates": {
-      "lat": 57.130729,
-      "lon": 22.098349
-    },
-    "radioStations": [
-      {
-        "title": "LRADIO BALTIJA",
-        "subtitle": "Latvia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://m.lradiostation.com/en/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://balticom-238-238.balticom.lv/live.aac"
-      }
-    ]
-  },
-  {
-    "name": "Radio Nemiers",
-    "coordinates": {
-      "lat": 57.062657,
-      "lon": 25.697923
-    },
-    "radioStations": [
-      {
-        "title": "Radio Nemiers",
-        "subtitle": "Latvia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radionemiers.com",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radionemiers.com/nmrs/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Radio SWH Spin",
-    "coordinates": {
-      "lat": 56.512,
-      "lon": 21.0108
-    },
-    "radioStations": [
-      {
-        "title": "Radio SWH Spin",
-        "subtitle": "Liepāja",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioswh.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radioswh.lv/swhspin"
-      }
-    ]
-  },
-  {
-    "name": "EHR SuperHits",
-    "coordinates": {
-      "lat": 56.932501,
-      "lon": 24.089813
-    },
-    "radioStations": [
-      {
-        "title": "EHR SuperHits",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=superhits.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/superhits"
-      }
-    ]
-  },
-  {
-    "name": "EHR Latviešu Hiti",
-    "coordinates": {
-      "lat": 56.96682,
-      "lon": 24.108641
-    },
-    "radioStations": [
-      {
-        "title": "EHR Latviešu Hiti",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=latviesuhiti.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/latviesuhiti"
-      }
-    ]
-  },
-  {
-    "name": "EHR Russkie Hiti",
-    "coordinates": {
-      "lat": 56.928798,
-      "lon": 24.117945
-    },
-    "radioStations": [
-      {
-        "title": "EHR Russkie Hiti",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/russkiehiti"
-      }
-    ]
-  },
-  {
-    "name": "Retro FM Latvia",
-    "coordinates": {
-      "lat": 56.950545,
-      "lon": 24.085398
-    },
-    "radioStations": [
-      {
-        "title": "Retro FM Latvia",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=retrofm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/retrofm"
-      }
-    ]
-  },
-  {
-    "name": "EHR Rītam",
-    "coordinates": {
-      "lat": 56.96,
-      "lon": 24.130149
-    },
-    "radioStations": [
-      {
-        "title": "EHR Rītam",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/ritam"
-      }
-    ]
-  },
-  {
-    "name": "EHR Positivus",
-    "coordinates": {
-      "lat": 56.919296,
-      "lon": 24.09748
-    },
-    "radioStations": [
-      {
-        "title": "EHR Positivus",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/positivus"
-      }
-    ]
-  },
-  {
-    "name": "EHR Pie Stūres",
-    "coordinates": {
-      "lat": 56.971377,
-      "lon": 24.094067
-    },
-    "radioStations": [
-      {
-        "title": "EHR Pie Stūres",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/piestures"
-      }
-    ]
-  },
-  {
-    "name": "EHR Fitness",
-    "coordinates": {
-      "lat": 56.935285,
-      "lon": 24.131769
-    },
-    "radioStations": [
-      {
-        "title": "EHR Fitness",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/fitness"
-      }
-    ]
-  },
-  {
-    "name": "EHR Tik Tok Hits",
-    "coordinates": {
-      "lat": 56.936423,
-      "lon": 24.079589
-    },
-    "radioStations": [
-      {
-        "title": "EHR Tik Tok Hits",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/tiktok"
-      }
-    ]
-  },
-  {
-    "name": "Radio Skonto",
-    "coordinates": {
-      "lat": 56.970836,
-      "lon": 24.118829
-    },
-    "radioStations": [
-      {
-        "title": "Radio Skonto",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioskonto.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radioskonto.lv/skonto"
-      }
-    ]
-  },
-  {
-    "name": "Lounge FM",
-    "coordinates": {
-      "lat": 56.918954,
-      "lon": 24.113147
-    },
-    "radioStations": [
-      {
-        "title": "Lounge FM",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioskonto.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radioskonto.lv/lounge"
-      }
-    ]
-  },
-  {
-    "name": "MIX FM",
-    "coordinates": {
-      "lat": 56.961044,
-      "lon": 24.082285
-    },
-    "radioStations": [
-      {
-        "title": "MIX FM",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=mixfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.mixfm.lv/mixfm"
-      }
-    ]
-  },
-  {
-    "name": "Relax FM Latvija",
-    "coordinates": {
-      "lat": 56.952078,
-      "lon": 24.140368
-    },
-    "radioStations": [
-      {
-        "title": "Relax FM Latvija",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=relaxfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.relaxfm.lv/relax"
-      }
-    ]
-  },
-  {
-    "name": "Relax FM Soundtracks",
-    "coordinates": {
-      "lat": 56.918233,
-      "lon": 24.084593
-    },
-    "radioStations": [
-      {
-        "title": "Relax FM Soundtracks",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=relaxfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.relaxfm.lv/soundtracks"
-      }
-    ]
-  },
-  {
-    "name": "Relax FM Vacation",
-    "coordinates": {
-      "lat": 56.980867,
-      "lon": 24.10285
-    },
-    "radioStations": [
-      {
-        "title": "Relax FM Vacation",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=relaxfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.relaxfm.lv/vacation"
-      }
-    ]
-  },
-  {
-    "name": "Relax FM Buddha Bar",
-    "coordinates": {
-      "lat": 56.922354,
-      "lon": 24.131705
-    },
-    "radioStations": [
-      {
-        "title": "Relax FM Buddha Bar",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=relaxfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.relaxfm.lv/buddhabar"
-      }
-    ]
-  },
-  {
-    "name": "Divu Krastu Radio",
-    "coordinates": {
-      "lat": 55.882,
-      "lon": 26.5361
-    },
-    "radioStations": [
-      {
-        "title": "Divu Krastu Radio",
-        "subtitle": "Daugavpils",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=divukrastu.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.divukrastu.lv/dk"
-      }
-    ]
-  },
-  {
-    "name": "Radio Sigulda",
-    "coordinates": {
-      "lat": 57.1599,
-      "lon": 24.8555
-    },
-    "radioStations": [
-      {
-        "title": "Radio Sigulda",
-        "subtitle": "Sigulda",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiosigulda.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radiosigulda.lv/sigulda"
-      }
-    ]
-  },
-  {
-    "name": "Radio Valmiera",
-    "coordinates": {
-      "lat": 57.5484,
-      "lon": 25.4263
-    },
-    "radioStations": [
-      {
-        "title": "Radio Valmiera",
-        "subtitle": "Valmiera",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiovalmiera.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.radiovalmiera.lv/valmiera"
-      }
-    ]
-  },
-  {
-    "name": "Ef-Ei Radio",
-    "coordinates": {
-      "lat": 56.946,
-      "lon": 24.0709
-    },
-    "radioStations": [
-      {
-        "title": "Ef-Ei Radio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=efei.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://efei.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Spin FM",
-    "coordinates": {
-      "lat": 56.499839,
-      "lon": 21.015529
-    },
-    "radioStations": [
-      {
-        "title": "Spin FM",
-        "subtitle": "Liepāja",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=spinfm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.spinfm.lv/spin"
-      }
-    ]
-  },
-  {
-    "name": "Norma Radio",
-    "coordinates": {
-      "lat": 56.969646,
-      "lon": 24.131705
-    },
-    "radioStations": [
-      {
-        "title": "Norma Radio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=normaradio.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://normaradio.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Pik",
-    "coordinates": {
-      "lat": 56.911133,
-      "lon": 24.10285
-    },
-    "radioStations": [
-      {
-        "title": "Radio Pik",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiopik.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiopik.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Latvijas Christian Radio",
-    "coordinates": {
-      "lat": 56.973767,
-      "lon": 24.084593
-    },
-    "radioStations": [
-      {
-        "title": "Latvijas Christian Radio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=lcr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://lcr.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Energy.LV",
-    "coordinates": {
-      "lat": 56.938707,
-      "lon": 24.147262
-    },
-    "radioStations": [
-      {
-        "title": "Energy.LV",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energy.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://energy.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "XRadio",
-    "coordinates": {
-      "lat": 56.923433,
-      "lon": 24.070478
-    },
-    "radioStations": [
-      {
-        "title": "XRadio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=xradio.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://xradio.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Motoradio",
-    "coordinates": {
-      "lat": 56.986569,
-      "lon": 24.11677
-    },
-    "radioStations": [
-      {
-        "title": "Motoradio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=motoradio.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://motoradio.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "SuperHits GOLD",
-    "coordinates": {
-      "lat": 56.908746,
-      "lon": 24.125293
-    },
-    "radioStations": [
-      {
-        "title": "SuperHits GOLD",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=superhits.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.superhits.lv/gold"
-      }
-    ]
-  },
-  {
-    "name": "Dance Station Radio",
-    "coordinates": {
-      "lat": 56.960365,
-      "lon": 24.066433
-    },
-    "radioStations": [
-      {
-        "title": "Dance Station Radio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dancestation.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dancestation.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio7 Latvija",
-    "coordinates": {
-      "lat": 56.962073,
-      "lon": 24.144703
-    },
-    "radioStations": [
-      {
-        "title": "Radio7 Latvija",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radio7.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio7.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Njoy Radio Latvia",
-    "coordinates": {
-      "lat": 56.907935,
-      "lon": 24.08815
-    },
-    "radioStations": [
-      {
-        "title": "Njoy Radio Latvia",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=njoyradio.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://njoyradio.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Schlager Time Radio",
-    "coordinates": {
-      "lat": 56.986056,
-      "lon": 24.09327
-    },
-    "radioStations": [
-      {
-        "title": "Schlager Time Radio",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=schlagertime.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://schlagertime.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Baltkom",
-    "coordinates": {
-      "lat": 56.9215,
-      "lon": 24.148335
-    },
-    "radioStations": [
-      {
-        "title": "Radio Baltkom",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=baltkom.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://baltkom.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Russkie Hity Top 40",
-    "coordinates": {
-      "lat": 56.935394,
-      "lon": 24.058061
-    },
-    "radioStations": [
-      {
-        "title": "Russkie Hity Top 40",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ehr.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.ehr.lv/russkiehitytop40"
-      }
-    ]
-  },
-  {
-    "name": "Petpo FM",
-    "coordinates": {
-      "lat": 56.986138,
-      "lon": 24.134005
-    },
-    "radioStations": [
-      {
-        "title": "Petpo FM",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=petpofm.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://petpofm.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Zaļais Vilnis",
-    "coordinates": {
-      "lat": 56.897419,
-      "lon": 24.112296
-    },
-    "radioStations": [
-      {
-        "title": "Radio Zaļais Vilnis",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=zalaisvilnis.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://zalaisvilnis.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio 1 Latvia",
-    "coordinates": {
-      "lat": 56.977497,
-      "lon": 24.068364
-    },
-    "radioStations": [
-      {
-        "title": "Radio 1 Latvia",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radio1.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio1.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Novoe Radio Latvija",
-    "coordinates": {
-      "lat": 56.948137,
-      "lon": 24.154853
-    },
-    "radioStations": [
-      {
-        "title": "Novoe Radio Latvija",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=novoradio.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://novoradio.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Merkurs",
-    "coordinates": {
-      "lat": 56.911352,
-      "lon": 24.071252
-    },
-    "radioStations": [
-      {
-        "title": "Radio Merkurs",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiomerkurs.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiomerkurs.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Divi",
-    "coordinates": {
-      "lat": 56.994953,
-      "lon": 24.108037
-    },
-    "radioStations": [
-      {
-        "title": "Radio Divi",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiodivi.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiodivi.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Amadeus",
-    "coordinates": {
-      "lat": 56.903102,
-      "lon": 24.141896
-    },
-    "radioStations": [
-      {
-        "title": "Radio Amadeus",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioamadeus.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radioamadeus.lv/stream"
-      }
-    ]
-  },
-  {
-    "name": "Radio Arena",
-    "coordinates": {
-      "lat": 56.953309,
-      "lon": 24.050379
-    },
-    "radioStations": [
-      {
-        "title": "Radio Arena",
-        "subtitle": "Riga",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioarena.lv",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radioarena.lv/stream"
+        "streamURL": "https://stream.bigfm.de/deutschrap/mp3-128"
       }
     ]
   }
