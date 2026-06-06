@@ -53,60 +53,9 @@
       }
     ]
   },
-  {
-    "name": "1A 60er",
-    "coordinates": {
-      "lat": 53.9209,
-      "lon": 9.5153
-    },
-    "radioStations": [
-      {
-        "title": "1A 60er",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-60er"
-      }
-    ]
-  },
-  {
-    "name": "1A 70er Hits",
-    "coordinates": {
-      "lat": 53.7533,
-      "lon": 9.6538
-    },
-    "radioStations": [
-      {
-        "title": "1A 70er Hits",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-70er-hits"
-      }
-    ]
-  },
-  {
-    "name": "1A 80er Hits",
-    "coordinates": {
-      "lat": 53.6592,
-      "lon": 9.7991
-    },
-    "radioStations": [
-      {
-        "title": "1A 80er Hits",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-80er-hits"
-      }
-    ]
-  },
+  
+  
+ 
   {
     "name": "1A 90er Hits",
     "coordinates": {
@@ -125,222 +74,8 @@
       }
     ]
   },
-  {
-    "name": "1A Charts",
-    "coordinates": {
-      "lat": 53.6754,
-      "lon": 10.2259
-    },
-    "radioStations": [
-      {
-        "title": "1A Charts",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-charts"
-      }
-    ]
-  },
-  {
-    "name": "1A Classic Rock",
-    "coordinates": {
-      "lat": 53.4358,
-      "lon": 10.3776
-    },
-    "radioStations": [
-      {
-        "title": "1A Classic Rock",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-classic-rock"
-      }
-    ]
-  },
-  {
-    "name": "1A Deutsche Hits",
-    "coordinates": {
-      "lat": 53.5934,
-      "lon": 9.4763
-    },
-    "radioStations": [
-      {
-        "title": "1A Deutsche Hits",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-deutsche-hits"
-      }
-    ]
-  },
-  {
-    "name": "1A Entspannt",
-    "coordinates": {
-      "lat": 53.8593,
-      "lon": 8.6879
-    },
-    "radioStations": [
-      {
-        "title": "1A Entspannt",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-entspannt"
-      }
-    ]
-  },
-  {
-    "name": "1A Hits",
-    "coordinates": {
-      "lat": 53.4657,
-      "lon": 9.6942
-    },
-    "radioStations": [
-      {
-        "title": "1A Hits",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-hits"
-      }
-    ]
-  },
-  {
-    "name": "1A NDW",
-    "coordinates": {
-      "lat": 52.438,
-      "lon": 9.7386
-    },
-    "radioStations": [
-      {
-        "title": "1A NDW",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-ndw"
-      }
-    ]
-  },
-  {
-    "name": "1A Oldies",
-    "coordinates": {
-      "lat": 52.4137,
-      "lon": 9.5899
-    },
-    "radioStations": [
-      {
-        "title": "1A Oldies",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-oldies"
-      }
-    ]
-  },
-  {
-    "name": "1A Party",
-    "coordinates": {
-      "lat": 52.1031,
-      "lon": 9.356
-    },
-    "radioStations": [
-      {
-        "title": "1A Party",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-party"
-      }
-    ]
-  },
-  {
-    "name": "1A Schlager",
-    "coordinates": {
-      "lat": 52.6226,
-      "lon": 10.0805
-    },
-    "radioStations": [
-      {
-        "title": "1A Schlager",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-schlager"
-      }
-    ]
-  },
-  {
-    "name": "1A Volksmusik",
-    "coordinates": {
-      "lat": 52.4866,
-      "lon": 10.5459
-    },
-    "radioStations": [
-      {
-        "title": "1A Volksmusik",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-volksmusik"
-      }
-    ]
-  },
-  {
-    "name": "1A Weihnachten",
-    "coordinates": {
-      "lat": 52.3193,
-      "lon": 10.2352
-    },
-    "radioStations": [
-      {
-        "title": "1A Weihnachten",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-weihnachten"
-      }
-    ]
-  },
-  {
-    "name": "1A Workout",
-    "coordinates": {
-      "lat": 52.1637,
-      "lon": 10.529
-    },
-    "radioStations": [
-      {
-        "title": "1A Workout",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/1a-workout"
-      }
-    ]
-  },
+ 
+ 
   {
     "name": "2 Live FM",
     "coordinates": {
@@ -395,24 +130,7 @@
       }
     ]
   },
-  {
-    "name": "5 Star Deluxe",
-    "coordinates": {
-      "lat": 51.8209,
-      "lon": 9.8692
-    },
-    "radioStations": [
-      {
-        "title": "5 Star Deluxe",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/5-star-deluxe"
-      }
-    ]
-  },
+ 
   {
     "name": "54 Funk Soul Dance",
     "coordinates": {
@@ -431,24 +149,7 @@
       }
     ]
   },
-  {
-    "name": "60er 70er 80er",
-    "coordinates": {
-      "lat": 51.827,
-      "lon": 9.4456
-    },
-    "radioStations": [
-      {
-        "title": "60er 70er 80er",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/60er-70er-80er"
-      }
-    ]
-  },
+  
   {
     "name": "70er",
     "coordinates": {
@@ -503,42 +204,8 @@
       }
     ]
   },
-  {
-    "name": "Antenne AC",
-    "coordinates": {
-      "lat": 52.3061,
-      "lon": 8.6155
-    },
-    "radioStations": [
-      {
-        "title": "Antenne AC",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-ac"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Bad Kreuznach",
-    "coordinates": {
-      "lat": 52.2025,
-      "lon": 8.8039
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Bad Kreuznach",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-bad-kreuznach"
-      }
-    ]
-  },
+  
+ 
   {
     "name": "Antenne Bottrop",
     "coordinates": {
@@ -557,222 +224,8 @@
       }
     ]
   },
-  {
-    "name": "Antenne Dortmund",
-    "coordinates": {
-      "lat": 51.6739,
-      "lon": 8.3441
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Dortmund",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-dortmund"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Frankfurt",
-    "coordinates": {
-      "lat": 51.9511,
-      "lon": 7.9878
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Frankfurt",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-frankfurt"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Koblenz",
-    "coordinates": {
-      "lat": 51.9435,
-      "lon": 7.1696
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Koblenz",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-koblenz"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Landau",
-    "coordinates": {
-      "lat": 51.8438,
-      "lon": 6.858
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Landau",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-landau"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Mainz",
-    "coordinates": {
-      "lat": 52.0794,
-      "lon": 7.0134
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Mainz",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-mainz"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Niedersachsen Relax",
-    "coordinates": {
-      "lat": 51.8388,
-      "lon": 6.6153
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Niedersachsen Relax",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-niedersachsen-relax"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Pfalz",
-    "coordinates": {
-      "lat": 51.7866,
-      "lon": 6.1295
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Pfalz",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-pfalz"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Pirmasens",
-    "coordinates": {
-      "lat": 51.6584,
-      "lon": 6.6179
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Pirmasens",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-pirmasens"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Pulheim",
-    "coordinates": {
-      "lat": 51.8306,
-      "lon": 6.2427
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Pulheim",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-pulheim"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Saar",
-    "coordinates": {
-      "lat": 51.6627,
-      "lon": 6.4532
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Saar",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-saar"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Trier",
-    "coordinates": {
-      "lat": 51.5191,
-      "lon": 6.3236
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Trier",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-trier"
-      }
-    ]
-  },
-  {
-    "name": "Antenne Wetterau",
-    "coordinates": {
-      "lat": 51.3659,
-      "lon": 6.418
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Wetterau",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-wetterau"
-      }
-    ]
-  },
+ 
+
   {
     "name": "Bayern Oldies",
     "coordinates": {
@@ -791,60 +244,9 @@
       }
     ]
   },
-  {
-    "name": "Bayern Pop",
-    "coordinates": {
-      "lat": 51.091,
-      "lon": 6.5827
-    },
-    "radioStations": [
-      {
-        "title": "Bayern Pop",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/bayern-pop"
-      }
-    ]
-  },
-  {
-    "name": "Bayern Rock",
-    "coordinates": {
-      "lat": 51.0968,
-      "lon": 6.8317
-    },
-    "radioStations": [
-      {
-        "title": "Bayern Rock",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/bayern-rock"
-      }
-    ]
-  },
-  {
-    "name": "Best Of 80s",
-    "coordinates": {
-      "lat": 50.9997,
-      "lon": 6.8063
-    },
-    "radioStations": [
-      {
-        "title": "Best Of 80s",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/best-of-80s"
-      }
-    ]
-  },
+ 
+ 
+  
   {
     "name": "Best Of 90s",
     "coordinates": {
@@ -2309,42 +1711,8 @@
       }
     ]
   },
-  {
-    "name": "Antenne Hit FM",
-    "coordinates": {
-      "lat": 48.0951,
-      "lon": 9.7901
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Hit FM",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/antenne-hit-fm"
-      }
-    ]
-  },
-  {
-    "name": "7 FM",
-    "coordinates": {
-      "lat": 48.2826,
-      "lon": 9.7275
-    },
-    "radioStations": [
-      {
-        "title": "7 FM",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=laut.fm",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.laut.fm/7-fm"
-      }
-    ]
-  },
+  
+  
   {
     "name": "Deutschrock Station",
     "coordinates": {
@@ -2547,132 +1915,7 @@
       }
     ]
   },
-  {
-    "name": "Bayern 1 Niederbayern/Oberpfalz",
-    "coordinates": {
-      "lat": 53.5511,
-      "lon": 9.9937
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Niederbayern/Oberpfalz",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "Bayern 1 Schwaben",
-    "coordinates": {
-      "lat": 48.1351,
-      "lon": 11.582
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Schwaben",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "Bayern 1 Franken",
-    "coordinates": {
-      "lat": 50.9375,
-      "lon": 6.9603
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Franken",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "Bayern 1 Mainfranken",
-    "coordinates": {
-      "lat": 50.1109,
-      "lon": 8.6821
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Mainfranken",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "BR Heimat",
-    "coordinates": {
-      "lat": 48.7758,
-      "lon": 9.1829
-    },
-    "radioStations": [
-      {
-        "title": "BR Heimat",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "BR Schlager",
-    "coordinates": {
-      "lat": 51.2277,
-      "lon": 6.7735
-    },
-    "radioStations": [
-      {
-        "title": "BR Schlager",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "BR24live",
-    "coordinates": {
-      "lat": 51.5136,
-      "lon": 7.4653
-    },
-    "radioStations": [
-      {
-        "title": "BR24live",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
-      }
-    ]
-  },
+  
   {
     "name": "1LIVE diggi",
     "coordinates": {
@@ -2925,132 +2168,8 @@
       }
     ]
   },
-  {
-    "name": "Absolut TOP",
-    "coordinates": {
-      "lat": 48.3705,
-      "lon": 10.8978
-    },
-    "radioStations": [
-      {
-        "title": "Absolut TOP",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-top.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut relax",
-    "coordinates": {
-      "lat": 50.0782,
-      "lon": 8.2398
-    },
-    "radioStations": [
-      {
-        "title": "Absolut relax",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-relax.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut HOT",
-    "coordinates": {
-      "lat": 51.5177,
-      "lon": 7.0857
-    },
-    "radioStations": [
-      {
-        "title": "Absolut HOT",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-hot.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut Bella",
-    "coordinates": {
-      "lat": 51.1805,
-      "lon": 6.4428
-    },
-    "radioStations": [
-      {
-        "title": "Absolut Bella",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-bella.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut Oldie Classics",
-    "coordinates": {
-      "lat": 52.2689,
-      "lon": 10.5268
-    },
-    "radioStations": [
-      {
-        "title": "Absolut Oldie Classics",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-oldieclassics.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut Germany",
-    "coordinates": {
-      "lat": 50.8278,
-      "lon": 12.9214
-    },
-    "radioStations": [
-      {
-        "title": "Absolut Germany",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-germany.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Absolut musicXL",
-    "coordinates": {
-      "lat": 54.3233,
-      "lon": 10.1228
-    },
-    "radioStations": [
-      {
-        "title": "Absolut musicXL",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=absolutradio.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://absolutradio.stream24.net/absolut-musicxl.mp3"
-      }
-    ]
-  },
+  
+ 
   {
     "name": "Antenne Bayern Top 40",
     "coordinates": {
@@ -3069,24 +2188,7 @@
       }
     ]
   },
-  {
-    "name": "Antenne Bayern Classic Rock",
-    "coordinates": {
-      "lat": 51.4969,
-      "lon": 11.9688
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Bayern Classic Rock",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.antenne.de/classic-rock/stream/mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Antenne Bayern Chillout",
     "coordinates": {
@@ -3159,24 +2261,7 @@
       }
     ]
   },
-  {
-    "name": "Antenne Bayern Schlagersahne",
-    "coordinates": {
-      "lat": 51.4963,
-      "lon": 6.8638
-    },
-    "radioStations": [
-      {
-        "title": "Antenne Bayern Schlagersahne",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=antenne.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.antenne.de/schlagersahne/stream/mp3"
-      }
-    ]
-  },
+ 
   {
     "name": "Antenne Bayern Hits für Kids",
     "coordinates": {
@@ -3987,42 +3072,8 @@
       }
     ]
   },
-  {
-    "name": "Bayern 1 Oberbayern",
-    "coordinates": {
-      "lat": 49.4401,
-      "lon": 7.7491
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Oberbayern",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid"
-      }
-    ]
-  },
-  {
-    "name": "Bayern 2",
-    "coordinates": {
-      "lat": 51.4439,
-      "lon": 7.3532
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 2",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=br.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid"
-      }
-    ]
-  },
+  
+ 
   {
     "name": "Bayern 3",
     "coordinates": {
@@ -5319,22 +4370,5 @@
       }
     ]
   },
-  {
-    "name": "ALEX Berlin",
-    "coordinates": {
-      "lat": 49.3445,
-      "lon": 7.1805
-    },
-    "radioStations": [
-      {
-        "title": "ALEX Berlin",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=alex-berlin.de",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://alex-stream.rosebud-media.de:8443/live.mp3"
-      }
-    ]
-  }
+
 ]
