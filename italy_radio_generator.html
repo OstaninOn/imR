@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🇮🇹 Italy Radio JSON Generator</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap');
+
+  :root {
+    --bg: #0a0d0a;
+    --surface: #121612;
+    --border: #1e2a1e;
+    --accent: #009246;
+    --accent2: #CE2B37;
+    --gold: #f4c430;
+    --text: #f0eeea;
+    --muted: #888;
+    --green: #7ecfc0;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Mono', monospace;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+
+  h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.25rem;
+  }
+  h1 span { color: var(--accent); }
+
+  .sub { color: var(--muted); font-size: 0.8rem; margin-bottom: 2rem; }
+
+  .flag-stripe { display: flex; height: 5px; margin-bottom: 1.5rem; width: 120px; }
+  .flag-stripe div { flex: 1; }
+
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 1rem;
+    margin-bottom: 1.5rem; align-items: center;
+  }
+
+  button {
+    background: var(--accent); color: #fff; border: none;
+    padding: 0.75rem 1.5rem; font-family: 'Space Mono', monospace;
+    font-size: 0.8rem; font-weight: 700; cursor: pointer;
+    text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.15s;
+  }
+  button:hover { filter: brightness(1.15); transform: translateY(-1px); }
+  button:disabled { background: var(--muted); color: #222; cursor: not-allowed; transform: none; filter: none; }
+
+  .btn-secondary {
+    background: transparent; border: 1px solid var(--border); color: var(--text);
+  }
+  .btn-secondary:hover { background: var(--surface); filter: none; }
+
+  .status-bar {
+    display: flex; align-items: center; gap: 1rem;
+    padding: 1rem; background: var(--surface);
+    border: 1px solid var(--border); margin-bottom: 1.5rem; font-size: 0.75rem;
+  }
+
+  .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--muted); flex-shrink: 0;
+  }
+  .dot.loading { background: var(--gold); animation: pulse 1s infinite; }
+  .dot.done { background: var(--accent); }
+  .dot.error { background: var(--accent2); }
+
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+  .stats { display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .stat { text-align: center; }
+  .stat-num {
+    font-family: 'Syne', sans-serif; font-size: 2rem;
+    font-weight: 800; color: var(--accent);
+  }
+  .stat-label { font-size: 0.65rem; color: var(--muted); text-transform: uppercase; }
+
+  .output-wrap { position: relative; }
+
+  textarea {
+    width: 100%; height: 62vh; background: var(--surface);
+    border: 1px solid var(--border); color: var(--green);
+    font-family: 'Space Mono', monospace; font-size: 0.72rem;
+    padding: 1rem; resize: vertical; outline: none; line-height: 1.5;
+  }
+  textarea:focus { border-color: var(--accent); }
+
+  .copy-btn {
+    position: absolute; top: 0.5rem; right: 0.5rem;
+    background: var(--bg); border: 1px solid var(--border);
+    color: var(--text); font-size: 0.65rem; padding: 0.4rem 0.8rem;
+  }
+
+  .progress-bar { width: 100%; height: 3px; background: var(--border); margin-bottom: 1rem; display: none; }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent2), var(--accent));
+    width: 0%; transition: width 0.3s;
+  }
+</style>
+</head>
+<body>
+
+<div class="flag-stripe">
+  <div style="background:#009246"></div>
+  <div style="background:#fff"></div>
+  <div style="background:#CE2B37"></div>
+</div>
+
+<h1>🇮🇹 Italy Radio <span>JSON</span></h1>
+<p class="sub">Все FM радиостанции Италии · Radio Browser API · Логотипы · Уникальные координаты</p>
+
+<div class="controls">
+  <button id="fetchBtn" onclick="fetchStations()">⬇ Загрузить станции</button>
+  <button class="btn-secondary" id="downloadBtn" onclick="downloadJSON()" disabled>💾 Скачать JSON</button>
+  <button class="btn-secondary" onclick="copyAll(event)">📋 Копировать</button>
+</div>
+
+<div class="progress-bar" id="progressBar">
+  <div class="progress-fill" id="progressFill"></div>
+</div>
+
+<div class="status-bar">
+  <div class="dot" id="statusDot"></div>
+  <span id="statusText">Нажми «Загрузить станции» для начала</span>
+</div>
+
+<div class="stats" id="stats" style="display:none">
+  <div class="stat"><div class="stat-num" id="totalCount">0</div><div class="stat-label">Станций</div></div>
+  <div class="stat"><div class="stat-num" id="cityCount">0</div><div class="stat-label">Городов</div></div>
+  <div class="stat"><div class="stat-num" id="dupCount">0</div><div class="stat-label">Дублей удалено</div></div>
+  <div class="stat"><div class="stat-num" id="logoCount">0</div><div class="stat-label">С логотипом</div></div>
+</div>
+
+<div class="output-wrap">
+  <textarea id="output" placeholder='// JSON появится здесь после загрузки...'></textarea>
+  <button class="btn-secondary copy-btn" onclick="copyAll(event)">COPY</button>
+</div>
+
+<script>
+let finalJSON = null;
+
+// Google favicon fallback for any domain
+function faviconURL(url) {
+  try {
+    const host = new URL(url).hostname;
+    return `https://www.google.com/s2/favicons?sz=128&domain=${host}`;
+  } catch { return ''; }
+}
+
+// Known Italian stations with official logo URLs
+const knownLogos = {
+  'rai radio 1':        'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'rai radio 2':        'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'rai radio 3':        'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'radiodue':           'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'radiotre':           'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'radio italia':       'https://www.radioitalia.it/images/ri-favicon.png',
+  'rds':                'https://www.rds.it/favicon.ico',
+  'rtl 102.5':          'https://www.rtl.it/static/img/rtl-icon-180x180.png',
+  'radio deejay':       'https://www.deejay.it/apple-touch-icon.png',
+  'radio 105':          'https://www.105.net/apple-touch-icon.png',
+  'radio 101':          'https://www.radio101.it/favicon.ico',
+  'radio capital':      'https://www.capitale.it/favicon.ico',
+  'm2o':                'https://www.m2o.it/favicon.ico',
+  'radio montecarlo':   'https://www.radiomontecarlo.net/favicon.ico',
+  'virgin radio':       'https://www.virginradio.it/favicon.ico',
+  'radio kiss kiss':    'https://www.kisskiss.it/favicon.ico',
+  'radio freccia':      'https://www.radiofreccia.it/favicon.ico',
+  'radio zeta':         'https://www.radiozeta.it/favicon.ico',
+  'radio 24':           'https://www.radio24.it/favicon.ico',
+  'rmc':                'https://www.rmc.it/favicon.ico',
+  'radio subasio':      'https://www.radiosubasio.it/favicon.ico',
+  'radio 2':            'https://www.raiplayradio.it/images/favicon/apple-touch-icon.png',
+  'radio in':           'https://www.radioin.it/favicon.ico',
+  'radio dimensione suono': 'https://www.radiodimensionesuono.it/favicon.ico',
+  'radio dj':           'https://www.deejay.it/apple-touch-icon.png',
+  'radio Bruno':        'https://www.radiobruno.it/favicon.ico',
+  'radio studio':       'https://www.radiostudio.it/favicon.ico',
+  'radio norba':        'https://www.radionorba.it/favicon.ico',
+  'radio international': 'https://www.google.com/s2/favicons?sz=128&domain=radiointernational.it',
+  'radio sportiva':     'https://www.radiosportiva.com/favicon.ico',
+  'radio padova':       'https://www.google.com/s2/favicons?sz=128&domain=radiopadova.it',
+  'radio venezia':      'https://www.google.com/s2/favicons?sz=128&domain=radiovenezia.it',
+  'radio lombardia':    'https://www.google.com/s2/favicons?sz=128&domain=radiolombardiastudio.it',
+};
+
+function getLogo(name, url, favicon) {
+  // 1. If API returned a real favicon (not empty, not generic)
+  if (favicon && favicon.length > 10 && !favicon.includes('radiobrowser')) return favicon;
+
+  // 2. Check known logos by partial name match
+  const nameLower = name.toLowerCase();
+  for (const [key, logo] of Object.entries(knownLogos)) {
+    if (nameLower.includes(key)) return logo;
+  }
+
+  // 3. Google favicon from stream URL domain
+  if (url) return faviconURL(url);
+
+  return '';
+}
+
+const cityCoords = {
+  'Rome': { lat: 41.9028, lon: 12.4964 },
+  'Roma': { lat: 41.9028, lon: 12.4964 },
+  'Milan': { lat: 45.4642, lon: 9.1900 },
+  'Milano': { lat: 45.4642, lon: 9.1900 },
+  'Naples': { lat: 40.8518, lon: 14.2681 },
+  'Napoli': { lat: 40.8518, lon: 14.2681 },
+  'Turin': { lat: 45.0703, lon: 7.6869 },
+  'Torino': { lat: 45.0703, lon: 7.6869 },
+  'Palermo': { lat: 38.1157, lon: 13.3615 },
+  'Genoa': { lat: 44.4056, lon: 8.9463 },
+  'Genova': { lat: 44.4056, lon: 8.9463 },
+  'Bologna': { lat: 44.4949, lon: 11.3426 },
+  'Florence': { lat: 43.7696, lon: 11.2558 },
+  'Firenze': { lat: 43.7696, lon: 11.2558 },
+  'Bari': { lat: 41.1171, lon: 16.8719 },
+  'Catania': { lat: 37.5079, lon: 15.0830 },
+  'Venice': { lat: 45.4408, lon: 12.3155 },
+  'Venezia': { lat: 45.4408, lon: 12.3155 },
+  'Verona': { lat: 45.4384, lon: 10.9916 },
+  'Messina': { lat: 38.1938, lon: 15.5540 },
+  'Padova': { lat: 45.4064, lon: 11.8768 },
+  'Padua': { lat: 45.4064, lon: 11.8768 },
+  'Trieste': { lat: 45.6495, lon: 13.7768 },
+  'Taranto': { lat: 40.4644, lon: 17.2470 },
+  'Brescia': { lat: 45.5416, lon: 10.2118 },
+  'Reggio Calabria': { lat: 38.1113, lon: 15.6476 },
+  'Reggio Emilia': { lat: 44.6989, lon: 10.6297 },
+  'Modena': { lat: 44.6471, lon: 10.9252 },
+  'Prato': { lat: 43.8777, lon: 11.1026 },
+  'Parma': { lat: 44.8015, lon: 10.3279 },
+  'Livorno': { lat: 43.5485, lon: 10.3106 },
+  'Cagliari': { lat: 39.2238, lon: 9.1217 },
+  'Foggia': { lat: 41.4621, lon: 15.5444 },
+  'Salerno': { lat: 40.6824, lon: 14.7681 },
+  'Perugia': { lat: 43.1122, lon: 12.3888 },
+  'Rimini': { lat: 44.0678, lon: 12.5695 },
+  'Monza': { lat: 45.5845, lon: 9.2744 },
+  'Pescara': { lat: 42.4618, lon: 14.2160 },
+  'Bergamo': { lat: 45.6983, lon: 9.6773 },
+  'Trento': { lat: 46.0679, lon: 11.1211 },
+  'Vicenza': { lat: 45.5455, lon: 11.5354 },
+  'Bolzano': { lat: 46.4983, lon: 11.3548 },
+  'Ancona': { lat: 43.6158, lon: 13.5189 },
+  'Ferrara': { lat: 44.8381, lon: 11.6197 },
+  'Pisa': { lat: 43.7228, lon: 10.4017 },
+  'Sassari': { lat: 40.7259, lon: 8.5553 },
+  'Lecce': { lat: 40.3516, lon: 18.1750 },
+  'Ravenna': { lat: 44.4183, lon: 12.2035 },
+  'Syracuse': { lat: 37.0755, lon: 15.2866 },
+  'Siracusa': { lat: 37.0755, lon: 15.2866 },
+  'Latina': { lat: 41.4676, lon: 12.9035 },
+  'Catanzaro': { lat: 38.9098, lon: 16.5876 },
+  'Brindisi': { lat: 40.6426, lon: 17.9417 },
+  'Treviso': { lat: 45.6669, lon: 12.2430 },
+  'Piacenza': { lat: 45.0526, lon: 9.6929 },
+  'Udine': { lat: 46.0633, lon: 13.2356 },
+  'Alessandria': { lat: 44.9136, lon: 8.6150 },
+  'Cosenza': { lat: 39.3020, lon: 16.2475 },
+  'Siena': { lat: 43.3186, lon: 11.3307 },
+  'Arezzo': { lat: 43.4636, lon: 11.8796 },
+  'Frosinone': { lat: 41.6402, lon: 13.3417 },
+  'Varese': { lat: 45.8205, lon: 8.8254 },
+  'Como': { lat: 45.8081, lon: 9.0852 },
+  'Novara': { lat: 45.4469, lon: 8.6215 },
+  'Macerata': { lat: 43.2987, lon: 13.4537 },
+  'Viterbo': { lat: 42.4201, lon: 12.1065 },
+  'Agrigento': { lat: 37.3109, lon: 13.5765 },
+  'Trapani': { lat: 38.0174, lon: 12.5356 },
+  'Campobasso': { lat: 41.5627, lon: 14.6564 },
+  'Aosta': { lat: 45.7376, lon: 7.3186 },
+  'L\'Aquila': { lat: 42.3498, lon: 13.3995 },
+  'Potenza': { lat: 40.6408, lon: 15.8056 },
+  'Matera': { lat: 40.6663, lon: 16.6027 },
+  'Caltanissetta': { lat: 37.4907, lon: 14.0688 },
+  'Nuoro': { lat: 40.3211, lon: 9.3270 },
+  'Vibo Valentia': { lat: 38.6754, lon: 16.0998 },
+  'Enna': { lat: 37.5657, lon: 14.2753 },
+  'Oristano': { lat: 39.9060, lon: 8.5880 },
+  'Crotone': { lat: 39.0812, lon: 17.1264 },
+  'Ragusa': { lat: 36.9289, lon: 14.7259 },
+  'Isernia': { lat: 41.5952, lon: 14.2340 },
+  'Biella': { lat: 45.5657, lon: 8.0574 },
+  'Verbania': { lat: 45.9218, lon: 8.5526 },
+  'Lodi': { lat: 45.3136, lon: 9.5033 },
+  'Lecco': { lat: 45.8554, lon: 9.3973 },
+  'Mantova': { lat: 45.1564, lon: 10.7913 },
+  'Mantua': { lat: 45.1564, lon: 10.7913 },
+  'Cremona': { lat: 45.1327, lon: 10.0227 },
+  'Sondrio': { lat: 46.1694, lon: 9.8715 },
+  'Lucca': { lat: 43.8429, lon: 10.5027 },
+  'Grosseto': { lat: 42.7595, lon: 11.1113 },
+  'Massa': { lat: 44.0353, lon: 10.1401 },
+  'Pistoia': { lat: 43.9298, lon: 10.9147 },
+  'Prato': { lat: 43.8777, lon: 11.1026 },
+  'Rieti': { lat: 42.4044, lon: 12.8655 },
+  'Vercelli': { lat: 45.3245, lon: 8.4231 },
+  'Asti': { lat: 44.9000, lon: 8.2069 },
+  'Cuneo': { lat: 44.3842, lon: 7.5427 },
+  'Savona': { lat: 44.3077, lon: 8.4826 },
+  'Imperia': { lat: 43.8874, lon: 8.0314 },
+  'La Spezia': { lat: 44.1025, lon: 9.8239 },
+  'Pordenone': { lat: 45.9632, lon: 12.6600 },
+  'Gorizia': { lat: 45.9436, lon: 13.6185 },
+  'Rovigo': { lat: 45.0698, lon: 11.7900 },
+  'Belluno': { lat: 46.1419, lon: 12.2160 },
+  'Terni': { lat: 42.5636, lon: 12.6428 },
+  'Rieti': { lat: 42.4044, lon: 12.8655 },
+  'Benevento': { lat: 41.1297, lon: 14.7826 },
+  'Avellino': { lat: 40.9143, lon: 14.7903 },
+  'Caserta': { lat: 41.0726, lon: 14.3326 },
+  'Napoli': { lat: 40.8518, lon: 14.2681 },
+  'Salerno': { lat: 40.6824, lon: 14.7681 },
+  'Palermo': { lat: 38.1157, lon: 13.3615 },
+  'Messina': { lat: 38.1938, lon: 15.5540 },
+  'Sicily': { lat: 37.5990, lon: 14.0154 },
+  'Sicilia': { lat: 37.5990, lon: 14.0154 },
+  'Sardinia': { lat: 40.1208, lon: 9.0129 },
+  'Sardegna': { lat: 40.1208, lon: 9.0129 },
+  'Calabria': { lat: 38.9098, lon: 16.5876 },
+  'Campania': { lat: 40.8333, lon: 14.2500 },
+  'Puglia': { lat: 41.1171, lon: 16.8719 },
+  'Apulia': { lat: 41.1171, lon: 16.8719 },
+  'Basilicata': { lat: 40.6408, lon: 15.8056 },
+  'Molise': { lat: 41.5627, lon: 14.6564 },
+  'Abruzzo': { lat: 42.3510, lon: 13.3995 },
+  'Lazio': { lat: 41.9028, lon: 12.4964 },
+  'Umbria': { lat: 43.1122, lon: 12.3888 },
+  'Marche': { lat: 43.3169, lon: 13.5160 },
+  'Tuscany': { lat: 43.7696, lon: 11.2558 },
+  'Toscana': { lat: 43.7696, lon: 11.2558 },
+  'Emilia-Romagna': { lat: 44.4949, lon: 11.3426 },
+  'Emilia Romagna': { lat: 44.4949, lon: 11.3426 },
+  'Liguria': { lat: 44.4056, lon: 8.9463 },
+  'Piemonte': { lat: 45.0703, lon: 7.6869 },
+  'Piedmont': { lat: 45.0703, lon: 7.6869 },
+  'Lombardia': { lat: 45.4642, lon: 9.1900 },
+  'Lombardy': { lat: 45.4642, lon: 9.1900 },
+  'Veneto': { lat: 45.4384, lon: 10.9916 },
+  'Friuli': { lat: 45.6495, lon: 13.7768 },
+  'Trentino': { lat: 46.0679, lon: 11.1211 },
+  'Valle d\'Aosta': { lat: 45.7376, lon: 7.3186 },
+  'Italy': { lat: 41.8719, lon: 12.5674 },
+  'Italia': { lat: 41.8719, lon: 12.5674 },
+  '': { lat: 41.8719, lon: 12.5674 },
+};
+
+function getCoords(state, name) {
+  const fields = [state, name].filter(Boolean);
+  for (const field of fields) {
+    for (const [city, coords] of Object.entries(cityCoords)) {
+      if (city && field.toLowerCase().includes(city.toLowerCase())) {
+        return { ...coords };
+      }
+    }
+  }
+  return {
+    lat: 37.5 + Math.random() * 9,
+    lon: 7.0 + Math.random() * 11
+  };
+}
+
+async function fetchStations() {
+  const btn = document.getElementById('fetchBtn');
+  const dot = document.getElementById('statusDot');
+  const statusText = document.getElementById('statusText');
+
+  btn.disabled = true;
+  dot.className = 'dot loading';
+  document.getElementById('progressBar').style.display = 'block';
+  setProgress(10);
+  statusText.textContent = 'Подключаемся к Radio Browser API...';
+
+  try {
+    setProgress(25);
+    statusText.textContent = 'Загружаем FM станции Италии...';
+
+    // Fetch with tag=FM for FM-only stations
+    const [respFM, respAll] = await Promise.all([
+      fetch('https://de1.api.radio-browser.info/json/stations/bycountryexact/Italy?limit=300&order=votes&reverse=true&hidebroken=true&tag=fm', { headers: { 'User-Agent': 'ItalyRadioGenerator/1.0' } }),
+      fetch('https://de1.api.radio-browser.info/json/stations/bycountryexact/Italy?limit=300&order=votes&reverse=true&hidebroken=true', { headers: { 'User-Agent': 'ItalyRadioGenerator/1.0' } })
+    ]);
+
+    if (!respFM.ok || !respAll.ok) throw new Error('Ошибка API');
+    const [fmStations, allStations] = await Promise.all([respFM.json(), respAll.json()]);
+
+    setProgress(50);
+    statusText.textContent = `Получено ${fmStations.length} FM + ${allStations.length} всего. Объединяем...`;
+
+    // Merge: FM-tagged first, then all, deduplicate
+    const seen = new Set();
+    const merged = [];
+    let dupCount = 0;
+
+    for (const s of [...fmStations, ...allStations]) {
+      const key = s.name.trim().toLowerCase().replace(/[^a-zа-яà-ú0-9]/gi, '');
+      if (!seen.has(key)) {
+        seen.add(key);
+        merged.push(s);
+      } else {
+        dupCount++;
+      }
+    }
+
+    setProgress(70);
+    statusText.textContent = 'Назначаем координаты и логотипы...';
+
+    const cityOffsets = {};
+    let logoCount = 0;
+
+    const result = merged.map(s => {
+      const base = getCoords(s.state, s.name);
+      const ck = `${Math.round(base.lat * 10)}_${Math.round(base.lon * 10)}`;
+      if (!cityOffsets[ck]) cityOffsets[ck] = 0;
+      cityOffsets[ck]++;
+      const n = cityOffsets[ck];
+
+      const angle = (n - 1) * 137.508 * (Math.PI / 180);
+      const radius = 0.009 * Math.sqrt(n);
+      const lat = parseFloat((base.lat + Math.cos(angle) * radius).toFixed(6));
+      const lon = parseFloat((base.lon + Math.sin(angle) * radius).toFixed(6));
+
+      const imageURL = getLogo(s.name, s.url_resolved || s.url, s.favicon);
+      if (imageURL) logoCount++;
+
+      return {
+        name: s.name.trim(),
+        coordinates: { lat, lon },
+        radioStations: [{
+          title: s.name.trim(),
+          subtitle: s.state || 'Italy',
+          logo: 'dot.radiowaves.left.and.right',
+          imageURL,
+          imageSize: 85,
+          playerImageSize: 85,
+          streamURL: s.url_resolved || s.url
+        }]
+      };
+    });
+
+    setProgress(100);
+    finalJSON = result;
+    document.getElementById('output').value = JSON.stringify(result, null, 2);
+
+    const cities = new Set(merged.map(s => s.state || 'Italy'));
+    document.getElementById('totalCount').textContent = result.length;
+    document.getElementById('cityCount').textContent = cities.size;
+    document.getElementById('dupCount').textContent = dupCount;
+    document.getElementById('logoCount').textContent = logoCount;
+    document.getElementById('stats').style.display = 'flex';
+
+    dot.className = 'dot done';
+    statusText.textContent = `✓ Готово! ${result.length} станций · ${cities.size} регионов · ${logoCount} с логотипом`;
+    document.getElementById('downloadBtn').disabled = false;
+
+  } catch (err) {
+    dot.className = 'dot error';
+    statusText.textContent = '✗ Ошибка: ' + err.message;
+    document.getElementById('output').value = '// Ошибка: ' + err.message;
+  }
+
+  btn.disabled = false;
+}
+
+function setProgress(pct) {
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+function downloadJSON() {
+  if (!finalJSON) return;
+  const blob = new Blob([JSON.stringify(finalJSON, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'italy_radio_stations.json';
+  a.click();
+}
+
+function copyAll(e) {
+  const ta = document.getElementById('output');
+  ta.select();
+  document.execCommand('copy');
+  const btn = e.target;
+  const orig = btn.textContent;
+  btn.textContent = 'COPIED!';
+  setTimeout(() => btn.textContent = orig, 1500);
+}
+</script>
+</body>
+</html>
