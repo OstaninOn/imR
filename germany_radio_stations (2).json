@@ -1596,24 +1596,7 @@
     ]
   },
   
-  {
-    "name": "80s80s Funk & Soul",
-    "coordinates": {
-      "lat": 53.098612,
-      "lon": 6.243219
-    },
-    "radioStations": [
-      {
-        "title": "80s80s Funk & Soul",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://streams.80s80s.de/soul/mp3-192/streams.80s80s.de/"
-      }
-    ]
-  },
+ 
   {
     "name": "80s80s Depeche Mode",
     "coordinates": {
@@ -5686,24 +5669,7 @@
       }
     ]
   },
-  {
-    "name": "WDR Event",
-    "coordinates": {
-      "lat": 51.471985,
-      "lon": 7.68199
-    },
-    "radioStations": [
-      {
-        "title": "WDR Event",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "89.0 RTL",
     "coordinates": {
@@ -6663,24 +6629,7 @@
       }
     ]
   },
-  {
-    "name": "- 0 N - Top 40 on Radio",
-    "coordinates": {
-      "lat": 48.748765,
-      "lon": 11.455633
-    },
-    "radioStations": [
-      {
-        "title": "- 0 N - Top 40 on Radio",
-        "subtitle": "Bayern",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.0nradio.com/logos/0n-top-40_600x600.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://0n-top40.radionetz.de/0n-top40.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Sunshine Live - Clubsound Berlin",
     "coordinates": {
