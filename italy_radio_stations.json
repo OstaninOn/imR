@@ -1,0 +1,4916 @@
+[
+  {
+    "name": "Rai Radio 1",
+    "coordinates": {
+      "lat": 41.9118,
+      "lon": 12.4964
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio 1",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Classic Rock",
+    "coordinates": {
+      "lat": 45.4732,
+      "lon": 9.19
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Classic Rock",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRockClassics.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 24 il sole 24 ore",
+    "coordinates": {
+      "lat": 44.740776,
+      "lon": 16.783045
+    },
+    "radioStations": [
+      {
+        "title": "Radio 24 il sole 24 ore",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast2.radio24.it:8000/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 Network",
+    "coordinates": {
+      "lat": 45.454815,
+      "lon": 9.198598
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 Network",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/Radio105.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio 2",
+    "coordinates": {
+      "lat": 41.893415,
+      "lon": 12.504998
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio 2",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Stereocittà",
+    "coordinates": {
+      "lat": 45.4474,
+      "lon": 10.9916
+    },
+    "radioStations": [
+      {
+        "title": "Radio Stereocittà",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair11.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:8134/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio 3",
+    "coordinates": {
+      "lat": 41.904163,
+      "lon": 12.480871
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio 3",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/3.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Radio Monte Carlo",
+    "coordinates": {
+      "lat": 45.465563,
+      "lon": 9.174471
+    },
+    "radioStations": [
+      {
+        "title": "RMC Radio Monte Carlo",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/RMC.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Armisa",
+    "coordinates": {
+      "lat": 38.471035,
+      "lon": 14.243863
+    },
+    "radioStations": [
+      {
+        "title": "Radio Armisa",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://armisa.it/assets/favicon/android-chrome-512x512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onair.armisa.it/listen/armisa/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Italia",
+    "coordinates": {
+      "lat": 45.475152,
+      "lon": 9.204285
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Italia",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.virginradio.it/favicon_2.ico?v=1722509813651",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/Virgin.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Dance 90",
+    "coordinates": {
+      "lat": 45.444383,
+      "lon": 9.186494
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Dance 90",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105Dance90.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 80",
+    "coordinates": {
+      "lat": 45.429015,
+      "lon": 11.000198
+    },
+    "radioStations": [
+      {
+        "title": "Radio 80",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://str01.fluidstream.net:7020/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "70 80 Hits HQ",
+    "coordinates": {
+      "lat": 45.482801,
+      "lon": 9.178168
+    },
+    "radioStations": [
+      {
+        "title": "70 80 Hits HQ",
+        "subtitle": "Milano",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nr8.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nr8.newradio.it:19574/stream"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock '70",
+    "coordinates": {
+      "lat": 45.458018,
+      "lon": 9.212995
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock '70",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRock70.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Studio Più - HQ",
+    "coordinates": {
+      "lat": 45.452468,
+      "lon": 9.167409
+    },
+    "radioStations": [
+      {
+        "title": "Radio Studio Più - HQ",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://studiopiu.net/offline/img/icona.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://77.241.4.100:8020/;"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock '80",
+    "coordinates": {
+      "lat": 45.489561,
+      "lon": 9.199263
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock '80",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRock80.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tele Radio Stereo",
+    "coordinates": {
+      "lat": 41.913752,
+      "lon": 12.510685
+    },
+    "radioStations": [
+      {
+        "title": "Tele Radio Stereo",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s17518q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trsw.inmystream.info:8068/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC 80",
+    "coordinates": {
+      "lat": 45.437892,
+      "lon": 9.200858
+    },
+    "radioStations": [
+      {
+        "title": "RMC 80",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb008"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Hard Rock",
+    "coordinates": {
+      "lat": 45.476853,
+      "lon": 9.162965
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Hard Rock",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginHardRock.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia Solo Musica Italiana",
+    "coordinates": {
+      "lat": 45.473529,
+      "lon": 9.219748
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia Solo Musica Italiana",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/logo-radioitalia.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Centro Suono Sport",
+    "coordinates": {
+      "lat": 41.882983,
+      "lon": 12.492894
+    },
+    "radioStations": [
+      {
+        "title": "Centro Suono Sport",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=streaming.centrosuono.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.centrosuono.com:8000/cssport.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss Napoli",
+    "coordinates": {
+      "lat": 40.8423,
+      "lon": 14.25
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss Napoli",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kisskiss.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma08.fluidstream.net:3612/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss Italia",
+    "coordinates": {
+      "lat": 40.823915,
+      "lon": 14.258598
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss Italia",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma06.fluidstream.net:3614/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maria",
+    "coordinates": {
+      "lat": 45.436125,
+      "lon": 9.173728
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maria",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dreamsiteradiocp.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8092/;"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock Ballads",
+    "coordinates": {
+      "lat": 45.49709,
+      "lon": 9.182771
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock Ballads",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Virgin_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "R101 FM",
+    "coordinates": {
+      "lat": 45.444151,
+      "lon": 9.218514
+    },
+    "radioStations": [
+      {
+        "title": "R101 FM",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.r101.it/favicon_7.ico?v=1722509814243",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/r101"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ibiza",
+    "coordinates": {
+      "lat": 40.834663,
+      "lon": 14.234471
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ibiza",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma08.fluidstream.net:5010/;stream.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Viva FM",
+    "coordinates": {
+      "lat": 45.459576,
+      "lon": 9.154298
+    },
+    "radioStations": [
+      {
+        "title": "Radio Viva FM",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s63968q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.vivafm.it:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "CLASSIC HITS RADIO Italia",
+    "coordinates": {
+      "lat": 41.8809,
+      "lon": 12.5674
+    },
+    "radioStations": [
+      {
+        "title": "CLASSIC HITS RADIO Italia",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/ri-favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://classichitsradio.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Italia 70",
+    "coordinates": {
+      "lat": 45.492573,
+      "lon": 9.213916
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Italia 70",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um020.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Radicale",
+    "coordinates": {
+      "lat": 41.921401,
+      "lon": 12.484568
+    },
+    "radioStations": [
+      {
+        "title": "Radio Radicale",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=live.radioradicale.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioradicale.it/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss Hits",
+    "coordinates": {
+      "lat": 40.844252,
+      "lon": 14.264285
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss Hits",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice08.fluidstream.net/kk_hits.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - HipHop & RnB",
+    "coordinates": {
+      "lat": 45.426049,
+      "lon": 9.191575
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - HipHop & RnB",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105HipHopRnB.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Buddha-Bar",
+    "coordinates": {
+      "lat": 45.492009,
+      "lon": 9.16233
+    },
+    "radioStations": [
+      {
+        "title": "RMC Buddha-Bar",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb002"
+      }
+    ]
+  },
+  {
+    "name": "RMC Love Songs",
+    "coordinates": {
+      "lat": 45.462338,
+      "lon": 9.230206
+    },
+    "radioStations": [
+      {
+        "title": "RMC Love Songs",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb006"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss",
+    "coordinates": {
+      "lat": 40.813483,
+      "lon": 14.246494
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma08.fluidstream.net:4610/"
+      }
+    ]
+  },
+  {
+    "name": "Rai Isoradio",
+    "coordinates": {
+      "lat": 41.896618,
+      "lon": 12.519395
+    },
+    "radioStations": [
+      {
+        "title": "Rai Isoradio",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/6.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Italia Dance Music",
+    "coordinates": {
+      "lat": 44.4146,
+      "lon": 8.9463
+    },
+    "radioStations": [
+      {
+        "title": "Italia Dance Music",
+        "subtitle": "Liguria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sr2.inmystream.info:8032/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio Classica Filodiffusione",
+    "coordinates": {
+      "lat": 45.3226,
+      "lon": 9.5033
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio Classica Filodiffusione",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/5.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Italia 80",
+    "coordinates": {
+      "lat": 45.437778,
+      "lon": 9.158332
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Italia 80",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um016.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sportiva",
+    "coordinates": {
+      "lat": 45.622151,
+      "lon": 8.41091
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sportiva",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiosportiva.com/wp-content/uploads/2021/09/logo-radiosportiva-white.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sportiva.inmystream.it/stream/sportiva"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Zoo Radio",
+    "coordinates": {
+      "lat": 45.506036,
+      "lon": 9.195633
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Zoo Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105Zoo.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Roger Waters - Pink Floyd",
+    "coordinates": {
+      "lat": 45.428767,
+      "lon": 9.214648
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Roger Waters - Pink Floyd",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRogerWaters.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NEW HITS RADIO Italia",
+    "coordinates": {
+      "lat": 41.862515,
+      "lon": 12.575998
+    },
+    "radioStations": [
+      {
+        "title": "NEW HITS RADIO Italia",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/ri-favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://newhitsradio.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sei (Italia)",
+    "coordinates": {
+      "lat": 41.873263,
+      "lon": 12.551871
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sei (Italia)",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ithost.it/radiosei.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Radio Deejay",
+    "coordinates": {
+      "lat": 45.473881,
+      "lon": 9.146985
+    },
+    "radioStations": [
+      {
+        "title": "Radio Deejay",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.deejay.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio 1 Sport",
+    "coordinates": {
+      "lat": 41.891068,
+      "lon": 12.473809
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio 1 Sport",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/13.mp3"
+      }
+    ]
+  },
+  {
+    "name": "R101 Made in Italy",
+    "coordinates": {
+      "lat": 45.486569,
+      "lon": 9.229046
+    },
+    "radioStations": [
+      {
+        "title": "R101 Made in Italy",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/R101MadeInItaly.aac"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock '90",
+    "coordinates": {
+      "lat": 45.420481,
+      "lon": 9.176048
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock '90",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Virgin_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Disco Funk",
+    "coordinates": {
+      "lat": 45.506655,
+      "lon": 9.17039
+    },
+    "radioStations": [
+      {
+        "title": "RMC Disco Funk",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb025"
+      }
+    ]
+  },
+  {
+    "name": "Retesport (Italia)",
+    "coordinates": {
+      "lat": 41.882852,
+      "lon": 12.581685
+    },
+    "radioStations": [
+      {
+        "title": "Retesport (Italia)",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.ithost.it/retesport.ogg"
+      }
+    ]
+  },
+  {
+    "name": "RDS relax",
+    "coordinates": {
+      "lat": 43.923566,
+      "lon": 7.199957
+    },
+    "radioStations": [
+      {
+        "title": "RDS relax",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rdsrelax.it/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icstream.rds.radio/rdsrelax"
+      }
+    ]
+  },
+  {
+    "name": "Radio Manà Manà Sport Roma",
+    "coordinates": {
+      "lat": 41.928161,
+      "lon": 12.505663
+    },
+    "radioStations": [
+      {
+        "title": "Radio Manà Manà Sport Roma",
+        "subtitle": "Roma",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream10.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia Anni 60 - Trentino Alto Adige",
+    "coordinates": {
+      "lat": 46.0769,
+      "lon": 11.1211
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia Anni 60 - Trentino Alto Adige",
+        "subtitle": "Trentino-Alto Adige/Südtirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice10.fluidstream.net/anni60tn.aac"
+      }
+    ]
+  },
+  {
+    "name": "RMC VIP Lounge",
+    "coordinates": {
+      "lat": 45.44581,
+      "lon": 9.233929
+    },
+    "radioStations": [
+      {
+        "title": "RMC VIP Lounge",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb020"
+      }
+    ]
+  },
+  {
+    "name": "RAI 2",
+    "coordinates": {
+      "lat": 39.277491,
+      "lon": 16.470913
+    },
+    "radioStations": [
+      {
+        "title": "RAI 2",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icestreaming.rai.it/2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Popolare",
+    "coordinates": {
+      "lat": 44.685088,
+      "lon": 16.305211
+    },
+    "radioStations": [
+      {
+        "title": "Radio Popolare",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=livex.radiopopolare.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livex.radiopopolare.it/radiopop"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock Party",
+    "coordinates": {
+      "lat": 45.447802,
+      "lon": 9.144392
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock Party",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRockParty.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 80 - Forever Young",
+    "coordinates": {
+      "lat": 46.058515,
+      "lon": 11.129698
+    },
+    "radioStations": [
+      {
+        "title": "Radio 80 - Forever Young",
+        "subtitle": "Trentino-Alto Adige/Südtirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nr11.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nr11.newradio.it:9208/stream"
+      }
+    ]
+  },
+  {
+    "name": "RTL 102.5",
+    "coordinates": {
+      "lat": 44.5039,
+      "lon": 11.3426
+    },
+    "radioStations": [
+      {
+        "title": "RTL 102.5",
+        "subtitle": "Bologna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Subasio Per un'ora d'amore",
+    "coordinates": {
+      "lat": 43.1212,
+      "lon": 12.3888
+    },
+    "radioStations": [
+      {
+        "title": "Subasio Per un'ora d'amore",
+        "subtitle": "Umbria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 24, Il Sole 24 Ore, AAC 48k",
+    "coordinates": {
+      "lat": 41.221556,
+      "lon": 17.599594
+    },
+    "radioStations": [
+      {
+        "title": "Radio 24, Il Sole 24 Ore, AAC 48k",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast.radio24.it:8000/"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Miami",
+    "coordinates": {
+      "lat": 45.507833,
+      "lon": 9.212939
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Miami",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105Miami.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Rap Italia",
+    "coordinates": {
+      "lat": 45.415744,
+      "lon": 9.202767
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Rap Italia",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.105.net/favicon_3.ico?v=1722509813759",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105RapItalia.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Vasco",
+    "coordinates": {
+      "lat": 45.49174,
+      "lon": 9.14718
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Vasco",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Vasco.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RDS 100% Grandi Successi",
+    "coordinates": {
+      "lat": 41.870536,
+      "lon": 11.577066
+    },
+    "radioStations": [
+      {
+        "title": "RDS 100% Grandi Successi",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rds.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ITALIAN RADIO - Only (romantic) Italian Music",
+    "coordinates": {
+      "lat": 41.876492,
+      "lon": 12.507258
+    },
+    "radioStations": [
+      {
+        "title": "ITALIAN RADIO - Only (romantic) Italian Music",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=italianradio.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://italianradio.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "Radio Subasio",
+    "coordinates": {
+      "lat": 37.702367,
+      "lon": 17.952027
+    },
+    "radioStations": [
+      {
+        "title": "Radio Subasio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiosubasio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Subasio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Italia",
+    "coordinates": {
+      "lat": 45.47295,
+      "lon": 9.240955
+    },
+    "radioStations": [
+      {
+        "title": "RMC Italia",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb005"
+      }
+    ]
+  },
+  {
+    "name": "Radio Popolare Milano",
+    "coordinates": {
+      "lat": 45.422714,
+      "lon": 9.157862
+    },
+    "radioStations": [
+      {
+        "title": "Radio Popolare Milano",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=livex.radiopopolare.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livex.radiopopolare.it/radiopop2"
+      }
+    ]
+  },
+  {
+    "name": "Radio M2O",
+    "coordinates": {
+      "lat": 45.156146,
+      "lon": 11.178065
+    },
+    "radioStations": [
+      {
+        "title": "Radio M2O",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.m2o.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Rolling Stones",
+    "coordinates": {
+      "lat": 40.709696,
+      "lon": 13.327972
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Rolling Stones",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/VirginSpecialEvent.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC 90",
+    "coordinates": {
+      "lat": 45.517264,
+      "lon": 9.185611
+    },
+    "radioStations": [
+      {
+        "title": "RMC 90",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb009"
+      }
+    ]
+  },
+  {
+    "name": "Rai Südtirol",
+    "coordinates": {
+      "lat": 46.069263,
+      "lon": 11.105571
+    },
+    "radioStations": [
+      {
+        "title": "Rai Südtirol",
+        "subtitle": "Trentino-Alto Adige/Südtirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.raibz.rai.it/de/touch/square.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiobzlive.rai.it/RAIBZ_Livestream"
+      }
+    ]
+  },
+  {
+    "name": "Ritmo 80",
+    "coordinates": {
+      "lat": 41.1261,
+      "lon": 16.8719
+    },
+    "radioStations": [
+      {
+        "title": "Ritmo 80",
+        "subtitle": "Puglia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ice02.fluidstream.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice02.fluidstream.net/ritmo80.aac"
+      }
+    ]
+  },
+  {
+    "name": "Lolli Radio Italia",
+    "coordinates": {
+      "lat": 41.915453,
+      "lon": 12.469365
+    },
+    "radioStations": [
+      {
+        "title": "Lolli Radio Italia",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.lolliradio.net/lolli_italia.mp3"
+      }
+    ]
+  },
+  {
+    "name": "One Dance",
+    "coordinates": {
+      "lat": 44.602119,
+      "lon": 10.019694
+    },
+    "radioStations": [
+      {
+        "title": "One Dance",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.onedance.fm/img/apple-touch-icon-114x114.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice10.fluidstream.net/rn1_2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capital",
+    "coordinates": {
+      "lat": 41.912129,
+      "lon": 12.526148
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capital",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.capital.it/wp-content/themes/network-capital/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italianissima",
+    "coordinates": {
+      "lat": 38.9188,
+      "lon": 16.5876
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italianissima",
+        "subtitle": "Calabria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/ri-favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:9100/"
+      }
+    ]
+  },
+  {
+    "name": "Venice Classic Radio *LIVE",
+    "coordinates": {
+      "lat": 45.4498,
+      "lon": 12.3155
+    },
+    "radioStations": [
+      {
+        "title": "Venice Classic Radio *LIVE",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=116.202.241.212",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://116.202.241.212:8020/"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock Hits",
+    "coordinates": {
+      "lat": 45.427524,
+      "lon": 9.229634
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock Hits",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRockHits.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Blackout",
+    "coordinates": {
+      "lat": 45.0793,
+      "lon": 7.6869
+    },
+    "radioStations": [
+      {
+        "title": "Radio Blackout",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s95186q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioblackout.org/blackout.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sorrriso",
+    "coordinates": {
+      "lat": 45.439763,
+      "lon": 10.976071
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sorrriso",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.sorrriso.it/wp-content/uploads/2020/02/apple-icon-120x120-2.png?x69212",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma01.fluidstream.net/sorriso"
+      }
+    ]
+  },
+  {
+    "name": "Musica Jazz Radio",
+    "coordinates": {
+      "lat": 45.464475,
+      "lon": 9.135256
+    },
+    "radioStations": [
+      {
+        "title": "Musica Jazz Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://musicajazz.it/wp-content/uploads/logo-120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice03.fluidstream.net/mjr.aac"
+      }
+    ]
+  },
+  {
+    "name": "70 80 Disco Funk ModernSoul e Boogie",
+    "coordinates": {
+      "lat": 43.38894,
+      "lon": 11.110519
+    },
+    "radioStations": [
+      {
+        "title": "70 80 Disco Funk ModernSoul e Boogie",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=discofunk.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://discofunk.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio Tutta Italiana",
+    "coordinates": {
+      "lat": 41.852083,
+      "lon": 12.563894
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio Tutta Italiana",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/4.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lattemiele",
+    "coordinates": {
+      "lat": 44.711682,
+      "lon": 10.850698
+    },
+    "radioStations": [
+      {
+        "title": "Lattemiele",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lattemiele.com/wp-content/uploads/2020/07/cropped-logo-autore-lm-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sr15.inmystream.it:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Pink Floyd",
+    "coordinates": {
+      "lat": 39.700781,
+      "lon": 17.920515
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Pink Floyd",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRogerWaters.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Piterpan",
+    "coordinates": {
+      "lat": 45.449352,
+      "lon": 11.005885
+    },
+    "radioStations": [
+      {
+        "title": "Radio Piterpan",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.piterpan.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma01.fluidstream.net/piterpan"
+      }
+    ]
+  },
+  {
+    "name": "Radio Padova",
+    "coordinates": {
+      "lat": 45.418583,
+      "lon": 10.988094
+    },
+    "radioStations": [
+      {
+        "title": "Radio Padova",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiopadova.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://str01.fluidstream.net:6020/listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "RMC Nights Story",
+    "coordinates": {
+      "lat": 45.50147,
+      "lon": 9.231097
+    },
+    "radioStations": [
+      {
+        "title": "RMC Nights Story",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb012"
+      }
+    ]
+  },
+  {
+    "name": "R101 Radio",
+    "coordinates": {
+      "lat": 38.558557,
+      "lon": 8.106899
+    },
+    "radioStations": [
+      {
+        "title": "R101 Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icecast.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/r101_mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Marine",
+    "coordinates": {
+      "lat": 45.408236,
+      "lon": 9.184804
+    },
+    "radioStations": [
+      {
+        "title": "RMC Marine",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb010"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rai 1",
+    "coordinates": {
+      "lat": 41.874725,
+      "lon": 12.480128
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rai 1",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "LatteMiele Marche Abruzzo",
+    "coordinates": {
+      "lat": 43.3259,
+      "lon": 13.516
+    },
+    "radioStations": [
+      {
+        "title": "LatteMiele Marche Abruzzo",
+        "subtitle": "Marche",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ice02.fluidstream.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice02.fluidstream.net/fluid016.aac"
+      }
+    ]
+  },
+  {
+    "name": "RMC Romantic Rock",
+    "coordinates": {
+      "lat": 45.509546,
+      "lon": 9.155595
+    },
+    "radioStations": [
+      {
+        "title": "RMC Romantic Rock",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb015"
+      }
+    ]
+  },
+  {
+    "name": "Venice Classic Radio",
+    "coordinates": {
+      "lat": 45.431415,
+      "lon": 12.324098
+    },
+    "radioStations": [
+      {
+        "title": "Venice Classic Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=uk2.streamingpulse.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1"
+      }
+    ]
+  },
+  {
+    "name": "RMC Party",
+    "coordinates": {
+      "lat": 45.453876,
+      "lon": 9.246696
+    },
+    "radioStations": [
+      {
+        "title": "RMC Party",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb018"
+      }
+    ]
+  },
+  {
+    "name": "Radio Balla Balla",
+    "coordinates": {
+      "lat": 38.900415,
+      "lon": 16.596198
+    },
+    "radioStations": [
+      {
+        "title": "Radio Balla Balla",
+        "subtitle": "Calabria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://static.wixstatic.com/media/12c6d6_1c1a32e349ba40b385a0c39b2c37b92f.png_srz_p_384_384_75_22_0.50_1.20_0.00_png_srz",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice09.fluidstream.net/ballaballa.mp3?FLID=6"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock Alternative",
+    "coordinates": {
+      "lat": 45.433143,
+      "lon": 9.140629
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock Alternative",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRockAlternative.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RADIO NOSTALGIA PIEMONTE",
+    "coordinates": {
+      "lat": 45.060915,
+      "lon": 7.695498
+    },
+    "radioStations": [
+      {
+        "title": "RADIO NOSTALGIA PIEMONTE",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://players1.fluidstream.it/RadioNostalgiaPV/images/logo320.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Marconi 2 \"Musica Clasica\"",
+    "coordinates": {
+      "lat": 45.521115,
+      "lon": 9.205609
+    },
+    "radioStations": [
+      {
+        "title": "Radio Marconi 2 \"Musica Clasica\"",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair22.streaming.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair22.streaming.xdevel.com:7598/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Marte",
+    "coordinates": {
+      "lat": 40.851901,
+      "lon": 14.238168
+    },
+    "radioStations": [
+      {
+        "title": "Radio Marte",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomarte.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair18.xdevel.com:8142/"
+      }
+    ]
+  },
+  {
+    "name": "m2o originals radio",
+    "coordinates": {
+      "lat": 40.1298,
+      "lon": 9.0129
+    },
+    "radioStations": [
+      {
+        "title": "m2o originals radio",
+        "subtitle": "Sardegna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/b9d036_f8037116300b4352aded5b469dfc8c1b~mv2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.zeno.fm/yextksspwp0tv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Romanista",
+    "coordinates": {
+      "lat": 41.93569,
+      "lon": 12.489171
+    },
+    "radioStations": [
+      {
+        "title": "Radio Romanista",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=romanista.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://romanista.newradio.it/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMC Kay Kay",
+    "coordinates": {
+      "lat": 45.411082,
+      "lon": 9.217248
+    },
+    "radioStations": [
+      {
+        "title": "RMC Kay Kay",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb004"
+      }
+    ]
+  },
+  {
+    "name": "VirginRadio - Pink Floyd",
+    "coordinates": {
+      "lat": 44.156259,
+      "lon": 17.594872
+    },
+    "radioStations": [
+      {
+        "title": "VirginRadio - Pink Floyd",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.radios.com.br/radio/lg/radio68351_1524770855.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginRogerWaters.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Birikina",
+    "coordinates": {
+      "lat": 45.457001,
+      "lon": 10.979768
+    },
+    "radioStations": [
+      {
+        "title": "Radio Birikina",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.birikina.it/wp-content/uploads/2020/02/ico-fb-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma01.fluidstream.net/birikina"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bruno",
+    "coordinates": {
+      "lat": 41.882751,
+      "lon": 12.524914
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bruno",
+        "subtitle": "Emilia-Romagna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobruno.it/wp-content/uploads/2023/10/logo-148-90-black1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair18.xdevel.com:8062/;"
+      }
+    ]
+  },
+  {
+    "name": "RMC Great Artists",
+    "coordinates": {
+      "lat": 45.485197,
+      "lon": 9.133395
+    },
+    "radioStations": [
+      {
+        "title": "RMC Great Artists",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb007"
+      }
+    ]
+  },
+  {
+    "name": "RTR 99 Canale Pooh",
+    "coordinates": {
+      "lat": 41.898176,
+      "lon": 12.460698
+    },
+    "radioStations": [
+      {
+        "title": "RTR 99 Canale Pooh",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtr99.it/onair/CanalePooh/OnAir.jpg?x=9f2sj07zxxhpl2i1aocli",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtr99.fluidstream.eu/rtr99_pooh.mp3"
+      }
+    ]
+  },
+  {
+    "name": "R101 Enjoy The Music",
+    "coordinates": {
+      "lat": 45.487205,
+      "lon": 9.24654
+    },
+    "radioStations": [
+      {
+        "title": "R101 Enjoy The Music",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/101Legend.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Onda Rossa",
+    "coordinates": {
+      "lat": 41.931173,
+      "lon": 12.520316
+    },
+    "radioStations": [
+      {
+        "title": "Radio Onda Rossa",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.auto.ondarossa.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.auto.ondarossa.net/ondarossa.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rai 1 Friuli Venezia Giulia",
+    "coordinates": {
+      "lat": 45.442163,
+      "lon": 12.299971
+    },
+    "radioStations": [
+      {
+        "title": "Rai 1 Friuli Venezia Giulia",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icestreaming.rai.it/1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ROMANTICA-RADIO",
+    "coordinates": {
+      "lat": 41.864649,
+      "lon": 12.497975
+    },
+    "radioStations": [
+      {
+        "title": "ROMANTICA-RADIO",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://vetrina.multi-radio.com/romanticaradio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pico",
+    "coordinates": {
+      "lat": 41.930609,
+      "lon": 12.46873
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pico",
+        "subtitle": "Emilia-Romagna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair11.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:8064/"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio Techetè",
+    "coordinates": {
+      "lat": 41.900938,
+      "lon": 12.536606
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio Techetè",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/9.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dance Music",
+    "coordinates": {
+      "lat": 41.876378,
+      "lon": 12.464732
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dance Music",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.radiomusic.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiomusic.net:8130/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMC Hits",
+    "coordinates": {
+      "lat": 45.408449,
+      "lon": 9.163565
+    },
+    "radioStations": [
+      {
+        "title": "RMC Hits",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb001"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio 1 +Calcio",
+    "coordinates": {
+      "lat": 44.147913,
+      "lon": 10.195677
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio 1 +Calcio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast"
+      }
+    ]
+  },
+  {
+    "name": "LifeGate International",
+    "coordinates": {
+      "lat": 45.52379,
+      "lon": 9.17164
+    },
+    "radioStations": [
+      {
+        "title": "LifeGate International",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lifegate.it/app/themes/lifegate-2020/dist/images/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:9028/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC New Classics",
+    "coordinates": {
+      "lat": 45.432335,
+      "lon": 9.244347
+    },
+    "radioStations": [
+      {
+        "title": "RMC New Classics",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb011"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Queen",
+    "coordinates": {
+      "lat": 45.450851,
+      "lon": 9.127776
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Queen",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icecast.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/Virgin_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Stereocitta",
+    "coordinates": {
+      "lat": 46.182736,
+      "lon": 16.985652
+    },
+    "radioStations": [
+      {
+        "title": "Radio Stereocitta",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=host-79-8-227-117.business.telecomitalia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://host-79-8-227-117.business.telecomitalia.it:8008/1"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio Kids",
+    "coordinates": {
+      "lat": 41.944636,
+      "lon": 12.502033
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio Kids",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Rolling Stones",
+    "coordinates": {
+      "lat": 45.516591,
+      "lon": 9.227232
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Rolling Stones",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/VirginSpecialEvent.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Love FM",
+    "coordinates": {
+      "lat": 41.107715,
+      "lon": 16.880498
+    },
+    "radioStations": [
+      {
+        "title": "Love FM",
+        "subtitle": "Puglia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lovefm.it/themes/default/assets/img_c/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma07.fluidstream.net:7600/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Norba",
+    "coordinates": {
+      "lat": 45.233736,
+      "lon": 14.440796
+    },
+    "radioStations": [
+      {
+        "title": "Radio Norba",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radionorba.it/wp-content/uploads/2021/05/cropped-logo-radionorba-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair20.xdevel.com:8348/;"
+      }
+    ]
+  },
+  {
+    "name": "_Radio Energy Classic (Italy)",
+    "coordinates": {
+      "lat": 45.071663,
+      "lon": 7.671371
+    },
+    "radioStations": [
+      {
+        "title": "_Radio Energy Classic (Italy)",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioenergy.to/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gmusto3.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 70 80 90 Marche",
+    "coordinates": {
+      "lat": 43.307515,
+      "lon": 13.524598
+    },
+    "radioStations": [
+      {
+        "title": "Radio 70 80 90 Marche",
+        "subtitle": "Marche",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rblive.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rblive.it:8020/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NEU RADIO",
+    "coordinates": {
+      "lat": 44.750042,
+      "lon": 14.799788
+    },
+    "radioStations": [
+      {
+        "title": "NEU RADIO",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nr9.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nr9.newradio.it/proxy/ebaruffa?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bianconera",
+    "coordinates": {
+      "lat": 45.081252,
+      "lon": 7.701185
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bianconera",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://players.fluidstream.it/RadioBiancoNera/icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.tmwradio.com/bianconera.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio 80 Afro",
+    "coordinates": {
+      "lat": 45.432218,
+      "lon": 11.014595
+    },
+    "radioStations": [
+      {
+        "title": "Radio 80 Afro",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sphera.fluidstream.eu/r80_afro.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tango Pasión Radio",
+    "coordinates": {
+      "lat": 45.110279,
+      "lon": 16.18295
+    },
+    "radioStations": [
+      {
+        "title": "Tango Pasión Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nr11.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nr11.newradio.it:9180/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Freccia",
+    "coordinates": {
+      "lat": 41.136708,
+      "lon": 14.175927
+    },
+    "radioStations": [
+      {
+        "title": "Radio Freccia",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cloud.radiofreccia.it/assets/www.radiofreccia.it/1.0.43/img/logo/android-icon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Dancefloor 90s",
+    "coordinates": {
+      "lat": 44.498062,
+      "lon": 17.587805
+    },
+    "radioStations": [
+      {
+        "title": "Dancefloor 90s",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiodancefloor.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radiodancefloor.it/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Oasis",
+    "coordinates": {
+      "lat": 42.380944,
+      "lon": 13.064352
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Oasis",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/um1030.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sherwood",
+    "coordinates": {
+      "lat": 45.426668,
+      "lon": 10.969009
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sherwood",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiosherwood.ice.infomaniak.ch",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nuova San Giorgio",
+    "coordinates": {
+      "lat": 40.827118,
+      "lon": 14.272995
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nuova San Giorgio",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s95604q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu1.fastcast4u.com:10942/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO ITALIANA",
+    "coordinates": {
+      "lat": 41.890501,
+      "lon": 12.555568
+    },
+    "radioStations": [
+      {
+        "title": "RADIO ITALIANA",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.sedo.com/c7r/assets/static/images/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiorossini.stream.laut.fm/radiorossini"
+      }
+    ]
+  },
+  {
+    "name": "RMC Voyage Voyage",
+    "coordinates": {
+      "lat": 45.399797,
+      "lon": 9.198013
+    },
+    "radioStations": [
+      {
+        "title": "RMC Voyage Voyage",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb022"
+      }
+    ]
+  },
+  {
+    "name": "Radio Stereocittà - HQ",
+    "coordinates": {
+      "lat": 45.463761,
+      "lon": 11.000863
+    },
+    "radioStations": [
+      {
+        "title": "Radio Stereocittà - HQ",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=79.8.227.117",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://79.8.227.117:8008/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nostalgia Liguria",
+    "coordinates": {
+      "lat": 44.396215,
+      "lon": 8.954898
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nostalgia Liguria",
+        "subtitle": "Liguria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=wma08.fluidstream.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma08.fluidstream.net:8000/listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Radio Napoli",
+    "coordinates": {
+      "lat": 40.821568,
+      "lon": 14.227409
+    },
+    "radioStations": [
+      {
+        "title": "Radio Napoli",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionapoli.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice08.fluidstream.net/RadioNapoli.aac?FLID=6"
+      }
+    ]
+  },
+  {
+    "name": "LatteMiele Puglia",
+    "coordinates": {
+      "lat": 41.118463,
+      "lon": 16.856371
+    },
+    "radioStations": [
+      {
+        "title": "LatteMiele Puglia",
+        "subtitle": "Puglia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=ice02.fluidstream.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice02.fluidstream.net/lattemielepuglia.aac?FLID=6"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Hits Italia",
+    "coordinates": {
+      "lat": 45.506679,
+      "lon": 9.140115
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Hits Italia",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um011.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Amore One Dance Catania",
+    "coordinates": {
+      "lat": 37.608,
+      "lon": 14.0154
+    },
+    "radioStations": [
+      {
+        "title": "Radio Amore One Dance Catania",
+        "subtitle": "Sicilia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair22.streaming.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair22.streaming.xdevel.com:10010/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lolli Radio Dance",
+    "coordinates": {
+      "lat": 41.867367,
+      "lon": 12.521048
+    },
+    "radioStations": [
+      {
+        "title": "Lolli Radio Dance",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_dance-150x150.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.lolliradio.net/lolli_dance.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capital IT",
+    "coordinates": {
+      "lat": 44.558586,
+      "lon": 14.962992
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capital IT",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1200px-Radio_Capital_logo_%282020%29.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Tonic Fitness Radio Milano Lambrate",
+    "coordinates": {
+      "lat": 45.466596,
+      "lon": 9.256093
+    },
+    "radioStations": [
+      {
+        "title": "Tonic Fitness Radio Milano Lambrate",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioserver-professional.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radioserver-professional.it:8000/radio-015"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Aerosmith",
+    "coordinates": {
+      "lat": 40.173136,
+      "lon": 11.85834
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Aerosmith",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/um1028.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Subasio Collection",
+    "coordinates": {
+      "lat": 43.102815,
+      "lon": 12.397398
+    },
+    "radioStations": [
+      {
+        "title": "Subasio Collection",
+        "subtitle": "Umbria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/SubasioCollection.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Delta 1",
+    "coordinates": {
+      "lat": 42.36,
+      "lon": 13.3995
+    },
+    "radioStations": [
+      {
+        "title": "Radio Delta 1",
+        "subtitle": "Abruzzo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair15.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:8942/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "70/80 Non Stop",
+    "coordinates": {
+      "lat": 45.417361,
+      "lon": 9.142449
+    },
+    "radioStations": [
+      {
+        "title": "70/80 Non Stop",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=shoutcast3.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast3.streamingmedia.it:3038/;"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Italia 90",
+    "coordinates": {
+      "lat": 45.531461,
+      "lon": 9.193454
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Italia 90",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um018.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Guns N' Roses",
+    "coordinates": {
+      "lat": 45.045726,
+      "lon": 17.118422
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Guns N' Roses",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/um1029.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mozart Italia",
+    "coordinates": {
+      "lat": 41.865718,
+      "lon": 12.590395
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mozart Italia",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair15.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:7064/1/;"
+      }
+    ]
+  },
+  {
+    "name": "Italo Sound Radio",
+    "coordinates": {
+      "lat": 45.411809,
+      "lon": 9.233268
+    },
+    "radioStations": [
+      {
+        "title": "Italo Sound Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://italosound.com/logo-cover.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.italosound.com:8000/italosound"
+      }
+    ]
+  },
+  {
+    "name": "Radio Città Fujiko",
+    "coordinates": {
+      "lat": 41.912481,
+      "lon": 12.453385
+    },
+    "radioStations": [
+      {
+        "title": "Radio Città Fujiko",
+        "subtitle": "Emilia-Romagna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiocittafujiko.it/wp-content/uploads/2019/04/logo_120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://comodino.org:8001/rcf.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Queen",
+    "coordinates": {
+      "lat": 44.174023,
+      "lon": 8.512193
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Queen",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/Virgin_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Jazz",
+    "coordinates": {
+      "lat": 38.772195,
+      "lon": 10.773279
+    },
+    "radioStations": [
+      {
+        "title": "RMC Jazz",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb019"
+      }
+    ]
+  },
+  {
+    "name": "RMC Music Star George Michael",
+    "coordinates": {
+      "lat": 43.404048,
+      "lon": 12.897252
+    },
+    "radioStations": [
+      {
+        "title": "RMC Music Star George Michael",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/MusicStarPrince.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Play Capital",
+    "coordinates": {
+      "lat": 42.341615,
+      "lon": 13.408098
+    },
+    "radioStations": [
+      {
+        "title": "Radio Play Capital",
+        "subtitle": "Abruzzo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.playcapital.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:8166/;stream.nsv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sabbia",
+    "coordinates": {
+      "lat": 41.925169,
+      "lon": 12.535446
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sabbia",
+        "subtitle": "Emilia-Romagna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiosabbia.it/wp-content/uploads/2021/02/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sr2.inmystream.info:8104/stream"
+      }
+    ]
+  },
+  {
+    "name": "Running Radio",
+    "coordinates": {
+      "lat": 45.473687,
+      "lon": 9.122118
+    },
+    "radioStations": [
+      {
+        "title": "Running Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=edge.radiomontecarlo.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb021"
+      }
+    ]
+  },
+  {
+    "name": "Radio Globo",
+    "coordinates": {
+      "lat": 41.859081,
+      "lon": 12.482448
+    },
+    "radioStations": [
+      {
+        "title": "Radio Globo",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=178.33.72.12",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://178.33.72.12/globorm64"
+      }
+    ]
+  },
+  {
+    "name": "Radio Amore Nostalgia Catania",
+    "coordinates": {
+      "lat": 37.589615,
+      "lon": 14.023998
+    },
+    "radioStations": [
+      {
+        "title": "Radio Amore Nostalgia Catania",
+        "subtitle": "Sicilia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:8838/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capital Funky Town",
+    "coordinates": {
+      "lat": 45.503392,
+      "lon": 9.246947
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capital Funky Town",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-funkytown2-320x320.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Studio Più - The Dance Station",
+    "coordinates": {
+      "lat": 45.396265,
+      "lon": 9.174351
+    },
+    "radioStations": [
+      {
+        "title": "Radio Studio Più - The Dance Station",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.studiopiu.net/offline/img/icona.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://77.241.4.100:8010/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Marilù",
+    "coordinates": {
+      "lat": 45.412092,
+      "lon": 11.002458
+    },
+    "radioStations": [
+      {
+        "title": "Radio Marilù",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.marilu.it/wp-content/uploads/2023/03/cropped-radio-marilu-plettro-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://wma01.fluidstream.net/marilu"
+      }
+    ]
+  },
+  {
+    "name": "Lolli Radio Oldies",
+    "coordinates": {
+      "lat": 41.945255,
+      "lon": 12.47679
+    },
+    "radioStations": [
+      {
+        "title": "Lolli Radio Oldies",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=oldies.lolliradio.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://oldies.lolliradio.net:8070/listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Giornale Radio",
+    "coordinates": {
+      "lat": 45.429632,
+      "lon": 16.069448
+    },
+    "radioStations": [
+      {
+        "title": "Giornale Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://giornaleradio.fm/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gr.fluidstream.eu/gr1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "m2o originals radio 2",
+    "coordinates": {
+      "lat": 40.111415,
+      "lon": 9.021498
+    },
+    "radioStations": [
+      {
+        "title": "m2o originals radio 2",
+        "subtitle": "Sardegna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.m2o.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.zeno.fm/90ykardvkjttv"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR George Michael",
+    "coordinates": {
+      "lat": 45.525367,
+      "lon": 9.155365
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR George Michael",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/MusicStarPrince.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Holiday",
+    "coordinates": {
+      "lat": 46.078852,
+      "lon": 11.135385
+    },
+    "radioStations": [
+      {
+        "title": "Radio Holiday",
+        "subtitle": "Trentino-Alto Adige/Südtirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioholiday.it/wp-content/uploads/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioholiday.it:8000/"
+      }
+    ]
+  },
+  {
+    "name": "Rai Alto Adige",
+    "coordinates": {
+      "lat": 46.048083,
+      "lon": 11.117594
+    },
+    "radioStations": [
+      {
+        "title": "Rai Alto Adige",
+        "subtitle": "Trentino-Alto Adige/Südtirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiobzlive.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiobzlive.rai.it/RAI_AltoAdige"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Hits",
+    "coordinates": {
+      "lat": 45.442315,
+      "lon": 9.257402
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Hits",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105Hits.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Play Emotions",
+    "coordinates": {
+      "lat": 45.475599,
+      "lon": 13.484948
+    },
+    "radioStations": [
+      {
+        "title": "Play Emotions",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=91.121.38.216",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.121.38.216:8054/"
+      }
+    ]
+  },
+  {
+    "name": "50s 60s RETRO HITS",
+    "coordinates": {
+      "lat": 41.88441,
+      "lon": 12.540329
+    },
+    "radioStations": [
+      {
+        "title": "50s 60s RETRO HITS",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/f361b3_ea9b293c1b80488d97f24981e7c6c1d3~mv2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zeno.fm/pxzwykxbluitv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Company",
+    "coordinates": {
+      "lat": 45.451053,
+      "lon": 10.964565
+    },
+    "radioStations": [
+      {
+        "title": "Radio Company",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocompany.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sphera.fluidstream.eu/company.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dancefloor 90s",
+    "coordinates": {
+      "lat": 45.434572,
+      "lon": 9.124999
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dancefloor 90s",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s129888d.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radiodancefloor.it:443/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Wow!",
+    "coordinates": {
+      "lat": 40.806139,
+      "lon": 10.768545
+    },
+    "radioStations": [
+      {
+        "title": "Radio Wow!",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice10.fluidstream.net/fluid_wow.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss History Hits",
+    "coordinates": {
+      "lat": 40.858661,
+      "lon": 14.259263
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss History Hits",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice08.fluidstream.net/kk_history.aac"
+      }
+    ]
+  },
+  {
+    "name": "Italy Classical Radio",
+    "coordinates": {
+      "lat": 41.860168,
+      "lon": 12.544809
+    },
+    "radioStations": [
+      {
+        "title": "Italy Classical Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.italyclassicalradio.it/player/template/img/logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://philae.shoutca.st:8204/;"
+      }
+    ]
+  },
+  {
+    "name": "United Music Italia 2000",
+    "coordinates": {
+      "lat": 45.530474,
+      "lon": 9.218137
+    },
+    "radioStations": [
+      {
+        "title": "United Music Italia 2000",
+        "subtitle": "Milano",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.unitedmusic.com/favicon_6.ico?v=1722509814047",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um013.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Pino Daniele",
+    "coordinates": {
+      "lat": 45.395797,
+      "lon": 9.214207
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Pino Daniele",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Daniele.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DumDUM",
+    "coordinates": {
+      "lat": 42.518233,
+      "lon": 10.585758
+    },
+    "radioStations": [
+      {
+        "title": "DumDUM",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dumdumrepublic.com/images/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sr11.inmystream.it/proxy/dumdumradio"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: AC/DC",
+    "coordinates": {
+      "lat": 41.296981,
+      "lon": 12.295083
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: AC/DC",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/um1026.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA ITALY",
+    "coordinates": {
+      "lat": 41.897261,
+      "lon": 12.576663
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA ITALY",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomaria.org/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp2.com:8016/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rai Radio Live",
+    "coordinates": {
+      "lat": 41.886402,
+      "lon": 12.450792
+    },
+    "radioStations": [
+      {
+        "title": "Rai Radio Live",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icestreaming.rai.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ciao",
+    "coordinates": {
+      "lat": 42.352363,
+      "lon": 13.383971
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ciao",
+        "subtitle": "Abruzzo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiociao.com/wp-content/uploads/2021/09/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:9988/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gym Radio",
+    "coordinates": {
+      "lat": 45.498549,
+      "lon": 9.125454
+    },
+    "radioStations": [
+      {
+        "title": "Gym Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=edge.radiomontecarlo.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb023"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mitology",
+    "coordinates": {
+      "lat": 43.7786,
+      "lon": 11.2558
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mitology",
+        "subtitle": "Toscana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.mitology.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:9120/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rai News 24",
+    "coordinates": {
+      "lat": 41.691538,
+      "lon": 14.527788
+    },
+    "radioStations": [
+      {
+        "title": "Rai News 24",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rainews.it/dl/rainews/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio CRC",
+    "coordinates": {
+      "lat": 37.896893,
+      "lon": 7.85194
+    },
+    "radioStations": [
+      {
+        "title": "Radio CRC",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://crcnews.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Italia 60",
+    "coordinates": {
+      "lat": 45.48261,
+      "lon": 9.261331
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Italia 60",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um014.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Parsifal",
+    "coordinates": {
+      "lat": 42.361952,
+      "lon": 13.413785
+    },
+    "radioStations": [
+      {
+        "title": "Radio Parsifal",
+        "subtitle": "Abruzzo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair11.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:10044/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "m2o",
+    "coordinates": {
+      "lat": 40.594112,
+      "lon": 11.047948
+    },
+    "radioStations": [
+      {
+        "title": "m2o",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioindiretta.fm/img-radio/m2o-radio.jp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio One Dance",
+    "coordinates": {
+      "lat": 40.993452,
+      "lon": 10.900089
+    },
+    "radioStations": [
+      {
+        "title": "Radio One Dance",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=5.135.39.189",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.135.39.189:8036/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio RaiSport",
+    "coordinates": {
+      "lat": 41.41845,
+      "lon": 13.071968
+    },
+    "radioStations": [
+      {
+        "title": "Radio RaiSport",
+        "subtitle": "Fe",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/ramgajabuhqm.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74167340/mmNY37FME5Zl/icecast"
+      }
+    ]
+  },
+  {
+    "name": "LifeGate Radio",
+    "coordinates": {
+      "lat": 45.401983,
+      "lon": 9.14954
+    },
+    "radioStations": [
+      {
+        "title": "LifeGate Radio",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.fm-world.it/wp-content/uploads/2019/04/liferadio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia anni 60",
+    "coordinates": {
+      "lat": 41.845592,
+      "lon": 12.578258
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia anni 60",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/ri-favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://str01.fluidstream.net/anni60.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gamma Radio - Golden Hits",
+    "coordinates": {
+      "lat": 46.313359,
+      "lon": 17.671917
+    },
+    "radioStations": [
+      {
+        "title": "Gamma Radio - Golden Hits",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rn2.fluidstream.eu",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rn2.fluidstream.eu/gammaradio.mp3?FLID=1&type=.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Classics",
+    "coordinates": {
+      "lat": 45.537944,
+      "lon": 9.177718
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Classics",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/105Classics.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Sport Network",
+    "coordinates": {
+      "lat": 43.760215,
+      "lon": 11.264398
+    },
+    "radioStations": [
+      {
+        "title": "RMC Sport Network",
+        "subtitle": "Toscana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream17.tmwradio.com/tmw.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FOREVER 80",
+    "coordinates": {
+      "lat": 41.946433,
+      "lon": 12.519339
+    },
+    "radioStations": [
+      {
+        "title": "FOREVER 80",
+        "subtitle": "Emilia-Romagna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.laut.fm",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.laut.fm/forever80"
+      }
+    ]
+  },
+  {
+    "name": "Radio Cavolo",
+    "coordinates": {
+      "lat": 40.704348,
+      "lon": 9.061733
+    },
+    "radioStations": [
+      {
+        "title": "Radio Cavolo",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocavolo.org/wp-content/uploads/2020/10/cropped-radio-cavolo-logo-white-background-300x300-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocavolo.org/stream"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Zucchero",
+    "coordinates": {
+      "lat": 45.417787,
+      "lon": 9.249295
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Zucchero",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.unitedmusic.it/favicon_6.ico?v=1722509814047",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Zucchero.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Funky Corner Radio",
+    "coordinates": {
+      "lat": 45.050483,
+      "lon": 7.683394
+    },
+    "radioStations": [
+      {
+        "title": "Funky Corner Radio",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=andromeda.shoutca.st",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://andromeda.shoutca.st:8411/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO RELAX Italia",
+    "coordinates": {
+      "lat": 45.458329,
+      "lon": 9.114392
+    },
+    "radioStations": [
+      {
+        "title": "RADIO RELAX Italia",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiorelax.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiorelax.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "RTR 99 Canzoni e parole fuori dal coro",
+    "coordinates": {
+      "lat": 40.88271,
+      "lon": 16.612928
+    },
+    "radioStations": [
+      {
+        "title": "RTR 99 Canzoni e parole fuori dal coro",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rtr99.fluidstream.eu",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtr99.fluidstream.eu/rtr99.mp3?FLID=3"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Millenials Italy",
+    "coordinates": {
+      "lat": 45.51999,
+      "lon": 9.242149
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Millenials Italy",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um021.mp3"
+      }
+    ]
+  },
+  {
+    "name": "GEDI - m2o",
+    "coordinates": {
+      "lat": 43.416658,
+      "lon": 11.569064
+    },
+    "radioStations": [
+      {
+        "title": "GEDI - m2o",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2021/10/LOGO-e1635353469455-1200x1200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Antenna 1 Roma (107.1 MHz FM)",
+    "coordinates": {
+      "lat": 41.854344,
+      "lon": 12.509167
+    },
+    "radioStations": [
+      {
+        "title": "Antenna 1 Roma (107.1 MHz FM)",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.antenna1.fm/upload/629f3b133a3732.91000917.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.mediastreaming.it:7568/;"
+      }
+    ]
+  },
+  {
+    "name": "Antenna 1 FM 107.1 Roma",
+    "coordinates": {
+      "lat": 41.93034,
+      "lon": 12.45358
+    },
+    "radioStations": [
+      {
+        "title": "Antenna 1 FM 107.1 Roma",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static-media.streema.com/media/cache/8b/5e/8b5ec10decf33621fcb663bc67d8bf83.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://a1-it.newradio.it/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gamma 5",
+    "coordinates": {
+      "lat": 45.447729,
+      "lon": 11.021348
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gamma 5",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://players.fluidstream.it/RadioGamma5/images/logo320.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice09.fluidstream.net/fluid0902.aac?FLID=6"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 - Trap",
+    "coordinates": {
+      "lat": 45.387308,
+      "lon": 9.189227
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 - Trap",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.105.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/105Trap.mp3"
+      }
+    ]
+  },
+  {
+    "name": "LifeGate Radio HD",
+    "coordinates": {
+      "lat": 45.521811,
+      "lon": 9.13828
+    },
+    "radioStations": [
+      {
+        "title": "LifeGate Radio HD",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lifegate.it/app/uploads/share1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:8214/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Music Star Pino Daniele",
+    "coordinates": {
+      "lat": 46.100512,
+      "lon": 9.586489
+    },
+    "radioStations": [
+      {
+        "title": "RMC Music Star Pino Daniele",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/Daniele.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SempreViva",
+    "coordinates": {
+      "lat": 45.456605,
+      "lon": 9.267571
+    },
+    "radioStations": [
+      {
+        "title": "SempreViva",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream2.vivafm.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.vivafm.it:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rock 2K",
+    "coordinates": {
+      "lat": 45.417091,
+      "lon": 9.127257
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rock 2K",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Virgin_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Music Star Franco Battiato",
+    "coordinates": {
+      "lat": 40.845703,
+      "lon": 16.479992
+    },
+    "radioStations": [
+      {
+        "title": "Music Star Franco Battiato",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um057.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Amore",
+    "coordinates": {
+      "lat": 45.541825,
+      "lon": 9.204538
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Amore",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um012.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Party Groove",
+    "coordinates": {
+      "lat": 45.088901,
+      "lon": 7.675068
+    },
+    "radioStations": [
+      {
+        "title": "Radio Party Groove",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream15.top-ix.org",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream15.top-ix.org/partygroove"
+      }
+    ]
+  },
+  {
+    "name": "Radio Deltauno",
+    "coordinates": {
+      "lat": 41.128052,
+      "lon": 16.886185
+    },
+    "radioStations": [
+      {
+        "title": "Radio Deltauno",
+        "subtitle": "Puglia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nr9.newradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nr9.newradio.it:9540/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Viva Napoli",
+    "coordinates": {
+      "lat": 45.396707,
+      "lon": 9.231985
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Viva Napoli",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um017.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss Latina",
+    "coordinates": {
+      "lat": 40.806992,
+      "lon": 14.260858
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss Latina",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice08.fluidstream.net/kk_latina.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia Sanremo",
+    "coordinates": {
+      "lat": 45.485744,
+      "lon": 9.112962
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia Sanremo",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitalia.it/images/logo-webradio-sanremo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Venice Classic LIVE",
+    "coordinates": {
+      "lat": 45.451752,
+      "lon": 12.329785
+    },
+    "radioStations": [
+      {
+        "title": "Venice Classic LIVE",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=5.196.98.235",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.196.98.235/stream1"
+      }
+    ]
+  },
+  {
+    "name": "Rai Uno Radio",
+    "coordinates": {
+      "lat": 38.144357,
+      "lon": 14.961817
+    },
+    "radioStations": [
+      {
+        "title": "Rai Uno Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Rai-1-in-diretta-live.png?resize=1068%2C601&ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icestreaming.rai.it/1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kiss Kiss Sanremo Story",
+    "coordinates": {
+      "lat": 40.845953,
+      "lon": 14.222965
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kiss Kiss Sanremo Story",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice08.fluidstream.net/kk_sanremo.mp3"
+      }
+    ]
+  },
+  {
+    "name": "rete radio azzurra",
+    "coordinates": {
+      "lat": 45.820581,
+      "lon": 12.644388
+    },
+    "radioStations": [
+      {
+        "title": "rete radio azzurra",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.reteradioazzurra.it/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://reteradioazzurra.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 70 80 90 Dance Marche",
+    "coordinates": {
+      "lat": 43.318263,
+      "lon": 13.500471
+    },
+    "radioStations": [
+      {
+        "title": "Radio 70 80 90 Dance Marche",
+        "subtitle": "Marche",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rblive.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rblive.it:8060/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC R&B",
+    "coordinates": {
+      "lat": 43.789024,
+      "lon": 15.795157
+    },
+    "radioStations": [
+      {
+        "title": "RMC R&B",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/rmcweb003"
+      }
+    ]
+  },
+  {
+    "name": "Art Of Music",
+    "coordinates": {
+      "lat": 39.155754,
+      "lon": 10.435041
+    },
+    "radioStations": [
+      {
+        "title": "Art Of Music",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://artofmusic.fm/resources/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sr6.inmystream.info:8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMC Duets",
+    "coordinates": {
+      "lat": 45.50058,
+      "lon": 9.261809
+    },
+    "radioStations": [
+      {
+        "title": "RMC Duets",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb003"
+      }
+    ]
+  },
+  {
+    "name": "Radio Liberta",
+    "coordinates": {
+      "lat": 45.388399,
+      "lon": 9.161448
+    },
+    "radioStations": [
+      {
+        "title": "Radio Liberta",
+        "subtitle": "Lombardy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s3.eu-central-1.amazonaws.com/static.radioliberta.net/wp-content/uploads/2024/05/18104309/cropped-android-chrome-512x512-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:8258/;stream.aac"
+      }
+    ]
+  },
+  {
+    "name": "R101 '80",
+    "coordinates": {
+      "lat": 45.539843,
+      "lon": 9.159665
+    },
+    "radioStations": [
+      {
+        "title": "R101 '80",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/R10180.aac"
+      }
+    ]
+  },
+  {
+    "name": "RMC Running",
+    "coordinates": {
+      "lat": 46.222859,
+      "lon": 7.600089
+    },
+    "radioStations": [
+      {
+        "title": "RMC Running",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb021"
+      }
+    ]
+  },
+  {
+    "name": "Station Italy",
+    "coordinates": {
+      "lat": 41.884553,
+      "lon": 12.540365
+    },
+    "radioStations": [
+      {
+        "title": "Station Italy",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.laut.fm",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/stationitaly"
+      }
+    ]
+  },
+  {
+    "name": "Globo Vintage",
+    "coordinates": {
+      "lat": 41.91155,
+      "lon": 12.547355
+    },
+    "radioStations": [
+      {
+        "title": "Globo Vintage",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/cb9577_389d27d8f1214dfba6d28a9381d7ccdc%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/cb9577_389d27d8f1214dfba6d28a9381d7ccdc%7emv2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://m100.newradio.it/m100-64"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mela",
+    "coordinates": {
+      "lat": 40.122163,
+      "lon": 8.997371
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mela",
+        "subtitle": "Sardegna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=www.shoutcastitalia.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.shoutcastitalia.com:8016/stream"
+      }
+    ]
+  },
+  {
+    "name": "TMW Radio",
+    "coordinates": {
+      "lat": 43.597911,
+      "lon": 7.107245
+    },
+    "radioStations": [
+      {
+        "title": "TMW Radio",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.tmwradio.com/tmw.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Manila",
+    "coordinates": {
+      "lat": 45.064118,
+      "lon": 7.709895
+    },
+    "radioStations": [
+      {
+        "title": "Radio Manila",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomanilafm.it/wp-content/uploads/2017/03/cropped-cropped-1432734751_98500_radio_manila_piemonte.jpg-593147-270x270.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream15.top-ix.org:8000/radiomanila"
+      }
+    ]
+  },
+  {
+    "name": "70s 80s DiscoFunk ModernSoul Boogie",
+    "coordinates": {
+      "lat": 44.653777,
+      "lon": 14.255609
+    },
+    "radioStations": [
+      {
+        "title": "70s 80s DiscoFunk ModernSoul Boogie",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=my.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://my.streamingmedia.it:8020/play"
+      }
+    ]
+  },
+  {
+    "name": "DeeGay Pop & Dance",
+    "coordinates": {
+      "lat": 41.861314,
+      "lon": 12.464262
+    },
+    "radioStations": [
+      {
+        "title": "DeeGay Pop & Dance",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=stream.deegay.fm",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.deegay.fm/deegay1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Country Power Station",
+    "coordinates": {
+      "lat": 45.428699,
+      "lon": 9.26391
+    },
+    "radioStations": [
+      {
+        "title": "Country Power Station",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=shoutcast.countrypowerstation.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast.countrypowerstation.net:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "# 100 NU-DISCO CENTRAL RADIO",
+    "coordinates": {
+      "lat": 41.955864,
+      "lon": 12.492011
+    },
+    "radioStations": [
+      {
+        "title": "# 100 NU-DISCO CENTRAL RADIO",
+        "subtitle": "Roma",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zeno.fm/jqhhzffjynbuv"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Radio Rockstar: Bon Jovi",
+    "coordinates": {
+      "lat": 43.459406,
+      "lon": 16.518783
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Rockstar: Bon Jovi",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.virginradio.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um1027.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMC Cool",
+    "coordinates": {
+      "lat": 45.136087,
+      "lon": 9.254287
+    },
+    "radioStations": [
+      {
+        "title": "RMC Cool",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmc.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb004"
+      }
+    ]
+  },
+  {
+    "name": "Classic Hits Radio CLASSIC HITS anni 70 80 90",
+    "coordinates": {
+      "lat": 42.055228,
+      "lon": 12.491861
+    },
+    "radioStations": [
+      {
+        "title": "Classic Hits Radio CLASSIC HITS anni 70 80 90",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=classichitsradio.streamingmedia.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://classichitsradio.streamingmedia.it/play"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Tiziano Ferro",
+    "coordinates": {
+      "lat": 45.440309,
+      "lon": 9.111049
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Tiziano Ferro",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.unitedmusic.it/favicon_6.ico?v=1722509814047",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Ferro.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lolli Radio Hits",
+    "coordinates": {
+      "lat": 41.866124,
+      "lon": 12.536034
+    },
+    "radioStations": [
+      {
+        "title": "Lolli Radio Hits",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_hits-150x150.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.lolliradio.net/lolli_hits.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NATURE RADIO SLEEP",
+    "coordinates": {
+      "lat": 44.676473,
+      "lon": 10.383565
+    },
+    "radioStations": [
+      {
+        "title": "NATURE RADIO SLEEP",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-03-01/fb714c8d8238b02673a9ee2b018528af.ico.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Deejay 80",
+    "coordinates": {
+      "lat": 45.535568,
+      "lon": 9.232328
+    },
+    "radioStations": [
+      {
+        "title": "Deejay 80",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.deejay.it/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Manbassa",
+    "coordinates": {
+      "lat": 41.097283,
+      "lon": 16.868394
+    },
+    "radioStations": [
+      {
+        "title": "Radio Manbassa",
+        "subtitle": "Puglia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=91.121.90.186",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.121.90.186:8000/radiomanbassa"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Ligabue",
+    "coordinates": {
+      "lat": 45.382507,
+      "lon": 9.207096
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Ligabue",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.unitedmusic.it/favicon_6.ico?v=1722509814047",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icy.unitedradio.it/Ligabue.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ITALIA Rock Italiano",
+    "coordinates": {
+      "lat": 45.513172,
+      "lon": 9.121818
+    },
+    "radioStations": [
+      {
+        "title": "ITALIA Rock Italiano",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=icy.unitedradio.it",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icy.unitedradio.it/um076.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Funky Radio",
+    "coordinates": {
+      "lat": 45.474202,
+      "lon": 9.273833
+    },
+    "radioStations": [
+      {
+        "title": "Funky Radio",
+        "subtitle": "Milano",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://funky.radio/wp-content/uploads/2024/05/funky.radio_logo_300x300.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://funkyradio.streamingmedia.it/play.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Simply Radio",
+    "coordinates": {
+      "lat": 41.903075,
+      "lon": 12.441656
+    },
+    "radioStations": [
+      {
+        "title": "Simply Radio",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=onair15.xdevel.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair15.xdevel.com:8490/stream"
+      }
+    ]
+  },
+  {
+    "name": "Venice Classic Radio Auditorium",
+    "coordinates": {
+      "lat": 45.420983,
+      "lon": 12.311994
+    },
+    "radioStations": [
+      {
+        "title": "Venice Classic Radio Auditorium",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=uk2.streamingpulse.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1"
+      }
+    ]
+  },
+  {
+    "name": "Radio California",
+    "coordinates": {
+      "lat": 42.331183,
+      "lon": 13.395994
+    },
+    "radioStations": [
+      {
+        "title": "Radio California",
+        "subtitle": "Abruzzo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s154443q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair22.streaming.xdevel.com:10084/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DeeGay Classic",
+    "coordinates": {
+      "lat": 41.94007,
+      "lon": 12.537497
+    },
+    "radioStations": [
+      {
+        "title": "DeeGay Classic",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play5.newradio.it/contents/uploads/logo-43441.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.deegay.fm/deegay2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VCR | Venice Classic Radio Auditorium",
+    "coordinates": {
+      "lat": 45.459401,
+      "lon": 12.303668
+    },
+    "radioStations": [
+      {
+        "title": "VCR | Venice Classic Radio Auditorium",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.veniceclassicradio.eu/player/new/image/a.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia Uno",
+    "coordinates": {
+      "lat": 45.058568,
+      "lon": 7.664309
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia Uno",
+        "subtitle": "Piemonte",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioitaliauno.org/wp-content/uploads/2021/09/cropped-1296702-180x180.png?x40432",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream15.top-ix.org/radioitaliauno"
+      }
+    ]
+  },
+  {
+    "name": "Radio Montecarlo",
+    "coordinates": {
+      "lat": 40.657729,
+      "lon": 16.429457
+    },
+    "radioStations": [
+      {
+        "title": "Radio Montecarlo",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomontecarlo.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.unitedradio.it/RMC.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Amore i migliori anni Napoli",
+    "coordinates": {
+      "lat": 40.842629,
+      "lon": 14.279748
+    },
+    "radioStations": [
+      {
+        "title": "Radio Amore i migliori anni Napoli",
+        "subtitle": "Campania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair20.xdevel.com:8204/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Café",
+    "coordinates": {
+      "lat": 45.410325,
+      "lon": 10.975328
+    },
+    "radioStations": [
+      {
+        "title": "Radio Café",
+        "subtitle": "Veneto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiocafe.it/wp-content/uploads/2021/07/cropped-cafe-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair11.xdevel.com:8000/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC STAR Mina",
+    "coordinates": {
+      "lat": 45.399834,
+      "lon": 9.134629
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC STAR Mina",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=edge.radiomontecarlo.net",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge.radiomontecarlo.net/rmcweb014"
+      }
+    ]
+  },
+  {
+    "name": "Giornale Radio Ultima Ora",
+    "coordinates": {
+      "lat": 45.54954,
+      "lon": 9.187336
+    },
+    "radioStations": [
+      {
+        "title": "Giornale Radio Ultima Ora",
+        "subtitle": "Lombardia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=gr.fluidstream.eu",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gr.fluidstream.eu/gr2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Latina",
+    "coordinates": {
+      "lat": 41.846836,
+      "lon": 12.491204
+    },
+    "radioStations": [
+      {
+        "title": "Radio Latina",
+        "subtitle": "Lazio",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioimmagine.it/wp-content/uploads/2022/06/cropped-favico_i_gialla-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nr8.newradio.it:9097/;"
+      }
+    ]
+  },
+  {
+    "name": "Rai RadioDue",
+    "coordinates": {
+      "lat": 38.888341,
+      "lon": 15.619269
+    },
+    "radioStations": [
+      {
+        "title": "Rai RadioDue",
+        "subtitle": "Italy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.raiplayradio.it/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+      }
+    ]
+  },
+  {
+    "name": "Radio Azzurra",
+    "coordinates": {
+      "lat": 43.327852,
+      "lon": 13.530285
+    },
+    "radioStations": [
+      {
+        "title": "Radio Azzurra",
+        "subtitle": "Marche",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioazzurra.it/assets/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.mediastreaming.it:7100/;stream.mp3"
+      }
+    ]
+  }
+]
