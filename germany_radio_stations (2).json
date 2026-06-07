@@ -53,24 +53,7 @@
       }
     ]
   },
-  {
-    "name": "80s80s",
-    "coordinates": {
-      "lat": 54.2274,
-      "lon": 9.6961
-    },
-    "radioStations": [
-      {
-        "title": "80s80s",
-        "subtitle": "Schleswig-Holstein",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/"
-      }
-    ]
-  },
+  
   {
     "name": "90s90s Hits",
     "coordinates": {
@@ -161,24 +144,7 @@
       }
     ]
   },
-  {
-    "name": "TranceBase.FM - AAC HD 256k",
-    "coordinates": {
-      "lat": 52.136172,
-      "lon": 14.904401
-    },
-    "radioStations": [
-      {
-        "title": "TranceBase.FM - AAC HD 256k",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.trancebase.fm/tunein-aac-hd-pls"
-      }
-    ]
-  },
+  
   {
     "name": "Antenne Bayern",
     "coordinates": {
@@ -197,24 +163,7 @@
       }
     ]
   },
-  {
-    "name": "TechnoBase.FM",
-    "coordinates": {
-      "lat": 49.112803,
-      "lon": 9.035911
-    },
-    "radioStations": [
-      {
-        "title": "TechnoBase.FM",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://technobase.fm/media/icons/tb/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://lw2.mp3.tb-group.fm/tb.mp3"
-      }
-    ]
-  },
+ 
   {
     "name": "SWR3",
     "coordinates": {
@@ -377,24 +326,7 @@
       }
     ]
   },
-  {
-    "name": "Deutschlandfunk | DLF | MP3 128k",
-    "coordinates": {
-      "lat": 52.521212,
-      "lon": 13.391197
-    },
-    "radioStations": [
-      {
-        "title": "Deutschlandfunk | DLF | MP3 128k",
-        "subtitle": "Berlin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web"
-      }
-    ]
-  },
+  
   {
     "name": "- 0 N - 70s on Radio",
     "coordinates": {
@@ -413,24 +345,7 @@
       }
     ]
   },
-  {
-    "name": "RMNinstrumental",
-    "coordinates": {
-      "lat": 51.235095,
-      "lon": 11.607644
-    },
-    "radioStations": [
-      {
-        "title": "RMNinstrumental",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.instrumentalhits.de:8060/"
-      }
-    ]
-  },
+  
   {
     "name": "- 0 N - 80s on Radio",
     "coordinates": {
@@ -503,24 +418,7 @@
       }
     ]
   },
-  {
-    "name": "Reggae Radio Rastamusic.com",
-    "coordinates": {
-      "lat": 48.812943,
-      "lon": 11.506134
-    },
-    "radioStations": [
-      {
-        "title": "Reggae Radio Rastamusic.com",
-        "subtitle": "Bavaria",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://origin-rastamusic.streamguys1.com/rastamusic.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "WDR 2 Rheinland",
     "coordinates": {
@@ -989,24 +887,7 @@
       }
     ]
   },
-  {
-    "name": "NDR Info (Schleswig-Holstein)",
-    "coordinates": {
-      "lat": 54.220612,
-      "lon": 9.682297
-    },
-    "radioStations": [
-      {
-        "title": "NDR Info (Schleswig-Holstein)",
-        "subtitle": "Schleswig-Holstein",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ndr.de/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "RADIO BOB! BOBs Alternative Rock",
     "coordinates": {
@@ -1133,24 +1014,7 @@
       }
     ]
   },
-  {
-    "name": "NDR 2",
-    "coordinates": {
-      "lat": 53.566958,
-      "lon": 10.022942
-    },
-    "radioStations": [
-      {
-        "title": "NDR 2",
-        "subtitle": "Hamburg",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ndr.de//apple-touch-icon-57x57.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "FluxFM",
     "coordinates": {
@@ -1313,24 +1177,7 @@
       }
     ]
   },
-  {
-    "name": "NDR Info (Niedersachsen)",
-    "coordinates": {
-      "lat": 51.105712,
-      "lon": 13.187897
-    },
-    "radioStations": [
-      {
-        "title": "NDR Info (Niedersachsen)",
-        "subtitle": "Lower Saxony",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ndr.de/apple-touch-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "electronic music club",
     "coordinates": {
@@ -1421,42 +1268,8 @@
       }
     ]
   },
-  {
-    "name": "WDR 3",
-    "coordinates": {
-      "lat": 51.449734,
-      "lon": 7.651083
-    },
-    "radioStations": [
-      {
-        "title": "WDR 3",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3"
-      }
-    ]
-  },
-  {
-    "name": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
-    "coordinates": {
-      "lat": 51.1737,
-      "lon": 10.4515
-    },
-    "radioStations": [
-      {
-        "title": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
-        "subtitle": "Deutschland (Germany)",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/T1gH75m/rb-top100clubcharts.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts"
-      }
-    ]
-  },
+  
+  
   {
     "name": "Sunshine Live - Festival",
     "coordinates": {
@@ -1619,24 +1432,7 @@
       }
     ]
   },
-  {
-    "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS",
-    "coordinates": {
-      "lat": 51.157358,
-      "lon": 10.459142
-    },
-    "radioStations": [
-      {
-        "title": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS",
-        "subtitle": "Deutschland (Germany)",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts"
-      }
-    ]
-  },
+  
   {
     "name": "MDR Jump",
     "coordinates": {
@@ -1799,24 +1595,7 @@
       }
     ]
   },
-  {
-    "name": "WDR 2 Rhein und Ruhr",
-    "coordinates": {
-      "lat": 51.455743,
-      "lon": 7.669834
-    },
-    "radioStations": [
-      {
-        "title": "WDR 2 Rhein und Ruhr",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "80s80s Funk & Soul",
     "coordinates": {
@@ -2249,24 +2028,7 @@
       }
     ]
   },
-  {
-    "name": "SWR1 BW neu (2021.12) 128k mp3",
-    "coordinates": {
-      "lat": 48.231666,
-      "lon": 11.541312
-    },
-    "radioStations": [
-      {
-        "title": "SWR1 BW neu (2021.12) 128k mp3",
-        "subtitle": "BW",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://swr.de/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Klassikradio - Pure Bach",
     "coordinates": {
@@ -2285,24 +2047,7 @@
       }
     ]
   },
-  {
-    "name": "TechnoBase.FM   AAC HD 256k",
-    "coordinates": {
-      "lat": 49.165025,
-      "lon": 7.14712
-    },
-    "radioStations": [
-      {
-        "title": "TechnoBase.FM   AAC HD 256k",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://n.image.weareone.fm/news/grafiken/_314354/Grafiken/WAO_-_Sendeplangrafik.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.technobase.fm/tunein-aac-hd-pls"
-      }
-    ]
-  },
+  
   {
     "name": "1A Fitness Hits",
     "coordinates": {
@@ -2357,24 +2102,7 @@
       }
     ]
   },
-  {
-    "name": "sunshine live - Vocal Trance",
-    "coordinates": {
-      "lat": 49.697744,
-      "lon": 12.443137
-    },
-    "radioStations": [
-      {
-        "title": "sunshine live - Vocal Trance",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=696859p6%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1768446406"
-      }
-    ]
-  },
+  
   {
     "name": "90s90s Grunge",
     "coordinates": {
@@ -2501,24 +2229,7 @@
       }
     ]
   },
-  {
-    "name": "HouseTime.FM",
-    "coordinates": {
-      "lat": 52.771613,
-      "lon": 14.557374
-    },
-    "radioStations": [
-      {
-        "title": "HouseTime.FM",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://housetime.fm/media/icons/ht/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.housetime.fm/tunein-aac-hd-pls"
-      }
-    ]
-  },
+  
   {
     "name": "OLDSCHOOL HIPHOP",
     "coordinates": {
@@ -2591,42 +2302,8 @@
       }
     ]
   },
-  {
-    "name": "Deutschlandfunk | DLF | OPUS 24k",
-    "coordinates": {
-      "lat": 52.549235,
-      "lon": 13.398574
-    },
-    "radioStations": [
-      {
-        "title": "Deutschlandfunk | DLF | OPUS 24k",
-        "subtitle": "Berlin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web"
-      }
-    ]
-  },
-  {
-    "name": "NDR 1 Welle Nord",
-    "coordinates": {
-      "lat": 54.213905,
-      "lon": 9.71654
-    },
-    "radioStations": [
-      {
-        "title": "NDR 1 Welle Nord",
-        "subtitle": "Schleswig-Holstein",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ndr.de/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
+  
   {
     "name": "Antenne Bayern - Workout hits",
     "coordinates": {
@@ -2789,24 +2466,7 @@
       }
     ]
   },
-  {
-    "name": "Bayern 1 Franken",
-    "coordinates": {
-      "lat": 48.828138,
-      "lon": 11.480469
-    },
-    "radioStations": [
-      {
-        "title": "Bayern 1 Franken",
-        "subtitle": "Bayern",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid"
-      }
-    ]
-  },
+  
   {
     "name": "Blues Rock Cafe",
     "coordinates": {
@@ -2825,24 +2485,7 @@
       }
     ]
   },
-  {
-    "name": "Deutschlandfunk | DLF | AAC 48k",
-    "coordinates": {
-      "lat": 52.51589,
-      "lon": 13.373265
-    },
-    "radioStations": [
-      {
-        "title": "Deutschlandfunk | DLF | AAC 48k",
-        "subtitle": "Berlin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web"
-      }
-    ]
-  },
+  
   {
     "name": "RBB 88.8 Radio Berlin",
     "coordinates": {
@@ -3041,24 +2684,7 @@
       }
     ]
   },
-  {
-    "name": "Deutschlandfunk Nova | DLF | MP3 128k",
-    "coordinates": {
-      "lat": 52.486088,
-      "lon": 13.4064
-    },
-    "radioStations": [
-      {
-        "title": "Deutschlandfunk Nova | DLF | MP3 128k",
-        "subtitle": "Berlin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web"
-      }
-    ]
-  },
+  
   {
     "name": "80s80s Michael Jackson",
     "coordinates": {
@@ -3077,24 +2703,7 @@
       }
     ]
   },
-  {
-    "name": "# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
-    "coordinates": {
-      "lat": 48.862828,
-      "lon": 9.3592
-    },
-    "radioStations": [
-      {
-        "title": "# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/3mtCKLC/aktHits.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits"
-      }
-    ]
-  },
+  
   {
     "name": "Epic Lounge - SLEEP & MEDITATION",
     "coordinates": {
@@ -3149,24 +2758,7 @@
       }
     ]
   },
-  {
-    "name": "WDR 2 Ostwestfalen-Lippe",
-    "coordinates": {
-      "lat": 51.441493,
-      "lon": 7.688043
-    },
-    "radioStations": [
-      {
-        "title": "WDR 2 Ostwestfalen-Lippe",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.158.1/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "MDR Sputnik",
     "coordinates": {
@@ -3185,24 +2777,7 @@
       }
     ]
   },
-  {
-    "name": "WDR 3 HQ",
-    "coordinates": {
-      "lat": 51.408244,
-      "lon": 7.647136
-    },
-    "radioStations": [
-      {
-        "title": "WDR 3 HQ",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "HardBase.FM",
     "coordinates": {
@@ -3347,24 +2922,7 @@
       }
     ]
   },
-  {
-    "name": "Ostseewelle Live Radio",
-    "coordinates": {
-      "lat": 53.6207,
-      "lon": 12.4297
-    },
-    "radioStations": [
-      {
-        "title": "Ostseewelle Live Radio",
-        "subtitle": "Mecklenburg-Vorpommern",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.ostseewelle.de/assets/icons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "- 0 N - Greatest Hits on Radio",
     "coordinates": {
@@ -3869,24 +3427,7 @@
       }
     ]
   },
-  {
-    "name": "Deutschlandfunk | DLF | AAC 96k",
-    "coordinates": {
-      "lat": 52.557188,
-      "lon": 13.410007
-    },
-    "radioStations": [
-      {
-        "title": "Deutschlandfunk | DLF | AAC 96k",
-        "subtitle": "Berlin",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web"
-      }
-    ]
-  },
+  
   {
     "name": "WDR2 - Ruhrgebiet",
     "coordinates": {
@@ -4139,24 +3680,7 @@
       }
     ]
   },
-  {
-    "name": "# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO",
-    "coordinates": {
-      "lat": 51.45842,
-      "lon": 7.682859
-    },
-    "radioStations": [
-      {
-        "title": "# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio"
-      }
-    ]
-  },
+  
   {
     "name": "101FM - 80s",
     "coordinates": {
@@ -4247,24 +3771,7 @@
       }
     ]
   },
-  {
-    "name": "Schwany 5 Oberkrain",
-    "coordinates": {
-      "lat": 48.531764,
-      "lon": 11.71438
-    },
-    "radioStations": [
-      {
-        "title": "Schwany 5 Oberkrain",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://schwany.de/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://schwany5oberkrain.hoamatwelle.de/"
-      }
-    ]
-  },
+ 
   {
     "name": "Radio Hamburg",
     "coordinates": {
@@ -4517,24 +4024,7 @@
       }
     ]
   },
-  {
-    "name": "AnimeRadio.de",
-    "coordinates": {
-      "lat": 53.173416,
-      "lon": 9.33782
-    },
-    "radioStations": [
-      {
-        "title": "AnimeRadio.de",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.animeradio.de/img/favicon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.animeradio.de/animeradio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "SWR Aktuell",
     "coordinates": {
@@ -4877,24 +4367,7 @@
       }
     ]
   },
-  {
-    "name": "TranceBase.FM - AAC+ 40k",
-    "coordinates": {
-      "lat": 51.431545,
-      "lon": 7.697339
-    },
-    "radioStations": [
-      {
-        "title": "TranceBase.FM - AAC+ 40k",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.trancebase.fm/tunein-aacisdn-pls"
-      }
-    ]
-  },
+  
   {
     "name": "Antenne Bayern - 90er",
     "coordinates": {
@@ -5183,24 +4656,7 @@
       }
     ]
   },
-  {
-    "name": "Inforadio vom rbb",
-    "coordinates": {
-      "lat": 49.114424,
-      "lon": 13.765971
-    },
-    "radioStations": [
-      {
-        "title": "Inforadio vom rbb",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.inforadio.de/content/dam/rbb/rbb/logos/touch/inf-128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein"
-      }
-    ]
-  },
+  
   {
     "name": "DASDING",
     "coordinates": {
@@ -5525,24 +4981,7 @@
       }
     ]
   },
-  {
-    "name": "80s80s Italo Hits",
-    "coordinates": {
-      "lat": 51.060427,
-      "lon": 9.958671
-    },
-    "radioStations": [
-      {
-        "title": "80s80s Italo Hits",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://streams.80s80s.de/italohits/mp3-192/streams.80s80s.de/"
-      }
-    ]
-  },
+  
   {
     "name": "Best Of Techno",
     "coordinates": {
@@ -5831,24 +5270,7 @@
       }
     ]
   },
-  {
-    "name": "Hit Radio FFH - 80er (AAC+)",
-    "coordinates": {
-      "lat": 49.978214,
-      "lon": 12.616014
-    },
-    "radioStations": [
-      {
-        "title": "Hit Radio FFH - 80er (AAC+)",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://webradio.ffh.de/android-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3.ffh.de/ffhchannels/80er.aac"
-      }
-    ]
-  },
+  
   {
     "name": "I Love 2 Dance",
     "coordinates": {
@@ -6083,24 +5505,7 @@
       }
     ]
   },
-  {
-    "name": "WDR 2 Münsterland",
-    "coordinates": {
-      "lat": 51.416853,
-      "lon": 7.700648
-    },
-    "radioStations": [
-      {
-        "title": "WDR 2 Münsterland",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Technolovers HANDSUP",
     "coordinates": {
@@ -6641,24 +6046,7 @@
       }
     ]
   },
-  {
-    "name": "#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025",
-    "coordinates": {
-      "lat": 51.182234,
-      "lon": 10.440983
-    },
-    "radioStations": [
-      {
-        "title": "#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025",
-        "subtitle": "Deutschland und NRW",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/DgTG33b/TOP100-b.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.breakz.fm/?ref=top100radio-browser"
-      }
-    ]
-  },
+  
   {
     "name": "Sunshine Live - MayDay",
     "coordinates": {
@@ -6677,24 +6065,7 @@
       }
     ]
   },
-  {
-    "name": "TranceBase.FM - AAC 96k",
-    "coordinates": {
-      "lat": 51.390128,
-      "lon": 7.672948
-    },
-    "radioStations": [
-      {
-        "title": "TranceBase.FM - AAC 96k",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.trancebase.fm/tunein-aacplus-pls"
-      }
-    ]
-  },
+  
   {
     "name": "WDR 1Live - HipHop",
     "coordinates": {
@@ -6821,24 +6192,7 @@
       }
     ]
   },
-  {
-    "name": "WDR 2 Aachen und Region",
-    "coordinates": {
-      "lat": 51.396323,
-      "lon": 7.633033
-    },
-    "radioStations": [
-      {
-        "title": "WDR 2 Aachen und Region",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Kinderlieder-123",
     "coordinates": {
@@ -6857,24 +6211,7 @@
       }
     ]
   },
-  {
-    "name": "Partyvibe - Drum and Bass",
-    "coordinates": {
-      "lat": 50.119512,
-      "lon": 7.295097
-    },
-    "radioStations": [
-      {
-        "title": "Partyvibe - Drum and Bass",
-        "subtitle": "Rheinland-Pfalz",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.partyvibe.com/wp-content/uploads/2020/12/party-vibe-radio-logo.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://www.partyviberadio.com:8061/;listen.pls?sid=1"
-      }
-    ]
-  },
+  
   {
     "name": "1000 Hits 60s",
     "coordinates": {
@@ -7181,24 +6518,7 @@
       }
     ]
   },
-  {
-    "name": "90s90s Hits Love Songs",
-    "coordinates": {
-      "lat": 53.307394,
-      "lon": 12.178838
-    },
-    "radioStations": [
-      {
-        "title": "90s90s Hits Love Songs",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://streams.90s90s.de/love/mp3-192/homepage/"
-      }
-    ]
-  },
+ 
   {
     "name": "EPIC CLASSICAL - Classical Pan Flute",
     "coordinates": {
@@ -7379,24 +6699,7 @@
       }
     ]
   },
-  {
-    "name": "radioeins-rbb-56 kbit/s",
-    "coordinates": {
-      "lat": 52.492394,
-      "lon": 13.361115
-    },
-    "radioStations": [
-      {
-        "title": "radioeins-rbb-56 kbit/s",
-        "subtitle": "Berlin-Brandenburg",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38H99Z5k56FLWfMqFCb0tjzAqjX&token=xcdY82T170KQ0MdKDbFrpHrtHsOJZ_SfMhQmRAgV4Fs&tvf=zZg2H3DbihhmMTQxLnJuZGZuay5jb20"
-      }
-    ]
-  },
+  
   {
     "name": "N Joy",
     "coordinates": {
@@ -7469,24 +6772,7 @@
       }
     ]
   },
-  {
-    "name": "Ballermann Radio Top100",
-    "coordinates": {
-      "lat": 49.912735,
-      "lon": 12.528262
-    },
-    "radioStations": [
-      {
-        "title": "Ballermann Radio Top100",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ballermann-radio.com/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://top100.bmr-radio.com:8000/"
-      }
-    ]
-  },
+  
   {
     "name": "Dark Star FM",
     "coordinates": {
@@ -7505,24 +6791,7 @@
       }
     ]
   },
-  {
-    "name": "#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50",
-    "coordinates": {
-      "lat": 54.073161,
-      "lon": 7.991073
-    },
-    "radioStations": [
-      {
-        "title": "#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB"
-      }
-    ]
-  },
+  
   {
     "name": "80s80s Dark Wave",
     "coordinates": {
@@ -7559,24 +6828,7 @@
       }
     ]
   },
-  {
-    "name": "SWR3 - 96K AAC",
-    "coordinates": {
-      "lat": 54.03248,
-      "lon": 6.000527
-    },
-    "radioStations": [
-      {
-        "title": "SWR3 - 96K AAC",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.swr3.de/assets/swr3/icons/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://liveradio.swr.de/sw331ch/swr3/play.aac"
-      }
-    ]
-  },
+  
   {
     "name": "RADIO BOB ROCK 80S",
     "coordinates": {
@@ -7631,24 +6883,7 @@
       }
     ]
   },
-  {
-    "name": "TranceBase.FM",
-    "coordinates": {
-      "lat": 51.433445,
-      "lon": 7.612939
-    },
-    "radioStations": [
-      {
-        "title": "TranceBase.FM",
-        "subtitle": "North Rhine-Westphalia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://trancebase.fm/media/icons/trb/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://listen.trancebase.fm/tunein-mp3-asx"
-      }
-    ]
-  },
+  
   {
     "name": "antenne 1",
     "coordinates": {
@@ -7703,24 +6938,7 @@
       }
     ]
   },
-  {
-    "name": "MDR Aktuell (low)",
-    "coordinates": {
-      "lat": 50.159232,
-      "lon": 12.853604
-    },
-    "radioStations": [
-      {
-        "title": "MDR Aktuell (low)",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "RauteMusik Happy Hardcore",
     "coordinates": {
@@ -7829,24 +7047,7 @@
       }
     ]
   },
-  {
-    "name": "NDR 2 (Hamburg)",
-    "coordinates": {
-      "lat": 53.57119,
-      "lon": 9.983565
-    },
-    "radioStations": [
-      {
-        "title": "NDR 2 (Hamburg)",
-        "subtitle": "Hamburg",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.ndr.de/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "i love radio - popstars",
     "coordinates": {
@@ -7865,24 +7066,7 @@
       }
     ]
   },
-  {
-    "name": "NDR 2 - Niedersachsen",
-    "coordinates": {
-      "lat": 53.60052,
-      "lon": 10.036559
-    },
-    "radioStations": [
-      {
-        "title": "NDR 2 - Niedersachsen",
-        "subtitle": "Hamburg",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://ndr.de/apple-touch-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "EBM-Radio",
     "coordinates": {
@@ -8207,24 +7391,7 @@
       }
     ]
   },
-  {
-    "name": "- 0 N - Rock on Radio",
-    "coordinates": {
-      "lat": 48.74383,
-      "lon": 11.536361
-    },
-    "radioStations": [
-      {
-        "title": "- 0 N - Rock on Radio",
-        "subtitle": "Bayern",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.0nradio.com/logos/0n-rock_600x600.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://0n-rock.radionetz.de/0n-rock.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "- 0 N - New Wave on Radio",
     "coordinates": {
@@ -8351,24 +7518,7 @@
       }
     ]
   },
-  {
-    "name": "80s80s In The Mix Low Quality",
-    "coordinates": {
-      "lat": 51.417067,
-      "lon": 7.897257
-    },
-    "radioStations": [
-      {
-        "title": "80s80s In The Mix Low Quality",
-        "subtitle": "Germany",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=6968718p%230%23r30o443r1929r059s085628511796n57%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1768452492"
-      }
-    ]
-  },
+  
   {
     "name": "Radio Köln",
     "coordinates": {
