@@ -2,8 +2,8 @@
   {
     "name": "Радио Шансон Калининград 72.1 УКВ",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.445
+      "lat": 54.7104,
+      "lon": 20.4522
     },
     "radioStations": [
       {
@@ -20,8 +20,8 @@
   {
     "name": "Радио Sputnik Калининград 87.7 FM",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.456
+      "lat": 55.0839,
+      "lon": 21.882
     },
     "radioStations": [
       {
@@ -38,8 +38,8 @@
   {
     "name": "Радио Орфей Калининград 88.8 FM",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.467
+      "lat": 54.6316,
+      "lon": 21.8156
     },
     "radioStations": [
       {
@@ -56,8 +56,8 @@
   {
     "name": "Радио Родных Дорог Калининград 89.6 FM",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.478
+      "lat": 54.6437,
+      "lon": 19.8922
     },
     "radioStations": [
       {
@@ -74,8 +74,8 @@
   {
     "name": "Новое Радио Калининград 91.7 FM",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.489
+      "lat": 54.5916,
+      "lon": 22.2018
     },
     "radioStations": [
       {
@@ -92,8 +92,8 @@
   {
     "name": "DFM Калининград 92.8 FM",
     "coordinates": {
-      "lat": 54.73,
-      "lon": 20.5
+      "lat": 54.675,
+      "lon": 20.1347
     },
     "radioStations": [
       {
@@ -110,8 +110,8 @@
   {
     "name": "Радио 7 Калининград 93.6 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.445
+      "lat": 54.7733,
+      "lon": 20.6056
     },
     "radioStations": [
       {
@@ -128,8 +128,8 @@
   {
     "name": "Comedy Radio Калининград 94.0 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.456
+      "lat": 54.96,
+      "lon": 20.475
     },
     "radioStations": [
       {
@@ -146,8 +146,8 @@
   {
     "name": "Вести ФМ Калининград 95.1 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.467
+      "lat": 54.6477,
+      "lon": 21.0651
     },
     "radioStations": [
       {
@@ -164,8 +164,8 @@
   {
     "name": "Ретро FM Калининград 95.5 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.478
+      "lat": 54.9511,
+      "lon": 20.2275
     },
     "radioStations": [
       {
@@ -182,8 +182,8 @@
   {
     "name": "Русское Радио Калининград 96.3 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.489
+      "lat": 55.0317,
+      "lon": 22.0264
     },
     "radioStations": [
       {
@@ -200,8 +200,8 @@
   {
     "name": "Серебряный Дождь Калининград 97.7 FM",
     "coordinates": {
-      "lat": 54.7363,
-      "lon": 20.5
+      "lat": 54.4643,
+      "lon": 19.9426
     },
     "radioStations": [
       {
@@ -218,8 +218,8 @@
   {
     "name": "ПИ FM Калининград 98.1 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.445
+      "lat": 54.8625,
+      "lon": 21.1028
     },
     "radioStations": [
       {
@@ -236,8 +236,8 @@
   {
     "name": "Радио ENERGY Калининград 98.5 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.456
+      "lat": 54.3867,
+      "lon": 20.6419
     },
     "radioStations": [
       {
@@ -254,8 +254,8 @@
   {
     "name": "Радио Гордость Калининград 98.9 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.467
+      "lat": 54.4437,
+      "lon": 21.0179
     },
     "radioStations": [
       {
@@ -272,8 +272,8 @@
   {
     "name": "Радио ЗВЕЗДА Калининград 99.5 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.478
+      "lat": 55.0451,
+      "lon": 21.677
     },
     "radioStations": [
       {
@@ -290,8 +290,8 @@
   {
     "name": "Авторадио Калининград 100.1 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.489
+      "lat": 54.6313,
+      "lon": 22.5715
     },
     "radioStations": [
       {
@@ -308,8 +308,8 @@
   {
     "name": "Радио Русский Край Калининград 100.5 FM",
     "coordinates": {
-      "lat": 54.7426,
-      "lon": 20.5
+      "lat": 54.4107,
+      "lon": 22.0128
     },
     "radioStations": [
       {
@@ -326,8 +326,8 @@
   {
     "name": "Радио Монте-Карло Калининград 100.9 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.445
+      "lat": 54.9439,
+      "lon": 20.1515
     },
     "radioStations": [
       {
@@ -344,8 +344,8 @@
   {
     "name": "НАШЕ Радио Калининград 101.3 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.456
+      "lat": 54.5698,
+      "lon": 20.1693
     },
     "radioStations": [
       {
@@ -362,8 +362,8 @@
   {
     "name": "Business FM Калининград 101.8 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.467
+      "lat": 54.945,
+      "lon": 22.4897
     },
     "radioStations": [
       {
@@ -380,8 +380,8 @@
   {
     "name": "Радио Маяк Калининград 102.5 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.478
+      "lat": 54.7314,
+      "lon": 19.9457
     },
     "radioStations": [
       {
@@ -398,8 +398,8 @@
   {
     "name": "Love Radio Калининград 102.9 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.489
+      "lat": 54.71,
+      "lon": 20.5919
     },
     "radioStations": [
       {
@@ -416,8 +416,8 @@
   {
     "name": "STUDIO 21 Калининград 103.4 FM",
     "coordinates": {
-      "lat": 54.7489,
-      "lon": 20.5
+      "lat": 54.7625,
+      "lon": 20.6225
     },
     "radioStations": [
       {
@@ -434,8 +434,8 @@
   {
     "name": "Радио России Калининград 103.9 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.445
+      "lat": 54.7236,
+      "lon": 20.585
     },
     "radioStations": [
       {
@@ -452,8 +452,8 @@
   {
     "name": "Европа Плюс Калининград 104.5 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.456
+      "lat": 54.6889,
+      "lon": 20.5336
     },
     "radioStations": [
       {
@@ -470,8 +470,8 @@
   {
     "name": "Радио Балтик Плюс Калининград 105.2 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.467
+      "lat": 54.8247,
+      "lon": 20.3181
     },
     "radioStations": [
       {
@@ -488,8 +488,8 @@
   {
     "name": "Дорожное радио Калининград 105.9 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.478
+      "lat": 54.7826,
+      "lon": 20.474
     },
     "radioStations": [
       {
@@ -506,8 +506,8 @@
   {
     "name": "Радио MAXIMUM Калининград 106.4 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.489
+      "lat": 54.8944,
+      "lon": 20.2339
     },
     "radioStations": [
       {
@@ -524,8 +524,8 @@
   {
     "name": "Радио Комсомольская Правда Калининград 107.2 FM",
     "coordinates": {
-      "lat": 54.7552,
-      "lon": 20.5
+      "lat": 54.8919,
+      "lon": 20.5803
     },
     "radioStations": [
       {
