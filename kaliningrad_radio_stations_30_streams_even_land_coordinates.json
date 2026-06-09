@@ -211,7 +211,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=silver.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream.mediakit.ru:8080/39_silverrain_128mp3"
+        "streamURL": "https://silverrain.hostingradio.ru/silver128.mp3"
       }
     ]
   },
@@ -319,7 +319,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rusradio.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://radiokrug.ru/radio/ruskray/icecast.audio"
+        "streamURL": "https://cors-anywhere-bc.herokuapp.com/http://83.219.150.176:8000/RusKray128kb"
       }
     ]
   },
