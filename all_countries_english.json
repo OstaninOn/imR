@@ -555,7 +555,7 @@
       "name": "Italy",
       "name_ru": "Италия",
       "flag": "https://flagcdn.com/w320/it.png",
-      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/italy_radio_stations.json"
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/italy_radio_stations_unique_land_city_coordinates.json"
     },
     {
       "name": "Jamaica",
