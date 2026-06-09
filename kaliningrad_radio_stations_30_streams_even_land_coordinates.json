@@ -247,7 +247,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energyfm.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://pub0102.101.ru:8000/stream/air/mp3/256/99"
+        "streamURL": "https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8"
       }
     ]
   },
@@ -265,7 +265,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=xn--80agcbs0bbbkgnm4k.xn--p1ai",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://stream.radio-gordost.ru/rgordost64.aacp"
+        "streamURL": "https://rgordost.hostingradio.ru/rgordost64.aacp"
       }
     ]
   },
