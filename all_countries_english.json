@@ -384,7 +384,8 @@
     {
       "name": "France",
       "name_ru": "Франция",
-      "flag": "https://flagcdn.com/w320/fr.png"
+      "flag": "https://flagcdn.com/w320/fr.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/france_radio_1000.json"
     },
     {
       "name": "French Guiana",
