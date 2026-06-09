@@ -427,7 +427,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=studio21.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://icecast-studio21.cdnvideo.ru/S21_1"
+        "streamURL": "https://stream.studio21.ru/studio2196.aacp"
       }
     ]
   },
