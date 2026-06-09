@@ -247,7 +247,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energyfm.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://pub0302.101.ru:8443/stream/air/aac/64/99"
+        "streamURL": "https://pub0102.101.ru:8000/stream/air/mp3/256/99"
       }
     ]
   },
@@ -301,7 +301,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=avtoradio.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ic7.101.ru:8000/s2"
+        "streamURL": "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8"
       }
     ]
   },
