@@ -7663,7 +7663,7 @@
         "imageURL": "https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://kpop.bigbradio.net/s"
+        "streamURL": "http://kpop.bigbradio.net"
       }
     ]
   },
@@ -7681,7 +7681,7 @@
         "imageURL": "https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://jpop.bigbradio.net/s"
+        "streamURL": "http://jpop.bigbradio.net"
       }
     ]
   },
@@ -7699,7 +7699,7 @@
         "imageURL": "https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://apop.bigbradio.net/s"
+        "streamURL": "http://apop.bigbradio.net"
       }
     ]
   },
