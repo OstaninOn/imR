@@ -888,7 +888,7 @@
   "name": "Poland",
   "name_ru": "Польша",
   "flag": "https://flagcdn.com/w320/pl.png",
-  "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/poland_radio_stations_unique_coordinates.json"
+  "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/poland_radio_stations_one_station_per_city.json"
    },
     {
       "name": "Portugal",
