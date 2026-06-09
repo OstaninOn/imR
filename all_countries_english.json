@@ -919,7 +919,8 @@
     {
       "name": "Russia",
       "name_ru": "Россия",
-      "flag": "https://flagcdn.com/w320/ru.png"
+      "flag": "https://flagcdn.com/w320/ru.png",
+       "stationsJSON":"https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/kaliningrad_radio_stations_30_streams_even_land_coordinates.json"
     },
     {
       "name": "Rwanda",
