@@ -1,0 +1,6050 @@
+[
+  {
+    "name": "RMF FM",
+    "coordinates": {
+      "lat": 52.23,
+      "lon": 21.0111
+    },
+    "radioStations": [
+      {
+        "title": "RMF FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.242:8000/rmf_fm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zet",
+    "coordinates": {
+      "lat": 50.0614,
+      "lon": 19.9372
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zet",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://zet-net-01.cdn.eurozet.pl:8400/"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio 24",
+    "coordinates": {
+      "lat": 51.11,
+      "lon": 17.0325
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio 24",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8080/;.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Jedynka",
+    "coordinates": {
+      "lat": 51.75,
+      "lon": 19.4667
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Jedynka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8900/;.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Classic",
+    "coordinates": {
+      "lat": 52.4083,
+      "lon": 16.9336
+    },
+    "radioStations": [
+      {
+        "title": "RMF Classic",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/RMFCLASSIC48"
+      }
+    ]
+  },
+  {
+    "name": "RMF Polskie przeboje",
+    "coordinates": {
+      "lat": 54.3483,
+      "lon": 18.654
+    },
+    "radioStations": [
+      {
+        "title": "RMF Polskie przeboje",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/PPRZEBOJE"
+      }
+    ]
+  },
+  {
+    "name": "Radioparty.pl Dj Mixes Party",
+    "coordinates": {
+      "lat": 53.4247,
+      "lon": 14.5553
+    },
+    "radioStations": [
+      {
+        "title": "Radioparty.pl Dj Mixes Party",
+        "subtitle": "Wieliczka",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioparty.pl//favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://djmixes.radioparty.pl:8035/"
+      }
+    ]
+  },
+  {
+    "name": "RMF 90s",
+    "coordinates": {
+      "lat": 51.25,
+      "lon": 22.5667
+    },
+    "radioStations": [
+      {
+        "title": "RMF 90s",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/90S"
+      }
+    ]
+  },
+  {
+    "name": "RMF Dance",
+    "coordinates": {
+      "lat": 53.1167,
+      "lon": 18.0
+    },
+    "radioStations": [
+      {
+        "title": "RMF Dance",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/DANCE"
+      }
+    ]
+  },
+  {
+    "name": "Trojka",
+    "coordinates": {
+      "lat": 53.1324,
+      "lon": 23.1687
+    },
+    "radioStations": [
+      {
+        "title": "Trojka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8904/"
+      }
+    ]
+  },
+  {
+    "name": "Radio 357",
+    "coordinates": {
+      "lat": 50.25,
+      "lon": 19.0
+    },
+    "radioStations": [
+      {
+        "title": "Radio 357",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/357.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Program 1",
+    "coordinates": {
+      "lat": 54.5175,
+      "lon": 18.54
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Program 1",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8900/"
+      }
+    ]
+  },
+  {
+    "name": "ESKA ROCK",
+    "coordinates": {
+      "lat": 50.8096,
+      "lon": 19.1222
+    },
+    "radioStations": [
+      {
+        "title": "ESKA ROCK",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK"
+      }
+    ]
+  },
+  {
+    "name": "RMF 80s Disco",
+    "coordinates": {
+      "lat": 51.4167,
+      "lon": 21.15
+    },
+    "radioStations": [
+      {
+        "title": "RMF 80s Disco",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/80SDISCO"
+      }
+    ]
+  },
+  {
+    "name": "Radio Wnet",
+    "coordinates": {
+      "lat": 50.0411,
+      "lon": 21.9989
+    },
+    "radioStations": [
+      {
+        "title": "Radio Wnet",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wnet.fm/wp-content/uploads/2019/03/cropped-favikon-145x145.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://audio.radiownet.pl:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio - Czwórka",
+    "coordinates": {
+      "lat": 53.0144,
+      "lon": 18.6014
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio - Czwórka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8906/;stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Szczecin (128K MP3)",
+    "coordinates": {
+      "lat": 50.3,
+      "lon": 19.1667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Szczecin (128K MP3)",
+        "subtitle": "Szczecin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioszczecin.pl/assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:11986/prs"
+      }
+    ]
+  },
+  {
+    "name": "RMF 80s",
+    "coordinates": {
+      "lat": 50.8725,
+      "lon": 20.6319
+    },
+    "radioStations": [
+      {
+        "title": "RMF 80s",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/80S"
+      }
+    ]
+  },
+  {
+    "name": "TokFM",
+    "coordinates": {
+      "lat": 50.2942,
+      "lon": 18.6658
+    },
+    "radioStations": [
+      {
+        "title": "TokFM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.im-g.pl/im/6/7455/m7455556.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.pl/tuba10-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maryja",
+    "coordinates": {
+      "lat": 53.78,
+      "lon": 20.4942
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maryja",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://198.50.238.178:5946/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nowy Świat 256k",
+    "coordinates": {
+      "lat": 50.3,
+      "lon": 18.7833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nowy Świat 256k",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://go-audio.toya.net.pl/63214"
+      }
+    ]
+  },
+  {
+    "name": "Radioparty.pl House Party",
+    "coordinates": {
+      "lat": 49.8225,
+      "lon": 19.0444
+    },
+    "radioStations": [
+      {
+        "title": "Radioparty.pl House Party",
+        "subtitle": "Wieliczka",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioparty.pl/images/radioparty2017.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://house.radioparty.pl:8010/"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Kierowców",
+    "coordinates": {
+      "lat": 50.347,
+      "lon": 18.923
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Kierowców",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8918/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gdansk",
+    "coordinates": {
+      "lat": 51.9397,
+      "lon": 15.505
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gdansk",
+        "subtitle": "Gdansk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiogdansk.pl/wp-content/uploads/2020/12/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.task.gda.pl:8000/rg1"
+      }
+    ]
+  },
+  {
+    "name": "VOX FM",
+    "coordinates": {
+      "lat": 50.0833,
+      "lon": 18.5
+    },
+    "radioStations": [
+      {
+        "title": "VOX FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.voxfm.pl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/3990-1.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF24.pl",
+    "coordinates": {
+      "lat": 50.3117,
+      "lon": 18.8514
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF24.pl",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true"
+      }
+    ]
+  },
+  {
+    "name": "Radioparty.pl Energy2000",
+    "coordinates": {
+      "lat": 54.1522,
+      "lon": 19.4089
+    },
+    "radioStations": [
+      {
+        "title": "Radioparty.pl Energy2000",
+        "subtitle": "Wieliczka",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioparty.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://energy2000.radioparty.pl:8005/"
+      }
+    ]
+  },
+  {
+    "name": "RMF24",
+    "coordinates": {
+      "lat": 50.6667,
+      "lon": 17.9242
+    },
+    "radioStations": [
+      {
+        "title": "RMF24",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmf24.pl/i/2022/favicon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rmfstream1.interia.pl/rmf_24"
+      }
+    ]
+  },
+  {
+    "name": "RMF Ballady",
+    "coordinates": {
+      "lat": 50.1236,
+      "lon": 18.9867
+    },
+    "radioStations": [
+      {
+        "title": "RMF Ballady",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/NOSTALGIA"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio",
+    "coordinates": {
+      "lat": 52.7333,
+      "lon": 15.25
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965"
+      }
+    ]
+  },
+  {
+    "name": "Radioparty.pl Vocal Trance",
+    "coordinates": {
+      "lat": 50.3339,
+      "lon": 19.2047
+    },
+    "radioStations": [
+      {
+        "title": "Radioparty.pl Vocal Trance",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioparty.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s2.radioparty.pl:8025/vocaltrance"
+      }
+    ]
+  },
+  {
+    "name": "RMF Hip Hop",
+    "coordinates": {
+      "lat": 52.55,
+      "lon": 19.7
+    },
+    "radioStations": [
+      {
+        "title": "RMF Hip Hop",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/HIPHOP"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plus",
+    "coordinates": {
+      "lat": 50.7667,
+      "lon": 16.2833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plus",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplus.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02"
+      }
+    ]
+  },
+  {
+    "name": "Wnet.fm",
+    "coordinates": {
+      "lat": 52.65,
+      "lon": 19.05
+    },
+    "radioStations": [
+      {
+        "title": "Wnet.fm",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wnet.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media.wnet.fm/wnet.fm"
+      }
+    ]
+  },
+  {
+    "name": "Minimal Mix Radio",
+    "coordinates": {
+      "lat": 50.0125,
+      "lon": 20.9883
+    },
+    "radioStations": [
+      {
+        "title": "Minimal Mix Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orion.shoutca.st:8750/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Krakow",
+    "coordinates": {
+      "lat": 50.2884,
+      "lon": 18.9628
+    },
+    "radioStations": [
+      {
+        "title": "Radio Krakow",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.nadaje.com:9116/radiokrakow"
+      }
+    ]
+  },
+  {
+    "name": "Chilli Zet",
+    "coordinates": {
+      "lat": 54.1903,
+      "lon": 16.1817
+    },
+    "radioStations": [
+      {
+        "title": "Chilli Zet",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ChilliZet.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ch.cdn.eurozet.pl/chi-net.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radioparty.pl",
+    "coordinates": {
+      "lat": 51.757,
+      "lon": 18.083
+    },
+    "radioStations": [
+      {
+        "title": "Radioparty.pl",
+        "subtitle": "Wieliczka",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioparty.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s7.radioparty.pl:8000/"
+      }
+    ]
+  },
+  {
+    "name": "RMF PRL",
+    "coordinates": {
+      "lat": 51.2101,
+      "lon": 16.1619
+    },
+    "radioStations": [
+      {
+        "title": "RMF PRL",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/PRL"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Katowice",
+    "coordinates": {
+      "lat": 53.4875,
+      "lon": 18.755
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Katowice",
+        "subtitle": "Katowice",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio.katowice.pl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:9212/radiokatowice"
+      }
+    ]
+  },
+  {
+    "name": "RMF Cuba",
+    "coordinates": {
+      "lat": 50.2,
+      "lon": 19.275
+    },
+    "radioStations": [
+      {
+        "title": "RMF Cuba",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/CUBA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Park FM",
+    "coordinates": {
+      "lat": 54.4667,
+      "lon": 17.0333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Park FM",
+        "subtitle": "Kedzierzyn Kozle",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sluchaj.radiopark.com.pl:8048/"
+      }
+    ]
+  },
+  {
+    "name": "ESKA GORĄCA 100 ",
+    "coordinates": {
+      "lat": 49.95,
+      "lon": 18.5833
+    },
+    "radioStations": [
+      {
+        "title": "ESKA GORĄCA 100 ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://eska.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6120-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SmoothJazz.com.pl 320k MP3",
+    "coordinates": {
+      "lat": 49.625,
+      "lon": 20.6956
+    },
+    "radioStations": [
+      {
+        "title": "SmoothJazz.com.pl 320k MP3",
+        "subtitle": "Pomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gra Torun",
+    "coordinates": {
+      "lat": 50.9,
+      "lon": 15.7333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gra Torun",
+        "subtitle": "Torun",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gra.fm/media2019/pic/xfavicon-96x96.png.pagespeed.ic.igyxlke2ib.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7:8000/radio_gra"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Program 2",
+    "coordinates": {
+      "lat": 52.1833,
+      "lon": 22.2833
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Program 2",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8952/;.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Gold",
+    "coordinates": {
+      "lat": 50.2119,
+      "lon": 19.1478
+    },
+    "radioStations": [
+      {
+        "title": "RMF Gold",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/GOLD"
+      }
+    ]
+  },
+  {
+    "name": "RMF Depeche Mode",
+    "coordinates": {
+      "lat": 53.15145,
+      "lon": 16.73782
+    },
+    "radioStations": [
+      {
+        "title": "RMF Depeche Mode",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/DEPECHEMODE"
+      }
+    ]
+  },
+  {
+    "name": "RadioFEST",
+    "coordinates": {
+      "lat": 52.2275,
+      "lon": 18.2614
+    },
+    "radioStations": [
+      {
+        "title": "RadioFEST",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radiofest.pl:8443/fest"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jasna Gora",
+    "coordinates": {
+      "lat": 51.4,
+      "lon": 19.6833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jasna Gora",
+        "subtitle": "Czestochowa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radiojasnagora.pl:8000/rjg"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kampus",
+    "coordinates": {
+      "lat": 51.6547,
+      "lon": 17.8072
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kampus",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiokampus.waw.pl/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.0.98.66:8005/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Wroclaw",
+    "coordinates": {
+      "lat": 51.4,
+      "lon": 16.2
+    },
+    "radioStations": [
+      {
+        "title": "Radio Wroclaw",
+        "subtitle": "Wroclaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.prw.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:9240/prw"
+      }
+    ]
+  },
+  {
+    "name": "radio złote przeboje",
+    "coordinates": {
+      "lat": 52.7958,
+      "lon": 18.2611
+    },
+    "radioStations": [
+      {
+        "title": "radio złote przeboje",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostream.pl/tuba8928-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF FM",
+    "coordinates": {
+      "lat": 54.1,
+      "lon": 22.9333
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs202-krk.rmfstream.pl/rmf_fm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Party - Kanał Główny",
+    "coordinates": {
+      "lat": 53.3367,
+      "lon": 15.0499
+    },
+    "radioStations": [
+      {
+        "title": "Radio Party - Kanał Główny",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioparty.pl/assets/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.radioparty.pl:8015/stream?nocache=4171"
+      }
+    ]
+  },
+  {
+    "name": "Radio 7",
+    "coordinates": {
+      "lat": 52.5333,
+      "lon": 17.6
+    },
+    "radioStations": [
+      {
+        "title": "Radio 7",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio7.pl/wp-content/uploads/2018/12/logo_radio_7_200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radio7.pl:443/radio7.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio7 Mława",
+    "coordinates": {
+      "lat": 50.9333,
+      "lon": 21.4
+    },
+    "radioStations": [
+      {
+        "title": "Radio7 Mława",
+        "subtitle": "mazowieckie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio7.pl/wp-content/uploads/2018/12/logo_swieta_220.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radio7.pl:443/radio7.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Złote Przeboje Białystok",
+    "coordinates": {
+      "lat": 50.3123,
+      "lon": 19.0232
+    },
+    "radioStations": [
+      {
+        "title": "Radio Złote Przeboje Białystok",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/be/dd/13784/1/c300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italo4you 256kbps",
+    "coordinates": {
+      "lat": 51.6589,
+      "lon": 16.0803
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italo4you 256kbps",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioitalo4you.net/images/favicons/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s0.radiohost.pl:8018/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Republika",
+    "coordinates": {
+      "lat": 51.6642,
+      "lon": 19.35
+    },
+    "radioStations": [
+      {
+        "title": "Radio Republika",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotvrepublika.pl/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl-1.radiotvrepublika.pl:12698/stream"
+      }
+    ]
+  },
+  {
+    "name": "PR TRÓJKA ",
+    "coordinates": {
+      "lat": 51.8403,
+      "lon": 16.5749
+    },
+    "radioStations": [
+      {
+        "title": "PR TRÓJKA ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_205543842.jpg?alt=media&token=426bbc79-f02a-44a6-818b-f1a4fa75031b",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8904/;.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Paranormalium",
+    "coordinates": {
+      "lat": 50.045,
+      "lon": 18.7006
+    },
+    "radioStations": [
+      {
+        "title": "Paranormalium",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ilustracje.paranormalium.pl/favicon-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast.paranormalium.pl:8000/5"
+      }
+    ]
+  },
+  {
+    "name": "Złote Przeboje Poznań",
+    "coordinates": {
+      "lat": 50.7206,
+      "lon": 23.2586
+    },
+    "radioStations": [
+      {
+        "title": "Złote Przeboje Poznań",
+        "subtitle": "Poznań",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://static.fm.tuba.pl/stations/_img/zlote-przeboje_512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostream.pl/tuba8926-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Celtic",
+    "coordinates": {
+      "lat": 52.1667,
+      "lon": 20.8
+    },
+    "radioStations": [
+      {
+        "title": "RMF Celtic",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/CELTIC"
+      }
+    ]
+  },
+  {
+    "name": "ESKA IMPRESKA ",
+    "coordinates": {
+      "lat": 53.1833,
+      "lon": 22.0833
+    },
+    "radioStations": [
+      {
+        "title": "ESKA IMPRESKA ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKAIMPRESKA.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6030-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF PRL + FAKTY",
+    "coordinates": {
+      "lat": 53.8167,
+      "lon": 22.35
+    },
+    "radioStations": [
+      {
+        "title": "RMF PRL + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/PRLF"
+      }
+    ]
+  },
+  {
+    "name": "Radio Parada 96.00 fm",
+    "coordinates": {
+      "lat": 50.4455,
+      "lon": 18.8615
+    },
+    "radioStations": [
+      {
+        "title": "Radio Parada 96.00 fm",
+        "subtitle": "Kielce",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/351d06_e154aaf707444cd3b87c0d39494db49e~mv2_d_3486_2480_s_4_2.jpg/v1/fill/w_112,h_80,al_c,q_80,usm_0.66_1.00_0.01/351d06_e154aaf707444cd3b87c0d39494db49e~mv2_d_3486_2480_s_4_2.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:15274/live"
+      }
+    ]
+  },
+  {
+    "name": "RMF Swieta",
+    "coordinates": {
+      "lat": 51.5314,
+      "lon": 20.0089
+    },
+    "radioStations": [
+      {
+        "title": "RMF Swieta",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/SWIETA"
+      }
+    ]
+  },
+  {
+    "name": "ESKA - Summer City",
+    "coordinates": {
+      "lat": 51.1333,
+      "lon": 23.4833
+    },
+    "radioStations": [
+      {
+        "title": "ESKA - Summer City",
+        "subtitle": "Warsaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKASummerCity.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://waw.ic.smcdn.pl/6120-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ESKA - Gorąca 20",
+    "coordinates": {
+      "lat": 50.2833,
+      "lon": 21.4333
+    },
+    "radioStations": [
+      {
+        "title": "ESKA - Gorąca 20",
+        "subtitle": "Warsaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKAGoraga20.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://waw.ic.smcdn.pl/6130-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "rockserwis.fm (ACC+)",
+    "coordinates": {
+      "lat": 50.3498,
+      "lon": 18.2261
+    },
+    "radioStations": [
+      {
+        "title": "rockserwis.fm (ACC+)",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream9.nadaje.com:8002/live.aac"
+      }
+    ]
+  },
+  {
+    "name": "JEDYNKA ",
+    "coordinates": {
+      "lat": 49.7835,
+      "lon": 22.7842
+    },
+    "radioStations": [
+      {
+        "title": "JEDYNKA ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8900/;"
+      }
+    ]
+  },
+  {
+    "name": "RMF Polski Rock",
+    "coordinates": {
+      "lat": 50.5829,
+      "lon": 22.0533
+    },
+    "radioStations": [
+      {
+        "title": "RMF Polski Rock",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/rmf_polski_rock"
+      }
+    ]
+  },
+  {
+    "name": "RMF Queen",
+    "coordinates": {
+      "lat": 54.0911,
+      "lon": 18.7864
+    },
+    "radioStations": [
+      {
+        "title": "RMF Queen",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/QUEEN"
+      }
+    ]
+  },
+  {
+    "name": "RMF Reggae",
+    "coordinates": {
+      "lat": 52.0333,
+      "lon": 23.1333
+    },
+    "radioStations": [
+      {
+        "title": "RMF Reggae",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/REGGAE"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio RDC - Radio Dla Ciebie",
+    "coordinates": {
+      "lat": 51.3667,
+      "lon": 19.3667
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio RDC - Radio Dla Ciebie",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rdc.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.nadaje.com:11140/rdc"
+      }
+    ]
+  },
+  {
+    "name": "Radio Disco Party - Disco Polo",
+    "coordinates": {
+      "lat": 50.8438,
+      "lon": 16.4886
+    },
+    "radioStations": [
+      {
+        "title": "Radio Disco Party - Disco Polo",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.slotex.pl/shoutcast/7432/stream"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
+    "coordinates": {
+      "lat": 50.325,
+      "lon": 19.1333
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://chopin.polskieradio.pl/images/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8960/;"
+      }
+    ]
+  },
+  {
+    "name": "RMF Michael Jackson",
+    "coordinates": {
+      "lat": 51.8564,
+      "lon": 19.4061
+    },
+    "radioStations": [
+      {
+        "title": "RMF Michael Jackson",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/MICHALEJACKSON"
+      }
+    ]
+  },
+  {
+    "name": "RMF 70s",
+    "coordinates": {
+      "lat": 50.3833,
+      "lon": 18.95
+    },
+    "radioStations": [
+      {
+        "title": "RMF 70s",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/70S"
+      }
+    ]
+  },
+  {
+    "name": "VOX FM DISCO 90",
+    "coordinates": {
+      "lat": 50.0919,
+      "lon": 18.2193
+    },
+    "radioStations": [
+      {
+        "title": "VOX FM DISCO 90",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6170-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ESKA GORĄCA 20",
+    "coordinates": {
+      "lat": 52.3952,
+      "lon": 20.9308
+    },
+    "radioStations": [
+      {
+        "title": "ESKA GORĄCA 20",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6130-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chillout Radio",
+    "coordinates": {
+      "lat": 53.0833,
+      "lon": 21.5667
+    },
+    "radioStations": [
+      {
+        "title": "Chillout Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://panel.nadaje.com:9004/"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Poznań",
+    "coordinates": {
+      "lat": 52.3251,
+      "lon": 17.5652
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Poznań",
+        "subtitle": "Poznan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiopoznan.fm/v3/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:8578/poznan"
+      }
+    ]
+  },
+  {
+    "name": "Radio Warszawa 106.2",
+    "coordinates": {
+      "lat": 52.0887,
+      "lon": 17.0151
+    },
+    "radioStations": [
+      {
+        "title": "Radio Warszawa 106.2",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiowarszawa.com.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Blues",
+    "coordinates": {
+      "lat": 51.97266,
+      "lon": 17.50256
+    },
+    "radioStations": [
+      {
+        "title": "RMF Blues",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/BLUES"
+      }
+    ]
+  },
+  {
+    "name": "RMF 90s Dance",
+    "coordinates": {
+      "lat": 52.2284,
+      "lon": 17.2762
+    },
+    "radioStations": [
+      {
+        "title": "RMF 90s Dance",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/90SDANCE"
+      }
+    ]
+  },
+  {
+    "name": "RMF MAXXX Hop bec",
+    "coordinates": {
+      "lat": 51.69868,
+      "lon": 17.43738
+    },
+    "radioStations": [
+      {
+        "title": "RMF MAXXX Hop bec",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/HOPBEC"
+      }
+    ]
+  },
+  {
+    "name": "Radio Chopin",
+    "coordinates": {
+      "lat": 51.6095,
+      "lon": 16.8585
+    },
+    "radioStations": [
+      {
+        "title": "Radio Chopin",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8910/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Party",
+    "coordinates": {
+      "lat": 51.88247,
+      "lon": 17.01225
+    },
+    "radioStations": [
+      {
+        "title": "RMF Party",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/PARTY"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plus 106.1 Kraków",
+    "coordinates": {
+      "lat": 52.2,
+      "lon": 18.6333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plus 106.1 Kraków",
+        "subtitle": "Małopolska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmyradioonline.pl%2Fpublic%2Fuploads%2Fradio_img%2Fradio-plus%2Ffb_cover.jpg&imgrefurl=https%3A%2F%2Fmyradioonline.pl%2Fradio-plus&tbnid=t01lPa3fSdA3fM&vet=12ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ..i&docid=ewI89N863ZxEUM&w=720&h=374&q=radio%20plus%20krak%C3%B3w&client=opera&ved=2ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://waw.ic.smcdn.pl/4070-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ZET DANCE ",
+    "coordinates": {
+      "lat": 51.5958,
+      "lon": 18.7302
+    },
+    "radioStations": [
+      {
+        "title": "ZET DANCE ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://pl01.cdn.eurozet.pl/ZETDAN.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Cuba + FAKTY",
+    "coordinates": {
+      "lat": 51.2207,
+      "lon": 18.5697
+    },
+    "radioStations": [
+      {
+        "title": "RMF Cuba + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/CUBAF"
+      }
+    ]
+  },
+  {
+    "name": "RMF 2000",
+    "coordinates": {
+      "lat": 52.1155,
+      "lon": 16.1171
+    },
+    "radioStations": [
+      {
+        "title": "RMF 2000",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/2000"
+      }
+    ]
+  },
+  {
+    "name": "Radio TOP80",
+    "coordinates": {
+      "lat": 52.9901,
+      "lon": 16.9122
+    },
+    "radioStations": [
+      {
+        "title": "Radio TOP80",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/3/1893.v4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://top80.pl:8000/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Classic Rock",
+    "coordinates": {
+      "lat": 53.0419,
+      "lon": 16.4564
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Classic Rock",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioClassicRock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rekord FM",
+    "coordinates": {
+      "lat": 53.3603,
+      "lon": 17.0408
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rekord FM",
+        "subtitle": "Radom",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiorekord.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.nadaje.com:8108/"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio 24 (NEW STREAM)",
+    "coordinates": {
+      "lat": 49.5606,
+      "lon": 22.2056
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio 24 (NEW STREAM)",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RMF MAXXX 99.7 Pomorze",
+    "coordinates": {
+      "lat": 51.9277,
+      "lon": 22.3796
+    },
+    "radioStations": [
+      {
+        "title": "RMF MAXXX 99.7 Pomorze",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473"
+      }
+    ]
+  },
+  {
+    "name": "PLUS",
+    "coordinates": {
+      "lat": 52.8814,
+      "lon": 20.6199
+    },
+    "radioStations": [
+      {
+        "title": "PLUS",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://plus-gdansk-01.eurozet.pl:8500/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rzeszów",
+    "coordinates": {
+      "lat": 52.739,
+      "lon": 14.698
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rzeszów",
+        "subtitle": "Podkarpacie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.rzeszow.pl/wp-content/uploads/2022/12/cropped-favicon-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.g-news.pl:8040/rzeszow"
+      }
+    ]
+  },
+  {
+    "name": "Radio Anime24",
+    "coordinates": {
+      "lat": 50.6683,
+      "lon": 18.6844
+    },
+    "radioStations": [
+      {
+        "title": "Radio Anime24",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:7028/;"
+      }
+    ]
+  },
+  {
+    "name": "RMF Rock",
+    "coordinates": {
+      "lat": 49.6853,
+      "lon": 19.1924
+    },
+    "radioStations": [
+      {
+        "title": "RMF Rock",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/ROCK"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF MAXX",
+    "coordinates": {
+      "lat": 49.854,
+      "lon": 19.3383
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF MAXX",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rs202-krk.rmfstream.pl/RMFMAXXX48"
+      }
+    ]
+  },
+  {
+    "name": "Chilli ZET Deep",
+    "coordinates": {
+      "lat": 49.8338,
+      "lon": 19.9383
+    },
+    "radioStations": [
+      {
+        "title": "Chilli ZET Deep",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ch02.cdn.eurozet.pl/CHIDEP.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mirage Space",
+    "coordinates": {
+      "lat": 49.9691,
+      "lon": 20.4303
+    },
+    "radioStations": [
+      {
+        "title": "Mirage Space",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s0.radiohost.pl:9563/"
+      }
+    ]
+  },
+  {
+    "name": "Radio SAR - Studencka Agencja Radiowa",
+    "coordinates": {
+      "lat": 50.9728,
+      "lon": 18.2182
+    },
+    "radioStations": [
+      {
+        "title": "Radio SAR - Studencka Agencja Radiowa",
+        "subtitle": "Pomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://stream.radiosar.pl/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiosar.pl/hdmain.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ESKA 2 KULTOWE  POLSKIE ",
+    "coordinates": {
+      "lat": 49.7172,
+      "lon": 19.0319
+    },
+    "radioStations": [
+      {
+        "title": "ESKA 2 KULTOWE  POLSKIE ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240117_101007211.jpg?alt=media&token=cd2ea794-c1fa-445c-9c3e-ddb2d26529d3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/6040-1.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Muzyczne Radio",
+    "coordinates": {
+      "lat": 54.5706,
+      "lon": 18.4105
+    },
+    "radioStations": [
+      {
+        "title": "Muzyczne Radio",
+        "subtitle": "192",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.technologicznie.net/muzyczne_radio_192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centrum Lublin",
+    "coordinates": {
+      "lat": 50.2855,
+      "lon": 18.9309
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centrum Lublin",
+        "subtitle": "Lublin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.centrum.fm/live"
+      }
+    ]
+  },
+  {
+    "name": "Toksyna FM PsyTrance",
+    "coordinates": {
+      "lat": 54.6056,
+      "lon": 18.2356
+    },
+    "radioStations": [
+      {
+        "title": "Toksyna FM PsyTrance",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s01.toksyna.fm:8030/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Rock Progresywny",
+    "coordinates": {
+      "lat": 51.9569,
+      "lon": 20.143
+    },
+    "radioStations": [
+      {
+        "title": "RMF Rock Progresywny",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/ROCKPROGRESYWNY"
+      }
+    ]
+  },
+  {
+    "name": "Pro-Radio",
+    "coordinates": {
+      "lat": 53.9667,
+      "lon": 18.5333
+    },
+    "radioStations": [
+      {
+        "title": "Pro-Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiointernetowe.net:7802/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pogoda",
+    "coordinates": {
+      "lat": 51.05,
+      "lon": 21.0667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pogoda",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.pl/tuba140-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DISCOPARTY.PL - Kanał disco",
+    "coordinates": {
+      "lat": 51.6,
+      "lon": 18.9333
+    },
+    "radioStations": [
+      {
+        "title": "DISCOPARTY.PL - Kanał disco",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.slotex.pl/shoutcast/7432/stream"
+      }
+    ]
+  },
+  {
+    "name": "PR24",
+    "coordinates": {
+      "lat": 49.6937,
+      "lon": 21.7652
+    },
+    "radioStations": [
+      {
+        "title": "PR24",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RMF Muzyka_Filmowa",
+    "coordinates": {
+      "lat": 50.5833,
+      "lon": 21.6833
+    },
+    "radioStations": [
+      {
+        "title": "RMF Muzyka_Filmowa",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa"
+      }
+    ]
+  },
+  {
+    "name": "RMF Ballady + FAKTY",
+    "coordinates": {
+      "lat": 54.1761,
+      "lon": 15.5761
+    },
+    "radioStations": [
+      {
+        "title": "RMF Ballady + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/NOSTALGIAF"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kampus 97,1 FM",
+    "coordinates": {
+      "lat": 50.0515,
+      "lon": 21.4114
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kampus 97,1 FM",
+        "subtitle": "Warsaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiokampus.fm/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiokampus.fm/kampus"
+      }
+    ]
+  },
+  {
+    "name": "RMF Disco polo",
+    "coordinates": {
+      "lat": 52.2928,
+      "lon": 21.1161
+    },
+    "radioStations": [
+      {
+        "title": "RMF Disco polo",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_disco_polo"
+      }
+    ]
+  },
+  {
+    "name": "RMF Koledy",
+    "coordinates": {
+      "lat": 52.3333,
+      "lon": 21.1
+    },
+    "radioStations": [
+      {
+        "title": "RMF Koledy",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/KOLEDY"
+      }
+    ]
+  },
+  {
+    "name": "Rockserwis.fm",
+    "coordinates": {
+      "lat": 52.1833,
+      "lon": 21.5667
+    },
+    "radioStations": [
+      {
+        "title": "Rockserwis.fm",
+        "subtitle": "Małopolska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rockserwis.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream9.nadaje.com:8002/live"
+      }
+    ]
+  },
+  {
+    "name": "RMF Smooth Jazz",
+    "coordinates": {
+      "lat": 52.05,
+      "lon": 20.4333
+    },
+    "radioStations": [
+      {
+        "title": "RMF Smooth Jazz",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/SJAZZ"
+      }
+    ]
+  },
+  {
+    "name": "MojePolskieRadio - PolskieRadio24",
+    "coordinates": {
+      "lat": 53.6955,
+      "lon": 17.557
+    },
+    "radioStations": [
+      {
+        "title": "MojePolskieRadio - PolskieRadio24",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8080/"
+      }
+    ]
+  },
+  {
+    "name": "Radio RDN Małopolska",
+    "coordinates": {
+      "lat": 51.2333,
+      "lon": 22.7
+    },
+    "radioStations": [
+      {
+        "title": "Radio RDN Małopolska",
+        "subtitle": "Tarnów",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.dabcom.pl/rdn_mpl"
+      }
+    ]
+  },
+  {
+    "name": "MojePolskieRadio - Czworka",
+    "coordinates": {
+      "lat": 53.7358,
+      "lon": 18.9308
+    },
+    "radioStations": [
+      {
+        "title": "MojePolskieRadio - Czworka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8906/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Sloneczne Przeboje",
+    "coordinates": {
+      "lat": 54.0285,
+      "lon": 19.0444
+    },
+    "radioStations": [
+      {
+        "title": "RMF Sloneczne Przeboje",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/SPRZEBOJE"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dwójka (MP3)",
+    "coordinates": {
+      "lat": 51.2667,
+      "lon": 15.5667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dwójka (MP3)",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8902/"
+      }
+    ]
+  },
+  {
+    "name": "Trendy Radio",
+    "coordinates": {
+      "lat": 50.0381,
+      "lon": 19.2214
+    },
+    "radioStations": [
+      {
+        "title": "Trendy Radio",
+        "subtitle": "Krosno",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.trendyradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.trendyradio.pl:8000/h"
+      }
+    ]
+  },
+  {
+    "name": "VOX FM HIT 22",
+    "coordinates": {
+      "lat": 51.8033,
+      "lon": 15.7169
+    },
+    "radioStations": [
+      {
+        "title": "VOX FM HIT 22",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6020-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VOX FM DISCO PARTY",
+    "coordinates": {
+      "lat": 50.2167,
+      "lon": 18.6833
+    },
+    "radioStations": [
+      {
+        "title": "VOX FM DISCO PARTY",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6180-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Alex",
+    "coordinates": {
+      "lat": 52.3401,
+      "lon": 21.2421
+    },
+    "radioStations": [
+      {
+        "title": "Radio Alex",
+        "subtitle": "Zakopane",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://proxima.shoutca.st:9045/stream"
+      }
+    ]
+  },
+  {
+    "name": "Bonton Chełm",
+    "coordinates": {
+      "lat": 51.6419,
+      "lon": 15.1372
+    },
+    "radioStations": [
+      {
+        "title": "Bonton Chełm",
+        "subtitle": "Chełm",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Bonton.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.inten.pl:8022/bonton.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Disco-Dance",
+    "coordinates": {
+      "lat": 51.2128,
+      "lon": 17.3831
+    },
+    "radioStations": [
+      {
+        "title": "Radio Disco-Dance",
+        "subtitle": "Gdansk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiodd.cloud/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF w pracy",
+    "coordinates": {
+      "lat": 54.55,
+      "lon": 17.75
+    },
+    "radioStations": [
+      {
+        "title": "RMF w pracy",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/WPRACY"
+      }
+    ]
+  },
+  {
+    "name": "RMF Beatlemania",
+    "coordinates": {
+      "lat": 50.8667,
+      "lon": 17.4667
+    },
+    "radioStations": [
+      {
+        "title": "RMF Beatlemania",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/BEATLEMANIA"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Poland",
+    "coordinates": {
+      "lat": 52.225,
+      "lon": 20.2333
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Poland",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.g-news.pl:8090/kissfm"
+      }
+    ]
+  },
+  {
+    "name": "Radio 5",
+    "coordinates": {
+      "lat": 49.75,
+      "lon": 18.6333
+    },
+    "radioStations": [
+      {
+        "title": "Radio 5",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio5.com.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.radio5.com.pl:8888/radio5suwalki"
+      }
+    ]
+  },
+  {
+    "name": "Radia Zet ",
+    "coordinates": {
+      "lat": 50.9439,
+      "lon": 17.2925
+    },
+    "radioStations": [
+      {
+        "title": "Radia Zet ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://zet-net-01.cdn.eurozet.pl:8400/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Grunge",
+    "coordinates": {
+      "lat": 52.3333,
+      "lon": 16.8833
+    },
+    "radioStations": [
+      {
+        "title": "RMF Grunge",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/GRUNGE"
+      }
+    ]
+  },
+  {
+    "name": "ZET Same Hity",
+    "coordinates": {
+      "lat": 54.4419,
+      "lon": 18.5478
+    },
+    "radioStations": [
+      {
+        "title": "ZET Same Hity",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt.cdn.eurozet.pl/ZETHIT.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Katolickie Radio Rzeszow - VIA",
+    "coordinates": {
+      "lat": 53.6967,
+      "lon": 19.9647
+    },
+    "radioStations": [
+      {
+        "title": "Katolickie Radio Rzeszow - VIA",
+        "subtitle": "Rzeszow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://62.133.128.18:8040/"
+      }
+    ]
+  },
+  {
+    "name": "Rmf Fm Polska",
+    "coordinates": {
+      "lat": 53.5964,
+      "lon": 19.5656
+    },
+    "radioStations": [
+      {
+        "title": "Rmf Fm Polska",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gruparmf.pl/_files/Upload/Files/Presspack/GRUPA_RMF.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF - 80s Disco",
+    "coordinates": {
+      "lat": 50.9214,
+      "lon": 22.2208
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF - 80s Disco",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/7/1507.v5.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/80SDISCO"
+      }
+    ]
+  },
+  {
+    "name": "Radio Silesia FM",
+    "coordinates": {
+      "lat": 50.7281,
+      "lon": 16.6511
+    },
+    "radioStations": [
+      {
+        "title": "Radio Silesia FM",
+        "subtitle": "Gorny Slask",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.slotex.pl/shoutcast/7926/stream?sid=1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mbox - Disco Polo",
+    "coordinates": {
+      "lat": 54.2667,
+      "lon": 18.6333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mbox - Disco Polo",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiombox.pl/MboxKwadr120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.slotex.pl:7222/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Poland",
+    "coordinates": {
+      "lat": 50.3333,
+      "lon": 19.0833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Poland",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Poland_Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Afera",
+    "coordinates": {
+      "lat": 51.1528,
+      "lon": 15.0
+    },
+    "radioStations": [
+      {
+        "title": "Radio Afera",
+        "subtitle": "Poznan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.afera.com.pl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.afera.com.pl/afera128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio DHT (kanał główny)",
+    "coordinates": {
+      "lat": 53.258,
+      "lon": 19.4054
+    },
+    "radioStations": [
+      {
+        "title": "Radio DHT (kanał główny)",
+        "subtitle": "Małopolskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiodht.com/stream_main/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Leliwa",
+    "coordinates": {
+      "lat": 54.04,
+      "lon": 21.7589
+    },
+    "radioStations": [
+      {
+        "title": "Radio Leliwa",
+        "subtitle": "Podkarpacie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.g-news.pl:8050/leliwa"
+      }
+    ]
+  },
+  {
+    "name": "RMF Depeche Mode + FAKTY",
+    "coordinates": {
+      "lat": 52.3395,
+      "lon": 21.1959
+    },
+    "radioStations": [
+      {
+        "title": "RMF Depeche Mode + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/DEPECHEMODEF"
+      }
+    ]
+  },
+  {
+    "name": "Radio RM80",
+    "coordinates": {
+      "lat": 52.1,
+      "lon": 19.9333
+    },
+    "radioStations": [
+      {
+        "title": "Radio RM80",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:9011/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMF 70s disco",
+    "coordinates": {
+      "lat": 49.6556,
+      "lon": 21.1604
+    },
+    "radioStations": [
+      {
+        "title": "RMF 70s disco",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://217.74.72.6/rmf_70s_disco"
+      }
+    ]
+  },
+  {
+    "name": "RMF Club",
+    "coordinates": {
+      "lat": 54.0768,
+      "lon": 21.3753
+    },
+    "radioStations": [
+      {
+        "title": "RMF Club",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/CLUB"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centrum",
+    "coordinates": {
+      "lat": 52.8083,
+      "lon": 17.1994
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centrum",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shot4.inten.pl:8888/rcfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SUPER NOWA RZESZÓW ",
+    "coordinates": {
+      "lat": 50.55,
+      "lon": 22.7333
+    },
+    "radioStations": [
+      {
+        "title": "SUPER NOWA RZESZÓW ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/1240-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Slonskie Radio Hitmix",
+    "coordinates": {
+      "lat": 52.0155,
+      "lon": 18.5006
+    },
+    "radioStations": [
+      {
+        "title": "Slonskie Radio Hitmix",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.slonskieradiohitmix.eu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7294/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Chillout",
+    "coordinates": {
+      "lat": 49.9753,
+      "lon": 19.8275
+    },
+    "radioStations": [
+      {
+        "title": "RMF Chillout",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/CHILLOUT"
+      }
+    ]
+  },
+  {
+    "name": "RMF Fitness",
+    "coordinates": {
+      "lat": 52.0833,
+      "lon": 16.65
+    },
+    "radioStations": [
+      {
+        "title": "RMF Fitness",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/FITNESS"
+      }
+    ]
+  },
+  {
+    "name": "ModFM",
+    "coordinates": {
+      "lat": 54.1219,
+      "lon": 17.9811
+    },
+    "radioStations": [
+      {
+        "title": "ModFM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://modules.pl/gfx/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.modules.pl:8500/;"
+      }
+    ]
+  },
+  {
+    "name": "RMF Classic Rock",
+    "coordinates": {
+      "lat": 52.1844,
+      "lon": 20.8395
+    },
+    "radioStations": [
+      {
+        "title": "RMF Classic Rock",
+        "subtitle": "Małopolskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs201-krk.rmfstream.pl/rmf_classic_rock"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plus Gdansk",
+    "coordinates": {
+      "lat": 53.5667,
+      "lon": 21.0
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plus Gdansk",
+        "subtitle": "pomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://pl05.cdn.eurozet.pl/plu-gdn.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Dla dzieci",
+    "coordinates": {
+      "lat": 54.2535,
+      "lon": 20.8082
+    },
+    "radioStations": [
+      {
+        "title": "RMF Dla dzieci",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/BABY"
+      }
+    ]
+  },
+  {
+    "name": "Katolickie Radio Podlasie",
+    "coordinates": {
+      "lat": 52.6233,
+      "lon": 20.3753
+    },
+    "radioStations": [
+      {
+        "title": "Katolickie Radio Podlasie",
+        "subtitle": "Siedlce",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7038/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nakło",
+    "coordinates": {
+      "lat": 50.1494,
+      "lon": 18.8419
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nakło",
+        "subtitle": "Nakło nad Notecią",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://web.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sluchaj2.107i5.fm:10750/"
+      }
+    ]
+  },
+  {
+    "name": "Radio pejpal",
+    "coordinates": {
+      "lat": 51.0676,
+      "lon": 16.185
+    },
+    "radioStations": [
+      {
+        "title": "Radio pejpal",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.pejpal.cloud/psHost-2048.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.pejpal.cloud/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centrum Rzeszow",
+    "coordinates": {
+      "lat": 53.65,
+      "lon": 22.45
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centrum Rzeszow",
+        "subtitle": "Rzeszow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocentrum.pl/wp-content/uploads/2015/08/cropped-ico1-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://62.93.41.27:8000/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zet na Rower -om",
+    "coordinates": {
+      "lat": 52.9853,
+      "lon": 22.2422
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zet na Rower -om",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-na-rower/2014099-20-pol-PL/Radio-ZET-na-Rower_social_share.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06"
+      }
+    ]
+  },
+  {
+    "name": "RMF Gold + FAKTY",
+    "coordinates": {
+      "lat": 53.8642,
+      "lon": 21.305
+    },
+    "radioStations": [
+      {
+        "title": "RMF Gold + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/GOLDF"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Made In Poland",
+    "coordinates": {
+      "lat": 52.2442,
+      "lon": 21.28
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Made In Poland",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioMadeInPoland.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04"
+      }
+    ]
+  },
+  {
+    "name": "RMF Polski Hip Hop",
+    "coordinates": {
+      "lat": 53.2333,
+      "lon": 20.1833
+    },
+    "radioStations": [
+      {
+        "title": "RMF Polski Hip Hop",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://217.74.72.10/rmf_trend_sounds"
+      }
+    ]
+  },
+  {
+    "name": "R357",
+    "coordinates": {
+      "lat": 51.4667,
+      "lon": 22.6
+    },
+    "radioStations": [
+      {
+        "title": "R357",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF",
+    "coordinates": {
+      "lat": 51.1167,
+      "lon": 15.3
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true"
+      }
+    ]
+  },
+  {
+    "name": "Super FM",
+    "coordinates": {
+      "lat": 53.3492,
+      "lon": 18.4261
+    },
+    "radioStations": [
+      {
+        "title": "Super FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.super.fm/storage/app/uploads/public/5f8/6f3/983/5f86f3983122e636480233.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.super.fm:8000/superfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF 80s + FAKTY",
+    "coordinates": {
+      "lat": 51.9667,
+      "lon": 19.2833
+    },
+    "radioStations": [
+      {
+        "title": "RMF 80s + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/80SF"
+      }
+    ]
+  },
+  {
+    "name": "Radio Victoria",
+    "coordinates": {
+      "lat": 50.45,
+      "lon": 23.4167
+    },
+    "radioStations": [
+      {
+        "title": "Radio Victoria",
+        "subtitle": "Lowicz",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.v4.radiovictoria.pl:8176/;"
+      }
+    ]
+  },
+  {
+    "name": "ZET Impreza",
+    "coordinates": {
+      "lat": 52.3333,
+      "lon": 20.8833
+    },
+    "radioStations": [
+      {
+        "title": "ZET Impreza",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt.cdn.eurozet.pl/ZETPAR.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF 2 Pop",
+    "coordinates": {
+      "lat": 54.3399,
+      "lon": 18.56
+    },
+    "radioStations": [
+      {
+        "title": "RMF 2 Pop",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/RMF2"
+      }
+    ]
+  },
+  {
+    "name": "RMF 80s Disco + FAKTY",
+    "coordinates": {
+      "lat": 50.0687,
+      "lon": 22.2291
+    },
+    "radioStations": [
+      {
+        "title": "RMF 80s Disco + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/80SDISCOF"
+      }
+    ]
+  },
+  {
+    "name": "RMF Relaks",
+    "coordinates": {
+      "lat": 52.1243,
+      "lon": 20.6654
+    },
+    "radioStations": [
+      {
+        "title": "RMF Relaks",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/RELAKS"
+      }
+    ]
+  },
+  {
+    "name": "ZET Pop Rock",
+    "coordinates": {
+      "lat": 54.3819,
+      "lon": 19.8236
+    },
+    "radioStations": [
+      {
+        "title": "ZET Pop Rock",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt.cdn.eurozet.pl/ZETPRK.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Wasze Radio FM",
+    "coordinates": {
+      "lat": 51.7667,
+      "lon": 20.25
+    },
+    "radioStations": [
+      {
+        "title": "Wasze Radio FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.waszeradiofm.pl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sluchaj.link:5443/wasze"
+      }
+    ]
+  },
+  {
+    "name": "Radio Fest 100.2 FM",
+    "coordinates": {
+      "lat": 53.0669,
+      "lon": 19.4069
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fest 100.2 FM",
+        "subtitle": "dolnośląskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radiofest.pl:8443/fest"
+      }
+    ]
+  },
+  {
+    "name": "Radio Baobab",
+    "coordinates": {
+      "lat": 51.1264,
+      "lon": 15.9198
+    },
+    "radioStations": [
+      {
+        "title": "Radio Baobab",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Chrzescijanin Muzyka instrumentalna",
+    "coordinates": {
+      "lat": 54.5803,
+      "lon": 16.8619
+    },
+    "radioStations": [
+      {
+        "title": "Radio Chrzescijanin Muzyka instrumentalna",
+        "subtitle": "Siedlce",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiochrzescijanin.pl//favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7172/"
+      }
+    ]
+  },
+  {
+    "name": "Radio AKADERA",
+    "coordinates": {
+      "lat": 53.2,
+      "lon": 18.6
+    },
+    "radioStations": [
+      {
+        "title": "Radio AKADERA",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:11846/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mirage - ItaloDance Channel",
+    "coordinates": {
+      "lat": 52.85,
+      "lon": 19.1667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mirage - ItaloDance Channel",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:9569/Stream1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Łódź",
+    "coordinates": {
+      "lat": 52.0583,
+      "lon": 19.2
+    },
+    "radioStations": [
+      {
+        "title": "Radio Łódź",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiolodz.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://217.113.224.171/RadioLodz-1-HQ.aac"
+      }
+    ]
+  },
+  {
+    "name": "Polka Jammer Station",
+    "coordinates": {
+      "lat": 52.3,
+      "lon": 17.8667
+    },
+    "radioStations": [
+      {
+        "title": "Polka Jammer Station",
+        "subtitle": "Gdynia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://199.58.161.66/"
+      }
+    ]
+  },
+  {
+    "name": "DiscoParty.pl - Disco Impreza",
+    "coordinates": {
+      "lat": 53.2833,
+      "lon": 18.95
+    },
+    "radioStations": [
+      {
+        "title": "DiscoParty.pl - Disco Impreza",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/impreza-370x370.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.slotex.pl/shoutcast/7046/stream?sid=1"
+      }
+    ]
+  },
+  {
+    "name": "Off Radio Krakow",
+    "coordinates": {
+      "lat": 54.3471,
+      "lon": 18.6171
+    },
+    "radioStations": [
+      {
+        "title": "Off Radio Krakow",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://off.radiokrakow.pl/img/icons/apple-touch-icon-152x152.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:13332/offradiokrakow"
+      }
+    ]
+  },
+  {
+    "name": "Katolickie Radio Diecezji Plockiej",
+    "coordinates": {
+      "lat": 51.2667,
+      "lon": 15.9333
+    },
+    "radioStations": [
+      {
+        "title": "Katolickie Radio Diecezji Plockiej",
+        "subtitle": "Plock",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7760/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Olsztyn",
+    "coordinates": {
+      "lat": 50.2538,
+      "lon": 18.9015
+    },
+    "radioStations": [
+      {
+        "title": "Radio Olsztyn",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rostr1.radioolsztyn.pl:8443/RO"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio",
+    "coordinates": {
+      "lat": 50.3167,
+      "lon": 18.9167
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.255.8.139:9090/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMF3 Pop Rock",
+    "coordinates": {
+      "lat": 52.8764,
+      "lon": 18.6933
+    },
+    "radioStations": [
+      {
+        "title": "RMF3 Pop Rock",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/RMF3"
+      }
+    ]
+  },
+  {
+    "name": "Twoje Radio Szczecin",
+    "coordinates": {
+      "lat": 53.1,
+      "lon": 19.05
+    },
+    "radioStations": [
+      {
+        "title": "Twoje Radio Szczecin",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://twojeradio.fm/twojeradio2018/pliki/2020/02/twojeradio-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.77.59.65:8000/stream.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mirage - Space",
+    "coordinates": {
+      "lat": 50.2585,
+      "lon": 19.0449
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mirage - Space",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl-1.radiohost.pl:9563/stream?ver=987766"
+      }
+    ]
+  },
+  {
+    "name": "RMF Najwieksze Polskie Przeboje",
+    "coordinates": {
+      "lat": 49.812,
+      "lon": 18.9841
+    },
+    "radioStations": [
+      {
+        "title": "RMF Najwieksze Polskie Przeboje",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs202-krk-cyfronet.rmfstream.pl/npp_rmf_on"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Covers",
+    "coordinates": {
+      "lat": 54.3566,
+      "lon": 18.6056
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Covers",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioCovers.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://an.cdn.eurozet.pl/ANTCOV.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jedynka",
+    "coordinates": {
+      "lat": 51.6822,
+      "lon": 19.4028
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jedynka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8950/"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF Hard and Heavy",
+    "coordinates": {
+      "lat": 50.05,
+      "lon": 21.0833
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF Hard and Heavy",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/HARDHEAVY"
+      }
+    ]
+  },
+  {
+    "name": "ESKA 2 RZESZÓW ",
+    "coordinates": {
+      "lat": 52.1444,
+      "lon": 20.8153
+    },
+    "radioStations": [
+      {
+        "title": "ESKA 2 RZESZÓW ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240111_233153036.jpg?alt=media&token=7e392b04-2497-4cab-9183-cf6ec5ab5b93",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/1240-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Śląskie Radio",
+    "coordinates": {
+      "lat": 52.7794,
+      "lon": 20.1153
+    },
+    "radioStations": [
+      {
+        "title": "Śląskie Radio",
+        "subtitle": "Upper Silesia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Karolinka",
+    "coordinates": {
+      "lat": 54.2856,
+      "lon": 20.4889
+    },
+    "radioStations": [
+      {
+        "title": "Radio Karolinka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:8358/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Stargard 90,3 FM - Twoje pierwsze radio",
+    "coordinates": {
+      "lat": 49.6292,
+      "lon": 20.6672
+    },
+    "radioStations": [
+      {
+        "title": "Radio Stargard 90,3 FM - Twoje pierwsze radio",
+        "subtitle": "West Pomerania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://twojeradio.fm/twojeradio2018/pliki/2020/02/twojeradio-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.77.59.65:8100/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Chopin + FAKTY",
+    "coordinates": {
+      "lat": 49.9833,
+      "lon": 20.9167
+    },
+    "radioStations": [
+      {
+        "title": "RMF Chopin + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/CHOPINF"
+      }
+    ]
+  },
+  {
+    "name": "Meloradio Wrocław",
+    "coordinates": {
+      "lat": 49.9724,
+      "lon": 19.8946
+    },
+    "radioStations": [
+      {
+        "title": "Meloradio Wrocław",
+        "subtitle": "dolnośląskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx-player.radiozet.pl/var/player/storage/images/player-meloradio/kanaly-muzyczne/meloradio-wroclaw/1728818-6-pol-PL/Meloradio-Wroclaw_size-140x140.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ml02.cdn.eurozet.pl/mel-wro.mp3"
+      }
+    ]
+  },
+  {
+    "name": "PLANETA FM",
+    "coordinates": {
+      "lat": 51.7167,
+      "lon": 19.6333
+    },
+    "radioStations": [
+      {
+        "title": "PLANETA FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.planetafm.pl/wp-content/uploads/2018/08/planeta-ikona.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://pl01.cdn.eurozet.pl/pla-net.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kielce",
+    "coordinates": {
+      "lat": 52.3453,
+      "lon": 18.66663
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kielce",
+        "subtitle": "Świętokrzyskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiokielce.pl/wp-content/uploads/2021/12/logo150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.g-news.pl:8030/rk2"
+      }
+    ]
+  },
+  {
+    "name": "Radio Eska Wrocław",
+    "coordinates": {
+      "lat": 51.26342,
+      "lon": 18.0047
+    },
+    "radioStations": [
+      {
+        "title": "Radio Eska Wrocław",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Eska_1049_2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic2.smcdn.pl/2180-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Koszalin",
+    "coordinates": {
+      "lat": 52.43525,
+      "lon": 16.78631
+    },
+    "radioStations": [
+      {
+        "title": "Radio Koszalin",
+        "subtitle": "Koszalin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:9680/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Przeboj roku",
+    "coordinates": {
+      "lat": 53.10461,
+      "lon": 17.12533
+    },
+    "radioStations": [
+      {
+        "title": "RMF Przeboj roku",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/PRZEBOJROKU"
+      }
+    ]
+  },
+  {
+    "name": "Radio Chrzescijanin Biblia",
+    "coordinates": {
+      "lat": 51.90372,
+      "lon": 18.01003
+    },
+    "radioStations": [
+      {
+        "title": "Radio Chrzescijanin Biblia",
+        "subtitle": "Siedlce",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7116/;"
+      }
+    ]
+  },
+  {
+    "name": "Damismania Dj Radio",
+    "coordinates": {
+      "lat": 51.70749,
+      "lon": 16.74827
+    },
+    "radioStations": [
+      {
+        "title": "Damismania Dj Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Damismania.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7512/"
+      }
+    ]
+  },
+  {
+    "name": "supernova",
+    "coordinates": {
+      "lat": 51.99302,
+      "lon": 16.58369
+    },
+    "radioStations": [
+      {
+        "title": "supernova",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/1510-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "4 Fun TV",
+    "coordinates": {
+      "lat": 51.91674,
+      "lon": 17.24133
+    },
+    "radioStations": [
+      {
+        "title": "4 Fun TV",
+        "subtitle": "Masovia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/4FUNTV.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Szczecin Extra",
+    "coordinates": {
+      "lat": 51.28581,
+      "lon": 17.90325
+    },
+    "radioStations": [
+      {
+        "title": "Radio Szczecin Extra",
+        "subtitle": "Szczecin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.nadaje.com:8200/szczecinfm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zachód (AAC)",
+    "coordinates": {
+      "lat": 52.3539,
+      "lon": 18.7298
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zachód (AAC)",
+        "subtitle": "Zielona Gora",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zachod.pl/wp-content/uploads/2022/03/cropped-zachod-ico-1700x1700-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.zachod.pl:10113/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Hot new",
+    "coordinates": {
+      "lat": 51.92257,
+      "lon": 16.21488
+    },
+    "radioStations": [
+      {
+        "title": "RMF Hot new",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/HOTNEW"
+      }
+    ]
+  },
+  {
+    "name": "Radio Różaniec",
+    "coordinates": {
+      "lat": 51.96696,
+      "lon": 17.81648
+    },
+    "radioStations": [
+      {
+        "title": "Radio Różaniec",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radio.rozaniec.info/resources/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio2.rozaniec.info:5696/stream"
+      }
+    ]
+  },
+  {
+    "name": "VOX FM BEST LISTA ",
+    "coordinates": {
+      "lat": 52.09949,
+      "lon": 18.60432
+    },
+    "radioStations": [
+      {
+        "title": "VOX FM BEST LISTA ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6100-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Konin FM",
+    "coordinates": {
+      "lat": 52.88954,
+      "lon": 16.98812
+    },
+    "radioStations": [
+      {
+        "title": "Konin FM",
+        "subtitle": "Wielkopolskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.technologicznie.net/konin.fm"
+      }
+    ]
+  },
+  {
+    "name": "Plus Radio  Legnica.FM",
+    "coordinates": {
+      "lat": 52.35532,
+      "lon": 16.51958
+    },
+    "radioStations": [
+      {
+        "title": "Plus Radio  Legnica.FM",
+        "subtitle": "Dolnyśląsk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.legnica.fm/templates/kinduprwdlegnicafm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "PR KIEROWCÓW ",
+    "coordinates": {
+      "lat": 51.97642,
+      "lon": 17.86995
+    },
+    "radioStations": [
+      {
+        "title": "PR KIEROWCÓW ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_120619614.jpg?alt=media&token=edc29b4f-8648-43ec-aee1-4df7bcd33bc6",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8918/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Piekary  88.7FM",
+    "coordinates": {
+      "lat": 52.24961,
+      "lon": 19.01218
+    },
+    "radioStations": [
+      {
+        "title": "Radio Piekary  88.7FM",
+        "subtitle": "Slaskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n21a-eu.rcs.revma.com/0rg0mztk33bwv?rj-ttl=5&rj-tok=AAABnDF1SJoAi5xp4z8vj4ZXKA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plus Koszalin",
+    "coordinates": {
+      "lat": 52.62817,
+      "lon": 16.22852
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plus Koszalin",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplus.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/4270-1.aac"
+      }
+    ]
+  },
+  {
+    "name": "Zet 90s",
+    "coordinates": {
+      "lat": 51.49197,
+      "lon": 18.32726
+    },
+    "radioStations": [
+      {
+        "title": "Zet 90s",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt02.cdn.eurozet.pl/ZET090.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gdynia Radio",
+    "coordinates": {
+      "lat": 52.31719,
+      "lon": 16.91268
+    },
+    "radioStations": [
+      {
+        "title": "Gdynia Radio",
+        "subtitle": "Gdynia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.255.8.139:8064/stream"
+      }
+    ]
+  },
+  {
+    "name": "ESKA DO PRACY ",
+    "coordinates": {
+      "lat": 52.90214,
+      "lon": 16.56413
+    },
+    "radioStations": [
+      {
+        "title": "ESKA DO PRACY ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ESKADOPRACY.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic1.smcdn.pl/6140-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mirage - Prywatka",
+    "coordinates": {
+      "lat": 52.14404,
+      "lon": 16.76408
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mirage - Prywatka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl-1.radiohost.pl:7214/stream?ver=661798"
+      }
+    ]
+  },
+  {
+    "name": "MojePolskieRadio - Jedynka",
+    "coordinates": {
+      "lat": 51.95008,
+      "lon": 17.74957
+    },
+    "radioStations": [
+      {
+        "title": "MojePolskieRadio - Jedynka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8900/"
+      }
+    ]
+  },
+  {
+    "name": "Radio PiK",
+    "coordinates": {
+      "lat": 52.4264,
+      "lon": 17.48925
+    },
+    "radioStations": [
+      {
+        "title": "Radio PiK",
+        "subtitle": "Bydgoszcz",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiopik.bydgoszcz.pl/assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiopik.pl:9004/"
+      }
+    ]
+  },
+  {
+    "name": "ESKA Białystok",
+    "coordinates": {
+      "lat": 52.46459,
+      "lon": 16.98169
+    },
+    "radioStations": [
+      {
+        "title": "ESKA Białystok",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.eska.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/2020-1.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RMF Muzyka Klasyczna",
+    "coordinates": {
+      "lat": 52.08668,
+      "lon": 18.8225
+    },
+    "radioStations": [
+      {
+        "title": "RMF Muzyka Klasyczna",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs201-krk.rmfstream.pl/rmf_muzyka_klasyczna"
+      }
+    ]
+  },
+  {
+    "name": "MojePolskieRadio - Radio Dzieciom",
+    "coordinates": {
+      "lat": 52.83979,
+      "lon": 17.50062
+    },
+    "radioStations": [
+      {
+        "title": "MojePolskieRadio - Radio Dzieciom",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8916/"
+      }
+    ]
+  },
+  {
+    "name": "RMFmaxx",
+    "coordinates": {
+      "lat": 52.30002,
+      "lon": 16.95723
+    },
+    "radioStations": [
+      {
+        "title": "RMFmaxx",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx"
+      }
+    ]
+  },
+  {
+    "name": "MojePolskieRadio - РАДИО ПОЛЬША",
+    "coordinates": {
+      "lat": 51.91664,
+      "lon": 18.61556
+    },
+    "radioStations": [
+      {
+        "title": "MojePolskieRadio - РАДИО ПОЛЬША",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://moje.polskieradio.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8914/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Fara",
+    "coordinates": {
+      "lat": 51.86663,
+      "lon": 17.60336
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fara",
+        "subtitle": "Przemysl",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://62.133.128.22:8000/"
+      }
+    ]
+  },
+  {
+    "name": "RMF 90s Dance + FAKTY",
+    "coordinates": {
+      "lat": 51.9818,
+      "lon": 17.06273
+    },
+    "radioStations": [
+      {
+        "title": "RMF 90s Dance + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/90SDANCEF"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ostrowiec 95.2 FM",
+    "coordinates": {
+      "lat": 52.29158,
+      "lon": 17.35754
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ostrowiec 95.2 FM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7050/stream/1/;?type=http"
+      }
+    ]
+  },
+  {
+    "name": "RMF Francais",
+    "coordinates": {
+      "lat": 52.35726,
+      "lon": 16.67562
+    },
+    "radioStations": [
+      {
+        "title": "RMF Francais",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/FRANCAIS"
+      }
+    ]
+  },
+  {
+    "name": "House of Funk",
+    "coordinates": {
+      "lat": 51.41719,
+      "lon": 18.07697
+    },
+    "radioStations": [
+      {
+        "title": "House of Funk",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://houseoffunk.eu:8443/live"
+      }
+    ]
+  },
+  {
+    "name": "CYBERStacja",
+    "coordinates": {
+      "lat": 52.85421,
+      "lon": 16.03125
+    },
+    "radioStations": [
+      {
+        "title": "CYBERStacja",
+        "subtitle": "Dolnyśląsk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/CYBERStacja.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sc.cyberstacja.pl:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Szanty",
+    "coordinates": {
+      "lat": 52.44691,
+      "lon": 16.40602
+    },
+    "radioStations": [
+      {
+        "title": "RMF Szanty",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://217.74.72.11/SZANTY"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mirage Prywatka",
+    "coordinates": {
+      "lat": 52.04267,
+      "lon": 17.76936
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mirage Prywatka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:7214/"
+      }
+    ]
+  },
+  {
+    "name": "RADIO KIEROWCÓW ",
+    "coordinates": {
+      "lat": 52.24315,
+      "lon": 18.09268
+    },
+    "radioStations": [
+      {
+        "title": "RADIO KIEROWCÓW ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RMF 5 Lagodne Przeboje",
+    "coordinates": {
+      "lat": 52.94326,
+      "lon": 17.29995
+    },
+    "radioStations": [
+      {
+        "title": "RMF 5 Lagodne Przeboje",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.8/RMF5"
+      }
+    ]
+  },
+  {
+    "name": "Toksyna FM New Romantic",
+    "coordinates": {
+      "lat": 51.85036,
+      "lon": 17.9314
+    },
+    "radioStations": [
+      {
+        "title": "Toksyna FM New Romantic",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s01.toksyna.fm:8020/"
+      }
+    ]
+  },
+  {
+    "name": "EL-Stacja HQ",
+    "coordinates": {
+      "lat": 51.63725,
+      "lon": 17.72953
+    },
+    "radioStations": [
+      {
+        "title": "EL-Stacja HQ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ELStacjaHQ.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.el-stacja.pl:8000/elstacja320mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Hit",
+    "coordinates": {
+      "lat": 51.50596,
+      "lon": 18.11929
+    },
+    "radioStations": [
+      {
+        "title": "Radio Hit",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://46.170.199.85:8000/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Malbork",
+    "coordinates": {
+      "lat": 52.22244,
+      "lon": 16.52859
+    },
+    "radioStations": [
+      {
+        "title": "Radio Malbork",
+        "subtitle": "Malbork",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static2.radiomalbork.fm/data/wysiwig/532169_492610320769907_254398773_n.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.nadaje.com:9022/"
+      }
+    ]
+  },
+  {
+    "name": "Disco Radio",
+    "coordinates": {
+      "lat": 52.03855,
+      "lon": 18.05972
+    },
+    "radioStations": [
+      {
+        "title": "Disco Radio",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/DiscoRadio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://kiyi.radioca.st:8108/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio ZET - 2000",
+    "coordinates": {
+      "lat": 52.22762,
+      "lon": 16.36534
+    },
+    "radioStations": [
+      {
+        "title": "Radio ZET - 2000",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt04.cdn.eurozet.pl/ZET200.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RADIO CLUB DJ",
+    "coordinates": {
+      "lat": 52.20177,
+      "lon": 18.73409
+    },
+    "radioStations": [
+      {
+        "title": "RADIO CLUB DJ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioclubdj.prv.pl/rcd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://4stream.pl:18272/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Manhattan",
+    "coordinates": {
+      "lat": 52.20598,
+      "lon": 16.20741
+    },
+    "radioStations": [
+      {
+        "title": "Radio Manhattan",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/4/1784.v4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7780/stream"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Makak",
+    "coordinates": {
+      "lat": 51.59808,
+      "lon": 17.78824
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Makak",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Makak.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://an05.cdn.eurozet.pl/ANTMAK.mp3?redirected=05"
+      }
+    ]
+  },
+  {
+    "name": "RMF MAXXX Hop bec + FAKTY",
+    "coordinates": {
+      "lat": 51.96854,
+      "lon": 17.29707
+    },
+    "radioStations": [
+      {
+        "title": "RMF MAXXX Hop bec + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/HOPBECF"
+      }
+    ]
+  },
+  {
+    "name": "RMF DANCE FAKTY",
+    "coordinates": {
+      "lat": 53.42048,
+      "lon": 16.81756
+    },
+    "radioStations": [
+      {
+        "title": "RMF DANCE FAKTY",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/rmf_dance_f"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gold Live",
+    "coordinates": {
+      "lat": 51.65009,
+      "lon": 17.16957
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gold Live",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7062/;"
+      }
+    ]
+  },
+  {
+    "name": "Program Pierwszy Polskiego Radia",
+    "coordinates": {
+      "lat": 53.10348,
+      "lon": 16.88169
+    },
+    "radioStations": [
+      {
+        "title": "Program Pierwszy Polskiego Radia",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.polskieradio.pl:8900/;"
+      }
+    ]
+  },
+  {
+    "name": "Jazzkultura",
+    "coordinates": {
+      "lat": 52.16614,
+      "lon": 16.46164
+    },
+    "radioStations": [
+      {
+        "title": "Jazzkultura",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radio.co/s1136b59f3/listen"
+      }
+    ]
+  },
+  {
+    "name": "MELORADIO POZNAŃ ",
+    "coordinates": {
+      "lat": 51.90923,
+      "lon": 18.53102
+    },
+    "radioStations": [
+      {
+        "title": "MELORADIO POZNAŃ ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_153924874.jpg?alt=media&token=304f776c-906e-4d37-ba55-21b9831d3de6",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ml03.cdn.eurozet.pl/mel-poz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Beatlemania + FAKTY",
+    "coordinates": {
+      "lat": 52.311,
+      "lon": 18.16581
+    },
+    "radioStations": [
+      {
+        "title": "RMF Beatlemania + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/BEATLEMANIAF"
+      }
+    ]
+  },
+  {
+    "name": "Radio Wroclaw Kultura",
+    "coordinates": {
+      "lat": 52.51309,
+      "lon": 16.58403
+    },
+    "radioStations": [
+      {
+        "title": "Radio Wroclaw Kultura",
+        "subtitle": "Wroclaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiowroclawkultura.pl/images/favicon/apple-touch-icon-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:9230/rwkultura"
+      }
+    ]
+  },
+  {
+    "name": "Radio Danielka",
+    "coordinates": {
+      "lat": 51.2784,
+      "lon": 17.98908
+    },
+    "radioStations": [
+      {
+        "title": "Radio Danielka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.slotex.pl:7088/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Emaus",
+    "coordinates": {
+      "lat": 52.58871,
+      "lon": 17.2663
+    },
+    "radioStations": [
+      {
+        "title": "Radio Emaus",
+        "subtitle": "Poznan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioemaus.pl/app/uploads/2019/11/cropped-avatar-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioemaus.pl:8000/oggstream"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Warszawa",
+    "coordinates": {
+      "lat": 52.37057,
+      "lon": 18.17714
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Warszawa",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioWarszawa.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
+      }
+    ]
+  },
+  {
+    "name": "Disco Party - Lata 90.",
+    "coordinates": {
+      "lat": 52.33377,
+      "lon": 17.17163
+    },
+    "radioStations": [
+      {
+        "title": "Disco Party - Lata 90.",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/DiscoPartyLata90.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.slotex.pl:7170/stream"
+      }
+    ]
+  },
+  {
+    "name": "BEST Radio (192Kbps)",
+    "coordinates": {
+      "lat": 52.63181,
+      "lon": 17.43075
+    },
+    "radioStations": [
+      {
+        "title": "BEST Radio (192Kbps)",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/BESTRadio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiobest.eu:8000/192"
+      }
+    ]
+  },
+  {
+    "name": "MC Radio",
+    "coordinates": {
+      "lat": 52.25447,
+      "lon": 18.91352
+    },
+    "radioStations": [
+      {
+        "title": "MC Radio",
+        "subtitle": "Poznan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s103210/images/logoq.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:8624/mcradio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rodzina",
+    "coordinates": {
+      "lat": 51.37923,
+      "lon": 17.83811
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rodzina",
+        "subtitle": "Wroclaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RaveFM",
+    "coordinates": {
+      "lat": 51.71645,
+      "lon": 17.22682
+    },
+    "radioStations": [
+      {
+        "title": "RaveFM",
+        "subtitle": "Małopolska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ravefm.org:9850/ravefm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Disco Party - Club",
+    "coordinates": {
+      "lat": 52.44597,
+      "lon": 17.07644
+    },
+    "radioStations": [
+      {
+        "title": "Radio Disco Party - Club",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.slotex.pl/shoutcast/7354/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Racja",
+    "coordinates": {
+      "lat": 52.21739,
+      "lon": 17.62413
+    },
+    "radioStations": [
+      {
+        "title": "Radio Racja",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.racyja.com:8000/aacp128"
+      }
+    ]
+  },
+  {
+    "name": "Punkowe Radio Underground",
+    "coordinates": {
+      "lat": 52.3387,
+      "lon": 16.81063
+    },
+    "radioStations": [
+      {
+        "title": "Punkowe Radio Underground",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7604/"
+      }
+    ]
+  },
+  {
+    "name": "VOX DJ Mix",
+    "coordinates": {
+      "lat": 51.6569,
+      "lon": 17.04185
+    },
+    "radioStations": [
+      {
+        "title": "VOX DJ Mix",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.voxfm.pl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://waw.ic.smcdn.pl/6020-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jutrzenka",
+    "coordinates": {
+      "lat": 52.24772,
+      "lon": 17.08949
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jutrzenka",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sluchaj.radiojutrzenka.waw.pl:12854/test"
+      }
+    ]
+  },
+  {
+    "name": "RMF Celtic + FAKTY",
+    "coordinates": {
+      "lat": 52.17425,
+      "lon": 18.57067
+    },
+    "radioStations": [
+      {
+        "title": "RMF Celtic + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/CELTICF"
+      }
+    ]
+  },
+  {
+    "name": "Norda FM",
+    "coordinates": {
+      "lat": 52.39847,
+      "lon": 17.22811
+    },
+    "radioStations": [
+      {
+        "title": "Norda FM",
+        "subtitle": "pomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://norda.fm/wp-content/uploads/2023/07/fav.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vanessa",
+    "coordinates": {
+      "lat": 51.91913,
+      "lon": 17.64825
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vanessa",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/5/1425.v5.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7358/;;"
+      }
+    ]
+  },
+  {
+    "name": "Polmax Kolędy",
+    "coordinates": {
+      "lat": 51.82712,
+      "lon": 17.45391
+    },
+    "radioStations": [
+      {
+        "title": "Polmax Kolędy",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://polmaxfm.github.io/images/logo-zima.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zeno.fm/vorzdeodup8uv"
+      }
+    ]
+  },
+  {
+    "name": "RMF 4 DANCE & RNB",
+    "coordinates": {
+      "lat": 51.79874,
+      "lon": 18.33893
+    },
+    "radioStations": [
+      {
+        "title": "RMF 4 DANCE & RNB",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs6-krk2.rmfstream.pl/rmf_4"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kujawy",
+    "coordinates": {
+      "lat": 53.29759,
+      "lon": 16.99079
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kujawy",
+        "subtitle": "Kujawsko-Pomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kujawy.info/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.kujawy.info:9940/"
+      }
+    ]
+  },
+  {
+    "name": "Polskie Radio Dla Zagranicy",
+    "coordinates": {
+      "lat": 52.26469,
+      "lon": 18.42407
+    },
+    "radioStations": [
+      {
+        "title": "Polskie Radio Dla Zagranicy",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.polskieradio.pl:8908/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Znin FM",
+    "coordinates": {
+      "lat": 51.51868,
+      "lon": 18.21997
+    },
+    "radioStations": [
+      {
+        "title": "Radio Znin FM",
+        "subtitle": "Znin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:8052/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Niezapomniane melodie",
+    "coordinates": {
+      "lat": 51.77405,
+      "lon": 16.98237
+    },
+    "radioStations": [
+      {
+        "title": "RMF Niezapomniane melodie",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/NIEZAPOMNIANEMELODIE"
+      }
+    ]
+  },
+  {
+    "name": "SuperNova Rock",
+    "coordinates": {
+      "lat": 51.85905,
+      "lon": 16.83354
+    },
+    "radioStations": [
+      {
+        "title": "SuperNova Rock",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://waw.ic.smcdn.pl/6090-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF Blues + FAKTY",
+    "coordinates": {
+      "lat": 52.11041,
+      "lon": 17.37411
+    },
+    "radioStations": [
+      {
+        "title": "RMF Blues + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.10/BLUESF"
+      }
+    ]
+  },
+  {
+    "name": "Radio DOXA",
+    "coordinates": {
+      "lat": 51.96296,
+      "lon": 16.81985
+    },
+    "radioStations": [
+      {
+        "title": "Radio DOXA",
+        "subtitle": "Opole",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shot.inten.pl:10000/"
+      }
+    ]
+  },
+  {
+    "name": "Radio RMF Classic",
+    "coordinates": {
+      "lat": 52.88097,
+      "lon": 16.01116
+    },
+    "radioStations": [
+      {
+        "title": "Radio RMF Classic",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfclassic.pl/dist-v2021/images/logo-ua.png?a",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_classic"
+      }
+    ]
+  },
+  {
+    "name": "RMF Grunge + FAKTY",
+    "coordinates": {
+      "lat": 52.06167,
+      "lon": 17.23952
+    },
+    "radioStations": [
+      {
+        "title": "RMF Grunge + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/GRUNGEF"
+      }
+    ]
+  },
+  {
+    "name": "Akademickie Radio Luz 91.6",
+    "coordinates": {
+      "lat": 52.36386,
+      "lon": 16.31538
+    },
+    "radioStations": [
+      {
+        "title": "Akademickie Radio Luz 91.6",
+        "subtitle": "dolnośląskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Akademickie.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioluz.pl:8000/luz_hifi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF LADY PANK",
+    "coordinates": {
+      "lat": 52.55506,
+      "lon": 16.08562
+    },
+    "radioStations": [
+      {
+        "title": "RMF LADY PANK",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.9/LADYPANK"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Greatest",
+    "coordinates": {
+      "lat": 52.20929,
+      "lon": 17.92994
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Greatest",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioGreatest.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio RAM (MP3)",
+    "coordinates": {
+      "lat": 52.31226,
+      "lon": 18.35515
+    },
+    "radioStations": [
+      {
+        "title": "Radio RAM (MP3)",
+        "subtitle": "Wroclaw",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:9220/ram"
+      }
+    ]
+  },
+  {
+    "name": "Wesołe Slonzoki ",
+    "coordinates": {
+      "lat": 53.49601,
+      "lon": 17.25085
+    },
+    "radioStations": [
+      {
+        "title": "Wesołe Slonzoki ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wesole-slonzoki.eu/wp-content/uploads/2020/09/cropped-herb-2-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.255.8.139:8380/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pasja - Chillout 128kb/s",
+    "coordinates": {
+      "lat": 51.83313,
+      "lon": 18.39789
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pasja - Chillout 128kb/s",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.232.4.33:8108/stream2"
+      }
+    ]
+  },
+  {
+    "name": "Radio SUD",
+    "coordinates": {
+      "lat": 52.85213,
+      "lon": 16.52344
+    },
+    "radioStations": [
+      {
+        "title": "Radio SUD",
+        "subtitle": "Kepno",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.nadaje.com:8012/"
+      }
+    ]
+  },
+  {
+    "name": "Toksyna FM Chillout & More",
+    "coordinates": {
+      "lat": 52.44798,
+      "lon": 16.18106
+    },
+    "radioStations": [
+      {
+        "title": "Toksyna FM Chillout & More",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s01.toksyna.fm:8050/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Polska prywatka",
+    "coordinates": {
+      "lat": 51.21231,
+      "lon": 18.1071
+    },
+    "radioStations": [
+      {
+        "title": "RMF Polska prywatka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_polska_prywatka"
+      }
+    ]
+  },
+  {
+    "name": "ZET Latino",
+    "coordinates": {
+      "lat": 53.26244,
+      "lon": 17.25574
+    },
+    "radioStations": [
+      {
+        "title": "ZET Latino",
+        "subtitle": "Warszawa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ch.cdn.eurozet.pl/ZETLTN.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pielgrzym Kazania",
+    "coordinates": {
+      "lat": 52.51168,
+      "lon": 17.45333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pielgrzym Kazania",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiopielgrzym.pl/templates/yoo_beyond/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiointernetowe.net:9450/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Akord",
+    "coordinates": {
+      "lat": 51.95358,
+      "lon": 18.39128
+    },
+    "radioStations": [
+      {
+        "title": "Radio Akord",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioakord.cba.pl///templates/dd_wildlion_37/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7122/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zet Love -om",
+    "coordinates": {
+      "lat": 52.97335,
+      "lon": 17.09464
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zet Love -om",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-love/684881-14-pol-PL/Radio-ZET-Love_social_share.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06"
+      }
+    ]
+  },
+  {
+    "name": "RMF MAXXX KROSNO ",
+    "coordinates": {
+      "lat": 53.09784,
+      "lon": 17.00478
+    },
+    "radioStations": [
+      {
+        "title": "RMF MAXXX KROSNO ",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmfmaxxx.pl/assets-16/favicons/apple-touch-icon.png?v=lbgkbkbbmq",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn"
+      }
+    ]
+  },
+  {
+    "name": "Melo Radio Śląsk (Katowice)",
+    "coordinates": {
+      "lat": 52.37581,
+      "lon": 15.95876
+    },
+    "radioStations": [
+      {
+        "title": "Melo Radio Śląsk (Katowice)",
+        "subtitle": "Slaskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ml01.cdn.eurozet.pl/mel-ktw.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RMF 50s",
+    "coordinates": {
+      "lat": 52.59882,
+      "lon": 15.89696
+    },
+    "radioStations": [
+      {
+        "title": "RMF 50s",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs101-krk.rmfstream.pl/50S"
+      }
+    ]
+  },
+  {
+    "name": "radio 7 mlawa",
+    "coordinates": {
+      "lat": 51.65573,
+      "lon": 16.95826
+    },
+    "radioStations": [
+      {
+        "title": "radio 7 mlawa",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio7.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://137.74.5.240:443/;"
+      }
+    ]
+  },
+  {
+    "name": "Aniol Beskidów",
+    "coordinates": {
+      "lat": 52.66868,
+      "lon": 17.49779
+    },
+    "radioStations": [
+      {
+        "title": "Aniol Beskidów",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Beskidow.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://media.aniolbeskidow.pl:22000/aniolbeskidow"
+      }
+    ]
+  },
+  {
+    "name": "Rekord Radio Świętokrzyskie",
+    "coordinates": {
+      "lat": 52.74357,
+      "lon": 17.33213
+    },
+    "radioStations": [
+      {
+        "title": "Rekord Radio Świętokrzyskie",
+        "subtitle": "Świętokrzyskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pl-pl.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream4.nadaje.com:8308/ostrowiec"
+      }
+    ]
+  },
+  {
+    "name": "Radio Marconi PL",
+    "coordinates": {
+      "lat": 51.53236,
+      "lon": 17.97378
+    },
+    "radioStations": [
+      {
+        "title": "Radio Marconi PL",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream12.hosterion.pl/stream/radiomarconi"
+      }
+    ]
+  },
+  {
+    "name": "Radio Chrześcijanin (Jakość dźwięku (MP3))",
+    "coordinates": {
+      "lat": 52.20318,
+      "lon": 17.48955
+    },
+    "radioStations": [
+      {
+        "title": "Radio Chrześcijanin (Jakość dźwięku (MP3))",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiochrzescijanin.pl/obrazki/2015/11/radio113.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7002/mountpoint"
+      }
+    ]
+  },
+  {
+    "name": "Radio Underground",
+    "coordinates": {
+      "lat": 52.24543,
+      "lon": 16.84709
+    },
+    "radioStations": [
+      {
+        "title": "Radio Underground",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiounderground.org/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7604/"
+      }
+    ]
+  },
+  {
+    "name": "RMF Koledy + FAKTY",
+    "coordinates": {
+      "lat": 52.57463,
+      "lon": 17.00933
+    },
+    "radioStations": [
+      {
+        "title": "RMF Koledy + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.192.216.7/KOLEDYF"
+      }
+    ]
+  },
+  {
+    "name": "DiscoParty.pl - Disco Polo",
+    "coordinates": {
+      "lat": 52.36496,
+      "lon": 17.41329
+    },
+    "radioStations": [
+      {
+        "title": "DiscoParty.pl - Disco Polo",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://discoparty.pl/wp-content/uploads/2020/06/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.slotex.pl/shoutcast/7432/stream?sid=1"
+      }
+    ]
+  },
+  {
+    "name": "Chillizet Ladies -om",
+    "coordinates": {
+      "lat": 52.46527,
+      "lon": 17.67812
+    },
+    "radioStations": [
+      {
+        "title": "Chillizet Ladies -om",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/ChillizetLadies.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gorzów",
+    "coordinates": {
+      "lat": 52.09007,
+      "lon": 17.41114
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gorzów",
+        "subtitle": "Gorzów Wielkopolski",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.radiogorzow.pl:10115/"
+      }
+    ]
+  },
+  {
+    "name": "Radio FAMA",
+    "coordinates": {
+      "lat": 51.71038,
+      "lon": 17.99337
+    },
+    "radioStations": [
+      {
+        "title": "Radio FAMA",
+        "subtitle": "Kielce",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.nadaje.com:8076/"
+      }
+    ]
+  },
+  {
+    "name": "RADIO WARTA",
+    "coordinates": {
+      "lat": 52.3195,
+      "lon": 16.12844
+    },
+    "radioStations": [
+      {
+        "title": "RADIO WARTA",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://uradio-staticfiles.s3.amazonaws.com/radioapp/images/apple-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7446/;"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Unplugged",
+    "coordinates": {
+      "lat": 52.64739,
+      "lon": 16.81406
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Unplugged",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioUnplugged.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an05.cdn.eurozet.pl/ANTUNP.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio FTB Club",
+    "coordinates": {
+      "lat": 52.70338,
+      "lon": 16.52807
+    },
+    "radioStations": [
+      {
+        "title": "Radio FTB Club",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioftb.net/wp-content/uploads/2020/11/appstore.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.radioftb.net:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Slask",
+    "coordinates": {
+      "lat": 51.57419,
+      "lon": 17.67434
+    },
+    "radioStations": [
+      {
+        "title": "Radio Slask",
+        "subtitle": "Upper Silesia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioslask.pl/templates/img/rs-icona.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.slotex.pl:7022/stream"
+      }
+    ]
+  },
+  {
+    "name": "RMF Dla dzieci + FAKTY",
+    "coordinates": {
+      "lat": 53.53618,
+      "lon": 16.85158
+    },
+    "radioStations": [
+      {
+        "title": "RMF Dla dzieci + FAKTY",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.8/BABYF"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio - Kraków",
+    "coordinates": {
+      "lat": 52.1903,
+      "lon": 18.86258
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio - Kraków",
+        "subtitle": "Małopolska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://covers.tuba.pl/tuba3/_js/player_2020/assets/img/brands/rr/logo-rr.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostream.pl/tuba9000-1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Safira",
+    "coordinates": {
+      "lat": 52.30887,
+      "lon": 16.41278
+    },
+    "radioStations": [
+      {
+        "title": "Radio Safira",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.wix.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream12.hosterion.pl/stream/safira"
+      }
+    ]
+  },
+  {
+    "name": "Antyradio Hard",
+    "coordinates": {
+      "lat": 51.21463,
+      "lon": 18.14615
+    },
+    "radioStations": [
+      {
+        "title": "Antyradio Hard",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/AntyradioHard.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
+      }
+    ]
+  },
+  {
+    "name": "rmf",
+    "coordinates": {
+      "lat": 51.73989,
+      "lon": 18.21653
+    },
+    "radioStations": [
+      {
+        "title": "rmf",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rmf.fm/inc/img/favicon/apple-icon-114x114.png?2",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.242:8000/rmf_fm"
+      }
+    ]
+  },
+  {
+    "name": "RMF Alternatywa",
+    "coordinates": {
+      "lat": 52.50938,
+      "lon": 18.01578
+    },
+    "radioStations": [
+      {
+        "title": "RMF Alternatywa",
+        "subtitle": "Krakow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.150.20.7/ALTERNATYWA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Elka Leszno",
+    "coordinates": {
+      "lat": 51.9042,
+      "lon": 16.67862
+    },
+    "radioStations": [
+      {
+        "title": "Radio Elka Leszno",
+        "subtitle": "Leszno",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://elka.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.elka.pl:8000/elka.fm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pielgrzym English",
+    "coordinates": {
+      "lat": 52.2763,
+      "lon": 18.60234
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pielgrzym English",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s102336q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://shoutcast.com.pl:9448/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mbox - Polska Muzyka",
+    "coordinates": {
+      "lat": 53.1203,
+      "lon": 17.29102
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mbox - Polska Muzyka",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiombox.pl/MboxKwadr120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.slotex.pl:7072/stream"
+      }
+    ]
+  },
+  {
+    "name": "Folk Radio ",
+    "coordinates": {
+      "lat": 52.6265,
+      "lon": 16.44988
+    },
+    "radioStations": [
+      {
+        "title": "Folk Radio ",
+        "subtitle": "Świętokrzyskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://folkradio.pl/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.g-news.pl:8030/fr1"
+      }
+    ]
+  },
+  {
+    "name": "SoundFM",
+    "coordinates": {
+      "lat": 52.38199,
+      "lon": 18.0447
+    },
+    "radioStations": [
+      {
+        "title": "SoundFM",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://panelradiowy.pl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.slotex.pl:7494/"
+      }
+    ]
+  },
+  {
+    "name": "Metal Live Radio",
+    "coordinates": {
+      "lat": 51.4264,
+      "lon": 17.93355
+    },
+    "radioStations": [
+      {
+        "title": "Metal Live Radio",
+        "subtitle": "Zachodniopomorskie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://51.255.8.139:8738/stream"
+      }
+    ]
+  },
+  {
+    "name": "Leliwa",
+    "coordinates": {
+      "lat": 51.61438,
+      "lon": 17.05793
+    },
+    "radioStations": [
+      {
+        "title": "Leliwa",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.g-news.pl/radio/8050/leliwa"
+      }
+    ]
+  },
+  {
+    "name": "13 ESKA 2",
+    "coordinates": {
+      "lat": 52.55334,
+      "lon": 16.68094
+    },
+    "radioStations": [
+      {
+        "title": "13 ESKA 2",
+        "subtitle": "Poland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raw.githubusercontent.com/OstaninOn/imR/main/Eska213.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8"
+      }
+    ]
+  }
+]
