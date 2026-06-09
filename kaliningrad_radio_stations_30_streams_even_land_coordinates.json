@@ -139,7 +139,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=comedy-radio.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://pub0302.101.ru:8000/stream/air/aac/64/202"
+        "streamURL": "https://hls-01-gpm.hostingradio.ru/comedyradio495/128/playlist.m3u8"
       }
     ]
   },
@@ -409,7 +409,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=loveradio.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://stream1.loveradio.ru:8000/love256.mp3"
+        "streamURL": "https://stream2.n340.com/12_love_28_reg_183?type=.aac&UID=3890D84F78460AF580B294B90667EBAC"
       }
     ]
   },
