@@ -161,96 +161,8 @@
       }
     ]
   },
-  {
-    "name": "CNR大湾区之声",
-    "coordinates": {
-      "lat": 29.0958,
-      "lon": 119.6813
-    },
-    "radioStations": [
-      {
-        "title": "CNR大湾区之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/大湾区之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn007.cnr.cn/live/hxzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR经典音乐广播",
-    "coordinates": {
-      "lat": 25.1284,
-      "lon": 113.3524
-    },
-    "radioStations": [
-      {
-        "title": "CNR经典音乐广播",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/经典音乐广播.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn004.cnr.cn/live/dszs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR经济之声",
-    "coordinates": {
-      "lat": 40.5783,
-      "lon": 110.5278
-    },
-    "radioStations": [
-      {
-        "title": "CNR经济之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/经济之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR老年之声",
-    "coordinates": {
-      "lat": 46.4106,
-      "lon": 125.3299
-    },
-    "radioStations": [
-      {
-        "title": "CNR老年之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/老年之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn011.cnr.cn/live/lnzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR神州之声",
-    "coordinates": {
-      "lat": 44.4301,
-      "lon": 84.6776
-    },
-    "radioStations": [
-      {
-        "title": "CNR神州之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/cnr神州之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn006.cnr.cn/live/szzs/index.m3u8"
-      }
-    ]
-  },
+ 
+ 
   {
     "name": "维吾尔语广播",
     "coordinates": {
@@ -269,78 +181,8 @@
       }
     ]
   },
-  {
-    "name": "CNR 文艺之声",
-    "coordinates": {
-      "lat": 24.812,
-      "lon": 121.245
-    },
-    "radioStations": [
-      {
-        "title": "CNR 文艺之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.qtfm.cn/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn010.cnr.cn/live/wyzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR香港之声",
-    "coordinates": {
-      "lat": 22.7518,
-      "lon": 120.301
-    },
-    "radioStations": [
-      {
-        "title": "CNR香港之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/cnr香港之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn008.cnr.cn/live/xgzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR音乐之声",
-    "coordinates": {
-      "lat": 34.8624,
-      "lon": 105.6733
-    },
-    "radioStations": [
-      {
-        "title": "CNR音乐之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/音乐之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR阅读之声",
-    "coordinates": {
-      "lat": 32.4526,
-      "lon": 115.4155
-    },
-    "radioStations": [
-      {
-        "title": "CNR阅读之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/阅读之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn014.cnr.cn/live/ylgb/index.m3u8"
-      }
-    ]
-  },
+  
+ 
   {
     "name": "CNR中国交通广播",
     "coordinates": {
@@ -358,79 +200,8 @@
         "streamURL": "http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8"
       }
     ]
-  },
-  {
-    "name": "CNR乡村之声",
-    "coordinates": {
-      "lat": 34.5635,
-      "lon": 105.8976
-    },
-    "radioStations": [
-      {
-        "title": "CNR乡村之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/乡村之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn017.cnr.cn/live/xczs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR中国之声",
-    "coordinates": {
-      "lat": 29.3282,
-      "lon": 85.2346
-    },
-    "radioStations": [
-      {
-        "title": "CNR中国之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/中国之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR台海之声",
-    "coordinates": {
-      "lat": 33.7376,
-      "lon": 113.2991
-    },
-    "radioStations": [
-      {
-        "title": "CNR台海之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/台海之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn005.cnr.cn/live/zhzs/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "CNR民族之声",
-    "coordinates": {
-      "lat": 25.2682,
-      "lon": 111.3468
-    },
-    "radioStations": [
-      {
-        "title": "CNR民族之声",
-        "subtitle": "China",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://live.fanmingming.com/radio/cnr民族之声.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ngcdn009.cnr.cn/live/mzzs/index.m3u8"
-      }
-    ]
-  },
+  },  
+  
   {
     "name": "CRI轻松调频",
     "coordinates": {
