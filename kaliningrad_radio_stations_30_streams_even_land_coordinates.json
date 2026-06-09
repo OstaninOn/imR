@@ -211,7 +211,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=silver.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://213.59.4.27:8000/silver128.mp3"
+        "streamURL": "https://stream.mediakit.ru:8080/39_silverrain_128mp3"
       }
     ]
   },
@@ -283,7 +283,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiozvezda.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://89.208.99.16:8088/zvezda_96"
+        "streamURL": "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128"
       }
     ]
   },
@@ -319,7 +319,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rusradio.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://78.40.216.228:8000/RusKray128kb"
+        "streamURL": "https://radiokrug.ru/radio/ruskray/icecast.audio"
       }
     ]
   },
@@ -445,7 +445,7 @@
         "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=smotrim.ru",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://icecast-vestikaliningrad.cdnvideo.ru/RR"
+        "streamURL": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
       }
     ]
   },
