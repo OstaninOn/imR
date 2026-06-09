@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Радио Шансон Калининград 72.1 УКВ",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.445
+    },
+    "radioStations": [
+      {
+        "title": "Радио Шансон Калининград 72.1 УКВ",
+        "subtitle": "Калининград · 72.1 УКВ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radioshanson.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио Sputnik Калининград 87.7 FM",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.456
+    },
+    "radioStations": [
+      {
+        "title": "Радио Sputnik Калининград 87.7 FM",
+        "subtitle": "Калининград · 87.7 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiosputnik.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast-rian.cdnvideo.ru/voicerushi"
+      }
+    ]
+  },
+  {
+    "name": "Радио Орфей Калининград 88.8 FM",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.467
+    },
+    "radioStations": [
+      {
+        "title": "Радио Орфей Калининград 88.8 FM",
+        "subtitle": "Калининград · 88.8 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=orpheusradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио Родных Дорог Калининград 89.6 FM",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.478
+    },
+    "radioStations": [
+      {
+        "title": "Радио Родных Дорог Калининград 89.6 FM",
+        "subtitle": "Калининград · 89.6 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiord.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.radiord.ru:8000/live96.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Новое Радио Калининград 91.7 FM",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.489
+    },
+    "radioStations": [
+      {
+        "title": "Новое Радио Калининград 91.7 FM",
+        "subtitle": "Калининград · 91.7 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=newradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-newradio.cdnvideo.ru/newradio3"
+      }
+    ]
+  },
+  {
+    "name": "DFM Калининград 92.8 FM",
+    "coordinates": {
+      "lat": 54.73,
+      "lon": 20.5
+    },
+    "radioStations": [
+      {
+        "title": "DFM Калининград 92.8 FM",
+        "subtitle": "Калининград · 92.8 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dfm.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dfm.hostingradio.ru/dfm96.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Радио 7 Калининград 93.6 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.445
+    },
+    "radioStations": [
+      {
+        "title": "Радио 7 Калининград 93.6 FM",
+        "subtitle": "Калининград · 93.6 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radio7.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio7.hostingradio.ru:8040/radio7128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Comedy Radio Калининград 94.0 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.456
+    },
+    "radioStations": [
+      {
+        "title": "Comedy Radio Калининград 94.0 FM",
+        "subtitle": "Калининград · 94.0 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=comedy-radio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://pub0302.101.ru:8000/stream/air/aac/64/202"
+      }
+    ]
+  },
+  {
+    "name": "Вести ФМ Калининград 95.1 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.467
+    },
+    "radioStations": [
+      {
+        "title": "Вести ФМ Калининград 95.1 FM",
+        "subtitle": "Калининград · 95.1 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiovesti.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
+      }
+    ]
+  },
+  {
+    "name": "Ретро FM Калининград 95.5 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.478
+    },
+    "radioStations": [
+      {
+        "title": "Ретро FM Калининград 95.5 FM",
+        "subtitle": "Калининград · 95.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=retrofm.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://retro.hostingradio.ru:8043/retro256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Русское Радио Калининград 96.3 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.489
+    },
+    "radioStations": [
+      {
+        "title": "Русское Радио Калининград 96.3 FM",
+        "subtitle": "Калининград · 96.3 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rusradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rusradio.hostingradio.ru/rusradio96.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Серебряный Дождь Калининград 97.7 FM",
+    "coordinates": {
+      "lat": 54.7363,
+      "lon": 20.5
+    },
+    "radioStations": [
+      {
+        "title": "Серебряный Дождь Калининград 97.7 FM",
+        "subtitle": "Калининград · 97.7 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=silver.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://213.59.4.27:8000/silver128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ПИ FM Калининград 98.1 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.445
+    },
+    "radioStations": [
+      {
+        "title": "ПИ FM Калининград 98.1 FM",
+        "subtitle": "Калининград · 98.1 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=pifm.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.pifm.ru/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио ENERGY Калининград 98.5 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.456
+    },
+    "radioStations": [
+      {
+        "title": "Радио ENERGY Калининград 98.5 FM",
+        "subtitle": "Калининград · 98.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=energyfm.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://pub0302.101.ru:8443/stream/air/aac/64/99"
+      }
+    ]
+  },
+  {
+    "name": "Радио Гордость Калининград 98.9 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.467
+    },
+    "radioStations": [
+      {
+        "title": "Радио Гордость Калининград 98.9 FM",
+        "subtitle": "Калининград · 98.9 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=xn--80agcbs0bbbkgnm4k.xn--p1ai",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radio-gordost.ru/rgordost64.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Радио ЗВЕЗДА Калининград 99.5 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.478
+    },
+    "radioStations": [
+      {
+        "title": "Радио ЗВЕЗДА Калининград 99.5 FM",
+        "subtitle": "Калининград · 99.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiozvezda.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.208.99.16:8088/zvezda_96"
+      }
+    ]
+  },
+  {
+    "name": "Авторадио Калининград 100.1 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.489
+    },
+    "radioStations": [
+      {
+        "title": "Авторадио Калининград 100.1 FM",
+        "subtitle": "Калининград · 100.1 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=avtoradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ic7.101.ru:8000/s2"
+      }
+    ]
+  },
+  {
+    "name": "Радио Русский Край Калининград 100.5 FM",
+    "coordinates": {
+      "lat": 54.7426,
+      "lon": 20.5
+    },
+    "radioStations": [
+      {
+        "title": "Радио Русский Край Калининград 100.5 FM",
+        "subtitle": "Калининград · 100.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=rusradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://78.40.216.228:8000/RusKray128kb"
+      }
+    ]
+  },
+  {
+    "name": "Радио Монте-Карло Калининград 100.9 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.445
+    },
+    "radioStations": [
+      {
+        "title": "Радио Монте-Карло Калининград 100.9 FM",
+        "subtitle": "Калининград · 100.9 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=montecarlo.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+      }
+    ]
+  },
+  {
+    "name": "НАШЕ Радио Калининград 101.3 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.456
+    },
+    "radioStations": [
+      {
+        "title": "НАШЕ Радио Калининград 101.3 FM",
+        "subtitle": "Калининград · 101.3 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=nashe.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nashe1.hostingradio.ru/nashe-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Business FM Калининград 101.8 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.467
+    },
+    "radioStations": [
+      {
+        "title": "Business FM Калининград 101.8 FM",
+        "subtitle": "Калининград · 101.8 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=bfm.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bfm.hostingradio.ru:8004/fm"
+      }
+    ]
+  },
+  {
+    "name": "Радио Маяк Калининград 102.5 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.478
+    },
+    "radioStations": [
+      {
+        "title": "Радио Маяк Калининград 102.5 FM",
+        "subtitle": "Калининград · 102.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiomayak.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
+      }
+    ]
+  },
+  {
+    "name": "Love Radio Калининград 102.9 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.489
+    },
+    "radioStations": [
+      {
+        "title": "Love Radio Калининград 102.9 FM",
+        "subtitle": "Калининград · 102.9 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=loveradio.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.loveradio.ru:8000/love256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "STUDIO 21 Калининград 103.4 FM",
+    "coordinates": {
+      "lat": 54.7489,
+      "lon": 20.5
+    },
+    "radioStations": [
+      {
+        "title": "STUDIO 21 Калининград 103.4 FM",
+        "subtitle": "Калининград · 103.4 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=studio21.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast-studio21.cdnvideo.ru/S21_1"
+      }
+    ]
+  },
+  {
+    "name": "Радио России Калининград 103.9 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.445
+    },
+    "radioStations": [
+      {
+        "title": "Радио России Калининград 103.9 FM",
+        "subtitle": "Калининград · 103.9 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=smotrim.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast-vestikaliningrad.cdnvideo.ru/RR"
+      }
+    ]
+  },
+  {
+    "name": "Европа Плюс Калининград 104.5 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.456
+    },
+    "radioStations": [
+      {
+        "title": "Европа Плюс Калининград 104.5 FM",
+        "subtitle": "Калининград · 104.5 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=europaplus.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ep256.hostingradio.ru:8052/europaplus256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио Балтик Плюс Калининград 105.2 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.467
+    },
+    "radioStations": [
+      {
+        "title": "Радио Балтик Плюс Калининград 105.2 FM",
+        "subtitle": "Калининград · 105.2 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=balticplus.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Дорожное радио Калининград 105.9 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.478
+    },
+    "radioStations": [
+      {
+        "title": "Дорожное радио Калининград 105.9 FM",
+        "subtitle": "Калининград · 105.9 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=dorognoe.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dorognoe.hostingradio.ru:8000/radio"
+      }
+    ]
+  },
+  {
+    "name": "Радио MAXIMUM Калининград 106.4 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.489
+    },
+    "radioStations": [
+      {
+        "title": "Радио MAXIMUM Калининград 106.4 FM",
+        "subtitle": "Калининград · 106.4 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=maximum.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://maximum.hostingradio.ru/maximum96.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Радио Комсомольская Правда Калининград 107.2 FM",
+    "coordinates": {
+      "lat": 54.7552,
+      "lon": 20.5
+    },
+    "radioStations": [
+      {
+        "title": "Радио Комсомольская Правда Калининград 107.2 FM",
+        "subtitle": "Калининград · 107.2 FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/s2/favicons?sz=128&domain=radiokp.ru",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3"
+      }
+    ]
+  }
+]
