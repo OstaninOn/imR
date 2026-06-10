@@ -1,0 +1,902 @@
+[
+  {
+    "name": "MyHits",
+    "coordinates": {
+      "lat": 59.43696,
+      "lon": 24.75353
+    },
+    "radioStations": [
+      {
+        "title": "MyHits",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://myhits.pleier.ee/favicons/myhits/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le05.euddn.net/571bc7e6e3dea1dcb2bad2c223b7fc4535a649e3e7a6957d9ad2b790abf78a108844f4e65d9fb3f25be9f0d3c962a3c717d339e9eec97ed7b60e26de4b5fbea17df38e25e79a74d24e4a53604c15a75b7cbedf3479ccbb76cf319e98b9090e81f49b0a5eddf67796c75ee835e34df178c27d359a6db29b280c18177d792340d856dabf2fd1558d8dc5bcf6f9dacc7f06a74d49ef1b15abdb5f51312c59913b4d44ab1b569028aed853b51114acb443a6/myhits.aac"
+      }
+    ]
+  },
+  {
+    "name": "Raadio KUKU",
+    "coordinates": {
+      "lat": 58.38062,
+      "lon": 26.72509
+    },
+    "radioStations": [
+      {
+        "title": "Raadio KUKU",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kuku.pleier.ee/favicons/kuku/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le08.euddn.net/9f90862fb9d2787afa20eaa7b1d6762143442790aa807e96fd2a9ef7398e1653d7f21bd2959d52047d03e1324a71d9316e58d02d280bf92b0ecaf6b55664f093b6060823916c0dcae3adf5b64ea998263f211dc125d07d95f82a337c3432d16b6c499f9ab818e7a56f4fe397d87ce6ff733d5b212a9570f1df9eeed94d6db680510e2f39577ed285ff769fa7c8786ebc4588ee75b562644469dbc72b108fbb979a599107b89b05b331e39bc9ea0b8273/kuku_low.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Elmar",
+    "coordinates": {
+      "lat": 59.37722,
+      "lon": 28.19028
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Elmar",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le06.euddn.net/06c6e9fec40c66f08e914c03863f9414453544f91420595482312a9fc4000bf6d1f2e38af14516a218d89b5a897a16f9500a64a80ed0da449f729d7f78de8bc5dcd07fb3a5925334697756f363102f773f78583b0e9c83bec1004f9b69bd211a11d59a39d295ac79d1f8c9848c83f83ffe16c9a65cb41f122ddcdc8c974c35a5f8d85b07cbd33b90325ddfd49b6a3e5666c05d27f019b6f1128741421b3d1e84/elmar.aac"
+      }
+    ]
+  },
+  {
+    "name": "Võmba FM",
+    "coordinates": {
+      "lat": 58.38588,
+      "lon": 24.49711
+    },
+    "radioStations": [
+      {
+        "title": "Võmba FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c4.radioboss.fm:18123/stream"
+      }
+    ]
+  },
+  {
+    "name": "Retro FM Estonia",
+    "coordinates": {
+      "lat": 59.37757,
+      "lon": 24.68587
+    },
+    "radioStations": [
+      {
+        "title": "Retro FM Estonia",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sky.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Relax FM",
+    "coordinates": {
+      "lat": 59.39861,
+      "lon": 27.27306
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Relax FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.relaxfm.ee/relax"
+      }
+    ]
+  },
+  {
+    "name": "Sky Plus",
+    "coordinates": {
+      "lat": 58.36319,
+      "lon": 25.59159
+    },
+    "radioStations": [
+      {
+        "title": "Sky Plus",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sky.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://skymedia-live.bitflip.ee/SKYPLUS"
+      }
+    ]
+  },
+  {
+    "name": "Star FM",
+    "coordinates": {
+      "lat": 59.46529,
+      "lon": 24.98215
+    },
+    "radioStations": [
+      {
+        "title": "Star FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.instant.audio/images/logos/raadiod-com/star-fm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.leviracloud.eu/star320-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock FM",
+    "coordinates": {
+      "lat": 59.34808,
+      "lon": 26.35784
+    },
+    "radioStations": [
+      {
+        "title": "Rock FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sky.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186"
+      }
+    ]
+  },
+  {
+    "name": "Relax cafe",
+    "coordinates": {
+      "lat": 58.25382,
+      "lon": 22.49217
+    },
+    "radioStations": [
+      {
+        "title": "Relax cafe",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.relaxfm.ee/cafe"
+      }
+    ]
+  },
+  {
+    "name": "Sky Plus DnB",
+    "coordinates": {
+      "lat": 59.39697,
+      "lon": 27.76331
+    },
+    "radioStations": [
+      {
+        "title": "Sky Plus DnB",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sky.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
+      }
+    ]
+  },
+  {
+    "name": "FinEst Radio",
+    "coordinates": {
+      "lat": 57.83389,
+      "lon": 27.01944
+    },
+    "radioStations": [
+      {
+        "title": "FinEst Radio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://finestfm.fi/upload/623c699818c312.68089185.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://shoutcast.finestfm.fi/stream/1/:80/;stream"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Relax International",
+    "coordinates": {
+      "lat": 58.47889,
+      "lon": 24.82417
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Relax International",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.relaxfm.ee/international"
+      }
+    ]
+  },
+  {
+    "name": "NRJ",
+    "coordinates": {
+      "lat": 58.93937,
+      "lon": 23.54127
+    },
+    "radioStations": [
+      {
+        "title": "NRJ",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://site.prelive.sky.ee/sites/default/files/2021-08/nrj.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb"
+      }
+    ]
+  },
+  {
+    "name": "Star FM Eesti",
+    "coordinates": {
+      "lat": 57.77781,
+      "lon": 26.0473
+    },
+    "radioStations": [
+      {
+        "title": "Star FM Eesti",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.leviracloud.eu/starFMEesti96-aac"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Eurovision",
+    "coordinates": {
+      "lat": 59.35917,
+      "lon": 27.42111
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Eurovision",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.skymedia.ee/live/KissEurovisioon"
+      }
+    ]
+  },
+  {
+    "name": "Elmari tantsuõhtu 24/7",
+    "coordinates": {
+      "lat": 59.30361,
+      "lon": 24.41306
+    },
+    "radioStations": [
+      {
+        "title": "Elmari tantsuõhtu 24/7",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac"
+      }
+    ]
+  },
+  {
+    "name": "Duo GreatestHits (Estonia)",
+    "coordinates": {
+      "lat": 58.88768,
+      "lon": 25.54042
+    },
+    "radioStations": [
+      {
+        "title": "Duo GreatestHits (Estonia)",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pleier.ee/favicons/pleier/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le05.euddn.net/7645bcdfabdc43b61734d3ee52ccd371dca16916ba069981f225cda718e1af94108f0f5193eb727fb5b60c12fb5b27a1ddacaf27ff4da84559347b7f1b888bc79362fb99619ff449190cf9c34fb67afa158fa59d8456788050f76821853d1529ea8abbb616ad55ab63f49cda88ec1e626836880b6e5a3b33924c43a11e873ea0c662c85cab4afce94edf474c1e66819b777fd588cd8ed718ab2954c3688e31a19a082c050b71e902958b4134ddc5fe93/hitmix.aac"
+      }
+    ]
+  },
+  {
+    "name": "Estonian Party Radio",
+    "coordinates": {
+      "lat": 59.44389,
+      "lon": 25.44139
+    },
+    "radioStations": [
+      {
+        "title": "Estonian Party Radio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.instant.audio/images/brand/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://maggie.torontocast.com:8110/stream"
+      }
+    ]
+  },
+  {
+    "name": "Duo Gold (Estonia)",
+    "coordinates": {
+      "lat": 58.74667,
+      "lon": 26.39389
+    },
+    "radioStations": [
+      {
+        "title": "Duo Gold (Estonia)",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pleier.ee/favicons/pleier/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac"
+      }
+    ]
+  },
+  {
+    "name": "Tre Raadio Ring FM",
+    "coordinates": {
+      "lat": 59.37528,
+      "lon": 24.71806
+    },
+    "radioStations": [
+      {
+        "title": "Tre Raadio Ring FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ringfm.treraadio.ee/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.treraadio.ee/ringfm"
+      }
+    ]
+  },
+  {
+    "name": "Power Hit Radio",
+    "coordinates": {
+      "lat": 59.32258,
+      "lon": 24.54967
+    },
+    "radioStations": [
+      {
+        "title": "Power Hit Radio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://power.tv3.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.leviracloud.eu/phr96-aac?"
+      }
+    ]
+  },
+  {
+    "name": "Duo Party",
+    "coordinates": {
+      "lat": 58.2225,
+      "lon": 26.42111
+    },
+    "radioStations": [
+      {
+        "title": "Duo Party",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://f302.pmo.ee/L3qQOIrm8IQjKoZDAoI7ouLHfe8=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2024/03/duoparty-ruut.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le06.euddn.net/279bb1630f135084caa1ff583ca3033a5af28635cd98c5054a0fa7c91d1158b29ddd2089f845c9a2cbffc0490e8dd2fc22e20f561ca25b616e663652a55374ce5dc45b1a5aede252bf5e3df5574a261d1657c8f31cd2492f484ee70a1ccfd63c5f5a77195682bf1efcafdd9ff711aa0c243bdfdeedcc8d2a9c1a3a8721597acaa1313ac70837a5a0d415257abb29501f1253b9b029063a9ba2ef175e8c8f26935285961fd373a829ad4ab2607c39b7b9/duodance.aac"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Duo",
+    "coordinates": {
+      "lat": 59.26056,
+      "lon": 25.95861
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Duo",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
+      }
+    ]
+  },
+  {
+    "name": "Relax FM Eesti",
+    "coordinates": {
+      "lat": 59.35083,
+      "lon": 24.61418
+    },
+    "radioStations": [
+      {
+        "title": "Relax FM Eesti",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://site.prelive.sky.ee/sites/default/files/2023-11/relax_fm.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.relaxfm.ee/relax"
+      }
+    ]
+  },
+  {
+    "name": "Duo Country",
+    "coordinates": {
+      "lat": 59.36639,
+      "lon": 25.18306
+    },
+    "radioStations": [
+      {
+        "title": "Duo Country",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le09.euddn.net/65895ff446f29baa300ade8193108aba74bb58b20e601f6b2ee7c69e00c05c4d71571b9c9ea55367e98560428822c3980c0faabd92a4814bd275d4db32c303ca851c6587f68911c558f37da588cbaf7d85036ef69835aa238f7fd2f6501a11e917587a91b84d7e6aed47a24f2f4b5762498333850d66807634761a659b4255694b560f43726fef9e155211b637abe18ae73621a8c4b1bf88bfb8ceddff5db8f5a4548c4e1236665f0075344977f89821beb81151b1586a41f801c8cf4f377b0d/dc_duocountry.aac"
+      }
+    ]
+  },
+  {
+    "name": "Retro Love",
+    "coordinates": {
+      "lat": 59.00759,
+      "lon": 24.79386
+    },
+    "radioStations": [
+      {
+        "title": "Retro Love",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Kadi",
+    "coordinates": {
+      "lat": 58.06028,
+      "lon": 27.06944
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Kadi",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge06.cdn.bitflip.ee:8888/kadi"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 58.80861,
+      "lon": 25.4325
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Äripäeva Raadio",
+    "coordinates": {
+      "lat": 59.42127,
+      "lon": 27.50807
+    },
+    "radioStations": [
+      {
+        "title": "Äripäeva Raadio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.aripaev.ee/favicons/aripaev/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.aripaev.ee/raadio/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sky-Radio",
+    "coordinates": {
+      "lat": 59.35306,
+      "lon": 26.97111
+    },
+    "radioStations": [
+      {
+        "title": "Sky-Radio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.skymedia.ee/live/SKY"
+      }
+    ]
+  },
+  {
+    "name": "Ring FM",
+    "coordinates": {
+      "lat": 59.30354,
+      "lon": 24.66382
+    },
+    "radioStations": [
+      {
+        "title": "Ring FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://treraadio.ee/img/landing/ringfm-logo-active.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cdn.treraadio.ee/tartustuudio"
+      }
+    ]
+  },
+  {
+    "name": "Duo Rock",
+    "coordinates": {
+      "lat": 59.48333,
+      "lon": 26.53333
+    },
+    "radioStations": [
+      {
+        "title": "Duo Rock",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://f302.pmo.ee/9fiNHF2zDHnAOorNiKg4V0He9XM=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/07/duo-rock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://le08.euddn.net/fe9f39555c5d7604eca568a5fe3171dd3b7cb629b4f775dcf08dde1307ae0e542131378493063be6a955dd5275dbc92e4553156600ae5fa51b6fbdffd0e130399765e13e32b6a1a1a8608bc737b15c47bd148a08010ca5fc522d80c578de4f64b4b80232c090247732ba0a2926ac10c71900ee104c5f984743b159774528f4c077d822d54f7486295a454209c864a7467325995c339a8e02231c3232af47d7906f4e11415b32123cbcebdc2e6ea2d76e/rokk.aac"
+      }
+    ]
+  },
+  {
+    "name": "Pereraadio Kuressaare",
+    "coordinates": {
+      "lat": 58.6525,
+      "lon": 25.97056
+    },
+    "radioStations": [
+      {
+        "title": "Pereraadio Kuressaare",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.pereraadio.ee:8000/Kuressaare"
+      }
+    ]
+  },
+  {
+    "name": "Raadio Kidzone",
+    "coordinates": {
+      "lat": 58.40056,
+      "lon": 24.6675
+    },
+    "radioStations": [
+      {
+        "title": "Raadio Kidzone",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://f302.pmo.ee/XCwVL9vwguHbm8jFYYsRXolq8Xg=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/12/raadio-kidzone-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Pride",
+    "coordinates": {
+      "lat": 59.35667,
+      "lon": 24.05306
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Pride",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.skymedia.ee/live/KissPride"
+      }
+    ]
+  },
+  {
+    "name": "Pereraadio Tartu",
+    "coordinates": {
+      "lat": 59.42607,
+      "lon": 24.5533
+    },
+    "radioStations": [
+      {
+        "title": "Pereraadio Tartu",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.pereraadio.ee:8000/Tartu"
+      }
+    ]
+  },
+  {
+    "name": "Legendaarne Raadio",
+    "coordinates": {
+      "lat": 59.53528,
+      "lon": 24.79972
+    },
+    "radioStations": [
+      {
+        "title": "Legendaarne Raadio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.skymedia.ee/live/Legendaarne"
+      }
+    ]
+  },
+  {
+    "name": "RUUT FM",
+    "coordinates": {
+      "lat": 59.57639,
+      "lon": 25.72139
+    },
+    "radioStations": [
+      {
+        "title": "RUUT FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ruutfm.treraadio.ee/img/logo_valga.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Elmari Kuld",
+    "coordinates": {
+      "lat": 59.16806,
+      "lon": 24.7575
+    },
+    "radioStations": [
+      {
+        "title": "Elmari Kuld",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac"
+      }
+    ]
+  },
+  {
+    "name": "Pereraadio Tallinn",
+    "coordinates": {
+      "lat": 58.87667,
+      "lon": 23.61528
+    },
+    "radioStations": [
+      {
+        "title": "Pereraadio Tallinn",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.pereraadio.ee:8000/Tallinn"
+      }
+    ]
+  },
+  {
+    "name": "Raadio 7",
+    "coordinates": {
+      "lat": 58.99778,
+      "lon": 22.74917
+    },
+    "radioStations": [
+      {
+        "title": "Raadio 7",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge05.cdn.bitflip.ee:8888/R7"
+      }
+    ]
+  },
+  {
+    "name": "NRJ Tallinn",
+    "coordinates": {
+      "lat": 58.90389,
+      "lon": 24.43056
+    },
+    "radioStations": [
+      {
+        "title": "NRJ Tallinn",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge03.cdn.bitflip.ee:8888/NRJ"
+      }
+    ]
+  },
+  {
+    "name": "Sooviraadio",
+    "coordinates": {
+      "lat": 59.33611,
+      "lon": 25.32111
+    },
+    "radioStations": [
+      {
+        "title": "Sooviraadio",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://sooviraadio.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://media.uunox.net:8888/;"
+      }
+    ]
+  },
+  {
+    "name": "Семейное Радио Эли. Тарту 1035 КГц",
+    "coordinates": {
+      "lat": 58.00278,
+      "lon": 25.935
+    },
+    "radioStations": [
+      {
+        "title": "Семейное Радио Эли. Тарту 1035 КГц",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241023_172506548.jpg?alt=media&token=5290b8e9-1f2d-4254-a94c-1efe31cc380c",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.pereraadio.ee:8000/RadioEli"
+      }
+    ]
+  },
+  {
+    "name": "Hitmix Estonia",
+    "coordinates": {
+      "lat": 59.45889,
+      "lon": 28.04083
+    },
+    "radioStations": [
+      {
+        "title": "Hitmix Estonia",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitmix.ee/wp-content/uploads/2020/12/cropped-hitmix-fav-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.hitmix.ee:8443/HIT_320"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM",
+    "coordinates": {
+      "lat": 59.35974,
+      "lon": 24.92099
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sky.ee/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge02.cdn.bitflip.ee:8888/KISS"
+      }
+    ]
+  },
+  {
+    "name": "IDA Raadio - Tallinn",
+    "coordinates": {
+      "lat": 58.64806,
+      "lon": 25.03611
+    },
+    "radioStations": [
+      {
+        "title": "IDA Raadio - Tallinn",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://idaidaida.net/_nuxt/icons/icon_512x512.4be776.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://broadcast.idaidaida.net:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "IDA",
+    "coordinates": {
+      "lat": 59.33472,
+      "lon": 26.145
+    },
+    "radioStations": [
+      {
+        "title": "IDA",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://broadcast.idaidaida.net:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nostalgia",
+    "coordinates": {
+      "lat": 59.46001,
+      "lon": 24.87824
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nostalgia",
+        "subtitle": "Estonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://optim.tildacdn.net/tild3738-6439-4433-a336-616635313861/-/resize/760x/-/format/webp/_-removebg-preview.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c16.radioboss.fm:8327/stream"
+      }
+    ]
+  }
+]
