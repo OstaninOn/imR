@@ -349,7 +349,8 @@
     {
       "name": "Estonia",
       "name_ru": "Эстония",
-      "flag": "https://flagcdn.com/w320/ee.png"
+      "flag": "https://flagcdn.com/w320/ee.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/estonia_radio_stations_64_big_to_small_cities.json"
     },
     {
       "name": "Eswatini",
