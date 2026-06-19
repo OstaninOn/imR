@@ -414,24 +414,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 40.68333,
-      "lon": 19.61944
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Albania",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Pendimi Kanali 2",
     "coordinates": {
