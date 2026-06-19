@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Best Pro Electronic",
+    "coordinates": {
+      "lat": 41.32744,
+      "lon": 19.81866
+    },
+    "radioStations": [
+      {
+        "title": "Best Pro Electronic",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bestproradio.com/wp-content/uploads/2021/05/cropped-bpr-bmp-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az1.sednastream.com/radio/8150/Live?1582297952"
+      }
+    ]
+  },
+  {
+    "name": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
+    "coordinates": {
+      "lat": 41.32355,
+      "lon": 19.45469
+    },
+    "radioStations": [
+      {
+        "title": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.exafm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Shqip - Tirana 92.0 MHz",
+    "coordinates": {
+      "lat": 40.4696,
+      "lon": 19.48379
+    },
+    "radioStations": [
+      {
+        "title": "Radio Shqip - Tirana 92.0 MHz",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://shqipfm.al/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "RadioOne",
+    "coordinates": {
+      "lat": 41.11138,
+      "lon": 20.08224
+    },
+    "radioStations": [
+      {
+        "title": "RadioOne",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "My Music Radio - Tirana 97.3 FM",
+    "coordinates": {
+      "lat": 42.06828,
+      "lon": 19.51258
+    },
+    "radioStations": [
+      {
+        "title": "My Music Radio - Tirana 97.3 FM",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.top-media.al/mmr"
+      }
+    ]
+  },
+  {
+    "name": "Radio One - Tirana 95.2 FM",
+    "coordinates": {
+      "lat": 40.94194,
+      "lon": 19.705
+    },
+    "radioStations": [
+      {
+        "title": "Radio One - Tirana 95.2 FM",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Top Albanian Radio",
+    "coordinates": {
+      "lat": 40.70583,
+      "lon": 19.95222
+    },
+    "radioStations": [
+      {
+        "title": "Top Albanian Radio",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.top-media.al/tar"
+      }
+    ]
+  },
+  {
+    "name": "Radio Tirana 1",
+    "coordinates": {
+      "lat": 40.71667,
+      "lon": 19.56667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tirana 1",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsh-radio.s3.eu-central-1.amazonaws.com/2020/11/12cc0403e4c6491b8ab4b6f6f8c18426.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://79.106.48.2:8000/radiotirana1"
+      }
+    ]
+  },
+  {
+    "name": "Phish Radio",
+    "coordinates": {
+      "lat": 40.61861,
+      "lon": 20.78083
+    },
+    "radioStations": [
+      {
+        "title": "Phish Radio",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jempradio.com/wp-content/uploads/2022/01/cropped-favicon3-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.radio.co/sd71de59b3/listen"
+      }
+    ]
+  },
+  {
+    "name": "MCN Radio - Tirana 103.1 FM",
+    "coordinates": {
+      "lat": 40.7251,
+      "lon": 19.55823
+    },
+    "radioStations": [
+      {
+        "title": "MCN Radio - Tirana 103.1 FM",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://mcnradio.al/wp-content/uploads/2016/10/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://46.183.121.48:8000/mcn"
+      }
+    ]
+  },
+  {
+    "name": "Chill Radio",
+    "coordinates": {
+      "lat": 41.50917,
+      "lon": 19.79278
+    },
+    "radioStations": [
+      {
+        "title": "Chill Radio",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu8.fastcast4u.com/proxy/chillradio?mp=/1"
+      }
+    ]
+  },
+  {
+    "name": "chili moje",
+    "coordinates": {
+      "lat": 40.9025,
+      "lon": 20.6525
+    },
+    "radioStations": [
+      {
+        "title": "chili moje",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media-ssl.musicradio.com/ChillMP3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Aksa",
+    "coordinates": {
+      "lat": 42.07694,
+      "lon": 20.42194
+    },
+    "radioStations": [
+      {
+        "title": "Radio Aksa",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://xatimg.com/image/95tgu6U2Wgkp.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://fire.doscast.com:8064/stream"
+      }
+    ]
+  },
+  {
+    "name": "RTSH Radio Tirana International",
+    "coordinates": {
+      "lat": 40.80028,
+      "lon": 19.91667
+    },
+    "radioStations": [
+      {
+        "title": "RTSH Radio Tirana International",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static-media.streema.com/media/cache/5f/2f/5f2f19e9ec58297d250593785d6db54d.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://79.106.48.2:8000/rti"
+      }
+    ]
+  },
+  {
+    "name": "CLUB FM",
+    "coordinates": {
+      "lat": 41.18556,
+      "lon": 19.55694
+    },
+    "radioStations": [
+      {
+        "title": "CLUB FM",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubfm.al/wp-content/uploads/2022/01/Logo-Club-FM-768x432.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Saranda",
+    "coordinates": {
+      "lat": 41.49167,
+      "lon": 20.22194
+    },
+    "radioStations": [
+      {
+        "title": "Radio Saranda",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.saranda.love/wp-content/uploads/2024/12/cropped-radiosaranda-icon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s64.radiolize.com/radio/8050/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sophie Caffe Radio",
+    "coordinates": {
+      "lat": 40.07583,
+      "lon": 20.13889
+    },
+    "radioStations": [
+      {
+        "title": "Sophie Caffe Radio",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.sophiecafferadio.live/sophie_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sophiecafferadio.live/sophie.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Logos",
+    "coordinates": {
+      "lat": 41.17944,
+      "lon": 20.315
+    },
+    "radioStations": [
+      {
+        "title": "Radio Logos",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiologos.al/wp-content/uploads/2018/02/rl-logos-player-170x170.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.stationplaylist.com:9280/listen.aac"
+      }
+    ]
+  },
+  {
+    "name": "Albania News 24 TV",
+    "coordinates": {
+      "lat": 40.64278,
+      "lon": 19.65083
+    },
+    "radioStations": [
+      {
+        "title": "Albania News 24 TV",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.balkanweb.com/icon//apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA ALBANIA",
+    "coordinates": {
+      "lat": 39.87534,
+      "lon": 20.00477
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA ALBANIA",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp2.com:8028/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio plus 102.2 FM",
+    "coordinates": {
+      "lat": 41.32278,
+      "lon": 19.51028
+    },
+    "radioStations": [
+      {
+        "title": "Radio plus 102.2 FM",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplus.fm/Theme/Air/assets/img/radioplus.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      }
+    ]
+  },
+  {
+    "name": "إذاعة القرآن الكريم",
+    "coordinates": {
+      "lat": 41.78361,
+      "lon": 19.64361
+    },
+    "radioStations": [
+      {
+        "title": "إذاعة القرآن الكريم",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      }
+    ]
+  },
+  {
+    "name": "Club FM Kosova",
+    "coordinates": {
+      "lat": 41.47833,
+      "lon": 19.71778
+    },
+    "radioStations": [
+      {
+        "title": "Club FM Kosova",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubfm.al/wp-content/uploads/2022/01/Kosove-768x432.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "test",
+    "coordinates": {
+      "lat": 41.04611,
+      "lon": 19.75111
+    },
+    "radioStations": [
+      {
+        "title": "test",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream-uk1.radioparadise.com/aac-320"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 40.68333,
+      "lon": 19.61944
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pendimi Kanali 2",
+    "coordinates": {
+      "lat": 41.685,
+      "lon": 20.42858
+    },
+    "radioStations": [
+      {
+        "title": "Pendimi Kanali 2",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvpendimi.com/wp-content/uploads/2025/01/cropped-RTV-Pendimi-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.rtvpendimi.com:8020/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Club FM - Tirana 100.4 MHz",
+    "coordinates": {
+      "lat": 41.03167,
+      "lon": 19.97583
+    },
+    "radioStations": [
+      {
+        "title": "Radio Club FM - Tirana 100.4 MHz",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "sasaram",
+    "coordinates": {
+      "lat": 41.34556,
+      "lon": 19.56722
+    },
+    "radioStations": [
+      {
+        "title": "sasaram",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "اذاعة القرآن الكريم",
+    "coordinates": {
+      "lat": 41.38056,
+      "lon": 19.53778
+    },
+    "radioStations": [
+      {
+        "title": "اذاعة القرآن الكريم",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+      }
+    ]
+  },
+  {
+    "name": "ipda cañete",
+    "coordinates": {
+      "lat": 41.63556,
+      "lon": 19.71306
+    },
+    "radioStations": [
+      {
+        "title": "ipda cañete",
+        "subtitle": "Albania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.gisslive.com:8254/stream"
+      }
+    ]
+  }
+]
