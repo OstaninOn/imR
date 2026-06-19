@@ -11,7 +11,7 @@
       "name": "Albania",
       "name_ru": "Албания",
       "flag": "https://flagcdn.com/w320/al.png",
-      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/albania_radio.json"
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/albania_radio_stations_30_big_to_small_cities.json"
     },
     {
       "name": "Algeria",
