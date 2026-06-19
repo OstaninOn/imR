@@ -1,0 +1,5402 @@
+[
+  {
+    "name": "Blues Radio",
+    "coordinates": {
+      "lat": 37.98376,
+      "lon": 23.72784
+    },
+    "radioStations": [
+      {
+        "title": "Blues Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast3.radiohost.ovh:8352/"
+      }
+    ]
+  },
+  {
+    "name": "Sport FM 94.6",
+    "coordinates": {
+      "lat": 40.64072,
+      "lon": 22.93493
+    },
+    "radioStations": [
+      {
+        "title": "Sport FM 94.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.sport-fm.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/sportfm7712"
+      }
+    ]
+  },
+  {
+    "name": "KISS FM 100.6",
+    "coordinates": {
+      "lat": 38.2462,
+      "lon": 21.73508
+    },
+    "radioStations": [
+      {
+        "title": "KISS FM 100.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiokiss.gr/kissfm1006hq.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Trance Athena",
+    "coordinates": {
+      "lat": 39.62847,
+      "lon": 22.42112
+    },
+    "radioStations": [
+      {
+        "title": "Trance Athena",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast.streams.ovh:8008/stream"
+      }
+    ]
+  },
+  {
+    "name": "Real FM 97.8",
+    "coordinates": {
+      "lat": 35.32787,
+      "lon": 25.14341
+    },
+    "radioStations": [
+      {
+        "title": "Real FM 97.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.real.gr/wp-content/uploads/2025/02/realgr-icon-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/realfm"
+      }
+    ]
+  },
+  {
+    "name": "Kiss 92.9",
+    "coordinates": {
+      "lat": 39.66341,
+      "lon": 20.85187
+    },
+    "radioStations": [
+      {
+        "title": "Kiss 92.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kiss929.gr/sites/default/files/kiss.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/kissfmathens"
+      }
+    ]
+  },
+  {
+    "name": "Skai 100.3",
+    "coordinates": {
+      "lat": 38.89947,
+      "lon": 22.4335
+    },
+    "radioStations": [
+      {
+        "title": "Skai 100.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/skai1003"
+      }
+    ]
+  },
+  {
+    "name": "Zeppelin 106.7",
+    "coordinates": {
+      "lat": 41.11758,
+      "lon": 25.40587
+    },
+    "radioStations": [
+      {
+        "title": "Zeppelin 106.7",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-zeppelin"
+      }
+    ]
+  },
+  {
+    "name": "Sfera 102.2",
+    "coordinates": {
+      "lat": 39.62441,
+      "lon": 19.92016
+    },
+    "radioStations": [
+      {
+        "title": "Sfera 102.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sfera.live24.gr/sfera4132"
+      }
+    ]
+  },
+  {
+    "name": "Παραπολιτικά FM 90.1",
+    "coordinates": {
+      "lat": 40.29931,
+      "lon": 21.78984
+    },
+    "radioStations": [
+      {
+        "title": "Παραπολιτικά FM 90.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.parapolitikaradio.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/athinaradio"
+      }
+    ]
+  },
+  {
+    "name": "Ellinikos 93.2",
+    "coordinates": {
+      "lat": 39.10772,
+      "lon": 26.55529
+    },
+    "radioStations": [
+      {
+        "title": "Ellinikos 93.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.ellinikos932.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/orange9320"
+      }
+    ]
+  },
+  {
+    "name": "Psyndora Psytrance",
+    "coordinates": {
+      "lat": 37.50959,
+      "lon": 22.37883
+    },
+    "radioStations": [
+      {
+        "title": "Psyndora Psytrance",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.psyndora.com/images/favicon-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast.magicstreams.gr:9111/stream"
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Radio Smooth Flavors",
+    "coordinates": {
+      "lat": 37.44466,
+      "lon": 24.9429
+    },
+    "radioStations": [
+      {
+        "title": "Vanilla Radio Smooth Flavors",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vanillaradio.com/wp-content/uploads/2016/06/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://smooth.vanillaradio.com:8032/live"
+      }
+    ]
+  },
+  {
+    "name": "Derti 98.6",
+    "coordinates": {
+      "lat": 40.25715,
+      "lon": 24.24498
+    },
+    "radioStations": [
+      {
+        "title": "Derti 98.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://derti.live24.gr/derty1000"
+      }
+    ]
+  },
+  {
+    "name": "Off Radio - Athens",
+    "coordinates": {
+      "lat": 39.36923,
+      "lon": 22.94769
+    },
+    "radioStations": [
+      {
+        "title": "Off Radio - Athens",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.offradio.gr/wp-content/uploads/2020/09/cropped-site-icon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.yesstreaming.net:7062/stream"
+      }
+    ]
+  },
+  {
+    "name": "Laikos FM",
+    "coordinates": {
+      "lat": 37.97574,
+      "lon": 23.76911
+    },
+    "radioStations": [
+      {
+        "title": "Laikos FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.laikos.gr/templates/bt_medical/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/laikos876"
+      }
+    ]
+  },
+  {
+    "name": "Love Radio 97.5",
+    "coordinates": {
+      "lat": 39.55493,
+      "lon": 21.76837
+    },
+    "radioStations": [
+      {
+        "title": "Love Radio 97.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/loveradio-1000"
+      }
+    ]
+  },
+  {
+    "name": "Galaxy 92",
+    "coordinates": {
+      "lat": 38.46354,
+      "lon": 23.60284
+    },
+    "radioStations": [
+      {
+        "title": "Galaxy 92",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/galaxy9292"
+      }
+    ]
+  },
+  {
+    "name": "ERA Deftero Programma",
+    "coordinates": {
+      "lat": 41.08499,
+      "lon": 23.54757
+    },
+    "radioStations": [
+      {
+        "title": "ERA Deftero Programma",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-deftero"
+      }
+    ]
+  },
+  {
+    "name": "Psyndora Chillout",
+    "coordinates": {
+      "lat": 36.43556,
+      "lon": 28.22199
+    },
+    "radioStations": [
+      {
+        "title": "Psyndora Chillout",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.psyndora.com/images/favicon-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast.magicstreams.gr:9125/stream"
+      }
+    ]
+  },
+  {
+    "name": "Play radio",
+    "coordinates": {
+      "lat": 37.03913,
+      "lon": 22.11265
+    },
+    "radioStations": [
+      {
+        "title": "Play radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8222/"
+      }
+    ]
+  },
+  {
+    "name": "Best 92.6",
+    "coordinates": {
+      "lat": 40.93959,
+      "lon": 24.40687
+    },
+    "radioStations": [
+      {
+        "title": "Best 92.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://best.live24.gr/best1222"
+      }
+    ]
+  },
+  {
+    "name": "ERA Proto Programma",
+    "coordinates": {
+      "lat": 35.51124,
+      "lon": 24.02921
+    },
+    "radioStations": [
+      {
+        "title": "ERA Proto Programma",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-proto"
+      }
+    ]
+  },
+  {
+    "name": "ERA Kosmos",
+    "coordinates": {
+      "lat": 40.26956,
+      "lon": 22.50608
+    },
+    "radioStations": [
+      {
+        "title": "ERA Kosmos",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-kosmos"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Chillout",
+    "coordinates": {
+      "lat": 40.84995,
+      "lon": 25.87644
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Chillout",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/25_Chillout.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fChillout.mp3"
+      }
+    ]
+  },
+  {
+    "name": "REBEL 105.2",
+    "coordinates": {
+      "lat": 41.13488,
+      "lon": 24.888
+    },
+    "radioStations": [
+      {
+        "title": "REBEL 105.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/rebel1052"
+      }
+    ]
+  },
+  {
+    "name": "Rythmos 94.9",
+    "coordinates": {
+      "lat": 41.15283,
+      "lon": 24.1473
+    },
+    "radioStations": [
+      {
+        "title": "Rythmos 94.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/aw1w2xfx1vduv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Meditation",
+    "coordinates": {
+      "lat": 40.52437,
+      "lon": 22.20242
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Meditation",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s187596/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fMeditation.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Metropolis 95.5",
+    "coordinates": {
+      "lat": 39.36485,
+      "lon": 21.92191
+    },
+    "radioStations": [
+      {
+        "title": "Metropolis 95.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://metropolis.live24.gr/metropolis955thess"
+      }
+    ]
+  },
+  {
+    "name": "Easy FM 972",
+    "coordinates": {
+      "lat": 35.36555,
+      "lon": 24.48232
+    },
+    "radioStations": [
+      {
+        "title": "Easy FM 972",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojar.com/cthtwxk5yvduv.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Solo Piano",
+    "coordinates": {
+      "lat": 37.94007,
+      "lon": 22.9513
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Solo Piano",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioart.com/fSolo_piano.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Parapolitika 90.1",
+    "coordinates": {
+      "lat": 38.36875,
+      "lon": 26.13718
+    },
+    "radioStations": [
+      {
+        "title": "Parapolitika 90.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.parapolitika.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/athinaradio"
+      }
+    ]
+  },
+  {
+    "name": "Pepper 96.6",
+    "coordinates": {
+      "lat": 40.99302,
+      "lon": 22.87433
+    },
+    "radioStations": [
+      {
+        "title": "Pepper 96.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.pepper966.gr/wp-content/uploads/2018/06/logo-pepper.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojar.com/pepper"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Relaxing (Violin, Piano & Cello)",
+    "coordinates": {
+      "lat": 37.67513,
+      "lon": 21.44102
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Relaxing (Violin, Piano & Cello)",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fRelaxing.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Disco Net",
+    "coordinates": {
+      "lat": 39.16014,
+      "lon": 20.98561
+    },
+    "radioStations": [
+      {
+        "title": "Disco Net",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.468.gr/8004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rainbow 89",
+    "coordinates": {
+      "lat": 38.43616,
+      "lon": 22.87665
+    },
+    "radioStations": [
+      {
+        "title": "Rainbow 89",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n0e.radiojar.com/083wqknmsuhvv?rj-ttl=5&rj-tok=AAABhHgFMdoAMjpYSw5BtqF9Zg"
+      }
+    ]
+  },
+  {
+    "name": "1055 Rock",
+    "coordinates": {
+      "lat": 40.8026,
+      "lon": 22.04751
+    },
+    "radioStations": [
+      {
+        "title": "1055 Rock",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.1055rock.gr:30000/1055"
+      }
+    ]
+  },
+  {
+    "name": "Σκύλος 90",
+    "coordinates": {
+      "lat": 40.78197,
+      "lon": 21.40981
+    },
+    "radioStations": [
+      {
+        "title": "Σκύλος 90",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n01.radiojar.com/819r8wupdrruv?rj-ttl=5&rj-tok=AAABePEMVGgAGH9g3lsAx7imBA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Piano for Sleep",
+    "coordinates": {
+      "lat": 38.95617,
+      "lon": 20.7505
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Piano for Sleep",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/137_piano_for_s-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fPiano_for_sleep.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ERA Trito Programma",
+    "coordinates": {
+      "lat": 37.07446,
+      "lon": 22.43009
+    },
+    "radioStations": [
+      {
+        "title": "ERA Trito Programma",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-trito"
+      }
+    ]
+  },
+  {
+    "name": "stokokkino",
+    "coordinates": {
+      "lat": 37.56863,
+      "lon": 22.80691
+    },
+    "radioStations": [
+      {
+        "title": "stokokkino",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/kokkino-ath.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock Melodic Radio",
+    "coordinates": {
+      "lat": 40.52165,
+      "lon": 21.26341
+    },
+    "radioStations": [
+      {
+        "title": "Rock Melodic Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://rockmelodic-radio.com/wp-content/uploads/2015/03/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.rockmelodic-radio.com:8124/stream"
+      }
+    ]
+  },
+  {
+    "name": "Athina 984",
+    "coordinates": {
+      "lat": 38.37138,
+      "lon": 21.43151
+    },
+    "radioStations": [
+      {
+        "title": "Athina 984",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://athina984.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://athina984.live24.gr/athina984"
+      }
+    ]
+  },
+  {
+    "name": "VELVET 96.8",
+    "coordinates": {
+      "lat": 37.78022,
+      "lon": 20.89555
+    },
+    "radioStations": [
+      {
+        "title": "VELVET 96.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://velvet968.gr/wp-content/uploads/2021/09/ms-icon-310x310-1-100x100.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s10.voscast.com:9942/;"
+      }
+    ]
+  },
+  {
+    "name": "Χρώμα 102.1",
+    "coordinates": {
+      "lat": 35.19106,
+      "lon": 25.71524
+    },
+    "radioStations": [
+      {
+        "title": "Χρώμα 102.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streams.enjoyfm.gr:48500/xroma.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ρυθμός 89.2",
+    "coordinates": {
+      "lat": 40.08452,
+      "lon": 21.42744
+    },
+    "radioStations": [
+      {
+        "title": "Ρυθμός 89.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/c6d7573c-7187-4b33-8d98-cd336145612b.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8892/stream?type=http&nocache=136101"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Piano & Guitar",
+    "coordinates": {
+      "lat": 40.37704,
+      "lon": 23.44135
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Piano & Guitar",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s154174/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fPiano_and_guitar.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Cuban",
+    "coordinates": {
+      "lat": 38.18109,
+      "lon": 20.48903
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Cuban",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/Cuban_lounge.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fCuban_lounge.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Radio.com - Fresh Flavours Stream",
+    "coordinates": {
+      "lat": 39.50342,
+      "lon": 20.26728
+    },
+    "radioStations": [
+      {
+        "title": "Vanilla Radio.com - Fresh Flavours Stream",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vanillaradio.com/wp-content/uploads/2016/04/vanilla-logo-300x100.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://fresh.vanillaradio.com:8028/live"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΤ Kosmos",
+    "coordinates": {
+      "lat": 38.83036,
+      "lon": 20.70442
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΤ Kosmos",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-kosmos"
+      }
+    ]
+  },
+  {
+    "name": "Cosmoradio 95,1",
+    "coordinates": {
+      "lat": 38.91218,
+      "lon": 21.79836
+    },
+    "radioStations": [
+      {
+        "title": "Cosmoradio 95,1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8689/"
+      }
+    ]
+  },
+  {
+    "name": "Derti 107.7",
+    "coordinates": {
+      "lat": 38.52813,
+      "lon": 22.37713
+    },
+    "radioStations": [
+      {
+        "title": "Derti 107.7",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://2.bp.blogspot.com/-GZD49Iqiy2w/YGOkt5ixQvI/AAAAAAAABCs/mP-S_n-CUOwvlyw7Uzu9oAfpsrxgCDaQwCK4BGAYYCw/s1600/Skandalo%2BWeb%2BRadio2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://i5.streams.ovh:14008/stream?type=http&nocache=100540"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Flamenco",
+    "coordinates": {
+      "lat": 37.75427,
+      "lon": 26.97699
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Flamenco",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fFlamenco.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΑσπορ",
+    "coordinates": {
+      "lat": 41.12863,
+      "lon": 25.32546
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΑσπορ",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-erasport"
+      }
+    ]
+  },
+  {
+    "name": "MENTA 88",
+    "coordinates": {
+      "lat": 37.94203,
+      "lon": 23.64619
+    },
+    "radioStations": [
+      {
+        "title": "MENTA 88",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://menta88.gr/wp-content/uploads/2021/12/-LOGO-02-2021-e1639364215612.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/menta88ath?1699021717"
+      }
+    ]
+  },
+  {
+    "name": "Λαϊκός 87,6",
+    "coordinates": {
+      "lat": 38.01539,
+      "lon": 23.69187
+    },
+    "radioStations": [
+      {
+        "title": "Λαϊκός 87,6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://derti.live24.gr/laikos876"
+      }
+    ]
+  },
+  {
+    "name": "Imagine 897 Thessaloniki,gr",
+    "coordinates": {
+      "lat": 37.95,
+      "lon": 23.7
+    },
+    "radioStations": [
+      {
+        "title": "Imagine 897 Thessaloniki,gr",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.imagine897.gr/images/IMAGINE897.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://imagine897.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΤ Δεύτερο Πρόγραμμα",
+    "coordinates": {
+      "lat": 38.08333,
+      "lon": 23.73333
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΤ Δεύτερο Πρόγραμμα",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-deftero"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Sleep",
+    "coordinates": {
+      "lat": 40.5825,
+      "lon": 22.95028
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Sleep",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s187594/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fSleep.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Music 89.2",
+    "coordinates": {
+      "lat": 37.96667,
+      "lon": 23.65
+    },
+    "radioStations": [
+      {
+        "title": "Music 89.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.music892.gr/assets/icons/MUSIC_LOGO.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/music892"
+      }
+    ]
+  },
+  {
+    "name": "Athens Voice 102.5",
+    "coordinates": {
+      "lat": 37.86289,
+      "lon": 23.75802
+    },
+    "radioStations": [
+      {
+        "title": "Athens Voice 102.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.athensvoice.gr/content/media/favicon/favicon-128.png?k=web-5859bc9555",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/nitro4555"
+      }
+    ]
+  },
+  {
+    "name": "Déftero Laïká",
+    "coordinates": {
+      "lat": 38.03333,
+      "lon": 23.7
+    },
+    "radioStations": [
+      {
+        "title": "Déftero Laïká",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-talaika"
+      }
+    ]
+  },
+  {
+    "name": "7000FM",
+    "coordinates": {
+      "lat": 37.93149,
+      "lon": 23.76779
+    },
+    "radioStations": [
+      {
+        "title": "7000FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://7000fm.gr/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.7000fm.gr/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chillout Tree Pines",
+    "coordinates": {
+      "lat": 37.9625,
+      "lon": 23.61972
+    },
+    "radioStations": [
+      {
+        "title": "Chillout Tree Pines",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUTY4EzBEHHiJzQ"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Jazz for Sleep",
+    "coordinates": {
+      "lat": 40.67056,
+      "lon": 22.90833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Jazz for Sleep",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/131_jazz_for_sl-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fJazz_for_sleep.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Yoga",
+    "coordinates": {
+      "lat": 38.02369,
+      "lon": 23.80068
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Yoga",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fYoga.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hot FM 104.6 Greece",
+    "coordinates": {
+      "lat": 37.94504,
+      "lon": 23.71416
+    },
+    "radioStations": [
+      {
+        "title": "Hot FM 104.6 Greece",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hotfm.live24.gr/hotfm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Folk and Soft Rock",
+    "coordinates": {
+      "lat": 38.05,
+      "lon": 23.8
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Folk and Soft Rock",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fFolk_and_soft_rock.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Δρομοσ 89,8 | Dromos 89,8",
+    "coordinates": {
+      "lat": 37.93333,
+      "lon": 23.73333
+    },
+    "radioStations": [
+      {
+        "title": "Δρομοσ 89,8 | Dromos 89,8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/dromos2"
+      }
+    ]
+  },
+  {
+    "name": "Radio Arhaggelos",
+    "coordinates": {
+      "lat": 37.98333,
+      "lon": 23.68333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Arhaggelos",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8536/stream?type=http&nocache=48875"
+      }
+    ]
+  },
+  {
+    "name": "Easy 97.2",
+    "coordinates": {
+      "lat": 38.0357,
+      "lon": 23.75733
+    },
+    "radioStations": [
+      {
+        "title": "Easy 97.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/cthtwxk5yvduv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Ambient Piano",
+    "coordinates": {
+      "lat": 37.92812,
+      "lon": 23.70105
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Ambient Piano",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAmbient_piano.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Disco Cafe",
+    "coordinates": {
+      "lat": 37.98468,
+      "lon": 23.64711
+    },
+    "radioStations": [
+      {
+        "title": "Disco Cafe",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.streams.ovh:8260/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΤ Kosmos jazz",
+    "coordinates": {
+      "lat": 37.96105,
+      "lon": 23.753
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΤ Kosmos jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-webjazz"
+      }
+    ]
+  },
+  {
+    "name": "Αρχάγγελος 94.1",
+    "coordinates": {
+      "lat": 38.01667,
+      "lon": 23.83333
+    },
+    "radioStations": [
+      {
+        "title": "Αρχάγγελος 94.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8536/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Classical for sleep",
+    "coordinates": {
+      "lat": 38.01667,
+      "lon": 23.75
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Classical for sleep",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s78276q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioart.com/fClassical_for_sleep.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Athens Rock 96.9",
+    "coordinates": {
+      "lat": 38.04187,
+      "lon": 23.68494
+    },
+    "radioStations": [
+      {
+        "title": "Athens Rock 96.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az10.yesstreaming.net/radio/8060/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RSO 91.7 Thessaloniki",
+    "coordinates": {
+      "lat": 38.05282,
+      "lon": 23.76523
+    },
+    "radioStations": [
+      {
+        "title": "RSO 91.7 Thessaloniki",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rso.gr/templates/gk_hotel/images/touch-device.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://tachyon.shoutca.st:8594/stream"
+      }
+    ]
+  },
+  {
+    "name": "Δίεση 101.3",
+    "coordinates": {
+      "lat": 38.07438,
+      "lon": 23.81106
+    },
+    "radioStations": [
+      {
+        "title": "Δίεση 101.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.e-radio.gr/logos/gr/500/diesi.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orange.live24.gr/orange9320"
+      }
+    ]
+  },
+  {
+    "name": "Happy 104",
+    "coordinates": {
+      "lat": 38.62139,
+      "lon": 21.40778
+    },
+    "radioStations": [
+      {
+        "title": "Happy 104",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ath10400fm-radioplayer.live24.gr/ath10400fm"
+      }
+    ]
+  },
+  {
+    "name": "Sfera 94.4",
+    "coordinates": {
+      "lat": 40.66944,
+      "lon": 22.93806
+    },
+    "radioStations": [
+      {
+        "title": "Sfera 94.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/29aecd11-c6bd-4c2e-bf0e-054390151602.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/sfera941nauplio"
+      }
+    ]
+  },
+  {
+    "name": "DeeJay Radio 97.5 fm Corfu  Greece",
+    "coordinates": {
+      "lat": 38.01135,
+      "lon": 23.66597
+    },
+    "radioStations": [
+      {
+        "title": "DeeJay Radio 97.5 fm Corfu  Greece",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8470/"
+      }
+    ]
+  },
+  {
+    "name": "1055 Rock - Thessaloniki",
+    "coordinates": {
+      "lat": 40.64944,
+      "lon": 22.95083
+    },
+    "radioStations": [
+      {
+        "title": "1055 Rock - Thessaloniki",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://1055rock.gr/wp-content/uploads/2021/11/favicon2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.1055rock.gr:31056/live"
+      }
+    ]
+  },
+  {
+    "name": "Mousikos 98.6",
+    "coordinates": {
+      "lat": 37.91033,
+      "lon": 23.72361
+    },
+    "radioStations": [
+      {
+        "title": "Mousikos 98.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/derty1000"
+      }
+    ]
+  },
+  {
+    "name": "Zucca Radio",
+    "coordinates": {
+      "lat": 38.03013,
+      "lon": 23.72379
+    },
+    "radioStations": [
+      {
+        "title": "Zucca Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zuccaradio.com/wp-content/uploads/2019/11/ZUCCA_RADIO_LOGO-02a.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zuccaradio.com/stream"
+      }
+    ]
+  },
+  {
+    "name": "Γλέντι 101.1",
+    "coordinates": {
+      "lat": 37.90594,
+      "lon": 23.75035
+    },
+    "radioStations": [
+      {
+        "title": "Γλέντι 101.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onairmediagroup.live24.gr/glenti1011xanthi"
+      }
+    ]
+  },
+  {
+    "name": "Ι.Μ. Σπάρτης 88.8",
+    "coordinates": {
+      "lat": 38.08333,
+      "lon": 23.7
+    },
+    "radioStations": [
+      {
+        "title": "Ι.Μ. Σπάρτης 88.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8862/"
+      }
+    ]
+  },
+  {
+    "name": "Corfu Dee Jay 97.5",
+    "coordinates": {
+      "lat": 38.0,
+      "lon": 23.8
+    },
+    "radioStations": [
+      {
+        "title": "Corfu Dee Jay 97.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/bec6ab25-e799-4958-aae6-6c1fc0dfa0cb.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sh.onweb.gr:7083/stream?type=http&nocache=35812"
+      }
+    ]
+  },
+  {
+    "name": "Dalkas 88.2",
+    "coordinates": {
+      "lat": 38.03381,
+      "lon": 23.82962
+    },
+    "radioStations": [
+      {
+        "title": "Dalkas 88.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojar.com/pr9r38w802hvv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Mantras",
+    "coordinates": {
+      "lat": 38.06134,
+      "lon": 23.58971
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Mantras",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/067_mantras-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fMantras.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ήπειρος 94.5",
+    "coordinates": {
+      "lat": 40.51472,
+      "lon": 21.67861
+    },
+    "radioStations": [
+      {
+        "title": "Ήπειρος 94.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/c689f912-ad9e-4513-9d2a-db9418d70018.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rdst.win:59450/stream"
+      }
+    ]
+  },
+  {
+    "name": "My radio 104.6",
+    "coordinates": {
+      "lat": 38.02277,
+      "lon": 23.8576
+    },
+    "radioStations": [
+      {
+        "title": "My radio 104.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.myradio1046.fm/myradio1046"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Vocal Chillout",
+    "coordinates": {
+      "lat": 38.06576,
+      "lon": 23.76356
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Vocal Chillout",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/107_vocal_chillout_RadioArt.com.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fVocal_chillout.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kriti FM 87.5",
+    "coordinates": {
+      "lat": 37.84221,
+      "lon": 23.77651
+    },
+    "radioStations": [
+      {
+        "title": "Kriti FM 87.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.onweb.gr:8878/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rebetiko Sealabs",
+    "coordinates": {
+      "lat": 40.79194,
+      "lon": 22.4075
+    },
+    "radioStations": [
+      {
+        "title": "Rebetiko Sealabs",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rebetiko.sealabs.net/radio"
+      }
+    ]
+  },
+  {
+    "name": "Αίολος 92.8",
+    "coordinates": {
+      "lat": 37.98938,
+      "lon": 23.66011
+    },
+    "radioStations": [
+      {
+        "title": "Αίολος 92.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8552/;"
+      }
+    ]
+  },
+  {
+    "name": "Δίστομο 106.1",
+    "coordinates": {
+      "lat": 37.9634,
+      "lon": 23.76523
+    },
+    "radioStations": [
+      {
+        "title": "Δίστομο 106.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.icehosting.com:8091/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΤ Πρώτο Πρόγραμμα",
+    "coordinates": {
+      "lat": 38.03491,
+      "lon": 23.73811
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΤ Πρώτο Πρόγραμμα",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-proto"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Bossa Nova",
+    "coordinates": {
+      "lat": 37.94789,
+      "lon": 23.6788
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Bossa Nova",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s290986/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fBosa_nova.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Nature",
+    "coordinates": {
+      "lat": 37.96775,
+      "lon": 23.5721
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Nature",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/2021channels/100_nature_RadioArt.com.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fNature.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock FM 96.9",
+    "coordinates": {
+      "lat": 37.96427,
+      "lon": 23.49649
+    },
+    "radioStations": [
+      {
+        "title": "Rock FM 96.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az10.yesstreaming.net:8060/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Chopin",
+    "coordinates": {
+      "lat": 38.04135,
+      "lon": 23.54295
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Chopin",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fChopin.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Guitar Jazz",
+    "coordinates": {
+      "lat": 37.99471,
+      "lon": 23.34324
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Guitar Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fGuitar_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "99 Ράδιο 1",
+    "coordinates": {
+      "lat": 37.95002,
+      "lon": 23.73437
+    },
+    "radioStations": [
+      {
+        "title": "99 Ράδιο 1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n13.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABhH0rD-QAgA2xJnC5B93PWQ"
+      }
+    ]
+  },
+  {
+    "name": "ΕΡΤ Τρίτο Πρόγραμμα",
+    "coordinates": {
+      "lat": 38.05,
+      "lon": 23.83333
+    },
+    "radioStations": [
+      {
+        "title": "ΕΡΤ Τρίτο Πρόγραμμα",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-trito"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - New Age",
+    "coordinates": {
+      "lat": 37.63333,
+      "lon": 22.73333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - New Age",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fNew_age.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Saxophone Jazz",
+    "coordinates": {
+      "lat": 38.06019,
+      "lon": 23.79264
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Saxophone Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fSaxophone_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - For Study",
+    "coordinates": {
+      "lat": 40.73083,
+      "lon": 22.91722
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - For Study",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fFor_study.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DeeJay 97.5 Greece Corfu",
+    "coordinates": {
+      "lat": 38.24861,
+      "lon": 22.08194
+    },
+    "radioStations": [
+      {
+        "title": "DeeJay 97.5 Greece Corfu",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sh.onweb.gr:7083/stream"
+      }
+    ]
+  },
+  {
+    "name": "Republic Radio",
+    "coordinates": {
+      "lat": 40.62944,
+      "lon": 22.06806
+    },
+    "radioStations": [
+      {
+        "title": "Republic Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/republicthess"
+      }
+    ]
+  },
+  {
+    "name": "ZooRadio 90.8",
+    "coordinates": {
+      "lat": 36.89295,
+      "lon": 27.28768
+    },
+    "radioStations": [
+      {
+        "title": "ZooRadio 90.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s10.voscast.com:9940/"
+      }
+    ]
+  },
+  {
+    "name": "Citizen",
+    "coordinates": {
+      "lat": 37.89886,
+      "lon": 23.87181
+    },
+    "radioStations": [
+      {
+        "title": "Citizen",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://citizenradio.gr/wp-content/uploads/2020/06/cropped-favico-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp3.streams.ovh/8082/;"
+      }
+    ]
+  },
+  {
+    "name": "Live 89.6",
+    "coordinates": {
+      "lat": 40.49874,
+      "lon": 22.92617
+    },
+    "radioStations": [
+      {
+        "title": "Live 89.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/livefm896"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Antonio Vivaldi",
+    "coordinates": {
+      "lat": 40.58779,
+      "lon": 23.0315
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Antonio Vivaldi",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fVivaldi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Alpha 98.9",
+    "coordinates": {
+      "lat": 37.79842,
+      "lon": 21.35068
+    },
+    "radioStations": [
+      {
+        "title": "Alpha 98.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/xcdg6yggzfeuv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gold @net",
+    "coordinates": {
+      "lat": 41.50306,
+      "lon": 26.52972
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gold @net",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiogold.live24.gr/radiogold"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Vocal New Age",
+    "coordinates": {
+      "lat": 37.95527,
+      "lon": 23.85443
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Vocal New Age",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fVocal_new_age.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Seven News 94.4",
+    "coordinates": {
+      "lat": 37.83894,
+      "lon": 23.92505
+    },
+    "radioStations": [
+      {
+        "title": "Seven News 94.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://evdomimera.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://i5.streams.ovh:14030/live"
+      }
+    ]
+  },
+  {
+    "name": "Kids Radio",
+    "coordinates": {
+      "lat": 40.54712,
+      "lon": 23.01967
+    },
+    "radioStations": [
+      {
+        "title": "Kids Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sao.fm/wp-content/uploads/20240824164954119.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n03.rcs.revma.com/n7d6z9ez1duvv"
+      }
+    ]
+  },
+  {
+    "name": "Alepou Radio",
+    "coordinates": {
+      "lat": 40.62667,
+      "lon": 22.44417
+    },
+    "radioStations": [
+      {
+        "title": "Alepou Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n0e.radiojar.com/h693vkmhe5uvv?rj-ttl=5"
+      }
+    ]
+  },
+  {
+    "name": "Dance Wave!",
+    "coordinates": {
+      "lat": 38.39167,
+      "lon": 21.8275
+    },
+    "radioStations": [
+      {
+        "title": "Dance Wave!",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dancewave.online/dw_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dancewave.online/dance.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Melody 88.8",
+    "coordinates": {
+      "lat": 35.32531,
+      "lon": 25.06694
+    },
+    "radioStations": [
+      {
+        "title": "Melody 88.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://melody888.gr/images/fav1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.melody888.gr:48500/melody.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - George Handel",
+    "coordinates": {
+      "lat": 35.01186,
+      "lon": 25.74234
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - George Handel",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/George_handel.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fGeorge_handel.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Roots Reggae",
+    "coordinates": {
+      "lat": 36.9503,
+      "lon": 26.98388
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Roots Reggae",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/Roots_reggae.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fRoots_reggae.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Star 88.8",
+    "coordinates": {
+      "lat": 38.01812,
+      "lon": 24.00599
+    },
+    "radioStations": [
+      {
+        "title": "Star 88.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onairmediagroup.live24.gr/star888xanthi"
+      }
+    ]
+  },
+  {
+    "name": "Play Lounge",
+    "coordinates": {
+      "lat": 37.9783,
+      "lon": 22.97781
+    },
+    "radioStations": [
+      {
+        "title": "Play Lounge",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://playradio.one/upload/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojar.com/n6frf0ct274tv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Big Bands",
+    "coordinates": {
+      "lat": 38.06667,
+      "lon": 23.5
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Big Bands",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s247251/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fBig_bands.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ερωτικός 94.8",
+    "coordinates": {
+      "lat": 39.73778,
+      "lon": 22.28917
+    },
+    "radioStations": [
+      {
+        "title": "Ερωτικός 94.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu1.fastcast4u.com:21624/stream"
+      }
+    ]
+  },
+  {
+    "name": "easy",
+    "coordinates": {
+      "lat": 39.29472,
+      "lon": 22.38472
+    },
+    "radioStations": [
+      {
+        "title": "easy",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/3bd13d11-b2c8-43c4-b335-36fe7c7dc357.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://easy972.live24.gr/easy972"
+      }
+    ]
+  },
+  {
+    "name": "Libero FM 107.4",
+    "coordinates": {
+      "lat": 38.14657,
+      "lon": 23.85608
+    },
+    "radioStations": [
+      {
+        "title": "Libero FM 107.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.libero.fm:10750/live?1697856170939"
+      }
+    ]
+  },
+  {
+    "name": "Focus 103.6",
+    "coordinates": {
+      "lat": 38.01321,
+      "lon": 22.74839
+    },
+    "radioStations": [
+      {
+        "title": "Focus 103.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://focusfm.gr/images/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.greekstream.net/focusfm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Gregorian Chants",
+    "coordinates": {
+      "lat": 38.01324,
+      "lon": 23.77223
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Gregorian Chants",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fGregorian_chants.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Μελωδία Θεσσαλονίκης 98",
+    "coordinates": {
+      "lat": 37.88333,
+      "lon": 23.93333
+    },
+    "radioStations": [
+      {
+        "title": "Μελωδία Θεσσαλονίκης 98",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live24.gr/resrc/styles/custom-popups/melodia98/melodia98-Thess-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/north98thess"
+      }
+    ]
+  },
+  {
+    "name": "Μοναχική Διακονία 87.5",
+    "coordinates": {
+      "lat": 40.67045,
+      "lon": 22.80545
+    },
+    "radioStations": [
+      {
+        "title": "Μοναχική Διακονία 87.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8019/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Blues Radio alternative",
+    "coordinates": {
+      "lat": 37.96163,
+      "lon": 23.91514
+    },
+    "radioStations": [
+      {
+        "title": "Blues Radio alternative",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i1.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://i4.streams.ovh/sc/bluesrad/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Guitar",
+    "coordinates": {
+      "lat": 40.98556,
+      "lon": 24.69389
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Guitar",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fGuitar.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Mellow Piano Jazz",
+    "coordinates": {
+      "lat": 35.20783,
+      "lon": 26.10467
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Mellow Piano Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fMellow_piano_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mancode",
+    "coordinates": {
+      "lat": 41.349,
+      "lon": 26.49377
+    },
+    "radioStations": [
+      {
+        "title": "Mancode",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/ea751b27-d3ae-46eb-9758-5d0a17b987d3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://comet.shoutca.st:8366/;"
+      }
+    ]
+  },
+  {
+    "name": "OFFradio (320)",
+    "coordinates": {
+      "lat": 39.70444,
+      "lon": 21.62694
+    },
+    "radioStations": [
+      {
+        "title": "OFFradio (320)",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.offradio.gr/wp-content/uploads/2020/09/cropped-site-icon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s7.yesstreaming.net/stream/8000"
+      }
+    ]
+  },
+  {
+    "name": "Lampsi 92.3",
+    "coordinates": {
+      "lat": 37.85,
+      "lon": 21.25
+    },
+    "radioStations": [
+      {
+        "title": "Lampsi 92.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.e-radio.gr/logos/gr/big/lampsifm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az11.yesstreaming.net:8140/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Greek Otaku Radio",
+    "coordinates": {
+      "lat": 39.18222,
+      "lon": 22.75944
+    },
+    "radioStations": [
+      {
+        "title": "Greek Otaku Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://usa2.fastcast4u.com:3684/;"
+      }
+    ]
+  },
+  {
+    "name": "Paidaki 97.5",
+    "coordinates": {
+      "lat": 40.77778,
+      "lon": 22.57194
+    },
+    "radioStations": [
+      {
+        "title": "Paidaki 97.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.paidaki975.gr/wp-content/uploads/2023/11/logo.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://paidaki975.radioca.st/;"
+      }
+    ]
+  },
+  {
+    "name": "Groove Radio",
+    "coordinates": {
+      "lat": 40.45354,
+      "lon": 21.25889
+    },
+    "radioStations": [
+      {
+        "title": "Groove Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.grooveradio.rf.gd/wp-content/uploads/2024/02/groove-radio-Photoroom.png-Photoroom.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast.magicstreams.gr/ic/grooveradio/stream"
+      }
+    ]
+  },
+  {
+    "name": "Chillout TreePines",
+    "coordinates": {
+      "lat": 38.15317,
+      "lon": 23.96278
+    },
+    "radioStations": [
+      {
+        "title": "Chillout TreePines",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/f86a8c94-2a69-459b-b545-f1e7addd96e6.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n07.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABhNTTrbwAVrK_m_qtIxI5pQ"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Film Scores",
+    "coordinates": {
+      "lat": 37.71445,
+      "lon": 24.05647
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Film Scores",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fFilm_scores.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Organ",
+    "coordinates": {
+      "lat": 37.10556,
+      "lon": 25.37639
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Organ",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fOrgan.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Baroque",
+    "coordinates": {
+      "lat": 40.99444,
+      "lon": 22.56909
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Baroque",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fBaroque.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 88miso",
+    "coordinates": {
+      "lat": 39.89472,
+      "lon": 22.18861
+    },
+    "radioStations": [
+      {
+        "title": "Radio 88miso",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radio88miso.gr/wp-content/uploads/2020/04/cropped-radio-88-miso-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://solid33.streamupsolutions.com:30000/stream"
+      }
+    ]
+  },
+  {
+    "name": "METAL ZONE",
+    "coordinates": {
+      "lat": 37.74667,
+      "lon": 23.4275
+    },
+    "radioStations": [
+      {
+        "title": "METAL ZONE",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68I_D2ZIAam8GPJ6BQoiPg26ApOJeMkcHfQ&usqp=CAU",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://neos.win:48282/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Philip Glass",
+    "coordinates": {
+      "lat": 37.05111,
+      "lon": 22.00778
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Philip Glass",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/172_philip_glass-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fPhilip_glass.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FLY 104",
+    "coordinates": {
+      "lat": 40.10056,
+      "lon": 22.49778
+    },
+    "radioStations": [
+      {
+        "title": "FLY 104",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fly104.gr/images/folder/logos/mobile-logos/logomobile.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://imagine2.radioca.st/;"
+      }
+    ]
+  },
+  {
+    "name": "2o ΠΑΡΑΔΟΣΙΑΚΑ",
+    "coordinates": {
+      "lat": 40.97306,
+      "lon": 22.05639
+    },
+    "radioStations": [
+      {
+        "title": "2o ΠΑΡΑΔΟΣΙΑΚΑ",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-defteroparadosiaka"
+      }
+    ]
+  },
+  {
+    "name": "Sfera 96.6",
+    "coordinates": {
+      "lat": 35.05143,
+      "lon": 24.8733
+    },
+    "radioStations": [
+      {
+        "title": "Sfera 96.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n01.radiojar.com/mg2vq26eewzuv?rj-ttl=5&rj-tok=AAABePDKYnkA9kVa1QYWTKFxIQ"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Salsa",
+    "coordinates": {
+      "lat": 37.48333,
+      "lon": 21.65
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Salsa",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fSalsa.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Classical Relaxation",
+    "coordinates": {
+      "lat": 38.57852,
+      "lon": 23.64326
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Classical Relaxation",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fClassical_relaxation.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BluesWave Radio",
+    "coordinates": {
+      "lat": 38.15,
+      "lon": 21.55
+    },
+    "radioStations": [
+      {
+        "title": "BluesWave Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blueswave.radio/wp-content/uploads/2021/01/BluesWave.Radio_.logo_.300X300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://blueswave.radio:8100/hifiblues"
+      }
+    ]
+  },
+  {
+    "name": "MUSIC FACTORY RADIO",
+    "coordinates": {
+      "lat": 39.46667,
+      "lon": 22.08333
+    },
+    "radioStations": [
+      {
+        "title": "MUSIC FACTORY RADIO",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.musicfactory.gr:9000/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Smooth Bossa Nova",
+    "coordinates": {
+      "lat": 40.26194,
+      "lon": 21.54417
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Smooth Bossa Nova",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fSmooth_bossa_nova.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NRG 92.4",
+    "coordinates": {
+      "lat": 38.07762,
+      "lon": 22.63166
+    },
+    "radioStations": [
+      {
+        "title": "NRG 92.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nrg924.gr/wp-content/uploads/2020/09/nrg_gif.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s6.onweb.gr:9240/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Mozart",
+    "coordinates": {
+      "lat": 39.87483,
+      "lon": 25.06359
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Mozart",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fMozart.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Acoustic Blues",
+    "coordinates": {
+      "lat": 37.08333,
+      "lon": 25.15
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Acoustic Blues",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAcoustic_blues.mp3"
+      }
+    ]
+  },
+  {
+    "name": "2o laika",
+    "coordinates": {
+      "lat": 37.40111,
+      "lon": 22.14222
+    },
+    "radioStations": [
+      {
+        "title": "2o laika",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-talaika"
+      }
+    ]
+  },
+  {
+    "name": "Thrakifm 99.8",
+    "coordinates": {
+      "lat": 38.41667,
+      "lon": 24.03333
+    },
+    "radioStations": [
+      {
+        "title": "Thrakifm 99.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://thrakifm.gr/wp-content/uploads/2012/09/keraia1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8010/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Ludwig Beethoven",
+    "coordinates": {
+      "lat": 41.23499,
+      "lon": 23.38899
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Ludwig Beethoven",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fBeethoven.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ELLADA SPORTS",
+    "coordinates": {
+      "lat": 38.01333,
+      "lon": 24.41611
+    },
+    "radioStations": [
+      {
+        "title": "ELLADA SPORTS",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.e-tetradio.gr/img/path/b106202a-fed8-40a0-8e8c-bbc057305f20_image.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tls-chrome.live24.gr/3297?http://stream.ellada943.gr:10198/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studio FM 94.4",
+    "coordinates": {
+      "lat": 37.25111,
+      "lon": 21.67361
+    },
+    "radioStations": [
+      {
+        "title": "Studio FM 94.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://i3.streams.ovh:13145/live"
+      }
+    ]
+  },
+  {
+    "name": "Athens Deejay 95.2",
+    "coordinates": {
+      "lat": 38.65111,
+      "lon": 22.99917
+    },
+    "radioStations": [
+      {
+        "title": "Athens Deejay 95.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.athensdeejay.gr/content/assets/favicons/apple-touch-icon-v2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.live24.gr/athensdeejay"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Solo Guitar",
+    "coordinates": {
+      "lat": 40.90528,
+      "lon": 23.49944
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Solo Guitar",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fSolo_guitar.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Tango",
+    "coordinates": {
+      "lat": 38.91667,
+      "lon": 22.61667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Tango",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fTango.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - J.S.Bach",
+    "coordinates": {
+      "lat": 38.05,
+      "lon": 23.86667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - J.S.Bach",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com///templates/poseidon/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioart.com/fBach.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Play Gold",
+    "coordinates": {
+      "lat": 38.91639,
+      "lon": 20.88639
+    },
+    "radioStations": [
+      {
+        "title": "Play Gold",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/786f0ab8-7135-4d2b-bbe9-f8eb55350dcf.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n02.radiojar.com/431m8b6qcm5tv?rj-ttl=5&rj-tok=AAABeMb0Lj0AJxDa01j50hVL0Q"
+      }
+    ]
+  },
+  {
+    "name": "Rythmos FM.GR",
+    "coordinates": {
+      "lat": 39.20472,
+      "lon": 20.88222
+    },
+    "radioStations": [
+      {
+        "title": "Rythmos FM.GR",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n01.radiojar.com/g4tyehk5yvduv.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Electronica Vibes - Pirate Radio GR",
+    "coordinates": {
+      "lat": 37.53753,
+      "lon": 25.16343
+    },
+    "radioStations": [
+      {
+        "title": "Electronica Vibes - Pirate Radio GR",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://piratefm.net/electronica-vibes-pirate-radio-gr/wp-content/uploads/2024/10/cropped-electronica.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.piratefm.net/electronica_vibes"
+      }
+    ]
+  },
+  {
+    "name": "ERT3 102 FM",
+    "coordinates": {
+      "lat": 40.76722,
+      "lon": 22.15194
+    },
+    "radioStations": [
+      {
+        "title": "ERT3 102 FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-102fm"
+      }
+    ]
+  },
+  {
+    "name": "SKAI TV",
+    "coordinates": {
+      "lat": 41.02861,
+      "lon": 25.69306
+    },
+    "radioStations": [
+      {
+        "title": "SKAI TV",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.skaitv.gr/dist/images/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Focus 88.8",
+    "coordinates": {
+      "lat": 37.93333,
+      "lon": 22.8
+    },
+    "radioStations": [
+      {
+        "title": "Focus 88.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.onweb.gr:8014/stream?type=http&nocache=120452"
+      }
+    ]
+  },
+  {
+    "name": "Kavala News",
+    "coordinates": {
+      "lat": 40.91389,
+      "lon": 24.25139
+    },
+    "radioStations": [
+      {
+        "title": "Kavala News",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kavalanews.gr/sites/default/files/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp3.streams.ovh/8052/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Instrumental",
+    "coordinates": {
+      "lat": 38.9552,
+      "lon": 23.1521
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Instrumental",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fInstrumental.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ράδιο Κιβωτός 99.2",
+    "coordinates": {
+      "lat": 36.755,
+      "lon": 22.56417
+    },
+    "radioStations": [
+      {
+        "title": "Ράδιο Κιβωτός 99.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.onweb.gr:8452/"
+      }
+    ]
+  },
+  {
+    "name": "Λαϊκός 100.6",
+    "coordinates": {
+      "lat": 40.50139,
+      "lon": 22.54
+    },
+    "radioStations": [
+      {
+        "title": "Λαϊκός 100.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/51bd898a-7bce-4b17-b15f-12f44e676de3.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sp2.streams.ovh:8100/stream?type=http&nocache=185"
+      }
+    ]
+  },
+  {
+    "name": "Χρώμα 105,8 Θεσσαλονίκη",
+    "coordinates": {
+      "lat": 38.36667,
+      "lon": 23.1
+    },
+    "radioStations": [
+      {
+        "title": "Χρώμα 105,8 Θεσσαλονίκη",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hroma.gr/wp-content/uploads/2021/12/hroma-1058-thessaloniki-removebg-preview.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hroma1058thess.live24.gr/hroma1058thess"
+      }
+    ]
+  },
+  {
+    "name": "Ιερά Μονή Παμμεγίστων Ταξιαρχών",
+    "coordinates": {
+      "lat": 35.49459,
+      "lon": 23.65375
+    },
+    "radioStations": [
+      {
+        "title": "Ιερά Μονή Παμμεγίστων Ταξιαρχών",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8019/"
+      }
+    ]
+  },
+  {
+    "name": "Griechenland - Akroama",
+    "coordinates": {
+      "lat": 38.40097,
+      "lon": 23.8022
+    },
+    "radioStations": [
+      {
+        "title": "Griechenland - Akroama",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.e-streaming.eu:8100/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Spa",
+    "coordinates": {
+      "lat": 41.19194,
+      "lon": 26.29944
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Spa",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s247230/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fSpa.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rythmos FM",
+    "coordinates": {
+      "lat": 38.35,
+      "lon": 23.58333
+    },
+    "radioStations": [
+      {
+        "title": "Rythmos FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ample.radiojar.com/aw1w2xfx1vduv.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Violin",
+    "coordinates": {
+      "lat": 38.85944,
+      "lon": 21.16639
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Violin",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fViolin_works.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Healing",
+    "coordinates": {
+      "lat": 41.18333,
+      "lon": 23.96667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Healing",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fHealing.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Solo Harp",
+    "coordinates": {
+      "lat": 37.37974,
+      "lon": 23.15969
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Solo Harp",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-profiles.tunein.com/s187592/images/logoq.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air-tunein.radioart.com/fSolo_harp.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Mellow Smooth Jazz",
+    "coordinates": {
+      "lat": 37.26191,
+      "lon": 23.15943
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Mellow Smooth Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/159_mellow_s_j-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fMellow_smooth_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RadioActive",
+    "coordinates": {
+      "lat": 39.92422,
+      "lon": 21.81031
+    },
+    "radioStations": [
+      {
+        "title": "RadioActive",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioactivefm.gr/wp-content/uploads/2023/03/icon_512-100x100.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamyourdream.org:8050/radioactive"
+      }
+    ]
+  },
+  {
+    "name": "Fly FM",
+    "coordinates": {
+      "lat": 37.82068,
+      "lon": 22.66102
+    },
+    "radioStations": [
+      {
+        "title": "Fly FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8602/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Jazz Piano",
+    "coordinates": {
+      "lat": 41.18217,
+      "lon": 23.28243
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Jazz Piano",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fJazz_piano.mp3"
+      }
+    ]
+  },
+  {
+    "name": "sfera",
+    "coordinates": {
+      "lat": 37.93333,
+      "lon": 21.26667
+    },
+    "radioStations": [
+      {
+        "title": "sfera",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.app.sfera.gr/radios/60bf37c3ce91af21130f6f94/logo-sfera_500x500-1653653313273.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sfera.live24.gr/sfera4132"
+      }
+    ]
+  },
+  {
+    "name": "Nea TV",
+    "coordinates": {
+      "lat": 40.66498,
+      "lon": 23.70015
+    },
+    "radioStations": [
+      {
+        "title": "Nea TV",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.neatv.gr/wp-content/uploads/2018/12/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.neatv.gr:8888/hls/neatv_src/index.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Ancient Solfeggio Frequencies",
+    "coordinates": {
+      "lat": 40.68967,
+      "lon": 21.67974
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Ancient Solfeggio Frequencies",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/134_ancient_sol-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAncient_solfeggio_frequencies.mp3"
+      }
+    ]
+  },
+  {
+    "name": "realfm97.8",
+    "coordinates": {
+      "lat": 41.05,
+      "lon": 24.18333
+    },
+    "radioStations": [
+      {
+        "title": "realfm97.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://scontent.fsof11-1.fna.fbcdn.net/v/t39.30808-6/273325286_462489105237776_3423395210252952332_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2UM0t5mJNhEAX87X1wX&_nc_ht=scontent.fsof11-1.fna&oh=00_AfA0fEWGclDbECf5McRifi6-ZCWa-s_WhL1qvqX8s2OR0w&oe=63DC6741",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://realfm.live24.gr/realfm"
+      }
+    ]
+  },
+  {
+    "name": "Ελληνικός 107.2",
+    "coordinates": {
+      "lat": 39.70639,
+      "lon": 20.7925
+    },
+    "radioStations": [
+      {
+        "title": "Ελληνικός 107.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/c60e0913-9af1-4065-97f8-cc3bf3905115.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://everest.streams.ovh:2390/;"
+      }
+    ]
+  },
+  {
+    "name": "Ιερά Μητροπόλη Φθιώτιδος 89.4",
+    "coordinates": {
+      "lat": 40.17972,
+      "lon": 21.99444
+    },
+    "radioStations": [
+      {
+        "title": "Ιερά Μητροπόλη Φθιώτιδος 89.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8264/"
+      }
+    ]
+  },
+  {
+    "name": "Derti 107,7 Heraklion Crete",
+    "coordinates": {
+      "lat": 40.39748,
+      "lon": 23.87505
+    },
+    "radioStations": [
+      {
+        "title": "Derti 107,7 Heraklion Crete",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.derti1077.gr/wp-content/themes/dirty/images/logodirty.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://i5.streams.ovh:2200/sc/web101/stream"
+      }
+    ]
+  },
+  {
+    "name": "Cavo Paradiso",
+    "coordinates": {
+      "lat": 40.77806,
+      "lon": 24.70944
+    },
+    "radioStations": [
+      {
+        "title": "Cavo Paradiso",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s5.onweb.gr:8488/"
+      }
+    ]
+  },
+  {
+    "name": "Creta TV",
+    "coordinates": {
+      "lat": 39.38181,
+      "lon": 22.74616
+    },
+    "radioStations": [
+      {
+        "title": "Creta TV",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Didgeridoo",
+    "coordinates": {
+      "lat": 37.16679,
+      "lon": 22.85773
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Didgeridoo",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fDidgeridoo.mp3"
+      }
+    ]
+  },
+  {
+    "name": "1st Greek New Age FLAC Radio AAC+ 320kbps",
+    "coordinates": {
+      "lat": 36.80757,
+      "lon": 22.85132
+    },
+    "radioStations": [
+      {
+        "title": "1st Greek New Age FLAC Radio AAC+ 320kbps",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://newageradio.gr/Greek_New_Age_1200x1200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.newageradio.gr/listen/hq/radio.aac"
+      }
+    ]
+  },
+  {
+    "name": "DeeJay 97.5",
+    "coordinates": {
+      "lat": 40.04861,
+      "lon": 20.75667
+    },
+    "radioStations": [
+      {
+        "title": "DeeJay 97.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8470/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Shamanic",
+    "coordinates": {
+      "lat": 39.12144,
+      "lon": 23.72686
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Shamanic",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/133_shamanic-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fShamanic.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bar Legend Radio",
+    "coordinates": {
+      "lat": 39.71901,
+      "lon": 22.75869
+    },
+    "radioStations": [
+      {
+        "title": "Bar Legend Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Metropolis 97.2",
+    "coordinates": {
+      "lat": 36.85,
+      "lon": 22.66667
+    },
+    "radioStations": [
+      {
+        "title": "Metropolis 97.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://metropolis972.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s6.onweb.gr:8092/;stream.nsv&type=mp3"
+      }
+    ]
+  },
+  {
+    "name": "Home 89.1",
+    "coordinates": {
+      "lat": 40.04835,
+      "lon": 23.41362
+    },
+    "radioStations": [
+      {
+        "title": "Home 89.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/506cebee-9bb7-4f39-9d98-40d9c3cd2612.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://185.14.203.115:8004/stream?type=http&nocache=109"
+      }
+    ]
+  },
+  {
+    "name": "90s Heaven",
+    "coordinates": {
+      "lat": 38.77844,
+      "lon": 22.78573
+    },
+    "radioStations": [
+      {
+        "title": "90s Heaven",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp3.streams.ovh/8070/stream"
+      }
+    ]
+  },
+  {
+    "name": "Παραδοσιακός 106.6",
+    "coordinates": {
+      "lat": 38.60751,
+      "lon": 22.71348
+    },
+    "radioStations": [
+      {
+        "title": "Παραδοσιακός 106.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sp2.streams.ovh:8104/stream?type=http&nocache=763"
+      }
+    ]
+  },
+  {
+    "name": "Ιερά Μητρόπολις Άρτης 106.6",
+    "coordinates": {
+      "lat": 37.1543,
+      "lon": 26.85162
+    },
+    "radioStations": [
+      {
+        "title": "Ιερά Μητρόπολις Άρτης 106.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.imartis.gr/images/v2/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://i.streams.ovh:9566/live"
+      }
+    ]
+  },
+  {
+    "name": "Sfera 98.7",
+    "coordinates": {
+      "lat": 40.22204,
+      "lon": 23.66837
+    },
+    "radioStations": [
+      {
+        "title": "Sfera 98.7",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.sfera987.gr/wp-content/uploads/2020/03/SFERA-RADIO_HRAKLEIO-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://i5.streams.ovh:2200/ssl/web100?mp=/stream&1603386012927"
+      }
+    ]
+  },
+  {
+    "name": "Alpha 98.9 Athens",
+    "coordinates": {
+      "lat": 38.90656,
+      "lon": 22.12792
+    },
+    "radioStations": [
+      {
+        "title": "Alpha 98.9 Athens",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0e.radiojar.com/xcdg6yggzfeuv?rj-ttl=5&rj-tok=AAABeGu7-YMAAjbbx7O97iNbyw"
+      }
+    ]
+  },
+  {
+    "name": "Metro Radio",
+    "coordinates": {
+      "lat": 41.12747,
+      "lon": 25.18573
+    },
+    "radioStations": [
+      {
+        "title": "Metro Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.crete.ovh:8443/metro"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Choral Works",
+    "coordinates": {
+      "lat": 39.47111,
+      "lon": 20.51111
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Choral Works",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fChoral_works.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ζημιά 93.9",
+    "coordinates": {
+      "lat": 41.03204,
+      "lon": 23.8287
+    },
+    "radioStations": [
+      {
+        "title": "Ζημιά 93.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zimia939.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.gointernet.gr:8012/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Athens Free Radio",
+    "coordinates": {
+      "lat": 39.76944,
+      "lon": 21.18222
+    },
+    "radioStations": [
+      {
+        "title": "Athens Free Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/4f57fcdc-ddf8-4930-b689-78826f6dd074.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA"
+      }
+    ]
+  },
+  {
+    "name": "RadioKyklos - Greek Hiphop",
+    "coordinates": {
+      "lat": 39.23361,
+      "lon": 20.6
+    },
+    "radioStations": [
+      {
+        "title": "RadioKyklos - Greek Hiphop",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://azuracast.streams.ovh/static/uploads/radiokyklos/background.1674896986.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.streams.ovh/listen/radiokyklos/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zoo 90.8",
+    "coordinates": {
+      "lat": 39.45,
+      "lon": 23.1
+    },
+    "radioStations": [
+      {
+        "title": "Zoo 90.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/zoo908thess"
+      }
+    ]
+  },
+  {
+    "name": "HiT 88.9",
+    "coordinates": {
+      "lat": 36.42107,
+      "lon": 25.43087
+    },
+    "radioStations": [
+      {
+        "title": "HiT 88.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/0ee12f2d-3bbc-4d01-befc-b8edc3c229b6.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n10a-eu.rcs.revma.com/e4661aft4c3vv?rj-ttl=5&rj-tok=AAABnRbVaDAA1aczyKJ3F05MOw"
+      }
+    ]
+  },
+  {
+    "name": "ΡΣ. Ι.Μ. Αργολίδος 105.2",
+    "coordinates": {
+      "lat": 35.23128,
+      "lon": 23.68185
+    },
+    "radioStations": [
+      {
+        "title": "ΡΣ. Ι.Μ. Αργολίδος 105.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://imargolidos.gr/wp-content/uploads/2019/01/Παναγία.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8556/"
+      }
+    ]
+  },
+  {
+    "name": "Camara",
+    "coordinates": {
+      "lat": 36.61547,
+      "lon": 27.83619
+    },
+    "radioStations": [
+      {
+        "title": "Camara",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/48677bd9-c5db-4f55-aed3-e65af6bd4a66.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n06.radiojar.com/252ry9dgytzuv?rj-ttl=5&rj-tok=AAABeKi3emcATmr2vFF6A41gwQ"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Cello works",
+    "coordinates": {
+      "lat": 36.91298,
+      "lon": 21.6965
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Cello works",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fCello_works.mp3"
+      }
+    ]
+  },
+  {
+    "name": "101 Rock Lamia",
+    "coordinates": {
+      "lat": 37.49618,
+      "lon": 23.44886
+    },
+    "radioStations": [
+      {
+        "title": "101 Rock Lamia",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://onradio.gr/wp-content/uploads/2020/04/101Rock.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sh.onweb.gr:9110/stream"
+      }
+    ]
+  },
+  {
+    "name": "Velvet 98.4",
+    "coordinates": {
+      "lat": 39.60111,
+      "lon": 20.31194
+    },
+    "radioStations": [
+      {
+        "title": "Velvet 98.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onairmediagroup.live24.gr/velvet984xanthi"
+      }
+    ]
+  },
+  {
+    "name": "Ράδιο Μαρτυρία 95.5",
+    "coordinates": {
+      "lat": 39.42972,
+      "lon": 21.66361
+    },
+    "radioStations": [
+      {
+        "title": "Ράδιο Μαρτυρία 95.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://martiria.imka.gr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sc2.streamwithq.com:8006/"
+      }
+    ]
+  },
+  {
+    "name": "Prime 100.3",
+    "coordinates": {
+      "lat": 38.76667,
+      "lon": 23.31667
+    },
+    "radioStations": [
+      {
+        "title": "Prime 100.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/04bb1a6e-6823-4ab1-8bd6-686ed934a7c7.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s20.myradiostream.com:6738/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "EnLefko 87.7",
+    "coordinates": {
+      "lat": 40.92055,
+      "lon": 23.97489
+    },
+    "radioStations": [
+      {
+        "title": "EnLefko 87.7",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.bStSmhUef-wuXI2zp9RWDgHaHa%3Fpid%3DApi&f=1&ipt=7ce71bf9cd41ac63772b1b9811f67dd0961766461665eff192ee3a41656fdd39&ipo=images",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojar.com/enlefko877"
+      }
+    ]
+  },
+  {
+    "name": "Έντεχνος 92.5",
+    "coordinates": {
+      "lat": 36.72293,
+      "lon": 25.2817
+    },
+    "radioStations": [
+      {
+        "title": "Έντεχνος 92.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/2d04ad28-93e2-4dac-b6fd-65c80cb9b5f6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-mp3aac.live24.gr/max925-her"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Love Smooth Jazz",
+    "coordinates": {
+      "lat": 38.57358,
+      "lon": 21.66628
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Love Smooth Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fLove_smooth_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Latin Jazz",
+    "coordinates": {
+      "lat": 39.16667,
+      "lon": 21.03472
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Latin Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fLatin_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Easy Chill",
+    "coordinates": {
+      "lat": 41.06165,
+      "lon": 24.96248
+    },
+    "radioStations": [
+      {
+        "title": "Easy Chill",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.soundis.gr/resized/streams/2024/01/09/4easy-chill_a2bc639a880f6723980b9d5090b6ae60.jpg?w=120&h=120&c=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n23a-eu.rcs.revma.com/qzzyq25r4a0uv?rj-ttl=5&rj-tok=AAABnSFlqbcAYnB2Hy7gBDYntg"
+      }
+    ]
+  },
+  {
+    "name": "Στο κόκκινο 105.5",
+    "coordinates": {
+      "lat": 37.61472,
+      "lon": 26.29444
+    },
+    "radioStations": [
+      {
+        "title": "Στο κόκκινο 105.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://typologies.gr/wp-content/uploads/2019/10/kokkino.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0a.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABh-0eIcYAVz1x8OviF1g8jw"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Bach",
+    "coordinates": {
+      "lat": 37.34976,
+      "lon": 23.4656
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Bach",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/029_bach_RadioArt.com.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fBach.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Fusion",
+    "coordinates": {
+      "lat": 37.59193,
+      "lon": 21.62034
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Fusion",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com///templates/poseidon/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioart.com/fFusion.mp3"
+      }
+    ]
+  },
+  {
+    "name": "92.9 KISS",
+    "coordinates": {
+      "lat": 39.8,
+      "lon": 22.48333
+    },
+    "radioStations": [
+      {
+        "title": "92.9 KISS",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kiss929.gr/sites/default/files/kiss.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kissfm.live24.gr/kissfmathens"
+      }
+    ]
+  },
+  {
+    "name": "I.M. Καστοριάς 97.9",
+    "coordinates": {
+      "lat": 35.20902,
+      "lon": 25.33773
+    },
+    "radioStations": [
+      {
+        "title": "I.M. Καστοριάς 97.9",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8498/"
+      }
+    ]
+  },
+  {
+    "name": "Amore 87.5",
+    "coordinates": {
+      "lat": 39.45806,
+      "lon": 21.61889
+    },
+    "radioStations": [
+      {
+        "title": "Amore 87.5",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8442/;"
+      }
+    ]
+  },
+  {
+    "name": "Rock Hard Greece",
+    "coordinates": {
+      "lat": 38.90417,
+      "lon": 24.56306
+    },
+    "radioStations": [
+      {
+        "title": "Rock Hard Greece",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://noc.ezhellas.com:44450/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Peaceful Classical",
+    "coordinates": {
+      "lat": 38.03222,
+      "lon": 22.1125
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Peaceful Classical",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/145_peaceful_c-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fPeaceful_classical.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Omega Radio Greek Music",
+    "coordinates": {
+      "lat": 35.32626,
+      "lon": 25.2774
+    },
+    "radioStations": [
+      {
+        "title": "Omega Radio Greek Music",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/0f7aacce-3787-4261-9859-c6bc1ecf39de.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rdst.win:59962/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Ambient",
+    "coordinates": {
+      "lat": 41.05806,
+      "lon": 23.65108
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Ambient",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAmbient.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Easy 105.3",
+    "coordinates": {
+      "lat": 39.12722,
+      "lon": 22.30028
+    },
+    "radioStations": [
+      {
+        "title": "Easy 105.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/f61a069b-09de-4ffa-8e85-3cf8bf3fd0e7.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.onweb.gr:8076/stream?type=http&nocache=104869"
+      }
+    ]
+  },
+  {
+    "name": "Skai Patras",
+    "coordinates": {
+      "lat": 37.21667,
+      "lon": 21.96667
+    },
+    "radioStations": [
+      {
+        "title": "Skai Patras",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/350d6994-0c63-4031-961e-399e17044bf8.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://i.streams.ovh:9519/stream?type=http&nocache=5"
+      }
+    ]
+  },
+  {
+    "name": "Στο κόκκινο 105,5 Αθήνα",
+    "coordinates": {
+      "lat": 39.22627,
+      "lon": 23.21868
+    },
+    "radioStations": [
+      {
+        "title": "Στο κόκκινο 105,5 Αθήνα",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n06.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABe5JM3SoATYdU3sO03CR5Pw"
+      }
+    ]
+  },
+  {
+    "name": "80smania",
+    "coordinates": {
+      "lat": 37.44997,
+      "lon": 24.93562
+    },
+    "radioStations": [
+      {
+        "title": "80smania",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://158.69.114.190:8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "Στο Κόκκινο ΘΕΣΣΑΛΟΝΙΚΗ 91,4 FM",
+    "coordinates": {
+      "lat": 39.52306,
+      "lon": 21.10139
+    },
+    "radioStations": [
+      {
+        "title": "Στο Κόκκινο ΘΕΣΣΑΛΟΝΙΚΗ 91,4 FM",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/06116ad4-8934-436e-922d-b799c057598e.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n09.radiojar.com/275p8ssmb?rj-ttl=5&rj-tok=AAABe5KoPq0A-SETCU2cfsnBjA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Vocal Lounge",
+    "coordinates": {
+      "lat": 36.55,
+      "lon": 26.35
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Vocal Lounge",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/115_vocal_lounge_RadioArt.com.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fVocal_lounge.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nostalgia",
+    "coordinates": {
+      "lat": 38.30326,
+      "lon": 23.75549
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nostalgia",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radionostalgiagr.dyndns.org:2314/"
+      }
+    ]
+  },
+  {
+    "name": "Venus",
+    "coordinates": {
+      "lat": 41.11667,
+      "lon": 25.63333
+    },
+    "radioStations": [
+      {
+        "title": "Venus",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.onweb.gr:8808/"
+      }
+    ]
+  },
+  {
+    "name": "BeRock Radio",
+    "coordinates": {
+      "lat": 38.10843,
+      "lon": 21.78349
+    },
+    "radioStations": [
+      {
+        "title": "BeRock Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.berock-radio.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://solid55.streamupsolutions.com:30013/stream"
+      }
+    ]
+  },
+  {
+    "name": "En Lefko 87.7",
+    "coordinates": {
+      "lat": 40.41278,
+      "lon": 21.06222
+    },
+    "radioStations": [
+      {
+        "title": "En Lefko 87.7",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n12a-eu.rcs.revma.com/trm75ret4c3vv?rj-ttl=5&rj-tok=AAABnHLBW28A7OTR3a298An3Yg"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Paris",
+    "coordinates": {
+      "lat": 38.52389,
+      "lon": 22.19972
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Paris",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/Paris.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fParis.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Loud 88.8",
+    "coordinates": {
+      "lat": 36.79368,
+      "lon": 24.57577
+    },
+    "radioStations": [
+      {
+        "title": "Loud 88.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s3.onweb.gr:8888/stream?type=http&nocache=167224"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Orchestral",
+    "coordinates": {
+      "lat": 36.74536,
+      "lon": 24.4265
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Orchestral",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Orchestral.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fOrchestral.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Παύλειος Λόγος - Ι.M.Β.Ν.Κ 90.2",
+    "coordinates": {
+      "lat": 38.51458,
+      "lon": 26.22241
+    },
+    "radioStations": [
+      {
+        "title": "Παύλειος Λόγος - Ι.M.Β.Ν.Κ 90.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8548/"
+      }
+    ]
+  },
+  {
+    "name": "Μελωδία 106.6",
+    "coordinates": {
+      "lat": 35.37585,
+      "lon": 24.20109
+    },
+    "radioStations": [
+      {
+        "title": "Μελωδία 106.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rdst.win:59316/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rock and Blues Athens",
+    "coordinates": {
+      "lat": 37.59524,
+      "lon": 22.04025
+    },
+    "radioStations": [
+      {
+        "title": "Rock and Blues Athens",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/bb59ed73-801d-473b-84d6-da8368f769b3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/"
+      }
+    ]
+  },
+  {
+    "name": "Original 94.4",
+    "coordinates": {
+      "lat": 40.47333,
+      "lon": 25.52222
+    },
+    "radioStations": [
+      {
+        "title": "Original 94.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8105/stream?type=http&nocache=117604"
+      }
+    ]
+  },
+  {
+    "name": "Nostos 100.6",
+    "coordinates": {
+      "lat": 36.61139,
+      "lon": 27.13333
+    },
+    "radioStations": [
+      {
+        "title": "Nostos 100.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://neos.win:37878/stream?type=.mp3?ver=325606"
+      }
+    ]
+  },
+  {
+    "name": "Άστρο 96.4",
+    "coordinates": {
+      "lat": 36.62794,
+      "lon": 24.92021
+    },
+    "radioStations": [
+      {
+        "title": "Άστρο 96.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eco.onestreaming.com:8099/stream?type=http&nocache=146740"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Reiki",
+    "coordinates": {
+      "lat": 39.88778,
+      "lon": 20.62389
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Reiki",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fReiki.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Gypsy Jazz",
+    "coordinates": {
+      "lat": 39.37194,
+      "lon": 21.18333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Gypsy Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fGypsy_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MusicArtclub Radio",
+    "coordinates": {
+      "lat": 37.71051,
+      "lon": 23.34659
+    },
+    "radioStations": [
+      {
+        "title": "MusicArtclub Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu9.fastcast4u.com:8090/;"
+      }
+    ]
+  },
+  {
+    "name": "RadioMore",
+    "coordinates": {
+      "lat": 37.30895,
+      "lon": 26.54723
+    },
+    "radioStations": [
+      {
+        "title": "RadioMore",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eco.onestreaming.com/proxy/moreradio/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Sinatra Style",
+    "coordinates": {
+      "lat": 39.19722,
+      "lon": 20.18556
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Sinatra Style",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/151_sinatra_st-600x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fSinatra_style.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Viva FM 95.3",
+    "coordinates": {
+      "lat": 39.3525,
+      "lon": 21.75
+    },
+    "radioStations": [
+      {
+        "title": "Viva FM 95.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vivafm.com/fav.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s17.myradiostream.com:8742/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Μάχη 99.8",
+    "coordinates": {
+      "lat": 38.54097,
+      "lon": 25.56287
+    },
+    "radioStations": [
+      {
+        "title": "Μάχη 99.8",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/514bb3ec-475d-46bd-9059-879e50b5fecf.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://maxhfm.streams.gr/ic/maxhfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Yellow",
+    "coordinates": {
+      "lat": 36.83175,
+      "lon": 25.89821
+    },
+    "radioStations": [
+      {
+        "title": "Yellow",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.greekstream.net/yellow"
+      }
+    ]
+  },
+  {
+    "name": "Λαϊκός 106.3",
+    "coordinates": {
+      "lat": 37.15397,
+      "lon": 24.50614
+    },
+    "radioStations": [
+      {
+        "title": "Λαϊκός 106.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/6f02d866-69da-45fd-9f19-c1c37bee5bd7.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sp2.streams.ovh:8102/stream?type=http&nocache=70"
+      }
+    ]
+  },
+  {
+    "name": "Karamela 92.4",
+    "coordinates": {
+      "lat": 35.41623,
+      "lon": 26.92328
+    },
+    "radioStations": [
+      {
+        "title": "Karamela 92.4",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.live24.gr/924fm-thess"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art-Opera",
+    "coordinates": {
+      "lat": 36.88778,
+      "lon": 22.23317
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art-Opera",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fOpera.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Τρανζίστορ 100.3",
+    "coordinates": {
+      "lat": 36.14955,
+      "lon": 22.98979
+    },
+    "radioStations": [
+      {
+        "title": "Τρανζίστορ 100.3",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tranzistor1003.gr/wp-content/uploads/2022/06/cropped-android-chrome-512x512-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://metromedia.live24.gr/tranzistor1003thess"
+      }
+    ]
+  },
+  {
+    "name": "Ορθοδοξία και Παράδοση 103",
+    "coordinates": {
+      "lat": 39.00556,
+      "lon": 21.63778
+    },
+    "radioStations": [
+      {
+        "title": "Ορθοδοξία και Παράδοση 103",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.lts-group.eu:52390/ANS"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Just Blues",
+    "coordinates": {
+      "lat": 39.34722,
+      "lon": 21.45833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Just Blues",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/040_just_blues_RadioArt.com.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fJust_blues.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Panikos",
+    "coordinates": {
+      "lat": 35.20176,
+      "lon": 24.13711
+    },
+    "radioStations": [
+      {
+        "title": "Panikos",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://toradio.cc:8010/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - After Midnight",
+    "coordinates": {
+      "lat": 40.83628,
+      "lon": 21.14061
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - After Midnight",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAfter_midnight.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Jazz Trios",
+    "coordinates": {
+      "lat": 39.25,
+      "lon": 21.18528
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Jazz Trios",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/Jazz_trios.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fJazz_trios.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Morning Wake Up",
+    "coordinates": {
+      "lat": 37.4582,
+      "lon": 26.97272
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Morning Wake Up",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fMorning_wake_up.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Jazz Ballads",
+    "coordinates": {
+      "lat": 39.82328,
+      "lon": 20.72862
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Jazz Ballads",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/images/channels/Jazz_ballads.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fJazz_ballads.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Lullaby",
+    "coordinates": {
+      "lat": 39.52264,
+      "lon": 20.88358
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Lullaby",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/11_Lullaby.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fLullaby.mp3"
+      }
+    ]
+  },
+  {
+    "name": "hit radio greece",
+    "coordinates": {
+      "lat": 34.8346,
+      "lon": 24.08572
+    },
+    "radioStations": [
+      {
+        "title": "hit radio greece",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://23.81.33.82:24952/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Chillout & Tropical",
+    "coordinates": {
+      "lat": 35.25459,
+      "lon": 24.63495
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Chillout & Tropical",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fChillout_and_tropical.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mousiko Kanali 105.1",
+    "coordinates": {
+      "lat": 40.65304,
+      "lon": 22.92624
+    },
+    "radioStations": [
+      {
+        "title": "Mousiko Kanali 105.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/89e8df91-3e77-4ac6-a46f-c615bf4430f8.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.mousikokanali.gr/mc"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Ancient",
+    "coordinates": {
+      "lat": 37.0394,
+      "lon": 25.08258
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Ancient",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fAncient.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Vocal Jazz",
+    "coordinates": {
+      "lat": 36.35,
+      "lon": 25.76667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Vocal Jazz",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioart.com/fVocal_jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ERT Trito Maestro",
+    "coordinates": {
+      "lat": 36.22243,
+      "lon": 27.61191
+    },
+    "radioStations": [
+      {
+        "title": "ERT Trito Maestro",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostreaming.ert.gr/ert-trito-maestro"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Franz Schubert",
+    "coordinates": {
+      "lat": 38.42892,
+      "lon": 22.66728
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Franz Schubert",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fFranz_schubert.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottle O' Groove",
+    "coordinates": {
+      "lat": 39.6,
+      "lon": 22.06667
+    },
+    "radioStations": [
+      {
+        "title": "Bottle O' Groove",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/39db5b_ccab40b8dea442d8af3d91f595ff79b5%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/39db5b_ccab40b8dea442d8af3d91f595ff79b5%7emv2.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n06.radiojar.com/n8buhxbsk9duv?rj-ttl=5&rj-tok=AAABeD060SkAnhYCEHekyrYV6g"
+      }
+    ]
+  },
+  {
+    "name": "Bravo 89.6",
+    "coordinates": {
+      "lat": 37.5785,
+      "lon": 26.48069
+    },
+    "radioStations": [
+      {
+        "title": "Bravo 89.6",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://resources.live24.gr/resources/images/stations/6e1ecc6f-f081-4f49-92c1-b45ec733861e.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp3.streams.ovh/8046/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Celtic",
+    "coordinates": {
+      "lat": 35.51721,
+      "lon": 23.87818
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Celtic",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioart.com/fCeltic.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pathos Radio",
+    "coordinates": {
+      "lat": 41.35,
+      "lon": 23.86667
+    },
+    "radioStations": [
+      {
+        "title": "Pathos Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dione.shoutca.st:8628/stream/;"
+      }
+    ]
+  },
+  {
+    "name": "Άγιος Οικουμένιος 102",
+    "coordinates": {
+      "lat": 37.63333,
+      "lon": 24.35
+    },
+    "radioStations": [
+      {
+        "title": "Άγιος Οικουμένιος 102",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s5.onweb.gr:8508/"
+      }
+    ]
+  },
+  {
+    "name": "Kasseta",
+    "coordinates": {
+      "lat": 37.41237,
+      "lon": 24.43068
+    },
+    "radioStations": [
+      {
+        "title": "Kasseta",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://politismedia-sec.live24.gr/streameekasetta"
+      }
+    ]
+  },
+  {
+    "name": "Kalamaria FM 101.7 - Thessaloniki - Greece",
+    "coordinates": {
+      "lat": 37.28333,
+      "lon": 26.76667
+    },
+    "radioStations": [
+      {
+        "title": "Kalamaria FM 101.7 - Thessaloniki - Greece",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.greekstream.net/focusfm_128"
+      }
+    ]
+  },
+  {
+    "name": "1st Greek Hits FLAC Non-Stop Radio",
+    "coordinates": {
+      "lat": 36.14889,
+      "lon": 29.59361
+    },
+    "radioStations": [
+      {
+        "title": "1st Greek Hits FLAC Non-Stop Radio",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://newageradio.gr/Greek_Hits_1200x1200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.newageradio.gr/listen/flac_gr/radio.aac"
+      }
+    ]
+  },
+  {
+    "name": "Μελωδία 99.2",
+    "coordinates": {
+      "lat": 40.19048,
+      "lon": 22.0132
+    },
+    "radioStations": [
+      {
+        "title": "Μελωδία 99.2",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mm.aiircdn.com/632/5e185a3184ae6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/8tdwa6ez1duvv"
+      }
+    ]
+  },
+  {
+    "name": "Kiss 91.1",
+    "coordinates": {
+      "lat": 41.26667,
+      "lon": 24.5
+    },
+    "radioStations": [
+      {
+        "title": "Kiss 91.1",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://thekiss.gr/wp-content/uploads/2017/10/cropped-fav1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rdst.win:59110/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Art - Joseph Haydn",
+    "coordinates": {
+      "lat": 41.23064,
+      "lon": 24.88
+    },
+    "radioStations": [
+      {
+        "title": "Radio Art - Joseph Haydn",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioart.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.com/fJoseph_haydn.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ERA I Foni tis Elladas",
+    "coordinates": {
+      "lat": 39.33333,
+      "lon": 22.1
+    },
+    "radioStations": [
+      {
+        "title": "ERA I Foni tis Elladas",
+        "subtitle": "Greece",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostreaming.ert.gr/ert-voiceofgreece"
+      }
+    ]
+  }
+]
