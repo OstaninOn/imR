@@ -416,24 +416,6 @@
   },
   
   {
-    "name": "Pendimi Kanali 2",
-    "coordinates": {
-      "lat": 41.685,
-      "lon": 20.42858
-    },
-    "radioStations": [
-      {
-        "title": "Pendimi Kanali 2",
-        "subtitle": "Albania",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.rtvpendimi.com/wp-content/uploads/2025/01/cropped-RTV-Pendimi-1.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://www.rtvpendimi.com:8020/stream"
-      }
-    ]
-  },
-  {
     "name": "Radio Club FM - Tirana 100.4 MHz",
     "coordinates": {
       "lat": 41.03167,
@@ -448,24 +430,6 @@
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream"
-      }
-    ]
-  },
-  {
-    "name": "sasaram",
-    "coordinates": {
-      "lat": 41.34556,
-      "lon": 19.56722
-    },
-    "radioStations": [
-      {
-        "title": "sasaram",
-        "subtitle": "Albania",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8"
       }
     ]
   },
