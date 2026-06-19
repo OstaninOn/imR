@@ -910,7 +910,8 @@
     {
       "name": "North Macedonia",
       "name_ru": "Северная Македония",
-      "flag": "https://flagcdn.com/w320/mk.png"
+      "flag": "https://flagcdn.com/w320/mk.png",
+      "stationsJSON":"https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/macedonia_radio_stations_45_no_duplicates_big_to_small_cities.json"  
     },
     {
       "name": "Romania",
