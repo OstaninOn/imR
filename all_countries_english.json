@@ -3,7 +3,8 @@
     {
       "name": "Afghanistan",
       "name_ru": "Афганистан",
-      "flag": "https://flagcdn.com/w320/af.png"
+      "flag": "https://flagcdn.com/w320/af.png",
+       "stationsJSON":" https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/afghanistan_radio_stations_103_big_to_small_cities.json"
     },
     {
       "name": "Åland Islands",
