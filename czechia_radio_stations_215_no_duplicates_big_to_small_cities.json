@@ -2,8 +2,8 @@
   {
     "name": "Prague",
     "coordinates": {
-      "lat": 50.0755,
-      "lon": 14.4378
+      "lat": 50.08804,
+      "lon": 14.42076
     },
     "radioStations": [
       {
@@ -20,8 +20,8 @@
   {
     "name": "Brno",
     "coordinates": {
-      "lat": 49.1951,
-      "lon": 16.6068
+      "lat": 49.19522,
+      "lon": 16.60796
     },
     "radioStations": [
       {
@@ -38,8 +38,8 @@
   {
     "name": "Ostrava",
     "coordinates": {
-      "lat": 49.8209,
-      "lon": 18.2625
+      "lat": 49.83465,
+      "lon": 18.28204
     },
     "radioStations": [
       {
@@ -54,64 +54,10 @@
     ]
   },
   {
-    "name": "Plzen",
+    "name": "Pilsen",
     "coordinates": {
-      "lat": 49.7384,
-      "lon": 13.3736
-    },
-    "radioStations": [
-      {
-        "title": "Rádio BLANÍK",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioblanik.cz/design/favicons/apple-icon-180x180.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://27743.live.streamtheworld.com:443/RADIO_BLANIK.aac?gdpr=0"
-      }
-    ]
-  },
-  {
-    "name": "Liberec",
-    "coordinates": {
-      "lat": 50.7663,
-      "lon": 15.0543
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Radiožurnál",
-        "subtitle": "news,public radio,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/cro1-128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Olomouc",
-    "coordinates": {
-      "lat": 49.5938,
-      "lon": 17.2509
-    },
-    "radioStations": [
-      {
-        "title": "Rock Radio",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://rockovyradio.cz/design/img/logo.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://22653.live.streamtheworld.com:443/ROCK_RADIO_128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Ceske Budejovice",
-    "coordinates": {
-      "lat": 48.9745,
-      "lon": 14.4743
+      "lat": 49.74747,
+      "lon": 13.37759
     },
     "radioStations": [
       {
@@ -126,28 +72,28 @@
     ]
   },
   {
-    "name": "Hradec Kralove",
+    "name": "Liberec",
     "coordinates": {
-      "lat": 50.2092,
-      "lon": 15.8328
+      "lat": 50.76711,
+      "lon": 15.05619
     },
     "radioStations": [
       {
-        "title": "Impuls Ráááádio",
+        "title": "Rádio BLANÍK",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png",
+        "imageURL": "https://radioblanik.cz/design/favicons/apple-icon-180x180.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://icecast5.play.cz/impuls128.mp3"
+        "streamURL": "https://25503.live.streamtheworld.com:443/RADIO_BLANIK.aac?gdpr=0"
       }
     ]
   },
   {
-    "name": "Usti nad Labem",
+    "name": "Olomouc",
     "coordinates": {
-      "lat": 50.6611,
-      "lon": 14.0328
+      "lat": 49.59552,
+      "lon": 17.25175
     },
     "radioStations": [
       {
@@ -162,46 +108,46 @@
     ]
   },
   {
-    "name": "Pardubice",
+    "name": "České Budějovice",
     "coordinates": {
-      "lat": 50.0343,
-      "lon": 15.7812
+      "lat": 48.97447,
+      "lon": 14.47434
     },
     "radioStations": [
       {
-        "title": "ČRo Dvojka",
-        "subtitle": "public radio,talk,český rozhlas • Czechia",
+        "title": "Rock Radio",
+        "subtitle": "rock • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico",
+        "imageURL": "https://rockovyradio.cz/design/img/logo.svg",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/cro2-128.mp3"
+        "streamURL": "https://25503.live.streamtheworld.com:443/ROCK_RADIO_128.mp3"
       }
     ]
   },
   {
-    "name": "Zlin",
+    "name": "Hradec Králové",
     "coordinates": {
-      "lat": 49.2244,
-      "lon": 17.6627
+      "lat": 50.20923,
+      "lon": 15.83277
     },
     "radioStations": [
       {
-        "title": "Oldies Rádio",
-        "subtitle": "oldies • Czechia",
+        "title": "Impuls Ráááádio",
+        "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.oldiesradio.cz/favicon.ico",
+        "imageURL": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/oldiesradio128.mp3"
+        "streamURL": "http://icecast5.play.cz/impuls128.mp3"
       }
     ]
   },
   {
-    "name": "Havirov",
+    "name": "Ústí nad Labem",
     "coordinates": {
-      "lat": 49.7808,
-      "lon": 18.4369
+      "lat": 50.6607,
+      "lon": 14.03227
     },
     "radioStations": [
       {
@@ -216,10 +162,10 @@
     ]
   },
   {
-    "name": "Kladno",
+    "name": "Pardubice",
     "coordinates": {
-      "lat": 50.1473,
-      "lon": 14.1029
+      "lat": 50.04075,
+      "lon": 15.77659
     },
     "radioStations": [
       {
@@ -229,69 +175,69 @@
         "imageURL": "http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://n0e.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABnuBR3OkA51iPA4nA-Ti2Xg"
+        "streamURL": "http://n10.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABnuGisFYA2EkUGTPtxZ-QmQ"
       }
     ]
   },
   {
-    "name": "Most",
+    "name": "Brno střed",
     "coordinates": {
-      "lat": 50.503,
-      "lon": 13.6362
+      "lat": 49.19343,
+      "lon": 16.60712
     },
     "radioStations": [
       {
-        "title": "Rádio Blaník živé",
-        "subtitle": "Czechia",
+        "title": "ČRo Radiožurnál",
+        "subtitle": "news,public radio,český rozhlas • Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/blanikfm128.mp3"
+        "streamURL": "http://icecast8.play.cz/cro1-128.mp3"
       }
     ]
   },
   {
-    "name": "Opava",
+    "name": "Havířov",
     "coordinates": {
-      "lat": 49.9387,
-      "lon": 17.9026
+      "lat": 49.77984,
+      "lon": 18.43688
     },
     "radioStations": [
       {
-        "title": "ČRO Radiožurnál Sport",
-        "subtitle": "news,public radio,sport,talk • Czechia",
+        "title": "ČRo Dvojka",
+        "subtitle": "public radio,talk,český rozhlas • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/radiozurnal_sport_high.aac"
+        "streamURL": "http://icecast6.play.cz/cro2-128.mp3"
       }
     ]
   },
   {
-    "name": "Frydek-Mistek",
+    "name": "Zlín",
     "coordinates": {
-      "lat": 49.6819,
-      "lon": 18.3673
+      "lat": 49.22645,
+      "lon": 17.67065
     },
     "radioStations": [
       {
-        "title": "povídka",
-        "subtitle": "undefined • Czechia",
+        "title": "Oldies Rádio",
+        "subtitle": "oldies • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "http://www.oldiesradio.cz/favicon.ico",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://ice3.abradio.cz/povidka128.mp3"
+        "streamURL": "http://ice.abradio.cz/oldiesradio128.mp3"
       }
     ]
   },
   {
-    "name": "Karvina",
+    "name": "Kladno",
     "coordinates": {
-      "lat": 49.854,
-      "lon": 18.5417
+      "lat": 50.14734,
+      "lon": 14.10285
     },
     "radioStations": [
       {
@@ -306,28 +252,10 @@
     ]
   },
   {
-    "name": "Jihlava",
+    "name": "Most",
     "coordinates": {
-      "lat": 49.3961,
-      "lon": 15.5912
-    },
-    "radioStations": [
-      {
-        "title": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
-        "subtitle": "cultural,music,news,prague,rfe-rl,talk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://n12.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuBR3MEAwlzhw8M46iRB9Q"
-      }
-    ]
-  },
-  {
-    "name": "Teplice",
-    "coordinates": {
-      "lat": 50.6404,
-      "lon": 13.8245
+      "lat": 50.50301,
+      "lon": 13.63617
     },
     "radioStations": [
       {
@@ -342,136 +270,10 @@
     ]
   },
   {
-    "name": "Decin",
+    "name": "Stodůlky",
     "coordinates": {
-      "lat": 50.7822,
-      "lon": 14.2148
-    },
-    "radioStations": [
-      {
-        "title": "Český Impuls",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/cesky-impuls.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Chomutov",
-    "coordinates": {
-      "lat": 50.4605,
-      "lon": 13.4178
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Beat (128 AAC)",
-        "subtitle": "classic rock,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radiobeat.cz/img/logo@2x.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast2.play.cz/beat128aac"
-      }
-    ]
-  },
-  {
-    "name": "Karlovy Vary",
-    "coordinates": {
-      "lat": 50.2319,
-      "lon": 12.871
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Vltava",
-        "subtitle": "classical,public radio,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://api.play.cz/static/radio_logo/t200/cro3.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast5.play.cz/cro3-128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Jablonec nad Nisou",
-    "coordinates": {
-      "lat": 50.7243,
-      "lon": 15.1711
-    },
-    "radioStations": [
-      {
-        "title": "Radio Krokodyl",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast-u2.play.cz:8000/krokodyl128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Mlada Boleslav",
-    "coordinates": {
-      "lat": 50.4114,
-      "lon": 14.9032
-    },
-    "radioStations": [
-      {
-        "title": "FREKVENCE 1",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v138",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://28563.live.streamtheworld.com:443/FREKVENCE1.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Prostejov",
-    "coordinates": {
-      "lat": 49.4719,
-      "lon": 17.1118
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio Osmdesátka",
-        "subtitle": "80s • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/thumb_490_images_w200.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/hit80128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Prerov",
-    "coordinates": {
-      "lat": 49.4551,
-      "lon": 17.4509
-    },
-    "radioStations": [
-      {
-        "title": "Rádio pohádka",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/thumb_25_images_w200.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice3.abradio.cz/pohadka128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Ceska Lipa",
-    "coordinates": {
-      "lat": 50.6855,
-      "lon": 14.5376
+      "lat": 50.05,
+      "lon": 14.31667
     },
     "radioStations": [
       {
@@ -486,100 +288,172 @@
     ]
   },
   {
-    "name": "Trebic",
+    "name": "Opava",
     "coordinates": {
-      "lat": 49.2149,
-      "lon": 15.8817
+      "lat": 49.93866,
+      "lon": 17.90257
     },
     "radioStations": [
       {
-        "title": "WeHouseRadio",
-        "subtitle": "funky house,house,jackin house,nu-disco,soulful house,tech house • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast9.play.cz/zun192.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Trinec",
-    "coordinates": {
-      "lat": 49.6776,
-      "lon": 18.6708
-    },
-    "radioStations": [
-      {
-        "title": "Rádio humor 2",
-        "subtitle": "humor • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://25693.live.streamtheworld.com:443/RADIO_HUMOR.aac"
-      }
-    ]
-  },
-  {
-    "name": "Tabor",
-    "coordinates": {
-      "lat": 49.4144,
-      "lon": 14.6578
-    },
-    "radioStations": [
-      {
-        "title": "County",
-        "subtitle": "country • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast4.play.cz/country128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Znojmo",
-    "coordinates": {
-      "lat": 48.8555,
-      "lon": 16.0488
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio Černá Hora",
+        "title": "Český Impuls",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png",
+        "imageURL": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/cernahora128.mp3"
+        "streamURL": "http://icecast6.play.cz/cesky-impuls.mp3"
       }
     ]
   },
   {
-    "name": "Kolin",
+    "name": "Žižkov",
     "coordinates": {
-      "lat": 50.0281,
-      "lon": 15.2016
+      "lat": 50.08333,
+      "lon": 14.45
     },
     "radioStations": [
       {
-        "title": "Rádio Blaník CZ Webové rádio",
+        "title": "Rádio Beat (128 AAC)",
+        "subtitle": "classic rock,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobeat.cz/img/logo@2x.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast2.play.cz/beat128aac"
+      }
+    ]
+  },
+  {
+    "name": "Frýdek-Místek",
+    "coordinates": {
+      "lat": 49.68333,
+      "lon": 18.35
+    },
+    "radioStations": [
+      {
+        "title": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
+        "subtitle": "cultural,music,news,prague,rfe-rl,talk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n05.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuGisVUA_Mlw2zt8GoHcZw"
+      }
+    ]
+  },
+  {
+    "name": "Teplice",
+    "coordinates": {
+      "lat": 50.6404,
+      "lon": 13.82451
+    },
+    "radioStations": [
+      {
+        "title": "Rádio pohádka",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/thumb_25_images_w200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice3.abradio.cz/pohadka128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jihlava",
+    "coordinates": {
+      "lat": 49.3961,
+      "lon": 15.59124
+    },
+    "radioStations": [
+      {
+        "title": "povídka",
+        "subtitle": "undefined • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice3.abradio.cz/povidka128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chodov",
+    "coordinates": {
+      "lat": 50.03669,
+      "lon": 14.50444
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Blaník živé",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/blanikcz128.mp3"
+        "streamURL": "http://ice.abradio.cz/blanikfm128.mp3"
       }
     ]
   },
   {
-    "name": "Pribram",
+    "name": "Královské Vinohrady",
     "coordinates": {
-      "lat": 49.6855,
-      "lon": 14.0104
+      "lat": 50.07438,
+      "lon": 14.44367
+    },
+    "radioStations": [
+      {
+        "title": "ČRO Radiožurnál Sport",
+        "subtitle": "news,public radio,sport,talk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/radiozurnal_sport_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Karviná",
+    "coordinates": {
+      "lat": 49.854,
+      "lon": 18.54169
+    },
+    "radioStations": [
+      {
+        "title": "FREKVENCE 1",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v138",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://25603.live.streamtheworld.com:443/FREKVENCE1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chomutov",
+    "coordinates": {
+      "lat": 50.46048,
+      "lon": 13.41779
+    },
+    "radioStations": [
+      {
+        "title": "ČRo Vltava",
+        "subtitle": "classical,public radio,český rozhlas • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://api.play.cz/static/radio_logo/t200/cro3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast5.play.cz/cro3-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Děčín",
+    "coordinates": {
+      "lat": 50.78215,
+      "lon": 14.21478
     },
     "radioStations": [
       {
@@ -594,10 +468,262 @@
     ]
   },
   {
-    "name": "Cheb",
+    "name": "Jablonec nad Nisou",
     "coordinates": {
-      "lat": 50.0796,
-      "lon": 12.3739
+      "lat": 50.72431,
+      "lon": 15.17108
+    },
+    "radioStations": [
+      {
+        "title": "Rádio humor 2",
+        "subtitle": "humor • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://27913.live.streamtheworld.com:443/RADIO_HUMOR.aac"
+      }
+    ]
+  },
+  {
+    "name": "Karlovy Vary",
+    "coordinates": {
+      "lat": 50.23271,
+      "lon": 12.87117
+    },
+    "radioStations": [
+      {
+        "title": "WeHouseRadio",
+        "subtitle": "funky house,house,jackin house,nu-disco,soulful house,tech house • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast9.play.cz/zun192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mladá Boleslav",
+    "coordinates": {
+      "lat": 50.41135,
+      "lon": 14.90318
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio Osmdesátka",
+        "subtitle": "80s • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/thumb_490_images_w200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/hit80128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Prostějov",
+    "coordinates": {
+      "lat": 49.47188,
+      "lon": 17.11184
+    },
+    "radioStations": [
+      {
+        "title": "Fajn Rádio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.fajnradio.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/fajn128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Přerov",
+    "coordinates": {
+      "lat": 49.45511,
+      "lon": 17.4509
+    },
+    "radioStations": [
+      {
+        "title": "svobodne-radio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://svobodneradio.radioca.st:8859/stream"
+      }
+    ]
+  },
+  {
+    "name": "Třinec",
+    "coordinates": {
+      "lat": 49.67763,
+      "lon": 18.67078
+    },
+    "radioStations": [
+      {
+        "title": "HEY rádio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://heyradio.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast3.play.cz/hey-radio128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Staré Strašnice",
+    "coordinates": {
+      "lat": 50.07649,
+      "lon": 14.51037
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio Černá Hora",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/cernahora128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Holešovice",
+    "coordinates": {
+      "lat": 50.10468,
+      "lon": 14.44946
+    },
+    "radioStations": [
+      {
+        "title": "Evropa 2 - aac",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://25533.live.streamtheworld.com:443/EVROPA2AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Vršovice",
+    "coordinates": {
+      "lat": 50.06732,
+      "lon": 14.46026
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio FM",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/static/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/hitradiofm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Česká Lípa",
+    "coordinates": {
+      "lat": 50.68551,
+      "lon": 14.53764
+    },
+    "radioStations": [
+      {
+        "title": "Svobodný vysílač",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.svobodny-vysilac.cz:8000/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tábor",
+    "coordinates": {
+      "lat": 49.41441,
+      "lon": 14.6578
+    },
+    "radioStations": [
+      {
+        "title": "Phonk Nation Radio",
+        "subtitle": "phonk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mxnticek.eu/listen/phonk/128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Libeň",
+    "coordinates": {
+      "lat": 50.10819,
+      "lon": 14.47457
+    },
+    "radioStations": [
+      {
+        "title": "RADIO BEAT",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobeat.cz/img/logo@2x.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast1.play.cz/beat64.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Znojmo",
+    "coordinates": {
+      "lat": 48.8555,
+      "lon": 16.0488
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Beat",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/radiobeat128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Záběhlice",
+    "coordinates": {
+      "lat": 50.0573,
+      "lon": 14.5038
+    },
+    "radioStations": [
+      {
+        "title": "Radio Krokodyl",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast-u2.play.cz:8000/krokodyl128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nusle",
+    "coordinates": {
+      "lat": 50.06458,
+      "lon": 14.4399
     },
     "radioStations": [
       {
@@ -612,10 +738,100 @@
     ]
   },
   {
-    "name": "Pisek",
+    "name": "Smíchov",
     "coordinates": {
-      "lat": 49.3088,
-      "lon": 14.1475
+      "lat": 50.07204,
+      "lon": 14.40415
+    },
+    "radioStations": [
+      {
+        "title": "RADIO1",
+        "subtitle": "alternative • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio1.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/radio1-64.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Třebíč",
+    "coordinates": {
+      "lat": 49.21492,
+      "lon": 15.88166
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Blaník Oldies",
+        "subtitle": "oldies • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.radia.cz/oldiesradio128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Modřany",
+    "coordinates": {
+      "lat": 50.01116,
+      "lon": 14.4096
+    },
+    "radioStations": [
+      {
+        "title": "ČRo D-dur",
+        "subtitle": "classical • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+      }
+    ]
+  },
+  {
+    "name": "Kolín",
+    "coordinates": {
+      "lat": 50.02806,
+      "lon": 15.1998
+    },
+    "radioStations": [
+      {
+        "title": "Kiss 98 FM",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz:8000/kiss128aac"
+      }
+    ]
+  },
+  {
+    "name": "Cheb",
+    "coordinates": {
+      "lat": 50.07963,
+      "lon": 12.37392
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Blaník CZ Webové rádio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/blanikcz128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Příbram",
+    "coordinates": {
+      "lat": 49.68988,
+      "lon": 14.01043
     },
     "radioStations": [
       {
@@ -632,8 +848,26 @@
   {
     "name": "Trutnov",
     "coordinates": {
-      "lat": 50.561,
+      "lat": 50.56101,
       "lon": 15.9127
+    },
+    "radioStations": [
+      {
+        "title": "Dance Radio",
+        "subtitle": "320kbps • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/dance-radio320.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Písek",
+    "coordinates": {
+      "lat": 49.3088,
+      "lon": 14.1475
     },
     "radioStations": [
       {
@@ -648,280 +882,10 @@
     ]
   },
   {
-    "name": "Orlova",
+    "name": "Šumperk",
     "coordinates": {
-      "lat": 49.8453,
-      "lon": 18.4301
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Jazz",
-        "subtitle": "flac,jazz,lossless,public radio,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-jazz.flac"
-      }
-    ]
-  },
-  {
-    "name": "Kromeriz",
-    "coordinates": {
-      "lat": 49.2984,
-      "lon": 17.393
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Nostalgie",
-        "subtitle": "classic rock,dance,disco,oldies,pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast3.play.cz/radio-nostalgie128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Vsetin",
-    "coordinates": {
-      "lat": 49.3387,
-      "lon": 17.9962
-    },
-    "radioStations": [
-      {
-        "title": "Evropa 2 - aac",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://28573.live.streamtheworld.com:443/EVROPA2AAC.aac"
-      }
-    ]
-  },
-  {
-    "name": "Sumperk",
-    "coordinates": {
-      "lat": 49.9653,
-      "lon": 16.9706
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Beat",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/radiobeat128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Uherske Hradiste",
-    "coordinates": {
-      "lat": 49.0698,
-      "lon": 17.4597
-    },
-    "radioStations": [
-      {
-        "title": "Radio Folk",
-        "subtitle": "czech folk music,folk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice2.abradio.cz/folk64a.aac"
-      }
-    ]
-  },
-  {
-    "name": "Breclav",
-    "coordinates": {
-      "lat": 48.7589,
-      "lon": 16.882
-    },
-    "radioStations": [
-      {
-        "title": "Fajn Rádio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.fajnradio.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/fajn128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Hodonin",
-    "coordinates": {
-      "lat": 48.8489,
-      "lon": 17.1324
-    },
-    "radioStations": [
-      {
-        "title": "Rockzone",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.rockzone.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast5.play.cz/rockzone128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Cesky Tesin",
-    "coordinates": {
-      "lat": 49.7461,
-      "lon": 18.6261
-    },
-    "radioStations": [
-      {
-        "title": "svobodne-radio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://svobodneradio.radioca.st:8859/stream"
-      }
-    ]
-  },
-  {
-    "name": "Litomerice",
-    "coordinates": {
-      "lat": 50.5335,
-      "lon": 14.1318
-    },
-    "radioStations": [
-      {
-        "title": "HEY rádio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://heyradio.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast3.play.cz/hey-radio128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Litvinov",
-    "coordinates": {
-      "lat": 50.6042,
-      "lon": 13.6181
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio Faktor",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://cdn-profiles.tunein.com/s10545/images/logog.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.abradio.cz/faktor128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Novy Jicin",
-    "coordinates": {
-      "lat": 49.5944,
-      "lon": 18.0103
-    },
-    "radioStations": [
-      {
-        "title": "RADIO BEAT",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radiobeat.cz/img/logo@2x.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast1.play.cz/beat64.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Sokolov",
-    "coordinates": {
-      "lat": 50.1813,
-      "lon": 12.6401
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Junior",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://junior.rozhlas.cz/sites/default/files/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg"
-      }
-    ]
-  },
-  {
-    "name": "Chrudim",
-    "coordinates": {
-      "lat": 49.9511,
-      "lon": 15.7956
-    },
-    "radioStations": [
-      {
-        "title": "Radio Čas Rock",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/casrock128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Strakonice",
-    "coordinates": {
-      "lat": 49.2614,
-      "lon": 13.9024
-    },
-    "radioStations": [
-      {
-        "title": "HIT Rádio Orion",
-        "subtitle": "hits • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/orion128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Koprivnice",
-    "coordinates": {
-      "lat": 49.5995,
-      "lon": 18.1448
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio FM",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/static/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/hitradiofm128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Valasske Mezirici",
-    "coordinates": {
-      "lat": 49.4718,
-      "lon": 17.9711
+      "lat": 49.96528,
+      "lon": 16.97061
     },
     "radioStations": [
       {
@@ -936,10 +900,82 @@
     ]
   },
   {
-    "name": "Klatovy",
+    "name": "Kroměříž",
     "coordinates": {
-      "lat": 49.3955,
-      "lon": 13.2951
+      "lat": 49.29785,
+      "lon": 17.39312
+    },
+    "radioStations": [
+      {
+        "title": "Rockzone",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rockzone.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast5.play.cz/rockzone128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Orlová",
+    "coordinates": {
+      "lat": 49.84527,
+      "lon": 18.43011
+    },
+    "radioStations": [
+      {
+        "title": "Radio Proglas",
+        "subtitle": "christian • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/proglas128"
+      }
+    ]
+  },
+  {
+    "name": "Valašské Meziříčí",
+    "coordinates": {
+      "lat": 49.47181,
+      "lon": 17.97113
+    },
+    "radioStations": [
+      {
+        "title": "ČRo Jazz",
+        "subtitle": "flac,jazz,lossless,public radio,český rozhlas • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-jazz.flac"
+      }
+    ]
+  },
+  {
+    "name": "Krč",
+    "coordinates": {
+      "lat": 50.0416,
+      "lon": 14.44573
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio Faktor",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s10545/images/logog.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.abradio.cz/faktor128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nové Město",
+    "coordinates": {
+      "lat": 50.07829,
+      "lon": 14.42089
     },
     "radioStations": [
       {
@@ -954,262 +990,10 @@
     ]
   },
   {
-    "name": "Jindrichuv Hradec",
+    "name": "Kobylisy",
     "coordinates": {
-      "lat": 49.144,
-      "lon": 15.003
-    },
-    "radioStations": [
-      {
-        "title": "RADIO1",
-        "subtitle": "alternative • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radio1.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/radio1-64.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Kutna Hora",
-    "coordinates": {
-      "lat": 49.9484,
-      "lon": 15.2682
-    },
-    "radioStations": [
-      {
-        "title": "Phonk Nation Radio",
-        "subtitle": "phonk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mxnticek.eu/listen/phonk/128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Bohumin",
-    "coordinates": {
-      "lat": 49.9041,
-      "lon": 18.3575
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Ostrava",
-        "subtitle": "general,regional radio • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://ostrava.rozhlas.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/ostrava_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Zdar nad Sazavou",
-    "coordinates": {
-      "lat": 49.5626,
-      "lon": 15.9392
-    },
-    "radioStations": [
-      {
-        "title": "Radio Proglas",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.proglas.cz/res/images/og-default.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast1.play.cz/proglas96aac"
-      }
-    ]
-  },
-  {
-    "name": "Blansko",
-    "coordinates": {
-      "lat": 49.3631,
-      "lon": 16.6445
-    },
-    "radioStations": [
-      {
-        "title": "Kiss 98 FM",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz:8000/kiss128aac"
-      }
-    ]
-  },
-  {
-    "name": "Beroun",
-    "coordinates": {
-      "lat": 49.9638,
-      "lon": 14.072
-    },
-    "radioStations": [
-      {
-        "title": "Radio Blaník Morava a Slezsko",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ=="
-      }
-    ]
-  },
-  {
-    "name": "Melnik",
-    "coordinates": {
-      "lat": 50.3505,
-      "lon": 14.4741
-    },
-    "radioStations": [
-      {
-        "title": "ABradio Chillout",
-        "subtitle": "chillout,electronic,trip hop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/static/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3stream4.abradio.cz/chillout128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Nachod",
-    "coordinates": {
-      "lat": 50.4167,
-      "lon": 16.1629
-    },
-    "radioStations": [
-      {
-        "title": "Radio Svoboda Rus",
-        "subtitle": "news,political talk,rfe,talk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://n0a.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuBR4koAl3H8eoEfwZDSmg"
-      }
-    ]
-  },
-  {
-    "name": "Jirkov",
-    "coordinates": {
-      "lat": 50.4998,
-      "lon": 13.4477
-    },
-    "radioStations": [
-      {
-        "title": "Radio Svoboda (ru) (official stream)",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://n09.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuBR4qAAew5b-O9Twb_c1A"
-      }
-    ]
-  },
-  {
-    "name": "Brandys nad Labem-Stara Boleslav",
-    "coordinates": {
-      "lat": 50.1871,
-      "lon": 14.6633
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Samson",
-        "subtitle": "country,folk,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/samsonfm128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Louny",
-    "coordinates": {
-      "lat": 50.3566,
-      "lon": 13.7967
-    },
-    "radioStations": [
-      {
-        "title": "Svobodný vysílač",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.svobodny-vysilac.cz:8000/live.ogg"
-      }
-    ]
-  },
-  {
-    "name": "Kralupy nad Vltavou",
-    "coordinates": {
-      "lat": 50.2411,
-      "lon": 14.3115
-    },
-    "radioStations": [
-      {
-        "title": "Evropa2 Youradio Flashbacky",
-        "subtitle": "90's,retro • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://m.actve.net/e2/favicon/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.actve.net/web-e2-flashback"
-      }
-    ]
-  },
-  {
-    "name": "Otrokovice",
-    "coordinates": {
-      "lat": 49.2093,
-      "lon": 17.5395
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Relax",
-        "subtitle": "pop,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast7.play.cz/relax128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Bilina",
-    "coordinates": {
-      "lat": 50.5485,
-      "lon": 13.7754
-    },
-    "radioStations": [
-      {
-        "title": "Český rozhlas Brno",
-        "subtitle": "local • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/brno.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Benesov",
-    "coordinates": {
-      "lat": 49.7816,
-      "lon": 14.6869
+      "lat": 50.12366,
+      "lon": 14.45209
     },
     "radioStations": [
       {
@@ -1224,10 +1008,118 @@
     ]
   },
   {
-    "name": "Slany",
+    "name": "Nový Jičín",
     "coordinates": {
-      "lat": 50.2305,
-      "lon": 14.0869
+      "lat": 49.59438,
+      "lon": 18.01028
+    },
+    "radioStations": [
+      {
+        "title": "Evropa 2 - mp3",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://25703.live.streamtheworld.com:443/EVROPA2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Břeclav",
+    "coordinates": {
+      "lat": 48.75897,
+      "lon": 16.88203
+    },
+    "radioStations": [
+      {
+        "title": "Radio Folk",
+        "subtitle": "czech folk music,folk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice2.abradio.cz/folk64a.aac"
+      }
+    ]
+  },
+  {
+    "name": "Český Těšín",
+    "coordinates": {
+      "lat": 49.74613,
+      "lon": 18.62613
+    },
+    "radioStations": [
+      {
+        "title": "Radio Čas Rock",
+        "subtitle": "rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast6.play.cz/casrock128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vsetín",
+    "coordinates": {
+      "lat": 49.33871,
+      "lon": 17.99619
+    },
+    "radioStations": [
+      {
+        "title": "HIT Rádio Orion",
+        "subtitle": "hits • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/orion128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Uherské Hradiště",
+    "coordinates": {
+      "lat": 49.06975,
+      "lon": 17.45969
+    },
+    "radioStations": [
+      {
+        "title": "ABradio Chillout",
+        "subtitle": "chillout,electronic,trip hop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/static/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3stream4.abradio.cz/chillout128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Líšeň",
+    "coordinates": {
+      "lat": 49.20711,
+      "lon": 16.69484
+    },
+    "radioStations": [
+      {
+        "title": "County",
+        "subtitle": "country • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast4.play.cz/country128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Litoměřice",
+    "coordinates": {
+      "lat": 50.53348,
+      "lon": 14.1318
     },
     "radioStations": [
       {
@@ -1242,100 +1134,46 @@
     ]
   },
   {
-    "name": "Uhersky Brod",
+    "name": "Havlíčkův Brod",
     "coordinates": {
-      "lat": 49.0251,
-      "lon": 17.6472
+      "lat": 49.6069,
+      "lon": 15.57937
     },
     "radioStations": [
       {
-        "title": "Rádio Blaník Oldies",
-        "subtitle": "oldies • Czechia",
+        "title": "ČRo Ostrava",
+        "subtitle": "general,regional radio • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ostrava.rozhlas.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/ostrava_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Královo Pole",
+    "coordinates": {
+      "lat": 49.22522,
+      "lon": 16.58987
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Nostalgie",
+        "subtitle": "classic rock,dance,disco,oldies,pop • Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://ice.radia.cz/oldiesradio128.mp3"
+        "streamURL": "https://icecast3.play.cz/radio-nostalgie128.mp3"
       }
     ]
   },
   {
-    "name": "Bruntal",
+    "name": "Chrudim",
     "coordinates": {
-      "lat": 49.9884,
-      "lon": 17.4647
-    },
-    "radioStations": [
-      {
-        "title": "Evropa 2 - mp3",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://22653.live.streamtheworld.com:443/EVROPA2.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Rokycany",
-    "coordinates": {
-      "lat": 49.7427,
-      "lon": 13.5946
-    },
-    "radioStations": [
-      {
-        "title": "Rock rádio – CZ Rock",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice2.radia.cz/rockzabava128.aac"
-      }
-    ]
-  },
-  {
-    "name": "Pelhrimov",
-    "coordinates": {
-      "lat": 49.4313,
-      "lon": 15.2234
-    },
-    "radioStations": [
-      {
-        "title": "Cesky Rozhlas D-dur",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://d-dur.rozhlas.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-d-dur-256.ogg"
-      }
-    ]
-  },
-  {
-    "name": "Hranice",
-    "coordinates": {
-      "lat": 49.5476,
-      "lon": 17.7347
-    },
-    "radioStations": [
-      {
-        "title": "Radio Bonton",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
-      }
-    ]
-  },
-  {
-    "name": "Jesenik",
-    "coordinates": {
-      "lat": 50.2294,
-      "lon": 17.2046
+      "lat": 49.95109,
+      "lon": 15.79558
     },
     "radioStations": [
       {
@@ -1350,10 +1188,10 @@
     ]
   },
   {
-    "name": "Boskovice",
+    "name": "Hodonín",
     "coordinates": {
-      "lat": 49.4875,
-      "lon": 16.6599
+      "lat": 48.84893,
+      "lon": 17.13244
     },
     "radioStations": [
       {
@@ -1368,64 +1206,82 @@
     ]
   },
   {
-    "name": "Domazlice",
+    "name": "Hlubočepy",
     "coordinates": {
-      "lat": 49.4405,
-      "lon": 12.9298
+      "lat": 50.04364,
+      "lon": 14.40162
     },
     "radioStations": [
       {
-        "title": "Radio Čas",
-        "subtitle": "oldies,pop,regional • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/casradio128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Kyjov",
-    "coordinates": {
-      "lat": 49.0102,
-      "lon": 17.1225
-    },
-    "radioStations": [
-      {
-        "title": "hitradio City zona Lasky",
-        "subtitle": "love songs,pop,romantic • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/cityzl128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Turnov",
-    "coordinates": {
-      "lat": 50.5866,
-      "lon": 15.1562
-    },
-    "radioStations": [
-      {
-        "title": "ČRo D-dur FLAC",
-        "subtitle": "Czechia",
+        "title": "Radio Blaník Morava a Slezsko",
+        "subtitle": "pop • Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+        "streamURL": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ=="
       }
     ]
   },
   {
-    "name": "Roudnice nad Labem",
+    "name": "Kopřivnice",
     "coordinates": {
-      "lat": 50.4253,
-      "lon": 14.2618
+      "lat": 49.59947,
+      "lon": 18.1448
+    },
+    "radioStations": [
+      {
+        "title": "Radio Svoboda Rus",
+        "subtitle": "news,political talk,rfe,talk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n10.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuGit-0AeYuZ9rdbfGAF7Q"
+      }
+    ]
+  },
+  {
+    "name": "Dejvice",
+    "coordinates": {
+      "lat": 50.10079,
+      "lon": 14.39071
+    },
+    "radioStations": [
+      {
+        "title": "Radio Svoboda (ru) (official stream)",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n01.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABnuGiuFUAU-804S2mkKjNtw"
+      }
+    ]
+  },
+  {
+    "name": "Starý Bohumín",
+    "coordinates": {
+      "lat": 49.9169,
+      "lon": 18.33619
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Samson",
+        "subtitle": "country,folk,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast8.play.cz/samsonfm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jindřichův Hradec",
+    "coordinates": {
+      "lat": 49.14404,
+      "lon": 15.00301
     },
     "radioStations": [
       {
@@ -1440,10 +1296,676 @@
     ]
   },
   {
-    "name": "Ricany",
+    "name": "Klatovy",
     "coordinates": {
-      "lat": 49.9917,
-      "lon": 14.6543
+      "lat": 49.39552,
+      "lon": 13.29505
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio Vysočina",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://hitradiovysocina.cz/design/favicons/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice5.abradio.cz/hitvysocina128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bystrc",
+    "coordinates": {
+      "lat": 49.22645,
+      "lon": 16.5303
+    },
+    "radioStations": [
+      {
+        "title": "Rock rádio – CZ Rock",
+        "subtitle": "rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice2.radia.cz/rockzabava128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Krnov",
+    "coordinates": {
+      "lat": 50.08967,
+      "lon": 17.70385
+    },
+    "radioStations": [
+      {
+        "title": "Metal Heart",
+        "subtitle": "metal,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac"
+      }
+    ]
+  },
+  {
+    "name": "Černý Most",
+    "coordinates": {
+      "lat": 50.10475,
+      "lon": 14.57974
+    },
+    "radioStations": [
+      {
+        "title": "Radio Čas",
+        "subtitle": "oldies,pop,regional • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast6.play.cz/casradio128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Řepy",
+    "coordinates": {
+      "lat": 50.07064,
+      "lon": 14.30051
+    },
+    "radioStations": [
+      {
+        "title": "Evropa2 Youradio Flashbacky",
+        "subtitle": "90's,retro • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://m.actve.net/e2/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.actve.net/web-e2-flashback"
+      }
+    ]
+  },
+  {
+    "name": "Litvínov",
+    "coordinates": {
+      "lat": 50.6042,
+      "lon": 13.61812
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Relax",
+        "subtitle": "pop,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast7.play.cz/relax128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Strakonice",
+    "coordinates": {
+      "lat": 49.26141,
+      "lon": 13.90237
+    },
+    "radioStations": [
+      {
+        "title": "Český rozhlas Brno",
+        "subtitle": "local • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/brno.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Háje",
+    "coordinates": {
+      "lat": 50.03611,
+      "lon": 14.52672
+    },
+    "radioStations": [
+      {
+        "title": "Pigy.cz – Písničky z pohádek",
+        "subtitle": "childrens music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.pigy.cz/wp-content/uploads/2021/05/cropped-android-chrome-384x384-1-139x139.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/web-pg-pisnicky"
+      }
+    ]
+  },
+  {
+    "name": "Sokolov",
+    "coordinates": {
+      "lat": 50.1813,
+      "lon": 12.6401
+    },
+    "radioStations": [
+      {
+        "title": "Známka Punku",
+        "subtitle": "punk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.abradio.cz/znamkapunku128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Letňany",
+    "coordinates": {
+      "lat": 50.13333,
+      "lon": 14.51667
+    },
+    "radioStations": [
+      {
+        "title": "Expres FM",
+        "subtitle": "hits,pop,top40 • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast8.play.cz/expres128mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kutná Hora",
+    "coordinates": {
+      "lat": 49.94839,
+      "lon": 15.26816
+    },
+    "radioStations": [
+      {
+        "title": "Rádio MB",
+        "subtitle": "oldies,pop music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast3.play.cz/radiomb.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beroun",
+    "coordinates": {
+      "lat": 49.96382,
+      "lon": 14.072
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio PopRock",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/hitpoprock128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Michle",
+    "coordinates": {
+      "lat": 50.04795,
+      "lon": 14.46217
+    },
+    "radioStations": [
+      {
+        "title": "Impuls",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast1.play.cz/impuls128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Náchod",
+    "coordinates": {
+      "lat": 50.4167,
+      "lon": 16.16289
+    },
+    "radioStations": [
+      {
+        "title": "Decennial Gothica Radio II",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.decennialgothica.com/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://65.21.202.84:9332/stream"
+      }
+    ]
+  },
+  {
+    "name": "Vyškov",
+    "coordinates": {
+      "lat": 49.27747,
+      "lon": 16.99897
+    },
+    "radioStations": [
+      {
+        "title": "Rádio folk Czech",
+        "subtitle": "folk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3stream2.abradio.cz:8000/folk320.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Žďár nad Sázavou",
+    "coordinates": {
+      "lat": 49.56263,
+      "lon": 15.93924
+    },
+    "radioStations": [
+      {
+        "title": "Fed's Trap Radio",
+        "subtitle": "trap • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fedstrapradio.com/img/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://backend.fedstrapradio.com:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bohumín",
+    "coordinates": {
+      "lat": 49.90411,
+      "lon": 18.35755
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Xaver",
+        "subtitle": "talk show • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast6.play.cz/radio-xaver.aac"
+      }
+    ]
+  },
+  {
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "coordinates": {
+      "lat": 50.18709,
+      "lon": 14.66326
+    },
+    "radioStations": [
+      {
+        "title": "Cesky Rozhlas D-dur",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d-dur.rozhlas.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-d-dur-256.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Blansko",
+    "coordinates": {
+      "lat": 49.36304,
+      "lon": 16.64446
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio Contact",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitradiocontact.cz/design/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice3.abradio.cz/hitradiocontact128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Žabovřesky",
+    "coordinates": {
+      "lat": 49.21395,
+      "lon": 16.57253
+    },
+    "radioStations": [
+      {
+        "title": "Óčko",
+        "subtitle": "music,pop music,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Jirkov",
+    "coordinates": {
+      "lat": 50.49979,
+      "lon": 13.44769
+    },
+    "radioStations": [
+      {
+        "title": "Radio Prague International",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://english.radio.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/radio_prague_int_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Mělník",
+    "coordinates": {
+      "lat": 50.3505,
+      "lon": 14.47411
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Sázava",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiosazava.cz/porady/sazava_logo_vlnka.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast8.play.cz/sazava192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hostivař",
+    "coordinates": {
+      "lat": 50.04862,
+      "lon": 14.5244
+    },
+    "radioStations": [
+      {
+        "title": "ČRO Radiožurnál sport AdHoc stream 2",
+        "subtitle": "news talk,sports news,český rozhlas • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Žatec",
+    "coordinates": {
+      "lat": 50.32717,
+      "lon": 13.54577
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Junior",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://junior.rozhlas.cz/sites/default/files/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Židenice",
+    "coordinates": {
+      "lat": 49.19654,
+      "lon": 16.64738
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bonton",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
+      }
+    ]
+  },
+  {
+    "name": "Kadaň",
+    "coordinates": {
+      "lat": 50.38333,
+      "lon": 13.26667
+    },
+    "radioStations": [
+      {
+        "title": "Black Hornet Radio",
+        "subtitle": "rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/bhradio-192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Louny",
+    "coordinates": {
+      "lat": 50.35699,
+      "lon": 13.79667
+    },
+    "radioStations": [
+      {
+        "title": "Stanice Hvězda",
+        "subtitle": "czech • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hvezda.info/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://fire.doscast.com:8038/stream"
+      }
+    ]
+  },
+  {
+    "name": "Hranice",
+    "coordinates": {
+      "lat": 49.54796,
+      "lon": 17.73469
+    },
+    "radioStations": [
+      {
+        "title": "Kiss Hady",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast8.play.cz/kisshady128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Braník",
+    "coordinates": {
+      "lat": 50.03498,
+      "lon": 14.41518
+    },
+    "radioStations": [
+      {
+        "title": "Rock Rádio Šumava",
+        "subtitle": "rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/sumava128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vysočany",
+    "coordinates": {
+      "lat": 50.10938,
+      "lon": 14.51667
+    },
+    "radioStations": [
+      {
+        "title": "Helax 93,7",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/thumb_442_images_w200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/helax128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Otrokovice",
+    "coordinates": {
+      "lat": 49.20934,
+      "lon": 17.53944
+    },
+    "radioStations": [
+      {
+        "title": "RADIO 1",
+        "subtitle": "alternative • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/radio1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kralupy nad Vltavou",
+    "coordinates": {
+      "lat": 50.24107,
+      "lon": 14.31149
+    },
+    "radioStations": [
+      {
+        "title": "Classic Praha",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.classicpraha.cz/static/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast8.play.cz/classic128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rožnov pod Radhoštěm",
+    "coordinates": {
+      "lat": 49.45853,
+      "lon": 18.14302
+    },
+    "radioStations": [
+      {
+        "title": "Dance Club Radio",
+        "subtitle": "dance,dj,house,trance • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice4.abradio.cz/dance128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Říčany",
+    "coordinates": {
+      "lat": 49.99168,
+      "lon": 14.65427
+    },
+    "radioStations": [
+      {
+        "title": "hitradio City zona Lasky",
+        "subtitle": "love songs,pop,romantic • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/cityzl128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Benešov",
+    "coordinates": {
+      "lat": 49.78162,
+      "lon": 14.68697
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Bonton",
+        "subtitle": "klídek,pohoda,relax • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/fm-bonton-128"
+      }
+    ]
+  },
+  {
+    "name": "Prosek",
+    "coordinates": {
+      "lat": 50.11525,
+      "lon": 14.50685
+    },
+    "radioStations": [
+      {
+        "title": "Netro Life Radio 100,8 FM",
+        "subtitle": "dance,dj sets • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast9.play.cz/netro-life-radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pelhřimov",
+    "coordinates": {
+      "lat": 49.43134,
+      "lon": 15.22336
+    },
+    "radioStations": [
+      {
+        "title": "Frekvence 1 - Youradio Osmdesátky",
+        "subtitle": "80's • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/web-80"
+      }
+    ]
+  },
+  {
+    "name": "Bohnice",
+    "coordinates": {
+      "lat": 50.13333,
+      "lon": 14.41667
     },
     "radioStations": [
       {
@@ -1460,404 +1982,8 @@
   {
     "name": "Neratovice",
     "coordinates": {
-      "lat": 50.2593,
-      "lon": 14.5176
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio Vysočina",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://hitradiovysocina.cz/design/favicons/favicon-32x32.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice5.abradio.cz/hitvysocina128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zabreh",
-    "coordinates": {
-      "lat": 49.8826,
-      "lon": 16.8722
-    },
-    "radioStations": [
-      {
-        "title": "Dance Radio",
-        "subtitle": "128kbit • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.danceradio.cz/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/dance-radio128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Sternberk",
-    "coordinates": {
-      "lat": 49.7304,
-      "lon": 17.2989
-    },
-    "radioStations": [
-      {
-        "title": "Expres FM",
-        "subtitle": "hits,pop,top40 • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/expres128mp3"
-      }
-    ]
-  },
-  {
-    "name": "Aš",
-    "coordinates": {
-      "lat": 50.2239,
-      "lon": 12.1949
-    },
-    "radioStations": [
-      {
-        "title": "Dance rádio cz",
-        "subtitle": "fm 89.0 • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.actve.net/dance-radio128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Ceska Trebova",
-    "coordinates": {
-      "lat": 49.9014,
-      "lon": 16.4441
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio PopRock",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/hitpoprock128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Vyskov",
-    "coordinates": {
-      "lat": 49.2775,
-      "lon": 16.9989
-    },
-    "radioStations": [
-      {
-        "title": "Rádio folk Czech",
-        "subtitle": "folk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3stream2.abradio.cz:8000/folk320.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Chotebor",
-    "coordinates": {
-      "lat": 49.7207,
-      "lon": 15.6702
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Wave",
-        "subtitle": "contemporary,cultural news,young adults • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://api.play.cz/static/radio_logo/t200/crowave.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/wave_mp3_256.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Nymburk",
-    "coordinates": {
-      "lat": 50.1861,
-      "lon": 15.0417
-    },
-    "radioStations": [
-      {
-        "title": "Fed's Trap Radio",
-        "subtitle": "trap • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://fedstrapradio.com/img/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://backend.fedstrapradio.com:8000/radio.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Varnsdorf",
-    "coordinates": {
-      "lat": 50.9115,
-      "lon": 14.6182
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio Contact",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://hitradiocontact.cz/design/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice3.abradio.cz/hitradiocontact128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Poděbrady",
-    "coordinates": {
-      "lat": 50.1424,
-      "lon": 15.1188
-    },
-    "radioStations": [
-      {
-        "title": "Óčko",
-        "subtitle": "music,pop music,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Klasterec nad Ohri",
-    "coordinates": {
-      "lat": 50.3835,
-      "lon": 13.1714
-    },
-    "radioStations": [
-      {
-        "title": "Radio Prague International",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://english.radio.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/radio_prague_int_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Jicin",
-    "coordinates": {
-      "lat": 50.4363,
-      "lon": 15.3516
-    },
-    "radioStations": [
-      {
-        "title": "čro radiožurnál sport Stream AdHoc 2",
-        "subtitle": "news talk,sports news,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Vrchlabi",
-    "coordinates": {
-      "lat": 50.6269,
-      "lon": 15.6095
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Sázava",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radiosazava.cz/porady/sazava_logo_vlnka.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast8.play.cz/sazava192.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Tachov",
-    "coordinates": {
-      "lat": 49.7953,
-      "lon": 12.6337
-    },
-    "radioStations": [
-      {
-        "title": "čro Radiožurnál Sport AdHoc stream 1",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Usti nad Orlici",
-    "coordinates": {
-      "lat": 49.9739,
-      "lon": 16.3936
-    },
-    "radioStations": [
-      {
-        "title": "JČ1 - Televize jižní Čechy",
-        "subtitle": "local news,news talk,regional,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://jc1.cz/templates/jc12_2022_v2/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.jc1.cz/hls/jc1.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Rakovnik",
-    "coordinates": {
-      "lat": 50.1037,
-      "lon": 13.7334
-    },
-    "radioStations": [
-      {
-        "title": "Radio Slobodna Evropa",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://n0b.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABnuBR5ywAOXKTeKNqafyMww"
-      }
-    ]
-  },
-  {
-    "name": "Litomysl",
-    "coordinates": {
-      "lat": 49.8681,
-      "lon": 16.3128
-    },
-    "radioStations": [
-      {
-        "title": "Helax 93,7",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/thumb_442_images_w200.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/helax128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Dvur Kralove nad Labem",
-    "coordinates": {
-      "lat": 50.4317,
-      "lon": 15.814
-    },
-    "radioStations": [
-      {
-        "title": "RADIO 1",
-        "subtitle": "alternative • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/radio1.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Frenstat pod Radhostem",
-    "coordinates": {
-      "lat": 49.5484,
-      "lon": 18.2108
-    },
-    "radioStations": [
-      {
-        "title": "Dance Club Radio",
-        "subtitle": "dance,dj,house,trance • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice4.abradio.cz/dance128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Broumov",
-    "coordinates": {
-      "lat": 50.5857,
-      "lon": 16.3318
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Bonton",
-        "subtitle": "klídek,pohoda,relax • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/fm-bonton-128"
-      }
-    ]
-  },
-  {
-    "name": "Ceský Krumlov",
-    "coordinates": {
-      "lat": 48.8109,
-      "lon": 14.3152
-    },
-    "radioStations": [
-      {
-        "title": "Netro Life Radio 100,8 FM",
-        "subtitle": "dance,dj sets • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast9.play.cz/netro-life-radio.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Moravska Trebova",
-    "coordinates": {
-      "lat": 49.7579,
-      "lon": 16.6643
-    },
-    "radioStations": [
-      {
-        "title": "Frekvence 1 - Youradio Osmdesátky",
-        "subtitle": "80's • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/web-80"
-      }
-    ]
-  },
-  {
-    "name": "Roznov pod Radhostem",
-    "coordinates": {
-      "lat": 49.4585,
-      "lon": 18.143
+      "lat": 50.25926,
+      "lon": 14.51759
     },
     "radioStations": [
       {
@@ -1872,10 +1998,10 @@
     ]
   },
   {
-    "name": "Caslav",
+    "name": "Uherský Brod",
     "coordinates": {
-      "lat": 49.9106,
-      "lon": 15.3897
+      "lat": 49.02513,
+      "lon": 17.64715
     },
     "radioStations": [
       {
@@ -1890,10 +2016,10 @@
     ]
   },
   {
-    "name": "Lovosice",
+    "name": "Jičín",
     "coordinates": {
-      "lat": 50.515,
-      "lon": 14.051
+      "lat": 50.43723,
+      "lon": 15.35162
     },
     "radioStations": [
       {
@@ -1908,10 +2034,10 @@
     ]
   },
   {
-    "name": "Krnov",
+    "name": "Dvůr Králové nad Labem",
     "coordinates": {
-      "lat": 50.0897,
-      "lon": 17.7039
+      "lat": 50.43172,
+      "lon": 15.81402
     },
     "radioStations": [
       {
@@ -1926,28 +2052,10 @@
     ]
   },
   {
-    "name": "Havlickuv Brod",
+    "name": "Košíře",
     "coordinates": {
-      "lat": 49.6078,
-      "lon": 15.5807
-    },
-    "radioStations": [
-      {
-        "title": "Pigy.cz – Písničky z pohádek",
-        "subtitle": "childrens music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.pigy.cz/wp-content/uploads/2021/05/cropped-android-chrome-384x384-1-139x139.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/web-pg-pisnicky"
-      }
-    ]
-  },
-  {
-    "name": "Trebon",
-    "coordinates": {
-      "lat": 49.0036,
-      "lon": 14.7707
+      "lat": 50.06708,
+      "lon": 14.36328
     },
     "radioStations": [
       {
@@ -1962,874 +2070,10 @@
     ]
   },
   {
-    "name": "Susice",
-    "coordinates": {
-      "lat": 49.2311,
-      "lon": 13.5202
-    },
-    "radioStations": [
-      {
-        "title": "Známka Punku",
-        "subtitle": "punk • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.abradio.cz/znamkapunku128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Cesky Brod",
-    "coordinates": {
-      "lat": 50.0742,
-      "lon": 14.8608
-    },
-    "radioStations": [
-      {
-        "title": "Radio Praha",
-        "subtitle": "public radio,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://api.play.cz/static/radio_logo/t200/cro7.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/cro7-128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Jaromer",
-    "coordinates": {
-      "lat": 50.3562,
-      "lon": 15.9214
-    },
-    "radioStations": [
-      {
-        "title": "Rádio MB",
-        "subtitle": "oldies,pop music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast3.play.cz/radiomb.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Horice",
-    "coordinates": {
-      "lat": 50.3661,
-      "lon": 15.6318
-    },
-    "radioStations": [
-      {
-        "title": "Radio Ostravan",
-        "subtitle": "variety • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.radioostravan.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast9.play.cz/radio-ostravan-256.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Rymarov",
-    "coordinates": {
-      "lat": 49.9319,
-      "lon": 17.2718
-    },
-    "radioStations": [
-      {
-        "title": "Impuls",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast1.play.cz/impuls128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Vimperk",
-    "coordinates": {
-      "lat": 49.0525,
-      "lon": 13.7745
-    },
-    "radioStations": [
-      {
-        "title": "Decennial Gothica Radio II",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.decennialgothica.com/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://65.21.202.84:9332/stream"
-      }
-    ]
-  },
-  {
-    "name": "Prelouc",
-    "coordinates": {
-      "lat": 50.0397,
-      "lon": 15.5606
-    },
-    "radioStations": [
-      {
-        "title": "Radio JIH Cimbalka",
-        "subtitle": "folk music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://naladit.radiocimbalka.cz/favicon/favicon-96x96.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/jihcimbalka128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Milevsko",
-    "coordinates": {
-      "lat": 49.4509,
-      "lon": 14.3601
-    },
-    "radioStations": [
-      {
-        "title": "City FM",
-        "subtitle": "dance,eurodance,hits,top100 • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/cityfm128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Humpolec",
-    "coordinates": {
-      "lat": 49.5415,
-      "lon": 15.3594
-    },
-    "radioStations": [
-      {
-        "title": "Cesky Rozhlas Jazz",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://jazz.rozhlas.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/jazz_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Unicov",
-    "coordinates": {
-      "lat": 49.7709,
-      "lon": 17.1214
-    },
-    "radioStations": [
-      {
-        "title": "Radio Prostor",
-        "subtitle": "cultural news,economic news,news talk,sports news,talk & speech • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://bcast.spmmedia.cz/prostor-mp3"
-      }
-    ]
-  },
-  {
-    "name": "Nové Mesto nad Metuji",
-    "coordinates": {
-      "lat": 50.3445,
-      "lon": 16.1516
-    },
-    "radioStations": [
-      {
-        "title": "Retro Music Television",
-        "subtitle": "classic hits,classic rock,oldies,pop classic,retro,rock classics • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Policka",
-    "coordinates": {
-      "lat": 49.7147,
-      "lon": 16.2654
-    },
-    "radioStations": [
-      {
-        "title": "Rádio 7 32kb",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast1.play.cz:8000/radio7cz32.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Rumburk",
-    "coordinates": {
-      "lat": 50.9515,
-      "lon": 14.556
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Xaver",
-        "subtitle": "talk show • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast6.play.cz/radio-xaver.aac"
-      }
-    ]
-  },
-  {
-    "name": "Mikulov",
-    "coordinates": {
-      "lat": 48.8056,
-      "lon": 16.6378
-    },
-    "radioStations": [
-      {
-        "title": "Sunrise Radio (Czechia)",
-        "subtitle": "club dance,dance,drum and bass,electronic dance music,future house,house,liquid  • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://i.ibb.co/0GVxMgd/sunshineradio.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio-dance-eu.stream.laut.fm/radio-dance-eu?t302=2026-06-19_14-28-45&uuid=b934b95f-e758-4d52-af28-a56aefc7a6d4"
-      }
-    ]
-  },
-  {
-    "name": "Hlinsko",
-    "coordinates": {
-      "lat": 49.7621,
-      "lon": 15.9076
-    },
-    "radioStations": [
-      {
-        "title": "Zoner Underground Network",
-        "subtitle": "deep house,house • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://digital.rozhlas.cz/sites/default/files/styles/lightbox/public/images/f32b1e9c03da1b0a6fa3c92c11396f91.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.zunradio.cz/zun3.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Lanškroun",
-    "coordinates": {
-      "lat": 49.9122,
-      "lon": 16.6119
-    },
-    "radioStations": [
-      {
-        "title": "Retro Music TV",
-        "subtitle": "pop,retro,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://retromusic.cz/wp-content/themes/swanxy/assets/images/favicon/favicon-32x32.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Duchcov",
-    "coordinates": {
-      "lat": 50.6038,
-      "lon": 13.7462
-    },
-    "radioStations": [
-      {
-        "title": "Hit FM Plus",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz:8000/fmplus64.aac"
-      }
-    ]
-  },
-  {
-    "name": "Moravske Budejovice",
-    "coordinates": {
-      "lat": 49.0521,
-      "lon": 15.8086
-    },
-    "radioStations": [
-      {
-        "title": "Óčko Star",
-        "subtitle": "goldies,music,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Nová Paka",
-    "coordinates": {
-      "lat": 50.4945,
-      "lon": 15.515
-    },
-    "radioStations": [
-      {
-        "title": "Fajn Fresh",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://fajnradio.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/fajnfresh128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Dobris",
-    "coordinates": {
-      "lat": 49.7811,
-      "lon": 14.1672
-    },
-    "radioStations": [
-      {
-        "title": "Radio Wave",
-        "subtitle": "alternative,public radio,youth • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://api.play.cz/static/radio_logo/t200/crowave.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://rozhlas.stream/wave_mp3_256.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Frydlant nad Ostravici",
-    "coordinates": {
-      "lat": 49.5928,
-      "lon": 18.3597
-    },
-    "radioStations": [
-      {
-        "title": "COOP TIP Radio",
-        "subtitle": "pop music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3stream4.abradio.cz:8000/coop128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Hulín",
-    "coordinates": {
-      "lat": 49.3167,
-      "lon": 17.4637
-    },
-    "radioStations": [
-      {
-        "title": "Óčko Expres",
-        "subtitle": "music,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Lysa nad Labem",
-    "coordinates": {
-      "lat": 50.2014,
-      "lon": 14.8328
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Koleda",
-        "subtitle": "christmas music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice3.radia.cz/koleda_64.aac"
-      }
-    ]
-  },
-  {
-    "name": "Mnichovo Hradiste",
-    "coordinates": {
-      "lat": 50.5272,
-      "lon": 14.9713
-    },
-    "radioStations": [
-      {
-        "title": "Čro Dvojka (256k ogg)",
-        "subtitle": "news • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_88672.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp1.cesnet.cz:8000/cro2-256.ogg"
-      }
-    ]
-  },
-  {
-    "name": "Mohelnice",
-    "coordinates": {
-      "lat": 49.7769,
-      "lon": 16.9195
-    },
-    "radioStations": [
-      {
-        "title": "Radio Helax",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Nové Mesto na Morave",
-    "coordinates": {
-      "lat": 49.5614,
-      "lon": 16.0742
-    },
-    "radioStations": [
-      {
-        "title": "Český rozhlas České Budějovice",
-        "subtitle": "regional • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://budejovice.rozhlas.cz/",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/ceske_budejovice_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Odry",
-    "coordinates": {
-      "lat": 49.6625,
-      "lon": 17.8308
-    },
-    "radioStations": [
-      {
-        "title": "Radio Otava",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.radiootava.cz/player/final_logo-web.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radiootava.trefcon.cz:8889/radio.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Pacov",
-    "coordinates": {
-      "lat": 49.4708,
-      "lon": 15.0016
-    },
-    "radioStations": [
-      {
-        "title": "RockZone 105,9 FM",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast5.play.cz/rockzone128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Polna",
-    "coordinates": {
-      "lat": 49.487,
-      "lon": 15.7188
-    },
-    "radioStations": [
-      {
-        "title": "ZUN rádio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast9.play.cz/zun48.aac"
-      }
-    ]
-  },
-  {
     "name": "Svitavy",
     "coordinates": {
-      "lat": 49.7559,
-      "lon": 16.469
-    },
-    "radioStations": [
-      {
-        "title": "Plzeň TV",
-        "subtitle": "local news,news,regional,tv • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://tv.plzen.cz/templates/theme3241/images/plzentv-icon.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Telc",
-    "coordinates": {
-      "lat": 49.1842,
-      "lon": 15.4528
-    },
-    "radioStations": [
-      {
-        "title": "Black Hornet Radio",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/bhradio-192.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Tisnov",
-    "coordinates": {
-      "lat": 49.3487,
-      "lon": 16.4244
-    },
-    "radioStations": [
-      {
-        "title": "BIKERS RADIO DOUPE",
-        "subtitle": "80's,90's • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://bikersradiodoupe.cz/favicon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast7.play.cz/bikersradiodoupe128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Tyn nad Vltavou",
-    "coordinates": {
-      "lat": 49.2234,
-      "lon": 14.4206
-    },
-    "radioStations": [
-      {
-        "title": "Stanice Hvězda",
-        "subtitle": "czech • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://hvezda.info/favicon/favicon-32x32.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://fire.doscast.com:8038/stream"
-      }
-    ]
-  },
-  {
-    "name": "Velke Mezirici",
-    "coordinates": {
-      "lat": 49.3553,
-      "lon": 16.0122
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Sever",
-        "subtitle": "severní čechy,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://sever.rozhlas.cz/sites/all/themes/custom/e7/images/logo/sever_colored-white.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/sever_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Veseli nad Moravou",
-    "coordinates": {
-      "lat": 48.954,
-      "lon": 17.3766
-    },
-    "radioStations": [
-      {
-        "title": "Hvězda",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://hls.hvezda.info/session01/128k/s.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "Votice",
-    "coordinates": {
-      "lat": 49.6401,
-      "lon": 14.6381
-    },
-    "radioStations": [
-      {
-        "title": "Radio O106",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radioo106.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://listen.radioking.com/radio/442799/stream/497147"
-      }
-    ]
-  },
-  {
-    "name": "Zamberk",
-    "coordinates": {
-      "lat": 50.086,
-      "lon": 16.4674
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Dechovka 256 kbps",
-        "subtitle": "czech folk music,folk music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://37.46.208.57:8000/stream_cra_256.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zidlochovice",
-    "coordinates": {
-      "lat": 49.0395,
-      "lon": 16.6188
-    },
-    "radioStations": [
-      {
-        "title": "Radio Life Trance",
-        "subtitle": "dance,edm,trance • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/584/radio-life-trance-fm.0acf6a9e.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://65.108.105.26:7709/stream"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice",
-    "coordinates": {
-      "lat": 50.0918,
-      "lon": 13.162
-    },
-    "radioStations": [
-      {
-        "title": "Kiss Hady",
-        "subtitle": "pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/kisshady128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 2",
-    "coordinates": {
-      "lat": 50.0928,
-      "lon": 13.163
-    },
-    "radioStations": [
-      {
-        "title": "Rock Rádio Šumava",
-        "subtitle": "rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/sumava128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 3",
-    "coordinates": {
-      "lat": 50.0938,
-      "lon": 13.164
-    },
-    "radioStations": [
-      {
-        "title": "Metal Heart",
-        "subtitle": "metal,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 4",
-    "coordinates": {
-      "lat": 50.0948,
-      "lon": 13.165
-    },
-    "radioStations": [
-      {
-        "title": "Funkstar Radio",
-        "subtitle": "disco,discomusic 70,discomusic 80,funk,nu-disco • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.funkstar.eu/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://funkstar.radioca.st/stream"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 5",
-    "coordinates": {
-      "lat": 50.0958,
-      "lon": 13.166
-    },
-    "radioStations": [
-      {
-        "title": "Queenradio.net",
-        "subtitle": "queen,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://n12.radiojar.com/4gw72qm8u68uv?rj-ttl=5&rj-tok=AAABnuBR7eIAlKSrKL9gxXpbeQ"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 6",
-    "coordinates": {
-      "lat": 50.0968,
-      "lon": 13.167
-    },
-    "radioStations": [
-      {
-        "title": "Classic Praha",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://www.classicpraha.cz/static/images/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/classic128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 7",
-    "coordinates": {
-      "lat": 50.0978,
-      "lon": 13.168
-    },
-    "radioStations": [
-      {
-        "title": "ČRo Radio Wave",
-        "subtitle": "alternative,public radio,youth,český rozhlas • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 8",
-    "coordinates": {
-      "lat": 50.0988,
-      "lon": 13.169
-    },
-    "radioStations": [
-      {
-        "title": "Kiss Publikum",
-        "subtitle": "hits,pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast1.play.cz:8000/kisspublikum128aac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 9",
-    "coordinates": {
-      "lat": 50.0998,
-      "lon": 13.17
-    },
-    "radioStations": [
-      {
-        "title": "Hitrádio FM Crystal",
-        "subtitle": "local,pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.abradio.cz/crystal128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 10",
-    "coordinates": {
-      "lat": 50.1008,
-      "lon": 13.171
-    },
-    "radioStations": [
-      {
-        "title": "Frekvence 1 - Youradio Československé hity",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/web-e2-csweb"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 11",
-    "coordinates": {
-      "lat": 50.1018,
-      "lon": 13.172
+      "lat": 49.75594,
+      "lon": 16.46829
     },
     "radioStations": [
       {
@@ -2844,100 +2088,28 @@
     ]
   },
   {
-    "name": "Zlutice area 12",
+    "name": "Střížkov",
     "coordinates": {
-      "lat": 50.1028,
-      "lon": 13.173
+      "lat": 50.12674,
+      "lon": 14.49363
     },
     "radioStations": [
       {
-        "title": "Rádio DNB TV",
-        "subtitle": "Czechia",
+        "title": "Radio Praha",
+        "subtitle": "public radio,český rozhlas • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.shadowbox.cz/css/site/btn/radio_shadowbox.png",
+        "imageURL": "http://api.play.cz/static/radio_logo/t200/cro7.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://ice3.abradio.cz/shadowbox128.mp3"
+        "streamURL": "http://icecast2.play.cz/cro7-128.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 13",
+    "name": "Rakovník",
     "coordinates": {
-      "lat": 50.1038,
-      "lon": 13.174
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Click & Country",
-        "subtitle": "country • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 14",
-    "coordinates": {
-      "lat": 50.1048,
-      "lon": 13.175
-    },
-    "radioStations": [
-      {
-        "title": "RadioParty.pl",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://s2.radioparty.pl:8015/stream"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 15",
-    "coordinates": {
-      "lat": 50.1058,
-      "lon": 13.176
-    },
-    "radioStations": [
-      {
-        "title": "Крым Реалии (rus, ukr) (official stream)",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://n04.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABnuBR8AkAWp2Jzqs7DJWMbQ"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 16",
-    "coordinates": {
-      "lat": 50.1068,
-      "lon": 13.177
-    },
-    "radioStations": [
-      {
-        "title": "Haná",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/hana128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 17",
-    "coordinates": {
-      "lat": 50.1078,
-      "lon": 13.178
+      "lat": 50.1037,
+      "lon": 13.7334
     },
     "radioStations": [
       {
@@ -2952,28 +2124,28 @@
     ]
   },
   {
-    "name": "Zlutice area 18",
+    "name": "Ostrov",
     "coordinates": {
-      "lat": 50.1088,
-      "lon": 13.179
+      "lat": 50.30592,
+      "lon": 12.93907
     },
     "radioStations": [
       {
-        "title": "Expresradio",
-        "subtitle": "Czechia",
+        "title": "Dance rádio cz",
+        "subtitle": "fm 89.0 • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://icecast5.play.cz:8000/expres128mp3"
+        "streamURL": "https://ice.actve.net/dance-radio128.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 19",
+    "name": "Horní Měcholupy",
     "coordinates": {
-      "lat": 50.1098,
-      "lon": 13.18
+      "lat": 50.05,
+      "lon": 14.56667
     },
     "radioStations": [
       {
@@ -2988,64 +2160,46 @@
     ]
   },
   {
-    "name": "Zlutice area 20",
+    "name": "Poděbrady",
     "coordinates": {
-      "lat": 50.1108,
-      "lon": 13.181
+      "lat": 50.14242,
+      "lon": 15.11881
     },
     "radioStations": [
       {
-        "title": "Крым.Реалии",
-        "subtitle": "news,news talk,talk • Czechia",
+        "title": "Radio Ostravan",
+        "subtitle": "variety • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "imageURL": "http://www.radioostravan.cz/favicon.ico",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://rferl-ingest.akamaized.net/hls/live/2121745/axia19/playlist.m3u8"
+        "streamURL": "http://icecast9.play.cz/radio-ostravan-256.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 21",
+    "name": "Ústí nad Orlicí",
     "coordinates": {
-      "lat": 50.1118,
-      "lon": 13.182
+      "lat": 49.97387,
+      "lon": 16.39361
     },
     "radioStations": [
       {
-        "title": "Frekvence 1 - Youradio Legendy",
-        "subtitle": "nostalgia,nostalgic,nostalgico,nostalgie • Czechia",
+        "title": "City FM",
+        "subtitle": "dance,eurodance,hits,top100 • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
+        "imageURL": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice.actve.net/web-f1-legendy"
+        "streamURL": "http://ice.abradio.cz/cityfm128.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 22",
+    "name": "Slaný",
     "coordinates": {
-      "lat": 50.1128,
-      "lon": 13.183
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Diana – Retro Club",
-        "subtitle": "90's • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://westradio.cz/radio/8000/radio.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 23",
-    "coordinates": {
-      "lat": 50.1138,
-      "lon": 13.184
+      "lat": 50.23046,
+      "lon": 14.08693
     },
     "radioStations": [
       {
@@ -3060,10 +2214,10 @@
     ]
   },
   {
-    "name": "Zlutice area 24",
+    "name": "Bruntál",
     "coordinates": {
-      "lat": 50.1148,
-      "lon": 13.185
+      "lat": 49.98844,
+      "lon": 17.4647
     },
     "radioStations": [
       {
@@ -3078,89 +2232,269 @@
     ]
   },
   {
-    "name": "Zlutice area 25",
+    "name": "Česká Třebová",
     "coordinates": {
-      "lat": 50.1158,
-      "lon": 13.186
+      "lat": 49.90436,
+      "lon": 16.44413
     },
     "radioStations": [
       {
-        "title": "WebRadio Epigon",
-        "subtitle": "cz sk,czech rock,metal,rock,student radio • Czechia",
+        "title": "ČRo Wave",
+        "subtitle": "contemporary,cultural news,young adults • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.play.cz/static/radio_logo/t200/crowave.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/wave_mp3_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Varnsdorf",
+    "coordinates": {
+      "lat": 50.91154,
+      "lon": 14.61824
+    },
+    "radioStations": [
+      {
+        "title": "Cesky Rozhlas Jazz",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazz.rozhlas.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/jazz_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Turnov",
+    "coordinates": {
+      "lat": 50.58356,
+      "lon": 15.15186
+    },
+    "radioStations": [
+      {
+        "title": "Radio Prostor",
+        "subtitle": "cultural news,economic news,news talk,sports news,talk & speech • Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://ice3.abradio.cz/epigon128.mp3"
+        "streamURL": "https://bcast.spmmedia.cz/prostor-mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 26",
+    "name": "Bílina",
     "coordinates": {
-      "lat": 50.1168,
-      "lon": 13.187
+      "lat": 50.54854,
+      "lon": 13.77535
     },
     "radioStations": [
       {
-        "title": "Čro Vltava Flac",
-        "subtitle": "Czechia",
+        "title": "Retro Music Television",
+        "subtitle": "classic hits,classic rock,oldies,pop classic,retro,rock classics • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
+        "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://amp.cesnet.cz:8443/cro3.flac"
+        "streamURL": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
       }
     ]
   },
   {
-    "name": "Zlutice area 27",
+    "name": "Rokycany",
     "coordinates": {
-      "lat": 50.1178,
-      "lon": 13.188
+      "lat": 49.7427,
+      "lon": 13.59459
     },
     "radioStations": [
       {
-        "title": "Hitrádio City 93.7 FM",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://25443.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 28",
-    "coordinates": {
-      "lat": 50.1188,
-      "lon": 13.189
-    },
-    "radioStations": [
-      {
-        "title": "Metal Heart Radio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.metalheartradio.com/assets/images/cd.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 29",
-    "coordinates": {
-      "lat": 50.1198,
-      "lon": 13.19
-    },
-    "radioStations": [
-      {
-        "title": "Rádio 7",
+        "title": "Rádio 7 32kb",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast1.play.cz:8000/radio7cz32.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nymburk",
+    "coordinates": {
+      "lat": 50.18605,
+      "lon": 15.04167
+    },
+    "radioStations": [
+      {
+        "title": "Sunrise Radio (Czechia)",
+        "subtitle": "club dance,dance,drum and bass,electronic dance music,future house,house,liquid  • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.ibb.co/0GVxMgd/sunshineradio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-dance-eu.stream.laut.fm/radio-dance-eu?t302=2026-06-19_20-36-40&uuid=73bb9f3c-cba6-4b13-b29d-92f93abce5f0"
+      }
+    ]
+  },
+  {
+    "name": "Troja",
+    "coordinates": {
+      "lat": 50.11659,
+      "lon": 14.42458
+    },
+    "radioStations": [
+      {
+        "title": "Retro Music TV",
+        "subtitle": "pop,retro,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://retromusic.cz/wp-content/themes/swanxy/assets/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Horní Počernice",
+    "coordinates": {
+      "lat": 50.1121,
+      "lon": 14.61036
+    },
+    "radioStations": [
+      {
+        "title": "Óčko Star",
+        "subtitle": "goldies,music,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Milovice",
+    "coordinates": {
+      "lat": 50.22596,
+      "lon": 14.88863
+    },
+    "radioStations": [
+      {
+        "title": "Radio Wave",
+        "subtitle": "alternative,public radio,youth • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://api.play.cz/static/radio_logo/t200/crowave.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rozhlas.stream/wave_mp3_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hlučín",
+    "coordinates": {
+      "lat": 49.89795,
+      "lon": 18.19196
+    },
+    "radioStations": [
+      {
+        "title": "COOP TIP Radio",
+        "subtitle": "pop music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3stream4.abradio.cz:8000/coop128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hloubětín",
+    "coordinates": {
+      "lat": 50.10621,
+      "lon": 14.53723
+    },
+    "radioStations": [
+      {
+        "title": "Óčko Expres",
+        "subtitle": "music,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Klášterec nad Ohří",
+    "coordinates": {
+      "lat": 50.3886,
+      "lon": 13.18342
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Koleda",
+        "subtitle": "christmas music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice3.radia.cz/koleda_64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Mariánské Lázně",
+    "coordinates": {
+      "lat": 49.96459,
+      "lon": 12.70118
+    },
+    "radioStations": [
+      {
+        "title": "Čro Dvojka (256k ogg)",
+        "subtitle": "news • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_88672.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp1.cesnet.cz:8000/cro2-256.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Krupka",
+    "coordinates": {
+      "lat": 50.68449,
+      "lon": 13.85815
+    },
+    "radioStations": [
+      {
+        "title": "Radio Helax",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Podolí",
+    "coordinates": {
+      "lat": 50.05504,
+      "lon": 14.42033
+    },
+    "radioStations": [
+      {
+        "title": "Radio7",
+        "subtitle": "christian,christmas music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio7.cz/images/logo/r7_logo_transp_inv.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://icecast8.play.cz/radio7-128.mp3"
@@ -3168,154 +2502,100 @@
     ]
   },
   {
-    "name": "Zlutice area 30",
+    "name": "Řečkovice",
     "coordinates": {
-      "lat": 50.1208,
-      "lon": 13.191
+      "lat": 49.25212,
+      "lon": 16.58146
     },
     "radioStations": [
       {
-        "title": "Rádio Hády",
-        "subtitle": "hits,pop music • Czechia",
+        "title": "Český rozhlas České Budějovice",
+        "subtitle": "regional • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://budejovice.rozhlas.cz/",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://46.36.36.149:8000/live"
+        "streamURL": "https://rozhlas.stream/ceske_budejovice_high.aac"
       }
     ]
   },
   {
-    "name": "Zlutice area 31",
+    "name": "Zábřeh",
     "coordinates": {
-      "lat": 50.1218,
-      "lon": 13.192
+      "lat": 49.8826,
+      "lon": 16.87223
     },
     "radioStations": [
       {
-        "title": "ČRo Olomouc",
+        "title": "Radio Otava",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiootava.cz/player/final_logo-web.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiootava.trefcon.cz:8889/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Šternberk",
+    "coordinates": {
+      "lat": 49.73044,
+      "lon": 17.29889
+    },
+    "radioStations": [
+      {
+        "title": "RockZone 105,9 FM",
+        "subtitle": "rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast5.play.cz/rockzone128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Roudnice nad Labem",
+    "coordinates": {
+      "lat": 50.42528,
+      "lon": 14.26175
+    },
+    "radioStations": [
+      {
+        "title": "JČ1 - Televize jižní Čechy",
+        "subtitle": "local news,news talk,regional,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jc1.cz/templates/jc12_2022_v2/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.jc1.cz/hls/jc1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Vrchlabí",
+    "coordinates": {
+      "lat": 50.62697,
+      "lon": 15.60937
+    },
+    "radioStations": [
+      {
+        "title": "ZUN rádio",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/olomouc_low.aac"
+        "streamURL": "https://icecast9.play.cz/zun48.aac"
       }
     ]
   },
   {
-    "name": "Zlutice area 32",
+    "name": "Jaroměř",
     "coordinates": {
-      "lat": 50.1228,
-      "lon": 13.193
-    },
-    "radioStations": [
-      {
-        "title": "ELLIS",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://ellis.stream.laut.fm/ellis?t302=2026-06-19_14-28-47&uuid=1b9fb966-46d9-40f5-89cc-8b8562d8b1e3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 33",
-    "coordinates": {
-      "lat": 50.1238,
-      "lon": 13.194
-    },
-    "radioStations": [
-      {
-        "title": "Dance Club FM",
-        "subtitle": "dance • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3stream4.abradio.cz/dance128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 34",
-    "coordinates": {
-      "lat": 50.1248,
-      "lon": 13.195
-    },
-    "radioStations": [
-      {
-        "title": "Fajn Fresh Radio",
-        "subtitle": "dance,house,pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mp3stream4.abradio.cz/fajnfresh64.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 35",
-    "coordinates": {
-      "lat": 50.1258,
-      "lon": 13.196
-    },
-    "radioStations": [
-      {
-        "title": "CRo Vysocina",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/apple-touch-icon.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://rozhlas.stream/vysocina_high.aac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 36",
-    "coordinates": {
-      "lat": 50.1268,
-      "lon": 13.197
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Energic",
-        "subtitle": "contemporary hits radio • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://icecast9.play.cz/energic.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 37",
-    "coordinates": {
-      "lat": 50.1278,
-      "lon": 13.198
-    },
-    "radioStations": [
-      {
-        "title": "SeeJay Radio",
-        "subtitle": "dance • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://api.play.cz/static/radio_logo/t200/seejay-radio.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast6.play.cz/seejay128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 38",
-    "coordinates": {
-      "lat": 50.1288,
-      "lon": 13.199
+      "lat": 50.3562,
+      "lon": 15.92136
     },
     "radioStations": [
       {
@@ -3330,10 +2610,10 @@
     ]
   },
   {
-    "name": "Zlutice area 39",
+    "name": "Český Krumlov",
     "coordinates": {
-      "lat": 50.1298,
-      "lon": 13.2
+      "lat": 48.81091,
+      "lon": 14.31521
     },
     "radioStations": [
       {
@@ -3348,226 +2628,82 @@
     ]
   },
   {
-    "name": "Zlutice area 40",
+    "name": "Aš",
     "coordinates": {
-      "lat": 50.1308,
-      "lon": 13.201
+      "lat": 50.22387,
+      "lon": 12.19499
     },
     "radioStations": [
       {
-        "title": "WorldRadio",
+        "title": "SeeJay Radio",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://worldradio.eu/wp-content/uploads/2023/11/worldradio_lopta_112.png",
+        "imageURL": "http://api.play.cz/static/radio_logo/t200/seejay-radio.png",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://worldradio100.radioca.st/stream"
+        "streamURL": "http://icecast6.play.cz/seejay128.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 41",
+    "name": "Tachov",
     "coordinates": {
-      "lat": 50.1318,
-      "lon": 13.202
+      "lat": 49.79528,
+      "lon": 12.63365
     },
     "radioStations": [
       {
-        "title": "Hitradio Zlín",
-        "subtitle": "cz sk,hits,modern,pop • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://ice.radia.cz/radiozlin128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 42",
-    "coordinates": {
-      "lat": 50.1328,
-      "lon": 13.203
-    },
-    "radioStations": [
-      {
-        "title": "Čro3 Vltava",
+        "title": "Radio Slobodna Evropa",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
+        "imageURL": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro3-256.ogg"
+        "streamURL": "https://n0b.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABnuGiwuoA6i_rMaD9Row1Zw"
       }
     ]
   },
   {
-    "name": "Zlutice area 43",
+    "name": "Boskovice",
     "coordinates": {
-      "lat": 50.1338,
-      "lon": 13.204
+      "lat": 49.48751,
+      "lon": 16.65997
     },
     "radioStations": [
       {
-        "title": "Radio Fonlord",
-        "subtitle": "ai art,black metal,blues,czech,dark pop,folk metal,fonlord,gothic metal,hard roc • Czechia",
+        "title": "ČRo Sever",
+        "subtitle": "severní čechy,český rozhlas • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://fonlord.github.io/Virtualni-basnik/radio-fonlord-logo-512.png",
+        "imageURL": "https://sever.rozhlas.cz/sites/all/themes/custom/e7/images/logo/sever_colored-white.svg",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://a5.asurahosting.com:6530/radio.mp3"
+        "streamURL": "https://rozhlas.stream/sever_high.aac"
       }
     ]
   },
   {
-    "name": "Zlutice area 44",
+    "name": "Čelákovice",
     "coordinates": {
-      "lat": 50.1348,
-      "lon": 13.205
+      "lat": 50.16038,
+      "lon": 14.75005
     },
     "radioStations": [
       {
-        "title": "Cro Radio Wave",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.google.com/imgres?q=radio%20wave%20cz&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D124596689571&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcroradiowave%2F&docid=2nm_8JxQcjiK4M&tbnid=fMNzx05xHoFe9M&vet=12ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-wave.flac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 45",
-    "coordinates": {
-      "lat": 50.1358,
-      "lon": 13.206
-    },
-    "radioStations": [
-      {
-        "title": "Calimeroclub Radio",
-        "subtitle": "club,dance • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.calimeroclub.eu/img/picture/192/logo-calimero.jpg",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://live.topradio.cz:8000/calimero192"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 46",
-    "coordinates": {
-      "lat": 50.1368,
-      "lon": 13.207
-    },
-    "radioStations": [
-      {
-        "title": "Crazy Rádio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.crazyradio.cz/templates/dd_club_39/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://live.topradio.cz:8000/crazy128"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 47",
-    "coordinates": {
-      "lat": 50.1378,
-      "lon": 13.208
-    },
-    "radioStations": [
-      {
-        "title": "Samson",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz:8000/samsonfm128aac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 48",
-    "coordinates": {
-      "lat": 50.1388,
-      "lon": 13.209
-    },
-    "radioStations": [
-      {
-        "title": "LA RADIO PLUS ANNECY",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.laradioplus.com/media/option/thumb/69x54_logo-laradioplus-88602.webp",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 49",
-    "coordinates": {
-      "lat": 50.1398,
-      "lon": 13.21
-    },
-    "radioStations": [
-      {
-        "title": "Ghost Rádios",
+        "title": "Hvězda",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "http://servidor39.brlogic.com:8252/live?type=.m3u"
+        "streamURL": "https://hls.hvezda.info/session01/128k/s.m3u8"
       }
     ]
   },
   {
-    "name": "Zlutice area 50",
+    "name": "Vysoké Mýto",
     "coordinates": {
-      "lat": 50.1408,
-      "lon": 13.211
-    },
-    "radioStations": [
-      {
-        "title": "Čas Rock Natvrdo",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://stream.sepia.sk:8000/rnt128.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 51",
-    "coordinates": {
-      "lat": 50.1418,
-      "lon": 13.212
-    },
-    "radioStations": [
-      {
-        "title": "Radio7",
-        "subtitle": "christian,christmas music • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://radio7.cz/images/logo/r7_logo_transp_inv.png",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast8.play.cz/radio7-32aac"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 52",
-    "coordinates": {
-      "lat": 50.1428,
-      "lon": 13.213
+      "lat": 49.9532,
+      "lon": 16.16169
     },
     "radioStations": [
       {
@@ -3582,10 +2718,10 @@
     ]
   },
   {
-    "name": "Zlutice area 53",
+    "name": "Karlín",
     "coordinates": {
-      "lat": 50.1438,
-      "lon": 13.214
+      "lat": 50.09272,
+      "lon": 14.44711
     },
     "radioStations": [
       {
@@ -3600,46 +2736,10 @@
     ]
   },
   {
-    "name": "Zlutice area 54",
+    "name": "Vlašim",
     "coordinates": {
-      "lat": 50.1448,
-      "lon": 13.215
-    },
-    "radioStations": [
-      {
-        "title": "Fajn rock music",
-        "subtitle": "classic rock,czech rock,rock • Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://icecast2.play.cz/fajnrock192.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 55",
-    "coordinates": {
-      "lat": 50.1458,
-      "lon": 13.216
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 56",
-    "coordinates": {
-      "lat": 50.1468,
-      "lon": 13.217
+      "lat": 49.70632,
+      "lon": 14.89881
     },
     "radioStations": [
       {
@@ -3654,10 +2754,28 @@
     ]
   },
   {
-    "name": "Zlutice area 57",
+    "name": "Veselí nad Moravou",
     "coordinates": {
-      "lat": 50.1478,
-      "lon": 13.218
+      "lat": 48.95363,
+      "lon": 17.37648
+    },
+    "radioStations": [
+      {
+        "title": "Radio O106",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioo106.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radioking.com/radio/442799/stream/497147"
+      }
+    ]
+  },
+  {
+    "name": "Bohunice",
+    "coordinates": {
+      "lat": 49.16734,
+      "lon": 16.57751
     },
     "radioStations": [
       {
@@ -3672,17 +2790,17 @@
     ]
   },
   {
-    "name": "Zlutice area 58",
+    "name": "Kuřim",
     "coordinates": {
-      "lat": 50.1488,
-      "lon": 13.219
+      "lat": 49.29852,
+      "lon": 16.53144
     },
     "radioStations": [
       {
         "title": "PowerPonies Radio",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "http://radio.powerponies.cz/img/PowerPonies-Radio.png",
+        "imageURL": "http://www.powerponies.cz/img/PowerPoniesRadio4MkIII.png",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "http://powerponies.cz:8000/;stream.mp3"
@@ -3690,28 +2808,10 @@
     ]
   },
   {
-    "name": "Zlutice area 59",
+    "name": "Velké Meziříčí",
     "coordinates": {
-      "lat": 50.1498,
-      "lon": 13.22
-    },
-    "radioStations": [
-      {
-        "title": "Chat Rádio",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.chatujme.cz:8000/chatradio"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 60",
-    "coordinates": {
-      "lat": 50.1508,
-      "lon": 13.221
+      "lat": 49.35522,
+      "lon": 16.01224
     },
     "radioStations": [
       {
@@ -3726,82 +2826,46 @@
     ]
   },
   {
-    "name": "Zlutice area 61",
+    "name": "Rychnov nad Kněžnou",
     "coordinates": {
-      "lat": 50.1518,
-      "lon": 13.222
+      "lat": 50.16284,
+      "lon": 16.27488
     },
     "radioStations": [
       {
-        "title": "Classic Prague",
-        "subtitle": "Czechia",
+        "title": "Rádio Dechovka 256 kbps",
+        "subtitle": "czech folk music,folk music • Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://icecast8.play.cz/classic128.mp3"
+        "streamURL": "http://37.46.208.57:8000/stream_cra_256.mp3"
       }
     ]
   },
   {
-    "name": "Zlutice area 62",
+    "name": "Holešov",
     "coordinates": {
-      "lat": 50.1528,
-      "lon": 13.223
+      "lat": 49.33331,
+      "lon": 17.57832
     },
     "radioStations": [
       {
-        "title": "GenWave Radio",
-        "subtitle": "Czechia",
+        "title": "Radio Life Trance",
+        "subtitle": "dance,edm,trance • Czechia",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://genwave-radio.com/static/uploads/browser_icon/192.1766877076.png",
+        "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/584/radio-life-trance-fm.0acf6a9e.jpg",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://genwave-radio.com/listen/genwave/radio.mp3"
+        "streamURL": "http://65.108.105.26:7709/stream"
       }
     ]
   },
   {
-    "name": "Zlutice area 63",
+    "name": "Kohoutovice",
     "coordinates": {
-      "lat": 50.1538,
-      "lon": 13.224
-    },
-    "radioStations": [
-      {
-        "title": "Rádio Orlicko",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.radioorlicko.cz/",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://mediaservice.radioorlicko.cz/stream192.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 64",
-    "coordinates": {
-      "lat": 50.1548,
-      "lon": 13.225
-    },
-    "radioStations": [
-      {
-        "title": "Rádio G6",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "http://mpc1.mediacp.eu:8098/stream"
-      }
-    ]
-  },
-  {
-    "name": "Zlutice area 65",
-    "coordinates": {
-      "lat": 50.1558,
-      "lon": 13.226
+      "lat": 49.19449,
+      "lon": 16.54146
     },
     "radioStations": [
       {
@@ -3816,10 +2880,28 @@
     ]
   },
   {
-    "name": "Zlutice area 66",
+    "name": "Starý Lískovec",
     "coordinates": {
-      "lat": 50.1568,
-      "lon": 13.227
+      "lat": 49.16425,
+      "lon": 16.56146
+    },
+    "radioStations": [
+      {
+        "title": "Radia.cz - Train",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice2.radia.cz/relax-train64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Nový Bor",
+    "coordinates": {
+      "lat": 50.75761,
+      "lon": 14.55555
     },
     "radioStations": [
       {
@@ -3834,10 +2916,10 @@
     ]
   },
   {
-    "name": "Zlutice area 67",
+    "name": "Uničov",
     "coordinates": {
-      "lat": 50.1578,
-      "lon": 13.228
+      "lat": 49.77092,
+      "lon": 17.12144
     },
     "radioStations": [
       {
@@ -3852,20 +2934,920 @@
     ]
   },
   {
-    "name": "Zlutice area 68",
+    "name": "Malešice",
     "coordinates": {
-      "lat": 50.1588,
-      "lon": 13.229
+      "lat": 50.08471,
+      "lon": 14.50938
     },
     "radioStations": [
       {
-        "title": "Radia.cz - Train",
+        "title": "Funkstar Radio",
+        "subtitle": "disco,discomusic 70,discomusic 80,funk,nu-disco • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.funkstar.eu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://funkstar.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Vinohrady",
+    "coordinates": {
+      "lat": 49.20655,
+      "lon": 16.66317
+    },
+    "radioStations": [
+      {
+        "title": "Queenradio.net",
+        "subtitle": "queen,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n04.radiojar.com/4gw72qm8u68uv?rj-ttl=5&rj-tok=AAABnuGixMQAijWaWmotRtRXGg"
+      }
+    ]
+  },
+  {
+    "name": "Prachatice",
+    "coordinates": {
+      "lat": 49.01292,
+      "lon": 13.99752
+    },
+    "radioStations": [
+      {
+        "title": "ČRo Radio Wave",
+        "subtitle": "alternative,public radio,youth,český rozhlas • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Vokovice",
+    "coordinates": {
+      "lat": 50.09856,
+      "lon": 14.34488
+    },
+    "radioStations": [
+      {
+        "title": "Kiss Publikum",
+        "subtitle": "hits,pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast1.play.cz:8000/kisspublikum128aac"
+      }
+    ]
+  },
+  {
+    "name": "Uhříněves",
+    "coordinates": {
+      "lat": 50.02885,
+      "lon": 14.59948
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio FM Crystal",
+        "subtitle": "local,pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/crystal128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Domažlice",
+    "coordinates": {
+      "lat": 49.44049,
+      "lon": 12.92976
+    },
+    "radioStations": [
+      {
+        "title": "Frekvence 1 - Youradio Československé hity",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/web-e2-csweb"
+      }
+    ]
+  },
+  {
+    "name": "Humpolec",
+    "coordinates": {
+      "lat": 49.54152,
+      "lon": 15.35932
+    },
+    "radioStations": [
+      {
+        "title": "Rádio DNB TV",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.shadowbox.cz/css/site/btn/radio_shadowbox.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice3.abradio.cz/shadowbox128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rumburk",
+    "coordinates": {
+      "lat": 50.95151,
+      "lon": 14.55699
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Click & Country",
+        "subtitle": "country • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sušice",
+    "coordinates": {
+      "lat": 49.23106,
+      "lon": 13.52018
+    },
+    "radioStations": [
+      {
+        "title": "RadioParty.pl",
         "subtitle": "Czechia",
         "logo": "dot.radiowaves.left.and.right",
         "imageURL": "",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://ice2.radia.cz/relax-train64.aac"
+        "streamURL": "https://s2.radioparty.pl:8015/stream"
+      }
+    ]
+  },
+  {
+    "name": "Kyjov",
+    "coordinates": {
+      "lat": 49.01018,
+      "lon": 17.12253
+    },
+    "radioStations": [
+      {
+        "title": "Крым Реалии (rus, ukr) (official stream)",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0b.radiojar.com/wm9sntcpn3quv?rj-ttl=5&rj-tok=AAABnuGixooAGG8L62-JjACOuw"
+      }
+    ]
+  },
+  {
+    "name": "Frenštát pod Radhoštěm",
+    "coordinates": {
+      "lat": 49.54835,
+      "lon": 18.21078
+    },
+    "radioStations": [
+      {
+        "title": "Haná",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast8.play.cz/hana128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jesenice",
+    "coordinates": {
+      "lat": 49.96814,
+      "lon": 14.5135
+    },
+    "radioStations": [
+      {
+        "title": "Expresradio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast5.play.cz:8000/expres128mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jeseník",
+    "coordinates": {
+      "lat": 50.22937,
+      "lon": 17.20464
+    },
+    "radioStations": [
+      {
+        "title": "Крым.Реалии",
+        "subtitle": "news,news talk,talk • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rferl-ingest.akamaized.net/hls/live/2121745/axia19/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Újezd nad Lesy",
+    "coordinates": {
+      "lat": 50.07648,
+      "lon": 14.6595
+    },
+    "radioStations": [
+      {
+        "title": "Frekvence 1 - Youradio Legendy",
+        "subtitle": "nostalgia,nostalgic,nostalgico,nostalgie • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.actve.net/web-f1-legendy"
+      }
+    ]
+  },
+  {
+    "name": "Hlinsko",
+    "coordinates": {
+      "lat": 49.76213,
+      "lon": 15.90756
+    },
+    "radioStations": [
+      {
+        "title": "Radio JIH Cimbalka",
+        "subtitle": "folk music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://naladit.radiocimbalka.cz/favicon/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast6.play.cz/jihcimbalka128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studénka",
+    "coordinates": {
+      "lat": 49.72342,
+      "lon": 18.07853
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Diana – Retro Club",
+        "subtitle": "90's • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://westradio.cz/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Litomyšl",
+    "coordinates": {
+      "lat": 49.86809,
+      "lon": 16.31298
+    },
+    "radioStations": [
+      {
+        "title": "WebRadio Epigon",
+        "subtitle": "cz sk,czech rock,metal,rock,student radio • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice3.abradio.cz/epigon128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nové Město nad Metují",
+    "coordinates": {
+      "lat": 50.34456,
+      "lon": 16.15147
+    },
+    "radioStations": [
+      {
+        "title": "Čro Vltava Flac",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://amp.cesnet.cz:8443/cro3.flac"
+      }
+    ]
+  },
+  {
+    "name": "Nové Město na Moravě",
+    "coordinates": {
+      "lat": 49.56144,
+      "lon": 16.07418
+    },
+    "radioStations": [
+      {
+        "title": "Hitrádio City 93.7 FM",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25443.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC"
+      }
+    ]
+  },
+  {
+    "name": "Kunratice",
+    "coordinates": {
+      "lat": 50.01364,
+      "lon": 14.48341
+    },
+    "radioStations": [
+      {
+        "title": "Metal Heart Radio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.metalheartradio.com/assets/images/cd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3"
+      }
+    ]
+  },
+  {
+    "name": "Litovel",
+    "coordinates": {
+      "lat": 49.70121,
+      "lon": 17.07615
+    },
+    "radioStations": [
+      {
+        "title": "Zoner Underground Network",
+        "subtitle": "deep house,house • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://digital.rozhlas.cz/sites/default/files/styles/lightbox/public/images/f32b1e9c03da1b0a6fa3c92c11396f91.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zunradio.cz/zun3.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kyje",
+    "coordinates": {
+      "lat": 50.09729,
+      "lon": 14.5477
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Plus",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz:8000/fmplus64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Čáslav",
+    "coordinates": {
+      "lat": 49.91099,
+      "lon": 15.38972
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Hády",
+        "subtitle": "hits,pop music • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://46.36.36.149:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "Ivančice",
+    "coordinates": {
+      "lat": 49.10144,
+      "lon": 16.37752
+    },
+    "radioStations": [
+      {
+        "title": "Fajn Fresh",
+        "subtitle": "pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fajnradio.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ice.abradio.cz/fajnfresh128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chotěboř",
+    "coordinates": {
+      "lat": 49.72072,
+      "lon": 15.67018
+    },
+    "radioStations": [
+      {
+        "title": "ČRo Olomouc",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/olomouc_low.aac"
+      }
+    ]
+  },
+  {
+    "name": "Lanškroun",
+    "coordinates": {
+      "lat": 49.91217,
+      "lon": 16.6119
+    },
+    "radioStations": [
+      {
+        "title": "ELLIS",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ellis.stream.laut.fm/ellis?t302=2026-06-19_20-36-42&uuid=79b787a5-a51d-4c53-8f2f-c77f34565c46"
+      }
+    ]
+  },
+  {
+    "name": "Frýdlant nad Ostravicí",
+    "coordinates": {
+      "lat": 49.5928,
+      "lon": 18.35967
+    },
+    "radioStations": [
+      {
+        "title": "Dance Club FM",
+        "subtitle": "dance • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3stream4.abradio.cz/dance128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zbraslav",
+    "coordinates": {
+      "lat": 49.97604,
+      "lon": 14.39329
+    },
+    "radioStations": [
+      {
+        "title": "Fajn Fresh Radio",
+        "subtitle": "dance,house,pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3stream4.abradio.cz/fajnfresh64.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mohelnice",
+    "coordinates": {
+      "lat": 49.77698,
+      "lon": 16.91946
+    },
+    "radioStations": [
+      {
+        "title": "CRo Vysocina",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/vysocina_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Nový Lískovec",
+    "coordinates": {
+      "lat": 49.18316,
+      "lon": 16.5612
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Energic",
+        "subtitle": "contemporary hits radio • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast9.play.cz/energic.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moravská Třebová",
+    "coordinates": {
+      "lat": 49.75793,
+      "lon": 16.66426
+    },
+    "radioStations": [
+      {
+        "title": "čro Radiožurnál Sport AdHoc stream 1",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Milevsko",
+    "coordinates": {
+      "lat": 49.45089,
+      "lon": 14.36
+    },
+    "radioStations": [
+      {
+        "title": "WorldRadio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://worldradio.eu/wp-content/uploads/2023/11/worldradio_lopta_112.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://worldradio100.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tišnov",
+    "coordinates": {
+      "lat": 49.34872,
+      "lon": 16.42438
+    },
+    "radioStations": [
+      {
+        "title": "Plzeň TV",
+        "subtitle": "local news,news,regional,tv • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tv.plzen.cz/templates/theme3241/images/plzentv-icon.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Nová Paka",
+    "coordinates": {
+      "lat": 50.49449,
+      "lon": 15.51503
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio Zlín",
+        "subtitle": "cz sk,hits,modern,pop • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.radia.cz/radiozlin128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lovosice",
+    "coordinates": {
+      "lat": 50.51504,
+      "lon": 14.05103
+    },
+    "radioStations": [
+      {
+        "title": "Čro3 Vltava",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro3-256.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Štětí",
+    "coordinates": {
+      "lat": 50.45298,
+      "lon": 14.37421
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fonlord",
+        "subtitle": "ai art,black metal,blues,czech,dark pop,folk metal,fonlord,gothic metal,hard roc • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fonlord.github.io/Virtualni-basnik/radio-fonlord-logo-512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a5.asurahosting.com:6530/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Roztoky",
+    "coordinates": {
+      "lat": 50.15841,
+      "lon": 14.3976
+    },
+    "radioStations": [
+      {
+        "title": "Cro Radio Wave",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/imgres?q=radio%20wave%20cz&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D124596689571&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcroradiowave%2F&docid=2nm_8JxQcjiK4M&tbnid=fMNzx05xHoFe9M&vet=12ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://amp.cesnet.cz:8000/cro-radio-wave.flac"
+      }
+    ]
+  },
+  {
+    "name": "Rýmařov",
+    "coordinates": {
+      "lat": 49.93183,
+      "lon": 17.27177
+    },
+    "radioStations": [
+      {
+        "title": "Calimeroclub Radio",
+        "subtitle": "club,dance • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.calimeroclub.eu/img/picture/192/logo-calimero.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.topradio.cz:8000/calimero192"
+      }
+    ]
+  },
+  {
+    "name": "Slatina",
+    "coordinates": {
+      "lat": 49.17598,
+      "lon": 16.6878
+    },
+    "radioStations": [
+      {
+        "title": "Crazy Rádio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.crazyradio.cz/templates/dd_club_39/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.topradio.cz:8000/crazy128"
+      }
+    ]
+  },
+  {
+    "name": "Polička",
+    "coordinates": {
+      "lat": 49.71465,
+      "lon": 16.26543
+    },
+    "radioStations": [
+      {
+        "title": "BIKERS RADIO DOUPE",
+        "subtitle": "80's,90's • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bikersradiodoupe.cz/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast7.play.cz/bikersradiodoupe128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bystřice nad Pernštejnem",
+    "coordinates": {
+      "lat": 49.52295,
+      "lon": 16.26147
+    },
+    "radioStations": [
+      {
+        "title": "Samson",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz:8000/samsonfm128aac"
+      }
+    ]
+  },
+  {
+    "name": "Třeboň",
+    "coordinates": {
+      "lat": 49.00364,
+      "lon": 14.77065
+    },
+    "radioStations": [
+      {
+        "title": "LA RADIO PLUS ANNECY",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.laradioplus.com/media/option/thumb/69x54_logo-laradioplus-88602.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970"
+      }
+    ]
+  },
+  {
+    "name": "Dobříš",
+    "coordinates": {
+      "lat": 49.78113,
+      "lon": 14.16717
+    },
+    "radioStations": [
+      {
+        "title": "Ghost Rádios",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://servidor39.brlogic.com:8252/live?type=.m3u"
+      }
+    ]
+  },
+  {
+    "name": "Čakovice",
+    "coordinates": {
+      "lat": 50.15128,
+      "lon": 14.52393
+    },
+    "radioStations": [
+      {
+        "title": "Čas Rock Natvrdo",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.sepia.sk:8000/rnt128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Příbor",
+    "coordinates": {
+      "lat": 49.64094,
+      "lon": 18.14499
+    },
+    "radioStations": [
+      {
+        "title": "Fajn rock music",
+        "subtitle": "classic rock,czech rock,rock • Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast2.play.cz/fajnrock192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hostivice",
+    "coordinates": {
+      "lat": 50.08158,
+      "lon": 14.25856
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Duchcov",
+    "coordinates": {
+      "lat": 50.60376,
+      "lon": 13.74621
+    },
+    "radioStations": [
+      {
+        "title": "Chat Rádio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.chatujme.cz:8000/chatradio"
+      }
+    ]
+  },
+  {
+    "name": "Choceň",
+    "coordinates": {
+      "lat": 50.00161,
+      "lon": 16.22303
+    },
+    "radioStations": [
+      {
+        "title": "Classic Prague",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast8.play.cz/classic128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Přelouč",
+    "coordinates": {
+      "lat": 50.03985,
+      "lon": 15.56031
+    },
+    "radioStations": [
+      {
+        "title": "GenWave Radio",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://genwave-radio.com/static/uploads/browser_icon/192.1766877076.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://genwave-radio.com/listen/genwave/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nejdek",
+    "coordinates": {
+      "lat": 50.32242,
+      "lon": 12.72936
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Orlicko",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioorlicko.cz/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediaservice.radioorlicko.cz/stream192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hořice",
+    "coordinates": {
+      "lat": 50.36609,
+      "lon": 15.63183
+    },
+    "radioStations": [
+      {
+        "title": "Rádio G6",
+        "subtitle": "Czechia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mpc1.mediacp.eu:8098/stream"
       }
     ]
   }
