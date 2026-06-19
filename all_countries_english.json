@@ -435,7 +435,8 @@
     {
       "name": "Greece",
       "name_ru": "Греция",
-      "flag": "https://flagcdn.com/w320/gr.png"
+      "flag": "https://flagcdn.com/w320/gr.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/greece_radio_stations_300_popular_big_to_small_cities.json"
     },
     {
       "name": "Greenland",
