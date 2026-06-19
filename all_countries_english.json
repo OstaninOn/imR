@@ -6,15 +6,12 @@
       "flag": "https://flagcdn.com/w320/af.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/afghanistan_radio_stations_97_strict_big_to_small_cities.json"
     },
-    {
-      "name": "Åland Islands",
-      "name_ru": "Аландские острова",
-      "flag": "https://flagcdn.com/w320/ax.png"
-    },
+    
     {
       "name": "Albania",
       "name_ru": "Албания",
-      "flag": "https://flagcdn.com/w320/al.png"
+      "flag": "https://flagcdn.com/w320/al.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/albania_radio_stations_30_big_to_small_cities.json"
     },
     {
       "name": "Algeria",
