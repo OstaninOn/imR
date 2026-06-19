@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Skopje",
+    "coordinates": {
+      "lat": 41.9981,
+      "lon": 21.4254
+    },
+    "radioStations": [
+      {
+        "title": "Antenna 5",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antenna5.com.mk/Images/Logos/logo2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://fms.off.net.mk:8000/antenna5.stream"
+      }
+    ]
+  },
+  {
+    "name": "Bitola",
+    "coordinates": {
+      "lat": 41.0314,
+      "lon": 21.3347
+    },
+    "radioStations": [
+      {
+        "title": "Jazz FM",
+        "subtitle": "jazz • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzfm.mk/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.jazzfm.mk/listen/jazzfm/live"
+      }
+    ]
+  },
+  {
+    "name": "Kumanovo",
+    "coordinates": {
+      "lat": 42.1322,
+      "lon": 21.7144
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (MK Narodna) Skopje, Macedonia",
+        "subtitle": "macedonian folk • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiostar.pro/wp-content/uploads/2023/10/MK-NARODNA-300x300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://usa19.fastcast4u.com/starmknarodna"
+      }
+    ]
+  },
+  {
+    "name": "Prilep",
+    "coordinates": {
+      "lat": 41.3464,
+      "lon": 21.5545
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fortuna 96.8 FM",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiofortuna.ipradio.mk/;*.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tetovo",
+    "coordinates": {
+      "lat": 42.0106,
+      "lon": 20.9714
+    },
+    "radioStations": [
+      {
+        "title": "Just Music Radio",
+        "subtitle": "blues,disco,funk,funky,fusion,jazz,lounge,smooth jazz,soul • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.neotel.mk/justmusicradio"
+      }
+    ]
+  },
+  {
+    "name": "Veles",
+    "coordinates": {
+      "lat": 41.7156,
+      "lon": 21.7756
+    },
+    "radioStations": [
+      {
+        "title": "Metropolis Radio Network",
+        "subtitle": "club,electronic,pop,rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
+      }
+    ]
+  },
+  {
+    "name": "Ohrid",
+    "coordinates": {
+      "lat": 41.1231,
+      "lon": 20.8016
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (Urban Folk) Skopje, Macedonia",
+        "subtitle": "macedonian folk,macedonian pop,serbian folk,serbian pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiostar.pro/wp-content/uploads/2023/08/NARODNA-URBAN-300x300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu11.fastcast4u.com/urbanfolk"
+      }
+    ]
+  },
+  {
+    "name": "Gostivar",
+    "coordinates": {
+      "lat": 41.8,
+      "lon": 20.9167
+    },
+    "radioStations": [
+      {
+        "title": "Канал 77 Радио Мрежа",
+        "subtitle": "pop music • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocnd.mms.mk/proxy/player/stream"
+      }
+    ]
+  },
+  {
+    "name": "Shtip",
+    "coordinates": {
+      "lat": 41.7458,
+      "lon": 22.1958
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fortuna 96.8 Skopje, Macedonia",
+        "subtitle": "pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://makedonijafm.net/images/radio/fortuna-small.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiofortuna.ipradio.mk/;*.mp3%22"
+      }
+    ]
+  },
+  {
+    "name": "Strumica",
+    "coordinates": {
+      "lat": 41.4378,
+      "lon": 22.6427
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+        "subtitle": "exyu • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu11.fastcast4u.com/starexyuretro"
+      }
+    ]
+  },
+  {
+    "name": "Kavadarci",
+    "coordinates": {
+      "lat": 41.4331,
+      "lon": 22.0119
+    },
+    "radioStations": [
+      {
+        "title": "Star Folk Radio - Skopje, Macedonia",
+        "subtitle": "folk,pop,retro,top 40 • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://161.97.114.58:8010/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kochani",
+    "coordinates": {
+      "lat": 41.9164,
+      "lon": 22.4128
+    },
+    "radioStations": [
+      {
+        "title": "Stil Radio Live Macedonia",
+        "subtitle": "macedonian,serbian,turbo folk • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://stilradio.com/wp-content/uploads/2022/01/STIL-RADIO-TRANSPARENT-170x170.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1"
+      }
+    ]
+  },
+  {
+    "name": "Kicevo",
+    "coordinates": {
+      "lat": 41.5144,
+      "lon": 20.9633
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (World Hits) Skopje, Macedonia",
+        "subtitle": "pop,world hits • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://usa19.fastcast4u.com/starworldhits"
+      }
+    ]
+  },
+  {
+    "name": "Struga",
+    "coordinates": {
+      "lat": 41.1775,
+      "lon": 20.6789
+    },
+    "radioStations": [
+      {
+        "title": "Antenna 5 Macedonia",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://antenna5stream.neotel.mk:8000/live128"
+      }
+    ]
+  },
+  {
+    "name": "Radovish",
+    "coordinates": {
+      "lat": 41.6383,
+      "lon": 22.4647
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maria Macedonia",
+        "subtitle": "catholic,religion • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8118/stream"
+      }
+    ]
+  },
+  {
+    "name": "Gevgelija",
+    "coordinates": {
+      "lat": 41.1417,
+      "lon": 22.5014
+    },
+    "radioStations": [
+      {
+        "title": "Radio Meff",
+        "subtitle": "classical • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551"
+      }
+    ]
+  },
+  {
+    "name": "Debar",
+    "coordinates": {
+      "lat": 41.5244,
+      "lon": 20.5242
+    },
+    "radioStations": [
+      {
+        "title": "=KECO=70s ROCK",
+        "subtitle": "70s rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231218_113106430.jpg?alt=media&token=b6f6cb27-4778-460d-b740-0860a30262a7",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://jfm1.hostingradio.ru:14536/rock70.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kriva Palanka",
+    "coordinates": {
+      "lat": 42.2019,
+      "lon": 22.3319
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kanal 77 Skopje, Macedonia",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.makedonijafm.net/images/radio/kanal77-small.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocnd.mms.mk/proxy/offnet/stream"
+      }
+    ]
+  },
+  {
+    "name": "Negotino",
+    "coordinates": {
+      "lat": 41.4846,
+      "lon": 22.0906
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (Plus) Skopje, Macedonia",
+        "subtitle": "macedonian pop,serbian pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu10.fastcast4u.com/starplus"
+      }
+    ]
+  },
+  {
+    "name": "Sveti Nikole",
+    "coordinates": {
+      "lat": 41.8696,
+      "lon": 21.9527
+    },
+    "radioStations": [
+      {
+        "title": "Radio Valandovo 91.6 FM",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cloud.mkdstream.com/p/7391/stream"
+      }
+    ]
+  },
+  {
+    "name": "Delchevo",
+    "coordinates": {
+      "lat": 41.9672,
+      "lon": 22.7694
+    },
+    "radioStations": [
+      {
+        "title": "Kanal 103",
+        "subtitle": "alternative,dance,electronic,freeform,indie,pop rock,underground • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostream.neotel.mk/kanal103"
+      }
+    ]
+  },
+  {
+    "name": "Vinica",
+    "coordinates": {
+      "lat": 41.8828,
+      "lon": 22.5092
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://liferadio.ddns.net:8000/"
+      }
+    ]
+  },
+  {
+    "name": "Resen",
+    "coordinates": {
+      "lat": 41.0889,
+      "lon": 21.0122
+    },
+    "radioStations": [
+      {
+        "title": "SKY FOLK",
+        "subtitle": "macedonian folk • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu.live.skyfolk.mk/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Berovo",
+    "coordinates": {
+      "lat": 41.7031,
+      "lon": 22.8578
+    },
+    "radioStations": [
+      {
+        "title": "Lider FM 107,4",
+        "subtitle": "fm radio station,liderfm,public radio • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liderfm.ipradio.mk/"
+      }
+    ]
+  },
+  {
+    "name": "Probishtip",
+    "coordinates": {
+      "lat": 42.0031,
+      "lon": 22.1786
+    },
+    "radioStations": [
+      {
+        "title": "Bum Kumanovo",
+        "subtitle": "international • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://iandonov.radioca.st/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Kratovo",
+    "coordinates": {
+      "lat": 42.0784,
+      "lon": 22.1807
+    },
+    "radioStations": [
+      {
+        "title": "Скај Радио",
+        "subtitle": "pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://skyradio.com.mk/favicon-32x32.png?v=gAepAyvLkw",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.skyradio.com.mk:8000/"
+      }
+    ]
+  },
+  {
+    "name": "Bogdanci",
+    "coordinates": {
+      "lat": 41.2031,
+      "lon": 22.5756
+    },
+    "radioStations": [
+      {
+        "title": "Urban FM 90.8 Skopje",
+        "subtitle": "pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://securestreams4.autopo.st:1668/stream"
+      }
+    ]
+  },
+  {
+    "name": "Krushevo",
+    "coordinates": {
+      "lat": 41.3689,
+      "lon": 21.2489
+    },
+    "radioStations": [
+      {
+        "title": "Time FM Gevgelija",
+        "subtitle": "music • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.free-shoutcast.com/stream/18058"
+      }
+    ]
+  },
+  {
+    "name": "Makedonski Brod",
+    "coordinates": {
+      "lat": 41.5136,
+      "lon": 21.2153
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio 89.1 Macedonia",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.facebook.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://liferadio.ddns.net:8000/;"
+      }
+    ]
+  },
+  {
+    "name": "Demir Hisar",
+    "coordinates": {
+      "lat": 41.2208,
+      "lon": 21.2031
+    },
+    "radioStations": [
+      {
+        "title": "=KECO=ROCK BALLADS",
+        "subtitle": "70s rock ballads • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_Ballads_HD"
+      }
+    ]
+  },
+  {
+    "name": "Valandovo",
+    "coordinates": {
+      "lat": 41.3174,
+      "lon": 22.56
+    },
+    "radioStations": [
+      {
+        "title": "Sky Radio 102.5 Skopje, Macedonia",
+        "subtitle": "exyu,hits,macedonian pop,macedonian rock,pop,rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://skyradio.com.mk/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.skyradio.com.mk/;*.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pehchevo",
+    "coordinates": {
+      "lat": 41.7623,
+      "lon": 22.8892
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bravo Smooth Jazz Mix Radio",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server.webnetradio.net:5490/stream?"
+      }
+    ]
+  },
+  {
+    "name": "Demir Kapija",
+    "coordinates": {
+      "lat": 41.4061,
+      "lon": 22.2439
+    },
+    "radioStations": [
+      {
+        "title": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://skyradio.com.mk/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.skyradio.com.mk/retro.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Makedonska Kamenica",
+    "coordinates": {
+      "lat": 42.0208,
+      "lon": 22.5876
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bubamara 105.2 Skopje, Macedonia",
+        "subtitle": "exyu,macedonian pop,macedonian rock,serbian • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiobubamara.mk/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bubamara.com.mk/live"
+      }
+    ]
+  },
+  {
+    "name": "Bogovinje",
+    "coordinates": {
+      "lat": 41.9236,
+      "lon": 20.9136
+    },
+    "radioStations": [
+      {
+        "title": "Sky Radio Hits Skopje, Macedonia",
+        "subtitle": "hits,pop • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://skyradio.com.mk/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.skyradio.com.mk/hits.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Brvenica",
+    "coordinates": {
+      "lat": 41.9672,
+      "lon": 20.9808
+    },
+    "radioStations": [
+      {
+        "title": "Samo MK",
+        "subtitle": "macedonian contemporary,macedonian jazz,macedonian pop,macedonian rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.neotel.mk/samomk"
+      }
+    ]
+  },
+  {
+    "name": "Vrapchishte",
+    "coordinates": {
+      "lat": 41.8347,
+      "lon": 20.8856
+    },
+    "radioStations": [
+      {
+        "title": "SamoMK",
+        "subtitle": "misc • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostream.neotel.mk/samomk"
+      }
+    ]
+  },
+  {
+    "name": "Zhelino",
+    "coordinates": {
+      "lat": 41.9803,
+      "lon": 21.0647
+    },
+    "radioStations": [
+      {
+        "title": "RadioBar",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://visual.shoutca.st:8122/stream"
+      }
+    ]
+  },
+  {
+    "name": "Saraj",
+    "coordinates": {
+      "lat": 42.0,
+      "lon": 21.3278
+    },
+    "radioStations": [
+      {
+        "title": "Club Radio - Skopje, Mcedonia",
+        "subtitle": "dance,house • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubradio.mk/wp-content/uploads/2025/03/Screenshot_3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studenichani",
+    "coordinates": {
+      "lat": 41.9158,
+      "lon": 21.5317
+    },
+    "radioStations": [
+      {
+        "title": "Star Radio (Live) Skopje, Macedonia",
+        "subtitle": "exyu,macedonian pop,macedonian rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu11.fastcast4u.com/starmain"
+      }
+    ]
+  },
+  {
+    "name": "Arachinovo",
+    "coordinates": {
+      "lat": 42.0264,
+      "lon": 21.5619
+    },
+    "radioStations": [
+      {
+        "title": "RFM 91.3 - North Macedonia",
+        "subtitle": "macedonian,pop,rock,soft • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241108_165044336.jpg?alt=media&token=af90a123-dc5a-436e-a840-ed68b7e3e83f",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://213.133.109.18:10004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Ilinden",
+    "coordinates": {
+      "lat": 41.9945,
+      "lon": 21.58
+    },
+    "radioStations": [
+      {
+        "title": "Super Radio - Skopje, Macedonia",
+        "subtitle": "dance,music,pop,top 40 • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://161.97.114.58:8020/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Petrovec",
+    "coordinates": {
+      "lat": 41.9389,
+      "lon": 21.615
+    },
+    "radioStations": [
+      {
+        "title": "Makedonsko Radio 1 - Radio Skopje",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Sopishte",
+    "coordinates": {
+      "lat": 41.9556,
+      "lon": 21.4278
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "null",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chucher Sandevo",
+    "coordinates": {
+      "lat": 42.1036,
+      "lon": 21.3822
+    },
+    "radioStations": [
+      {
+        "title": "radio 22",
+        "subtitle": "pop music,pop rock,rock • North Macedonia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.server14.kariha.net:8008/"
+      }
+    ]
+  }
+]
