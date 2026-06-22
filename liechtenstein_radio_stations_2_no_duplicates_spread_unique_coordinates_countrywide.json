@@ -18,20 +18,20 @@
     ]
   },
   {
-    "name": "Abdulbasit Abdulsamad",
+    "name": "Antenna Web Vaduz",
     "coordinates": {
       "lat": 47.2374,
       "lon": 9.5254
     },
     "radioStations": [
       {
-        "title": "Abdulbasit Abdulsamad",
+        "title": "Antenna Web Vaduz",
         "subtitle": "Liechtenstein",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
+        "imageURL": "https://play-lh.googleusercontent.com/2wljBDsfM7KriiykNbsBdaNoJ8DNwF06Y0zTz7PAgz1GgfCfiSiMPt9INn0D5Ela9EE",
         "imageSize": 85,
         "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+        "streamURL": "https://halo.streamerr.co/listen/italiavera/stream.mp3"
       }
     ]
   }
