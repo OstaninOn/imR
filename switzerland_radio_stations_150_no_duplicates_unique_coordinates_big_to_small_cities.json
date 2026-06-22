@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Zürich",
+    "coordinates": {
+      "lat": 47.36667,
+      "lon": 8.55
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Jazz",
+        "subtitle": "jazz,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsj/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Geneva",
+    "coordinates": {
+      "lat": 46.20222,
+      "lon": 6.14569
+    },
+    "radioStations": [
+      {
+        "title": "SRF 3",
+        "subtitle": "pop,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf3/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Basel",
+    "coordinates": {
+      "lat": 47.55839,
+      "lon": 7.57327
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Pop",
+        "subtitle": "pop,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioswisspop.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Lausanne",
+    "coordinates": {
+      "lat": 46.516,
+      "lon": 6.63282
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Chillout Lounge Radio",
+        "subtitle": "chillout,lounge • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/chilloutlounge_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bern",
+    "coordinates": {
+      "lat": 46.94809,
+      "lon": 7.44744
+    },
+    "radioStations": [
+      {
+        "title": "Energy Zürich (NRJ)",
+        "subtitle": "mainstream,news,pop,swiss • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winterthur",
+    "coordinates": {
+      "lat": 47.50564,
+      "lon": 8.72413
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pilatus",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-pilatus-mp3-192-4664468?sABC=6n39488q%230%23o7p861n9pq997823prr54rqp96142np3%23puzrqvn&aw_0_1st.playerid=chmedia&amsparams=playerid:chmedia;skey:1782139021"
+      }
+    ]
+  },
+  {
+    "name": "Luzern",
+    "coordinates": {
+      "lat": 47.05048,
+      "lon": 8.30635
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Amsterdam Trance Radio",
+        "subtitle": "trance • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/atr_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sankt Gallen",
+    "coordinates": {
+      "lat": 47.42391,
+      "lon": 9.37477
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Deep House Radio",
+        "subtitle": "deep house,techno • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/deephouse_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lugano",
+    "coordinates": {
+      "lat": 46.01008,
+      "lon": 8.96004
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Ambient Psychill",
+        "subtitle": "downtempo,psychedelic chillout grooves,slow trance • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/ambientpsy_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Biel/Bienne",
+    "coordinates": {
+      "lat": 47.13713,
+      "lon": 7.24608
+    },
+    "radioStations": [
+      {
+        "title": "Jazz | Radio Swiss",
+        "subtitle": "jazz,mp3,radio swiss • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsj/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 11)",
+    "coordinates": {
+      "lat": 47.42326,
+      "lon": 8.52166
+    },
+    "radioStations": [
+      {
+        "title": "Vintage Radio",
+        "subtitle": "music • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 3)",
+    "coordinates": {
+      "lat": 47.35785,
+      "lon": 8.50296
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zürisee",
+        "subtitle": "classic hits,classic rock,pop,top 100 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.radio.ch/radiozuerisee256k"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 9)",
+    "coordinates": {
+      "lat": 47.38245,
+      "lon": 8.47993
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Deep Techno & Deep House",
+        "subtitle": "deep house,techno • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/deeptech_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thun",
+    "coordinates": {
+      "lat": 46.75118,
+      "lon": 7.62166
+    },
+    "radioStations": [
+      {
+        "title": "SRF 4 News",
+        "subtitle": "news,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Bellinzona",
+    "coordinates": {
+      "lat": 46.19278,
+      "lon": 9.01703
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Classic German",
+        "subtitle": "classical,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Köniz",
+    "coordinates": {
+      "lat": 46.92436,
+      "lon": 7.41457
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Classic",
+        "subtitle": "classical,musica classica,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioswissclassic.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_it/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Fribourg",
+    "coordinates": {
+      "lat": 46.80237,
+      "lon": 7.15128
+    },
+    "radioStations": [
+      {
+        "title": "Energy Bern",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://energybern.ice.infomaniak.ch/energybern-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "La Chaux-de-Fonds",
+    "coordinates": {
+      "lat": 47.09993,
+      "lon": 6.82586
+    },
+    "radioStations": [
+      {
+        "title": "Couleur3",
+        "subtitle": "indie,pop,rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/couleur3/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Schaffhausen",
+    "coordinates": {
+      "lat": 47.69732,
+      "lon": 8.63493
+    },
+    "radioStations": [
+      {
+        "title": "RADIO FM1",
+        "subtitle": "rock pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/zSVUQHv.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 10)",
+    "coordinates": {
+      "lat": 47.40773,
+      "lon": 8.5005
+    },
+    "radioStations": [
+      {
+        "title": "RTS La Première",
+        "subtitle": "public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/la-1ere/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Chur",
+    "coordinates": {
+      "lat": 46.84986,
+      "lon": 9.53287
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Otto's Baroque Music Radio",
+        "subtitle": "baroque,classical • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/baroque_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rapperswil",
+    "coordinates": {
+      "lat": 47.22557,
+      "lon": 8.82228
+    },
+    "radioStations": [
+      {
+        "title": "Radio Melody",
+        "subtitle": "classic hits,hits,top40 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374"
+      }
+    ]
+  },
+  {
+    "name": "Uster",
+    "coordinates": {
+      "lat": 47.34713,
+      "lon": 8.72091
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Switzerland",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=6n39488q%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139021"
+      }
+    ]
+  },
+  {
+    "name": "Sitten",
+    "coordinates": {
+      "lat": 46.22739,
+      "lon": 7.35559
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 3",
+        "subtitle": "entertainment,pop,rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/srf3/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 7)",
+    "coordinates": {
+      "lat": 47.37328,
+      "lon": 8.58038
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Classic Rock Replay Radio",
+        "subtitle": "classic rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/crock_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Neuchâtel",
+    "coordinates": {
+      "lat": 46.99179,
+      "lon": 6.931
+    },
+    "radioStations": [
+      {
+        "title": "SRF Musikwelle",
+        "subtitle": "folklore,public radio,srg ssr,volksmusik • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srfmw/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Emmen",
+    "coordinates": {
+      "lat": 47.07819,
+      "lon": 8.27331
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Regionaljournal Ostschweiz",
+        "subtitle": "local news,news,public radio • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ost/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Zug",
+    "coordinates": {
+      "lat": 47.17242,
+      "lon": 8.51745
+    },
+    "radioStations": [
+      {
+        "title": "Radio24",
+        "subtitle": "main,mainstream • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=696840ro%230%23srp58oqr2q0127pq92r8qr5o3p87s1no%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1768440043"
+      }
+    ]
+  },
+  {
+    "name": "Yverdon-les-Bains",
+    "coordinates": {
+      "lat": 46.77852,
+      "lon": 6.64115
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Bay Smooth Jazz Radio",
+        "subtitle": "smooth jazz • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/smoothjazz_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vernier",
+    "coordinates": {
+      "lat": 46.21702,
+      "lon": 6.08497
+    },
+    "radioStations": [
+      {
+        "title": "RADIO ARGOVIA",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/ccMg6qJ.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=6n39488q%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139021"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 6)",
+    "coordinates": {
+      "lat": 47.39223,
+      "lon": 8.54381
+    },
+    "radioStations": [
+      {
+        "title": "Kontrafunk (AAC 64)",
+        "subtitle": "conservative,news,politics,talk • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radio.co/sca4082ebb/low"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 2)",
+    "coordinates": {
+      "lat": 47.33756,
+      "lon": 8.5211
+    },
+    "radioStations": [
+      {
+        "title": "UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive",
+        "subtitle": "electro,house,minimal techno,progressive house,techno • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uzic.ice.infomaniak.ch/uzic-128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 9) / Altstetten",
+    "coordinates": {
+      "lat": 47.38946,
+      "lon": 8.48533
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Classic Country Radio",
+        "subtitle": "classic country • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/ccountry_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 12)",
+    "coordinates": {
+      "lat": 47.40372,
+      "lon": 8.57608
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Blues Radio",
+        "subtitle": "blues • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/blues_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lancy",
+    "coordinates": {
+      "lat": 46.18981,
+      "lon": 6.11441
+    },
+    "radioStations": [
+      {
+        "title": "Ambi Nature Radio",
+        "subtitle": "field recording,nature,sounds of nature • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s266086d.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nature-rex.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 4) / Aussersihl",
+    "coordinates": {
+      "lat": 47.37752,
+      "lon": 8.52127
+    },
+    "radioStations": [
+      {
+        "title": "RSR La Premiere",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Montreux",
+    "coordinates": {
+      "lat": 46.43301,
+      "lon": 6.91143
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - BOM Psytrance Radio",
+        "subtitle": "full-on,progressive psytrance,psytrance • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/psytrance_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Frauenfeld",
+    "coordinates": {
+      "lat": 47.55776,
+      "lon": 8.89893
+    },
+    "radioStations": [
+      {
+        "title": "SRF 2",
+        "subtitle": "culture,kultur,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/srf2/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Kriens",
+    "coordinates": {
+      "lat": 47.0311,
+      "lon": 8.28547
+    },
+    "radioStations": [
+      {
+        "title": "Radio Central",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-rcentral-mp3-192-5577010?sABC=6n39488r%231%231723615196409_33800762%23puzrqvn-enqvb-jro&aw_0_1st.playerid=chmedia-radio-web&amsparams=playerid:chmedia-radio-web;skey:1782139022"
+      }
+    ]
+  },
+  {
+    "name": "Wetzikon",
+    "coordinates": {
+      "lat": 47.3264,
+      "lon": 8.79779
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Absolute Country Hits Radio",
+        "subtitle": "country • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/acountry_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Wil",
+    "coordinates": {
+      "lat": 47.46152,
+      "lon": 9.04552
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Zentralschweiz",
+        "subtitle": "local news,news,public radio • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_zentr/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Bulle",
+    "coordinates": {
+      "lat": 46.61797,
+      "lon": 7.0569
+    },
+    "radioStations": [
+      {
+        "title": "Radio 32 Goldies",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-goldies-mp3-192-3811722?sABC=6n39488s%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139023"
+      }
+    ]
+  },
+  {
+    "name": "Horgen",
+    "coordinates": {
+      "lat": 47.25983,
+      "lon": 8.59778
+    },
+    "radioStations": [
+      {
+        "title": "80s Forever - We Keep The 80s Alive",
+        "subtitle": "80s,alternative rock,eighties,gothic,indie,indie pop,manchester rave,new wave,po • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.80sforever.radio/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kreuzlingen",
+    "coordinates": {
+      "lat": 47.65051,
+      "lon": 9.17504
+    },
+    "radioStations": [
+      {
+        "title": "1.fm Otto's Baroque music",
+        "subtitle": "baroque,classical baroque,classical music • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/baroque_mobile_aac"
+      }
+    ]
+  },
+  {
+    "name": "Opfikon",
+    "coordinates": {
+      "lat": 47.43169,
+      "lon": 8.57588
+    },
+    "radioStations": [
+      {
+        "title": "SRF 1",
+        "subtitle": "public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srf1/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Aarau",
+    "coordinates": {
+      "lat": 47.39254,
+      "lon": 8.04422
+    },
+    "radioStations": [
+      {
+        "title": "Pop | Radio Swiss",
+        "subtitle": "mp3,pop,radio swiss • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioswisspop.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsp/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 3) / Sihlfeld",
+    "coordinates": {
+      "lat": 47.37382,
+      "lon": 8.51164
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - ReggaeTrade Radio",
+        "subtitle": "reggae • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/reggae_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Renens",
+    "coordinates": {
+      "lat": 46.53989,
+      "lon": 6.5881
+    },
+    "radioStations": [
+      {
+        "title": "RTS Couleur 3",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rts.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/couleur3/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Dietikon",
+    "coordinates": {
+      "lat": 47.40165,
+      "lon": 8.40015
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Otto's Opera House",
+        "subtitle": "opera • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/opera_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Baar",
+    "coordinates": {
+      "lat": 47.19625,
+      "lon": 8.52954
+    },
+    "radioStations": [
+      {
+        "title": "Radio 32",
+        "subtitle": "local news,news,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-r32-mp3-192-5284783?sABC=6n39488s%230%23o7p861n9pq997823prr54rqp96142np3%23puzrqvn-gbqnl-jro&aw_0_1st.playerid=chmedia-today-web&amsparams=playerid:chmedia-today-web;skey:1782139023"
+      }
+    ]
+  },
+  {
+    "name": "Bülach",
+    "coordinates": {
+      "lat": 47.52197,
+      "lon": 8.54049
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Rock Classics Radio",
+        "subtitle": "classic rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/rockclassics_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 6) / Unterstrass",
+    "coordinates": {
+      "lat": 47.3953,
+      "lon": 8.53721
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Alternative Rock X Hits Radio",
+        "subtitle": "alternative rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/x_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Riehen",
+    "coordinates": {
+      "lat": 47.57884,
+      "lon": 7.64683
+    },
+    "radioStations": [
+      {
+        "title": "SRF Virus",
+        "subtitle": "alternative,alternative rock,public radio,srg ssr,youth • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/srfvirus/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Vevey",
+    "coordinates": {
+      "lat": 46.46299,
+      "lon": 6.84345
+    },
+    "radioStations": [
+      {
+        "title": "RADIO BERN1",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-rbern1-mp3-192-7860422?sABC=6n39488s%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139023"
+      }
+    ]
+  },
+  {
+    "name": "Dübendorf",
+    "coordinates": {
+      "lat": 47.39724,
+      "lon": 8.61872
+    },
+    "radioStations": [
+      {
+        "title": "Kontrafunk (Mobil)",
+        "subtitle": "news,opinion,talk • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.multhielemedia.de/listen/kontrafunk/mobil"
+      }
+    ]
+  },
+  {
+    "name": "Meyrin",
+    "coordinates": {
+      "lat": 46.23424,
+      "lon": 6.08025
+    },
+    "radioStations": [
+      {
+        "title": "GDS.FM",
+        "subtitle": "acid-house,experimental,hiphop,indie rock,nu-jazz,trip hop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://gdsfm.out.airtime.pro:8000/gdsfm_a"
+      }
+    ]
+  },
+  {
+    "name": "Carouge",
+    "coordinates": {
+      "lat": 46.18096,
+      "lon": 6.13921
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Country One Radio",
+        "subtitle": "country • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/country_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Baden",
+    "coordinates": {
+      "lat": 47.47333,
+      "lon": 8.30592
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Absolute Trance (Euro) Radio",
+        "subtitle": "trance • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/trance_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Reinach",
+    "coordinates": {
+      "lat": 47.49702,
+      "lon": 7.59172
+    },
+    "radioStations": [
+      {
+        "title": "RTS Option Musique",
+        "subtitle": "public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/option-musique/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Olten",
+    "coordinates": {
+      "lat": 47.34999,
+      "lon": 7.90329
+    },
+    "radioStations": [
+      {
+        "title": "Radio Basilisk",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Martigny-Ville",
+    "coordinates": {
+      "lat": 46.10276,
+      "lon": 7.07245
+    },
+    "radioStations": [
+      {
+        "title": "Energy Basel (NRJ)",
+        "subtitle": "charts,local news,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Wettingen",
+    "coordinates": {
+      "lat": 47.46606,
+      "lon": 8.32663
+    },
+    "radioStations": [
+      {
+        "title": "Sunshine Radio (Switzerland)",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-4746851?sABC=6n394890%231%231699795900047_8633080%23puzrqvn-enqvb-jro&aw_0_1st.playerid=chmedia-radio-web&amsparams=playerid:chmedia-radio-web;skey:1782139024"
+      }
+    ]
+  },
+  {
+    "name": "Allschwil",
+    "coordinates": {
+      "lat": 47.55074,
+      "lon": 7.53599
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio",
+        "subtitle": "rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.spoonradio.com/newimages/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 11) / Oerlikon",
+    "coordinates": {
+      "lat": 47.40823,
+      "lon": 8.54258
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf1/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 11) / Seebach",
+    "coordinates": {
+      "lat": 47.42181,
+      "lon": 8.54779
+    },
+    "radioStations": [
+      {
+        "title": "Radio Suisse Classique",
+        "subtitle": "classical,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_fr/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Monthey",
+    "coordinates": {
+      "lat": 46.25451,
+      "lon": 6.95406
+    },
+    "radioStations": [
+      {
+        "title": "Kontrafunk (MP3 192)",
+        "subtitle": "conservative,news,politics,talk • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jona",
+    "coordinates": {
+      "lat": 47.22983,
+      "lon": 8.83884
+    },
+    "radioStations": [
+      {
+        "title": "A Fine Jazz Gumbo Radio",
+        "subtitle": "jazz • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzgumboradio.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.smartradio.ch:9502/stream"
+      }
+    ]
+  },
+  {
+    "name": "Onex",
+    "coordinates": {
+      "lat": 46.18396,
+      "lon": 6.10237
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 4 News",
+        "subtitle": "information,news • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srf4news/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 11) / Affoltern",
+    "coordinates": {
+      "lat": 47.41814,
+      "lon": 8.5122
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio - Rock Ballads",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 10) / Höngg",
+    "coordinates": {
+      "lat": 47.40313,
+      "lon": 8.4971
+    },
+    "radioStations": [
+      {
+        "title": "RTN",
+        "subtitle": "regional • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtn.ice.infomaniak.ch/rtn-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gossau",
+    "coordinates": {
+      "lat": 47.41551,
+      "lon": 9.25482
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Bern Freibourg Wallis",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Muttenz",
+    "coordinates": {
+      "lat": 47.52271,
+      "lon": 7.64511
+    },
+    "radioStations": [
+      {
+        "title": "Planet Ambi HD",
+        "subtitle": "ambient,drone • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://philae.shoutca.st:9019/stream"
+      }
+    ]
+  },
+  {
+    "name": "Nyon",
+    "coordinates": {
+      "lat": 46.38318,
+      "lon": 6.23955
+    },
+    "radioStations": [
+      {
+        "title": "Radio Eviva",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-reviva-mp3-192-3783812?sABC=6n394891%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139025"
+      }
+    ]
+  },
+  {
+    "name": "Sierre",
+    "coordinates": {
+      "lat": 46.29192,
+      "lon": 7.53559
+    },
+    "radioStations": [
+      {
+        "title": "Radio 24",
+        "subtitle": "classic rock,easy listening,pop music • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=6n394891%230%23o7p861n9pq997823prr54rqp96142np3%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1782139025"
+      }
+    ]
+  },
+  {
+    "name": "Solothurn",
+    "coordinates": {
+      "lat": 47.20791,
+      "lon": 7.53714
+    },
+    "radioStations": [
+      {
+        "title": "Vibration Zen Relax",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://vibration.stream2net.eu:8220/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Cham",
+    "coordinates": {
+      "lat": 47.18213,
+      "lon": 8.46358
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Ibiza Chill Tropical",
+        "subtitle": "1.fm,chillout,ibiza,tropical,tropical music • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 9) / Albisrieden",
+    "coordinates": {
+      "lat": 47.37398,
+      "lon": 8.49007
+    },
+    "radioStations": [
+      {
+        "title": "RSI Rete Uno",
+        "subtitle": "public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/reteuno/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Burgdorf",
+    "coordinates": {
+      "lat": 47.05901,
+      "lon": 7.62786
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio - Hard Rock",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac"
+      }
+    ]
+  },
+  {
+    "name": "Oberwinterthur (Kreis 2)",
+    "coordinates": {
+      "lat": 47.51692,
+      "lon": 8.76863
+    },
+    "radioStations": [
+      {
+        "title": "Klassik Radio (Switzerland)",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205"
+      }
+    ]
+  },
+  {
+    "name": "Kloten",
+    "coordinates": {
+      "lat": 47.45152,
+      "lon": 8.58491
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Dance One Radio",
+        "subtitle": "electronica • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/dance_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pully",
+    "coordinates": {
+      "lat": 46.51027,
+      "lon": 6.66183
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Adore Jazz Radio",
+        "subtitle": "jazz • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/ajazz_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1)",
+    "coordinates": {
+      "lat": 47.49494,
+      "lon": 8.71954
+    },
+    "radioStations": [
+      {
+        "title": "Kontrafunk",
+        "subtitle": "news • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radio.co/sca4082ebb/listen"
+      }
+    ]
+  },
+  {
+    "name": "Littau",
+    "coordinates": {
+      "lat": 47.05,
+      "lon": 8.26274
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Adult Urban Hits Choice Radio",
+        "subtitle": "rnb,soul,urban adult contemporary • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/oldschool_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 2) / Wollishofen",
+    "coordinates": {
+      "lat": 47.3401,
+      "lon": 8.53134
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tell",
+        "subtitle": "folklore,volksmusik • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiotell.ch/radiotell.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Grenchen",
+    "coordinates": {
+      "lat": 47.1921,
+      "lon": 7.39586
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Zürich Schaffhausen",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Einsiedeln",
+    "coordinates": {
+      "lat": 47.12849,
+      "lon": 8.74735
+    },
+    "radioStations": [
+      {
+        "title": "RadioFr. Fribourg",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiofr.ch/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Locarno",
+    "coordinates": {
+      "lat": 46.17086,
+      "lon": 8.79953
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio - Modern Rock",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpSSo216Uv5Txb7r2DzQ3YMZwsCJnZ3YoCfY-NkcusEijZdAqBqM9j0ENG4D8z3meF5hFM9XAofitEG_UuC2NmZDfKXF2j-NAgLOwYmDMrtu2cPHzr6-Kctnw6kx5k6WEEzwdgbte9vYQtqsW_TZ0TKbvyyHEyRQ9Fb8YKCZDMXlhJpj9i-GY0WIGnhpjw/s300/Modern%20Rock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac"
+      }
+    ]
+  },
+  {
+    "name": "Herisau",
+    "coordinates": {
+      "lat": 47.38615,
+      "lon": 9.27916
+    },
+    "radioStations": [
+      {
+        "title": "Radio Top (Ostschweiz)",
+        "subtitle": "news,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiotop.ice.infomaniak.ch/radiotop96.aac"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 10) / Wipkingen",
+    "coordinates": {
+      "lat": 47.39503,
+      "lon": 8.52529
+    },
+    "radioStations": [
+      {
+        "title": "SRF1 Regionaljournal Aargau Solothurn",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Steffisburg",
+    "coordinates": {
+      "lat": 46.77807,
+      "lon": 7.63249
+    },
+    "radioStations": [
+      {
+        "title": "Radio Melody Schweiz",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=6n394892%230%23o7p861n9pq997823prr54rqp96142np3%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1782139026"
+      }
+    ]
+  },
+  {
+    "name": "Morges",
+    "coordinates": {
+      "lat": 46.51127,
+      "lon": 6.49854
+    },
+    "radioStations": [
+      {
+        "title": "Radio Grischa",
+        "subtitle": "infos,music,news • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 8)",
+    "coordinates": {
+      "lat": 47.3548,
+      "lon": 8.56097
+    },
+    "radioStations": [
+      {
+        "title": "SRF1 Regionaljournal Zürich-Schaffhausen",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_zh_sh/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Seen (Kreis 3)",
+    "coordinates": {
+      "lat": 47.47646,
+      "lon": 8.76996
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Gorilla FM Radio",
+        "subtitle": "alternative rock,indie rock,progressive rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/gorillafm_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Adliswil",
+    "coordinates": {
+      "lat": 47.30997,
+      "lon": 8.52462
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Disco Ball 70's-80's Radio",
+        "subtitle": "70s,80s,disco • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/disco_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Schwyz",
+    "coordinates": {
+      "lat": 47.02076,
+      "lon": 8.65414
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - America's Best Ballads Radio",
+        "subtitle": "ballads • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/onelive_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mendrisio",
+    "coordinates": {
+      "lat": 45.87019,
+      "lon": 8.9816
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Love Classics Radio",
+        "subtitle": "love songs • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/loveclassics_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 3) / Alt-Wiedikon",
+    "coordinates": {
+      "lat": 47.36201,
+      "lon": 8.51497
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Bossa Nova Hits",
+        "subtitle": "latin • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/bossanova_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pratteln",
+    "coordinates": {
+      "lat": 47.52071,
+      "lon": 7.69356
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Magic 80 Radio",
+        "subtitle": "80s • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/magic80_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Arbon",
+    "coordinates": {
+      "lat": 47.51667,
+      "lon": 9.43333
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Destination: SPA Radio",
+        "subtitle": "new age,relax • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/spa_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Freienbach",
+    "coordinates": {
+      "lat": 47.20534,
+      "lon": 8.75842
+    },
+    "radioStations": [
+      {
+        "title": "SRF1 Radio",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf1/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Meilen",
+    "coordinates": {
+      "lat": 47.27232,
+      "lon": 8.64617
+    },
+    "radioStations": [
+      {
+        "title": "1.FM Essential Classical",
+        "subtitle": "classic hits • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/polskafm_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Langenthal",
+    "coordinates": {
+      "lat": 47.21526,
+      "lon": 7.79607
+    },
+    "radioStations": [
+      {
+        "title": "Energy Bern (NRJ)",
+        "subtitle": "news,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://energybern.ice.infomaniak.ch/energybern-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Binningen",
+    "coordinates": {
+      "lat": 47.54021,
+      "lon": 7.56932
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis",
+        "subtitle": "local news,news,public radio • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/regi_be_fr_vs/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Wohlen",
+    "coordinates": {
+      "lat": 47.35066,
+      "lon": 8.27517
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Aargau Solothurn",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ag_so/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Thalwil",
+    "coordinates": {
+      "lat": 47.29175,
+      "lon": 8.56351
+    },
+    "radioStations": [
+      {
+        "title": "Radio1.ch",
+        "subtitle": "2000s,80s,90s • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio1.ch/128k"
+      }
+    ]
+  },
+  {
+    "name": "Wädenswil",
+    "coordinates": {
+      "lat": 47.22683,
+      "lon": 8.6687
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio - Alternative Rock",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac"
+      }
+    ]
+  },
+  {
+    "name": "Küssnacht",
+    "coordinates": {
+      "lat": 47.08557,
+      "lon": 8.44206
+    },
+    "radioStations": [
+      {
+        "title": "Spoon Radio - Acoustic Rock",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SHiVIhu9EpfEEl-rxBhQSt3qk7NR6E7IVze0BnDOe8DwJDLNs3AVPxrV4X92gX1Npnm5MymhyphenhyphenU3abvbvqpoxKzvlbstflZlnzHwnA7radKNmrIURHHKN1SOlDP4S7qOGBOhBD73Hdi8S_HiVim5-fs1k8bNJ4kmbIDjqhyWa7Ih2wM8/s220/acoustic.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac"
+      }
+    ]
+  },
+  {
+    "name": "Thônex",
+    "coordinates": {
+      "lat": 46.18815,
+      "lon": 6.19904
+    },
+    "radioStations": [
+      {
+        "title": "1.FM Top 40 Ballads Radio",
+        "subtitle": "ballads,hits,pop,top 40 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/top40ballads_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Muri",
+    "coordinates": {
+      "lat": 46.93122,
+      "lon": 7.48658
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zuerisee",
+        "subtitle": "dance,hits,pop,top100 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.radio.ch/radiozuerisee128k"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 4) / Hard",
+    "coordinates": {
+      "lat": 47.38311,
+      "lon": 8.50942
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF Virus",
+        "subtitle": "high quality audio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/srfvirus/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Uzwil",
+    "coordinates": {
+      "lat": 47.43653,
+      "lon": 9.13422
+    },
+    "radioStations": [
+      {
+        "title": "Radio-Drachenblut",
+        "subtitle": "metal,rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-drachenblut.ch:8443/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Liestal",
+    "coordinates": {
+      "lat": 47.48455,
+      "lon": 7.73446
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Classic DE (AAC 192)",
+        "subtitle": "classical,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioswissclassic.ch/social-media/rsc-web.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_de/aac/192"
+      }
+    ]
+  },
+  {
+    "name": "Schlieren",
+    "coordinates": {
+      "lat": 47.39668,
+      "lon": 8.44763
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 2 Kultur (AAC 192)",
+        "subtitle": "classical,culture,jazz,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://livestreaming-node-2.srg-ssr.ch/srgssr/srf2/aac/192"
+      }
+    ]
+  },
+  {
+    "name": "Delémont",
+    "coordinates": {
+      "lat": 47.36493,
+      "lon": 7.34453
+    },
+    "radioStations": [
+      {
+        "title": "MaXXima",
+        "subtitle": "club,dance,deep house,edm,electro house,electronic,house,progressive house • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maxxima.ch/wp-content/uploads/2018/03/cropped-maxxima_radio_512-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://maxxima.mine.nu/maxxima.aac"
+      }
+    ]
+  },
+  {
+    "name": "Wülflingen (Kreis 6)",
+    "coordinates": {
+      "lat": 47.51036,
+      "lon": 8.68333
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Bombay Beats India Radio",
+        "subtitle": "bollywood • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/bombaybeats_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Spiez",
+    "coordinates": {
+      "lat": 46.68473,
+      "lon": 7.69111
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Absolute TOP 40 Radio",
+        "subtitle": "pop,top 40 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/top40_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Glarus",
+    "coordinates": {
+      "lat": 47.04057,
+      "lon": 9.06804
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Absolute 90s Party Zone Radio",
+        "subtitle": "90s,party • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/partyzone90s_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Horw",
+    "coordinates": {
+      "lat": 47.01692,
+      "lon": 8.30956
+    },
+    "radioStations": [
+      {
+        "title": "Rock The Blues",
+        "subtitle": "blues,rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rock-the-blues.stream.laut.fm/rock-the-blues?t302=2026-06-22_14-37-10&uuid=f477b449-4252-4e84-8811-ae88bad6fc5a"
+      }
+    ]
+  },
+  {
+    "name": "Affoltern am Albis",
+    "coordinates": {
+      "lat": 47.27743,
+      "lon": 8.45128
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - Eternal Praise & Worship Radio",
+        "subtitle": "christian contemporary • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/praise_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pfäffikon",
+    "coordinates": {
+      "lat": 47.36453,
+      "lon": 8.79202
+    },
+    "radioStations": [
+      {
+        "title": "Traxx FM - Deep",
+        "subtitle": "commercial-free,deep,deep house,electronic,house,no ads • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Spreitenbach",
+    "coordinates": {
+      "lat": 47.42285,
+      "lon": 8.36792
+    },
+    "radioStations": [
+      {
+        "title": "RaBe Radio Bern Switzerland",
+        "subtitle": "multikulti • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rabe.ch/favicon/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 5)",
+    "coordinates": {
+      "lat": 47.38767,
+      "lon": 8.52152
+    },
+    "radioStations": [
+      {
+        "title": "One FM",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onefm.ice.infomaniak.ch/onefm-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Wallisellen",
+    "coordinates": {
+      "lat": 47.41499,
+      "lon": 8.59672
+    },
+    "radioStations": [
+      {
+        "title": "RSR Couleur 3",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Zofingen",
+    "coordinates": {
+      "lat": 47.28779,
+      "lon": 7.94586
+    },
+    "radioStations": [
+      {
+        "title": "Swiss Pop",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/rsp/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Münchenstein",
+    "coordinates": {
+      "lat": 47.51848,
+      "lon": 7.60966
+    },
+    "radioStations": [
+      {
+        "title": "1.FM Beloved Ballads",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm112.1.fm/onelive_mobile_mp3?"
+      }
+    ]
+  },
+  {
+    "name": "Ittigen",
+    "coordinates": {
+      "lat": 46.97434,
+      "lon": 7.48281
+    },
+    "radioStations": [
+      {
+        "title": "SWISS GROOVE",
+        "subtitle": "funk,jazz,latin,lounge,nu grooves,soul,world • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://swissgroove.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://relay2.swissgroove.ch/;"
+      }
+    ]
+  },
+  {
+    "name": "Küsnacht",
+    "coordinates": {
+      "lat": 47.31805,
+      "lon": 8.58401
+    },
+    "radioStations": [
+      {
+        "title": "RSI Rete Tre",
+        "subtitle": "pop,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Ebikon",
+    "coordinates": {
+      "lat": 47.07937,
+      "lon": 8.34041
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Classic French",
+        "subtitle": "classical,french,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rsc_fr/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Versoix",
+    "coordinates": {
+      "lat": 46.28382,
+      "lon": 6.16214
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vostok",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiovostok.ice.infomaniak.ch/radiovostok.aac"
+      }
+    ]
+  },
+  {
+    "name": "Amriswil",
+    "coordinates": {
+      "lat": 47.54699,
+      "lon": 9.29586
+    },
+    "radioStations": [
+      {
+        "title": "GOAT Radio",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://20min.dmd2streaming.com/20minuten_radio_64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 12) / Hirzenbach",
+    "coordinates": {
+      "lat": 47.40187,
+      "lon": 8.58633
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF Musikwelle",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srfmw/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Brugg",
+    "coordinates": {
+      "lat": 47.48096,
+      "lon": 8.20869
+    },
+    "radioStations": [
+      {
+        "title": "GRRIF",
+        "subtitle": "blues,eclectic,electronic,indie,rock,soul • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rjb.ice.infomaniak.ch/rjb-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hinwil",
+    "coordinates": {
+      "lat": 47.29426,
+      "lon": 8.84393
+    },
+    "radioStations": [
+      {
+        "title": "1.FM - A List 80s",
+        "subtitle": "80s • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/vFiPaW4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/back280s_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Worb",
+    "coordinates": {
+      "lat": 46.92984,
+      "lon": 7.56306
+    },
+    "radioStations": [
+      {
+        "title": "open broadcast radio",
+        "subtitle": "afro,deep house,dub,eclectic,electronic,folk,funk,hip hop,house,jazz,latin,neo s • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.openbroadcast.ch/320.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mattenbach (Kreis 7)",
+    "coordinates": {
+      "lat": 47.48705,
+      "lon": 8.74681
+    },
+    "radioStations": [
+      {
+        "title": "RTS Espace 2",
+        "subtitle": "classical,jazz,public radio,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rts.ch/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-3.srg-ssr.ch/srgssr/espace-2/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Lyss",
+    "coordinates": {
+      "lat": 47.0741,
+      "lon": 7.30655
+    },
+    "radioStations": [
+      {
+        "title": "1.fm top rap",
+        "subtitle": "rap hiphop rnb • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue"
+      }
+    ]
+  },
+  {
+    "name": "Münsingen",
+    "coordinates": {
+      "lat": 46.87298,
+      "lon": 7.561
+    },
+    "radioStations": [
+      {
+        "title": "Brazilian Birds Radio",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm112.1.fm/brazilianbirds_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Davos",
+    "coordinates": {
+      "lat": 46.80429,
+      "lon": 9.83723
+    },
+    "radioStations": [
+      {
+        "title": "1.FM Y2K Radio (2000s)",
+        "subtitle": "2000,2000's,2000s,decades,early 2000s,y2k • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio-online.ch/uploads/img/1-fm-y2k.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/hits2000_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rheinfelden",
+    "coordinates": {
+      "lat": 47.55437,
+      "lon": 7.79403
+    },
+    "radioStations": [
+      {
+        "title": "Classic | Radio Swiss",
+        "subtitle": "classical,mp3,radio swiss • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/mp3/128"
+      }
+    ]
+  },
+  {
+    "name": "Gland",
+    "coordinates": {
+      "lat": 46.42082,
+      "lon": 6.2701
+    },
+    "radioStations": [
+      {
+        "title": "RSR Option Musique",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-3.srg-ssr.ch/srgssr/option-musique/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Altstätten",
+    "coordinates": {
+      "lat": 47.37766,
+      "lon": 9.54746
+    },
+    "radioStations": [
+      {
+        "title": "Bear Metal Radio",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.bearmetalradio.com/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast5.asurahosting.com/proxy/bear?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Lenzburg",
+    "coordinates": {
+      "lat": 47.38853,
+      "lon": 8.17503
+    },
+    "radioStations": [
+      {
+        "title": "1.fm classic rock",
+        "subtitle": "classic rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm112.1.fm/crock_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Plan-les-Ouates",
+    "coordinates": {
+      "lat": 46.16789,
+      "lon": 6.11664
+    },
+    "radioStations": [
+      {
+        "title": "Rouge",
+        "subtitle": "classic hits,top hits,top40 • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_rougefm1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Prilly",
+    "coordinates": {
+      "lat": 46.53698,
+      "lon": 6.60456
+    },
+    "radioStations": [
+      {
+        "title": "RFJ",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rfj.ice.infomaniak.ch/rfj-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "La Tour-de-Peilz",
+    "coordinates": {
+      "lat": 46.45312,
+      "lon": 6.85856
+    },
+    "radioStations": [
+      {
+        "title": "publicdomainproject swing jazz",
+        "subtitle": "Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://relay.publicdomainradio.org/jazz_swing.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chêne-Bougeries",
+    "coordinates": {
+      "lat": 46.19843,
+      "lon": 6.18642
+    },
+    "radioStations": [
+      {
+        "title": "Neo1",
+        "subtitle": "local news,pop,rock • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://neo1.ice.infomaniak.ch/neo1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Zürich (Kreis 12) / Schwamendingen-Mitte",
+    "coordinates": {
+      "lat": 47.4063,
+      "lon": 8.57242
+    },
+    "radioStations": [
+      {
+        "title": "Back2Noize Radio",
+        "subtitle": "club,club dance,dance,dance music,dnb,drum & bass,drum 'n' bass,drum and bass,el • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://securestreams4.autopo.st:1558/Back2Noize"
+      }
+    ]
+  },
+  {
+    "name": "Rotkreuz",
+    "coordinates": {
+      "lat": 47.14283,
+      "lon": 8.4314
+    },
+    "radioStations": [
+      {
+        "title": "Radio Swiss Jazz (AAC 192)",
+        "subtitle": "jazz,srg ssr • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://livestreaming-node-1.srg-ssr.ch/srgssr/rsj/aac/192"
+      }
+    ]
+  },
+  {
+    "name": "Uster / Kirch-Uster",
+    "coordinates": {
+      "lat": 47.34579,
+      "lon": 8.71839
+    },
+    "radioStations": [
+      {
+        "title": "Radio SRF 1 Ostschweiz | 32k AAC+",
+        "subtitle": "commercial free,contemporary,culture,mixed programming,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_ost/aac/96"
+      }
+    ]
+  },
+  {
+    "name": "Buchs",
+    "coordinates": {
+      "lat": 47.16743,
+      "lon": 9.47794
+    },
+    "radioStations": [
+      {
+        "title": "Rete Tre | 32k AAC+",
+        "subtitle": "alternative,commercial free,contemporary,culture,energetic,mixed programming,pop • Switzerland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-tre.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestreaming-node-1.srg-ssr.ch/srgssr/retetre/aac/96"
+      }
+    ]
+  }
+]
