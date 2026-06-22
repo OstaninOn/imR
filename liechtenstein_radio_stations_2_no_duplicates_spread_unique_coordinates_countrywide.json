@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Radio Vaterland",
+    "coordinates": {
+      "lat": 47.141,
+      "lon": 9.5209
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vaterland",
+        "subtitle": "Liechtenstein",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vaterland.li/design2020/images/radio_vaterland.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 47.2374,
+      "lon": 9.5254
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Liechtenstein",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  }
+]
