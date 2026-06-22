@@ -10,13 +10,35 @@
         "title": "Radio Vaterland",
         "subtitle": "Liechtenstein",
         "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://www.vaterland.li/design2020/images/radio_vaterland.png",
+        "imageURL": "https://avatars.mds.yandex.net/i?id=fa7cce28a999b440aa6c33e7bee0e433e04f4fb3-5238336-images-thumbs&n=13",
         "imageSize": 85,
         "playerImageSize": 85,
         "streamURL": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8"
       }
     ]
   },
+
+{
+    "name": "FirstHits",
+    "coordinates": {
+      "lat": 47.141,
+      "lon": 9.5209
+    },
+    "radioStations": [
+      {
+        "title": "FirstHits",
+        "subtitle": "Liechtenstein",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://avatars.mds.yandex.net/i?id=dec4af7bff63317701705927352dc01149ff265a-5099351-images-thumbs&n=13",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.laut.fm/firsthits"
+      }
+    ]
+  },
+
+
+  
   {
     "name": "Antenna Web Vaduz",
     "coordinates": {
