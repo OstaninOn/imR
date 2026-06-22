@@ -649,7 +649,8 @@
     {
       "name": "Liechtenstein",
       "name_ru": "Лихтенштейн",
-      "flag": "https://flagcdn.com/w320/li.png"
+      "flag": "https://flagcdn.com/w320/li.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/liechtenstein_radio_stations_2_no_duplicates_spread_unique_coordinates_countrywide.json"
     },
     {
       "name": "Lithuania",
