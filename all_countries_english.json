@@ -1088,7 +1088,8 @@
     {
       "name": "Switzerland",
       "name_ru": "Швейцария",
-      "flag": "https://flagcdn.com/w320/ch.png"
+      "flag": "https://flagcdn.com/w320/ch.png",
+      "stationsJSON": ""
     },
     {
       "name": "Syria",
