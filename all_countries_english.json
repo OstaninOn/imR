@@ -1089,7 +1089,7 @@
       "name": "Switzerland",
       "name_ru": "Швейцария",
       "flag": "https://flagcdn.com/w320/ch.png",
-      "stationsJSON": ""
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/switzerland_radio_stations_150_no_duplicates_unique_coordinates_big_to_small_cities.json"
     },
     {
       "name": "Syria",
