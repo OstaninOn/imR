@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Fun Radio",
+    "coordinates": {
+      "lat": 47.99268,
+      "lon": 17.61211
+    },
+    "radioStations": [
+      {
+        "title": "Fun Radio",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.funradio.sk:8000/fun128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo1 Rádio Slovensko (256k)",
+    "coordinates": {
+      "lat": 47.98544,
+      "lon": 18.16195
+    },
+    "radioStations": [
+      {
+        "title": "SRo1 Rádio Slovensko (256k)",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/Slovensko_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Vlna",
+    "coordinates": {
+      "lat": 47.79495,
+      "lon": 18.7175
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Vlna",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiovlna.sk/vlna-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Slobodný vysielač",
+    "coordinates": {
+      "lat": 48.21059,
+      "lon": 19.35043
+    },
+    "radioStations": [
+      {
+        "title": "Slobodný vysielač",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://159.69.219.5:8010/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Lumen",
+    "coordinates": {
+      "lat": 48.21563,
+      "lon": 18.60705
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Lumen",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lumen.sk/public/img/favicons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://audio.lumen.sk:8000/live128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FUN RÁDIO DANCE",
+    "coordinates": {
+      "lat": 48.11667,
+      "lon": 18.31667
+    },
+    "radioStations": [
+      {
+        "title": "FUN RÁDIO DANCE",
+        "subtitle": "Bratislava",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/j51rcUO.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.funradio.sk:8000/dance128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Melody",
+    "coordinates": {
+      "lat": 48.15127,
+      "lon": 17.88062
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Melody",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bauermedia.sk/melody-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO EXPRES",
+    "coordinates": {
+      "lat": 48.14816,
+      "lon": 17.10674
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO EXPRES",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/Q7pqtwX.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bauermedia.sk/128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo1 Rádio Slovensko",
+    "coordinates": {
+      "lat": 48.28986,
+      "lon": 17.26664
+    },
+    "radioStations": [
+      {
+        "title": "SRo1 Rádio Slovensko",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/Slovensko_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Europa 2",
+    "coordinates": {
+      "lat": 48.37773,
+      "lon": 17.58603
+    },
+    "radioStations": [
+      {
+        "title": "Europa 2",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bauermedia.sk/europa2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO SLOVENSKO",
+    "coordinates": {
+      "lat": 48.30763,
+      "lon": 18.08453
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO SLOVENSKO",
+        "subtitle": "Slovensko",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/slovensko_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo2 Rádio Regina Východ",
+    "coordinates": {
+      "lat": 48.44858,
+      "lon": 18.91003
+    },
+    "radioStations": [
+      {
+        "title": "SRo2 Rádio Regina Východ",
+        "subtitle": "Košice",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvs.sk/media/images/radiostations/radio_regina.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stv.livebox.sk/regina-ke_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Detské Rádio",
+    "coordinates": {
+      "lat": 48.3554,
+      "lon": 19.06474
+    },
+    "radioStations": [
+      {
+        "title": "Detské Rádio",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.detske.radio/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.21.sk/detskeradio-192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo3: Rádio Devín",
+    "coordinates": {
+      "lat": 48.33249,
+      "lon": 19.66708
+    },
+    "radioStations": [
+      {
+        "title": "SRo3: Rádio Devín",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stv.livebox.sk/devin_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo2 Rádio Regina Stred",
+    "coordinates": {
+      "lat": 48.41915,
+      "lon": 20.32566
+    },
+    "radioStations": [
+      {
+        "title": "SRo2 Rádio Regina Stred",
+        "subtitle": "Banská Bystrica",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stv.livebox.sk/regina-bb_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Košice",
+    "coordinates": {
+      "lat": 48.42336,
+      "lon": 21.97944
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Košice",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiokosice.sk/assets/radio-ke.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.ecce.sk:8000/radiokosice-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO VLNA 60-70",
+    "coordinates": {
+      "lat": 48.75434,
+      "lon": 21.9195
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO VLNA 60-70",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/tONu9yL.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiovlna.sk/gold-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo8 Rádio Litera",
+    "coordinates": {
+      "lat": 48.71441,
+      "lon": 21.25802
+    },
+    "radioStations": [
+      {
+        "title": "SRo8 Rádio Litera",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stv.livebox.sk/litera_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo9 Rádio Junior (256k)",
+    "coordinates": {
+      "lat": 48.61428,
+      "lon": 20.99957
+    },
+    "radioStations": [
+      {
+        "title": "SRo9 Rádio Junior (256k)",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/Junior_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio ROCK",
+    "coordinates": {
+      "lat": 48.66009,
+      "lon": 20.53758
+    },
+    "radioStations": [
+      {
+        "title": "Rádio ROCK",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorock.sk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bauermedia.sk/rock-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jubilanti",
+    "coordinates": {
+      "lat": 48.57787,
+      "lon": 19.52574
+    },
+    "radioStations": [
+      {
+        "title": "Jubilanti",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://images.app.goo.gl/jCttHdwPJLWrfXbk6",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://109.71.67.102:8000/beta_jubilanti.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio FM",
+    "coordinates": {
+      "lat": 48.73947,
+      "lon": 19.14932
+    },
+    "radioStations": [
+      {
+        "title": "Rádio FM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/fm_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Folk",
+    "coordinates": {
+      "lat": 48.59184,
+      "lon": 18.84958
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Folk",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mpc1.mediacp.eu/stream/demo2"
+      }
+    ]
+  },
+  {
+    "name": "SRo4 Rádio FM",
+    "coordinates": {
+      "lat": 48.56361,
+      "lon": 18.16712
+    },
+    "radioStations": [
+      {
+        "title": "SRo4 Rádio FM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/FM_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo2 Rádio Regina Západ",
+    "coordinates": {
+      "lat": 48.59479,
+      "lon": 17.82591
+    },
+    "radioStations": [
+      {
+        "title": "SRo2 Rádio Regina Západ",
+        "subtitle": "Bratislava",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stv.livebox.sk/regina-ba_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Beta",
+    "coordinates": {
+      "lat": 48.67922,
+      "lon": 17.36697
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Beta",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://109.71.67.102:8000/beta_live_high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Jazz",
+    "coordinates": {
+      "lat": 48.8449,
+      "lon": 17.22635
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Jazz",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiojazz.sk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.sepia.sk:8000/jazz128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "TV Lux (audio)",
+    "coordinates": {
+      "lat": 48.77721,
+      "lon": 17.69433
+    },
+    "radioStations": [
+      {
+        "title": "TV Lux (audio)",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tvlux.sk/project/tvlux/design/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "InfoVojna 2",
+    "coordinates": {
+      "lat": 48.89452,
+      "lon": 18.04436
+    },
+    "radioStations": [
+      {
+        "title": "InfoVojna 2",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.infovojna.com:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "RusynFM",
+    "coordinates": {
+      "lat": 48.77446,
+      "lon": 18.6275
+    },
+    "radioStations": [
+      {
+        "title": "RusynFM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rusyn.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rusyn.fm/rusyny.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Sity",
+    "coordinates": {
+      "lat": 48.79237,
+      "lon": 19.38219
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Sity",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiosity.online:8000/aac"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Vlna Oldies Party",
+    "coordinates": {
+      "lat": 48.80431,
+      "lon": 19.63631
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Vlna Oldies Party",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiovlna.sk/party-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Relax International",
+    "coordinates": {
+      "lat": 48.94464,
+      "lon": 20.56153
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Relax International",
+        "subtitle": "Kiev",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.relaxfm.ee/international"
+      }
+    ]
+  },
+  {
+    "name": "Top Rádio",
+    "coordinates": {
+      "lat": 48.91447,
+      "lon": 20.87514
+    },
+    "radioStations": [
+      {
+        "title": "Top Rádio",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
+      }
+    ]
+  },
+  {
+    "name": "FUN RÁDIO 80-90",
+    "coordinates": {
+      "lat": 48.99923,
+      "lon": 21.2355
+    },
+    "radioStations": [
+      {
+        "title": "FUN RÁDIO 80-90",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/8qktrMY.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.funradio.sk:8000/80-90-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Litera",
+    "coordinates": {
+      "lat": 48.93707,
+      "lon": 21.91625
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Litera",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.ibb.co/68qvmxY/radio-litera-w.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/litera_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SubFM",
+    "coordinates": {
+      "lat": 49.20211,
+      "lon": 21.65216
+    },
+    "radioStations": [
+      {
+        "title": "SubFM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.subfm.sk/subfm"
+      }
+    ]
+  },
+  {
+    "name": "Regina Východ",
+    "coordinates": {
+      "lat": 49.04114,
+      "lon": 21.1993
+    },
+    "radioStations": [
+      {
+        "title": "Regina Východ",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvs.sk/media/images/home-pink.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/regina-ke_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Suita",
+    "coordinates": {
+      "lat": 49.02173,
+      "lon": 20.59212
+    },
+    "radioStations": [
+      {
+        "title": "Radio Suita",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://suita.sk/wp-content/uploads/2026/02/logoSuita.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.online/proxy/radiosuita/radiosuita.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Vlna CLASSIC ROCK",
+    "coordinates": {
+      "lat": 49.06144,
+      "lon": 20.29798
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Vlna CLASSIC ROCK",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiovlna.sk:8000/rock-hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Repete",
+    "coordinates": {
+      "lat": 49.08061,
+      "lon": 19.62218
+    },
+    "radioStations": [
+      {
+        "title": "Repete",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rusyn.fm/rusyny-low.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SRo9 Rádio Junior",
+    "coordinates": {
+      "lat": 49.0748,
+      "lon": 19.30751
+    },
+    "radioStations": [
+      {
+        "title": "SRo9 Rádio Junior",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/Junior_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SKY Rádio",
+    "coordinates": {
+      "lat": 49.22315,
+      "lon": 18.73941
+    },
+    "radioStations": [
+      {
+        "title": "SKY Rádio",
+        "subtitle": "Prešov",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://skyradio.sk/img/fav.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.skyradio.sk:8000/sky128"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO BETA 80-90",
+    "coordinates": {
+      "lat": 49.12153,
+      "lon": 18.42169
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO BETA 80-90",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/uvSpQnj.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://109.71.67.102:8000/beta_80a90.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BestFM",
+    "coordinates": {
+      "lat": 49.43503,
+      "lon": 18.78895
+    },
+    "radioStations": [
+      {
+        "title": "BestFM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream3.bestfm.sk:8000/160.aac"
+      }
+    ]
+  },
+  {
+    "name": "Fun Radio  Chill",
+    "coordinates": {
+      "lat": 49.4079,
+      "lon": 19.48032
+    },
+    "radioStations": [
+      {
+        "title": "Fun Radio  Chill",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.funradio.sk:8000/chill128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO BEST FM",
+    "coordinates": {
+      "lat": 49.337,
+      "lon": 19.556
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO BEST FM",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/ty0Rjzh.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream3.bestfm.sk:8000/128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Melody",
+    "coordinates": {
+      "lat": 49.32607,
+      "lon": 20.38744
+    },
+    "radioStations": [
+      {
+        "title": "Radio Melody",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile"
+      }
+    ]
+  },
+  {
+    "name": "TRNAVSKÉ RÁDIO",
+    "coordinates": {
+      "lat": 49.29859,
+      "lon": 20.6862
+    },
+    "radioStations": [
+      {
+        "title": "TRNAVSKÉ RÁDIO",
+        "subtitle": "Trnava",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/10yFTbI.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO BETA - České a Slovenské hity",
+    "coordinates": {
+      "lat": 49.29175,
+      "lon": 21.27271
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO BETA - České a Slovenské hity",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/sBlLhc2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://109.71.67.102:8000/beta_cspop.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Funrádio Mileniálky",
+    "coordinates": {
+      "lat": 48.38071,
+      "lon": 16.84882
+    },
+    "radioStations": [
+      {
+        "title": "Funrádio Mileniálky",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.funradio.sk:8000/milenialky128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTVS Litera256",
+    "coordinates": {
+      "lat": 48.57257,
+      "lon": 19.95395
+    },
+    "radioStations": [
+      {
+        "title": "RTVS Litera256",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.slovakradio.sk:8000/Litera_256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Infovojna",
+    "coordinates": {
+      "lat": 48.07408,
+      "lon": 18.94946
+    },
+    "radioStations": [
+      {
+        "title": "Infovojna",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.infovojna.com:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Regina Západ",
+    "coordinates": {
+      "lat": 47.80808,
+      "lon": 17.86652
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Regina Západ",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.ibb.co/JcBjSsG/radio-regina-zapad-w.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio RSI",
+    "coordinates": {
+      "lat": 48.601,
+      "lon": 17.00379
+    },
+    "radioStations": [
+      {
+        "title": "Rádio RSI",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.ibb.co/4jyQ9sj/radio-rsi-w.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.stv.livebox.sk/rsi_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Fred Film Radio-25 Slovenčina",
+    "coordinates": {
+      "lat": 47.75198,
+      "lon": 18.22763
+    },
+    "radioStations": [
+      {
+        "title": "Fred Film Radio-25 Slovenčina",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.fred.fm/wp-content/uploads/2014/12/Fred-Logo_trasp_-copia.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream"
+      }
+    ]
+  },
+  {
+    "name": "Fun Radio CZ",
+    "coordinates": {
+      "lat": 48.42738,
+      "lon": 18.45632
+    },
+    "radioStations": [
+      {
+        "title": "Fun Radio CZ",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.funradio.sk:8000/cs128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BB FM rádio",
+    "coordinates": {
+      "lat": 48.90144,
+      "lon": 21.55698
+    },
+    "radioStations": [
+      {
+        "title": "BB FM rádio",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.bbfm.sk/bbfm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Rock SV",
+    "coordinates": {
+      "lat": 48.85156,
+      "lon": 20.18849
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Rock SV",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.myradiostream.com/:4870/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Paráda",
+    "coordinates": {
+      "lat": 48.90944,
+      "lon": 18.88484
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Paráda",
+        "subtitle": "Slovakia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioparada.sk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://extra.mediacp.eu/stream/RadioParada,o.z."
+      }
+    ]
+  }
+]
