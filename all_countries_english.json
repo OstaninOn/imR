@@ -71,7 +71,8 @@
     {
       "name": "Austria",
       "name_ru": "Австрия",
-      "flag": "https://flagcdn.com/w320/at.png"
+      "flag": "https://flagcdn.com/w320/at.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/austria_radio_stations_274_no_duplicates_spread_unique_coordinates_countrywide.json"
     },
     {
       "name": "Azerbaijan",
