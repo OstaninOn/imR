@@ -1,0 +1,4934 @@
+[
+  {
+    "name": "ORF Hitradio Ö3 | HQ",
+    "coordinates": {
+      "lat": 46.68167,
+      "lon": 13.00694
+    },
+    "radioStations": [
+      {
+        "title": "ORF Hitradio Ö3 | HQ",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/oe3-q2a"
+      }
+    ]
+  },
+  {
+    "name": "FM4 | ORF | HQ",
+    "coordinates": {
+      "lat": 46.62722,
+      "lon": 13.36722
+    },
+    "radioStations": [
+      {
+        "title": "FM4 | ORF | HQ",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/fm4-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Ö1 | ORF | HQ",
+    "coordinates": {
+      "lat": 46.61028,
+      "lon": 13.85583
+    },
+    "radioStations": [
+      {
+        "title": "Ö1 | ORF | HQ",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/oe1-q2a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Hitradio Ö3",
+    "coordinates": {
+      "lat": 46.62472,
+      "lon": 14.30528
+    },
+    "radioStations": [
+      {
+        "title": "ORF Hitradio Ö3",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ors-sn03.ors-shoutcast.at/oe3-q1a"
+      }
+    ]
+  },
+  {
+    "name": "FM4 | ORF",
+    "coordinates": {
+      "lat": 46.66222,
+      "lon": 14.63444
+    },
+    "radioStations": [
+      {
+        "title": "FM4 | ORF",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/fm4-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Ö1 | ORF",
+    "coordinates": {
+      "lat": 46.59,
+      "lon": 14.79889
+    },
+    "radioStations": [
+      {
+        "title": "Ö1 | ORF",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/oe1-q1a"
+      }
+    ]
+  },
+  {
+    "name": "radio 88.6",
+    "coordinates": {
+      "lat": 46.68667,
+      "lon": 15.24722
+    },
+    "radioStations": [
+      {
+        "title": "radio 88.6",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/radio_88.6/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kronehit",
+    "coordinates": {
+      "lat": 46.67639,
+      "lon": 15.40306
+    },
+    "radioStations": [
+      {
+        "title": "Kronehit",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/Z3rkNFc.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair.krone.at/kronehit.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Steiermark",
+    "coordinates": {
+      "lat": 46.70806,
+      "lon": 15.77472
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Steiermark",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/as"
+      }
+    ]
+  },
+  {
+    "name": "KroneHit Digital",
+    "coordinates": {
+      "lat": 46.78161,
+      "lon": 15.53836
+    },
+    "radioStations": [
+      {
+        "title": "KroneHit Digital",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair-ha1.krone.at/kronehit1058.mp3"
+      }
+    ]
+  },
+  {
+    "name": "AUSTRIA FIRST – Österreichs Patriotenradio",
+    "coordinates": {
+      "lat": 46.81528,
+      "lon": 15.22222
+    },
+    "radioStations": [
+      {
+        "title": "AUSTRIA FIRST – Österreichs Patriotenradio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://austriafirst.at/wp-content/uploads/2026/01/favicon-256x256-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q"
+      }
+    ]
+  },
+  {
+    "name": "88.6 Hard Rock",
+    "coordinates": {
+      "lat": 46.84056,
+      "lon": 14.84417
+    },
+    "radioStations": [
+      {
+        "title": "88.6 Hard Rock",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_HARDROCK.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/88.6_Hard_Rock/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lounge.FM - 100% Austria",
+    "coordinates": {
+      "lat": 46.75167,
+      "lon": 14.53667
+    },
+    "radioStations": [
+      {
+        "title": "Lounge.FM - 100% Austria",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s35.derstream.net/100austria.mp3"
+      }
+    ]
+  },
+  {
+    "name": "88.6 Classic Rock",
+    "coordinates": {
+      "lat": 46.76806,
+      "lon": 14.36028
+    },
+    "radioStations": [
+      {
+        "title": "88.6 Classic Rock",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_CLASSICROCK.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/88.6_Classic_Rock/mp3"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Oberösterreich | HQ",
+    "coordinates": {
+      "lat": 46.80056,
+      "lon": 13.71167
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Oberösterreich | HQ",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/ooe-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Radino - Mein Kinderradio Wien 103,2",
+    "coordinates": {
+      "lat": 46.8,
+      "lon": 13.5
+    },
+    "radioStations": [
+      {
+        "title": "Radino - Mein Kinderradio Wien 103,2",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream01.zogl.net:8906/stream"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Steiermark | HQ",
+    "coordinates": {
+      "lat": 46.75812,
+      "lon": 13.24934
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Steiermark | HQ",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/531/169/177/709/original/1721e6944c64b1b3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/stm-q2a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Wien",
+    "coordinates": {
+      "lat": 46.8289,
+      "lon": 12.76903
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Wien",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/wie-q1a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Kärnten",
+    "coordinates": {
+      "lat": 46.75278,
+      "lon": 12.42111
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Kärnten",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ors-sn02.ors-shoutcast.at/ktn-q1a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Niederösterreich | HQ",
+    "coordinates": {
+      "lat": 46.98584,
+      "lon": 10.02702
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Niederösterreich | HQ",
+        "subtitle": "Niederösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/noe-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio",
+    "coordinates": {
+      "lat": 46.96667,
+      "lon": 10.55
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio",
+        "subtitle": "Upper Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Austrian Rock Radio",
+    "coordinates": {
+      "lat": 46.96667,
+      "lon": 11.0
+    },
+    "radioStations": [
+      {
+        "title": "Austrian Rock Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/arr"
+      }
+    ]
+  },
+  {
+    "name": "1000 ELECTRONIC DANCE MUSIC",
+    "coordinates": {
+      "lat": 47.01667,
+      "lon": 11.41667
+    },
+    "radioStations": [
+      {
+        "title": "1000 ELECTRONIC DANCE MUSIC",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/1000-electronic-dance-music"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Oberösterreich",
+    "coordinates": {
+      "lat": 47.0,
+      "lon": 12.53333
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Oberösterreich",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/ooe-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Rock Antenne Österreich (AAC)",
+    "coordinates": {
+      "lat": 46.86603,
+      "lon": 12.68968
+    },
+    "radioStations": [
+      {
+        "title": "Rock Antenne Österreich (AAC)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s6-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Austropop",
+    "coordinates": {
+      "lat": 46.93667,
+      "lon": 13.20417
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Austropop",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Kärnten",
+    "coordinates": {
+      "lat": 46.90722,
+      "lon": 13.52944
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Kärnten",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/ak"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Wien | HQ",
+    "coordinates": {
+      "lat": 46.89444,
+      "lon": 14.32861
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Wien | HQ",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/wie-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Radio Klassik Stephansdom",
+    "coordinates": {
+      "lat": 46.87298,
+      "lon": 14.47449
+    },
+    "radioStations": [
+      {
+        "title": "Radio Klassik Stephansdom",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ORF Hitradio Ö3 (290k HLS)",
+    "coordinates": {
+      "lat": 46.96278,
+      "lon": 14.79167
+    },
+    "radioStations": [
+      {
+        "title": "ORF Hitradio Ö3 (290k HLS)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Tirol - MUSIC ONLY",
+    "coordinates": {
+      "lat": 46.97417,
+      "lon": 15.3375
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Tirol - MUSIC ONLY",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.tirol/MUONLY/mp3-192/link"
+      }
+    ]
+  },
+  {
+    "name": "KroneHit Radio",
+    "coordinates": {
+      "lat": 47.0,
+      "lon": 15.4
+    },
+    "radioStations": [
+      {
+        "title": "KroneHit Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair-ha1.krone.at/kronehit64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Eurodance-X-Press",
+    "coordinates": {
+      "lat": 46.95306,
+      "lon": 15.88833
+    },
+    "radioStations": [
+      {
+        "title": "Eurodance-X-Press",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.eurodance.at/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://secureonair.krone.at/eurodance.aac"
+      }
+    ]
+  },
+  {
+    "name": "Flash90s",
+    "coordinates": {
+      "lat": 46.93848,
+      "lon": 16.14158
+    },
+    "radioStations": [
+      {
+        "title": "Flash90s",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.flash90s.at/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.flash90s.at/flash90s/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "Rock Antenne Österreich",
+    "coordinates": {
+      "lat": 47.16667,
+      "lon": 16.45
+    },
+    "radioStations": [
+      {
+        "title": "Rock Antenne Österreich",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s5-webradio.webradio.de/rockantenne-oesterreich"
+      }
+    ]
+  },
+  {
+    "name": "ORF Tirol HQ",
+    "coordinates": {
+      "lat": 47.05,
+      "lon": 16.08333
+    },
+    "radioStations": [
+      {
+        "title": "ORF Tirol HQ",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/tir-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Innsbruck",
+    "coordinates": {
+      "lat": 47.17417,
+      "lon": 15.80572
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Innsbruck",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.energy.at:8000/ibk"
+      }
+    ]
+  },
+  {
+    "name": "Freies Radio Salzkammergut",
+    "coordinates": {
+      "lat": 47.06733,
+      "lon": 15.44197
+    },
+    "radioStations": [
+      {
+        "title": "Freies Radio Salzkammergut",
+        "subtitle": "Upper Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.xaok.org:8000/frs.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Grün Weiß",
+    "coordinates": {
+      "lat": 47.04445,
+      "lon": 15.15313
+    },
+    "radioStations": [
+      {
+        "title": "Radio Grün Weiß",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.gruen-weiss.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.gruen-weiss.at/rgw.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Austro Hits",
+    "coordinates": {
+      "lat": 47.15409,
+      "lon": 14.73882
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Austro Hits",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.antenne.at/auh"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Niederösterreich",
+    "coordinates": {
+      "lat": 47.16667,
+      "lon": 14.66667
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Niederösterreich",
+        "subtitle": "Niederösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/noe-q1a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Steiermark",
+    "coordinates": {
+      "lat": 47.11056,
+      "lon": 14.16944
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Steiermark",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/531/169/177/709/original/1721e6944c64b1b3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/stm-q1a"
+      }
+    ]
+  },
+  {
+    "name": "88.6 Metal",
+    "coordinates": {
+      "lat": 47.12808,
+      "lon": 13.81102
+    },
+    "radioStations": [
+      {
+        "title": "88.6 Metal",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_METAL.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/88.6_Metal/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Steiermark (werbefrei)",
+    "coordinates": {
+      "lat": 47.1,
+      "lon": 13.63333
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Steiermark (werbefrei)",
+        "subtitle": "Styria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "80er90er Megamix",
+    "coordinates": {
+      "lat": 47.11547,
+      "lon": 13.13467
+    },
+    "radioStations": [
+      {
+        "title": "80er90er Megamix",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/mm-80er90ermegamix"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Kärnten 80er Pop",
+    "coordinates": {
+      "lat": 47.03979,
+      "lon": 12.84345
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Kärnten 80er Pop",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.radioplayer.org/040/04051/600/600/lopvbsjz.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.antenne.at/80s"
+      }
+    ]
+  },
+  {
+    "name": "Rockantenne Vorarlberg",
+    "coordinates": {
+      "lat": 47.16667,
+      "lon": 11.86667
+    },
+    "radioStations": [
+      {
+        "title": "Rockantenne Vorarlberg",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-rock/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Darksynth Radio",
+    "coordinates": {
+      "lat": 47.11667,
+      "lon": 11.31667
+    },
+    "radioStations": [
+      {
+        "title": "Darksynth Radio",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/darksynthradio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vorarlberg",
+    "coordinates": {
+      "lat": 47.07398,
+      "lon": 10.96951
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vorarlberg",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/vbg-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Golden oldies",
+    "coordinates": {
+      "lat": 47.11667,
+      "lon": 10.61667
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Golden oldies",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Radio Xmas",
+    "coordinates": {
+      "lat": 47.13988,
+      "lon": 10.56593
+    },
+    "radioStations": [
+      {
+        "title": "Radio Xmas",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio-xmas.at/assets/img/santa.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.radio-xmas.at:443/xmas?1512905036085"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo",
+    "coordinates": {
+      "lat": 47.02102,
+      "lon": 9.97335
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/rf"
+      }
+    ]
+  },
+  {
+    "name": "Gamesboro Radio - Video Game Music 24/7",
+    "coordinates": {
+      "lat": 47.15476,
+      "lon": 9.82255
+    },
+    "radioStations": [
+      {
+        "title": "Gamesboro Radio - Video Game Music 24/7",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Salzburg HQ",
+    "coordinates": {
+      "lat": 47.23645,
+      "lon": 9.59734
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Salzburg HQ",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/sbg-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg 2010er Hits",
+    "coordinates": {
+      "lat": 47.20797,
+      "lon": 10.14184
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg 2010er Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-2010er"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Österreich",
+    "coordinates": {
+      "lat": 47.31667,
+      "lon": 10.5
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Österreich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge10.streamonkey.net/antoesterreich-live"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Salzburg",
+    "coordinates": {
+      "lat": 47.24504,
+      "lon": 10.73974
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Salzburg",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge69.streamonkey.net/antsalzburg-live"
+      }
+    ]
+  },
+  {
+    "name": "ORF Hitradio Ö3 (128k HLS)",
+    "coordinates": {
+      "lat": 47.30707,
+      "lon": 11.06817
+    },
+    "radioStations": [
+      {
+        "title": "ORF Hitradio Ö3 (128k HLS)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rockantenne Österreich live",
+    "coordinates": {
+      "lat": 47.26266,
+      "lon": 11.39454
+    },
+    "radioStations": [
+      {
+        "title": "Rockantenne Österreich live",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+      }
+    ]
+  },
+  {
+    "name": "Techno Music Radio",
+    "coordinates": {
+      "lat": 47.33333,
+      "lon": 11.68333
+    },
+    "radioStations": [
+      {
+        "title": "Techno Music Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478"
+      }
+    ]
+  },
+  {
+    "name": "Radio U1 Tirol",
+    "coordinates": {
+      "lat": 47.25046,
+      "lon": 12.27585
+    },
+    "radioStations": [
+      {
+        "title": "Radio U1 Tirol",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.u1-radio.at"
+      }
+    ]
+  },
+  {
+    "name": "Mountain Reggae Radio",
+    "coordinates": {
+      "lat": 47.26979,
+      "lon": 12.3385
+    },
+    "radioStations": [
+      {
+        "title": "Mountain Reggae Radio",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Oldies but Goldies",
+    "coordinates": {
+      "lat": 47.32306,
+      "lon": 12.79839
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Oldies but Goldies",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-oldies"
+      }
+    ]
+  },
+  {
+    "name": "Radio Arabella Oberösterreich",
+    "coordinates": {
+      "lat": 47.23333,
+      "lon": 13.2
+    },
+    "radioStations": [
+      {
+        "title": "Radio Arabella Oberösterreich",
+        "subtitle": "Upper Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.arabella.at/static/base/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg",
+    "coordinates": {
+      "lat": 47.34406,
+      "lon": 13.39148
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer"
+      }
+    ]
+  },
+  {
+    "name": "Radio Burgenland HQ",
+    "coordinates": {
+      "lat": 47.18333,
+      "lon": 13.98333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Burgenland HQ",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/bgl-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg 80s Hits",
+    "coordinates": {
+      "lat": 47.18706,
+      "lon": 14.18464
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg 80s Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://web.radio.antennevorarlberg.at/av-80er?aggregator=surfmusik"
+      }
+    ]
+  },
+  {
+    "name": "ORF Tirol",
+    "coordinates": {
+      "lat": 47.20798,
+      "lon": 14.67586
+    },
+    "radioStations": [
+      {
+        "title": "ORF Tirol",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://orf-live.ors-shoutcast.at/tir-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Blechradio 1",
+    "coordinates": {
+      "lat": 47.21667,
+      "lon": 14.81667
+    },
+    "radioStations": [
+      {
+        "title": "Blechradio 1",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamt.at/radio/8000/blechradio1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Grün Weiß - HQ",
+    "coordinates": {
+      "lat": 47.26667,
+      "lon": 15.31667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Grün Weiß - HQ",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gruen-weiss.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.gruen-weiss.at/rgw.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vorarlberg HQ",
+    "coordinates": {
+      "lat": 47.21667,
+      "lon": 15.61667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vorarlberg HQ",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/vbg-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Chillout Lounge",
+    "coordinates": {
+      "lat": 47.3,
+      "lon": 15.83333
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Chillout Lounge",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-chillout"
+      }
+    ]
+  },
+  {
+    "name": "Arabella hot",
+    "coordinates": {
+      "lat": 47.27603,
+      "lon": 16.25908
+    },
+    "radioStations": [
+      {
+        "title": "Arabella hot",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Lounge.FM Kanal 2 - Wien",
+    "coordinates": {
+      "lat": 47.30467,
+      "lon": 16.44095
+    },
+    "radioStations": [
+      {
+        "title": "Lounge.FM Kanal 2 - Wien",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s35.derstream.net/ukwwien.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Museumsradio AM 1476",
+    "coordinates": {
+      "lat": 47.50352,
+      "lon": 16.50447
+    },
+    "radioStations": [
+      {
+        "title": "Museumsradio AM 1476",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://museum.streamserver24.com:8080/stream"
+      }
+    ]
+  },
+  {
+    "name": "Pirate Radio Austria",
+    "coordinates": {
+      "lat": 47.3819,
+      "lon": 16.1011
+    },
+    "radioStations": [
+      {
+        "title": "Pirate Radio Austria",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pirateradio-website.konsole-labs.com/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://secureonair.krone.at/pirate.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio GÖD",
+    "coordinates": {
+      "lat": 47.44232,
+      "lon": 16.06713
+    },
+    "radioStations": [
+      {
+        "title": "Radio GÖD",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.goed.at/favicon/apple-icon-72x72.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiogoed.securestream.kapper.net/stream"
+      }
+    ]
+  },
+  {
+    "name": "Antenne vorarlberg Non Stop",
+    "coordinates": {
+      "lat": 47.5,
+      "lon": 15.45
+    },
+    "radioStations": [
+      {
+        "title": "Antenne vorarlberg Non Stop",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-nonstop"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rot Weiß Rot",
+    "coordinates": {
+      "lat": 47.406,
+      "lon": 15.258
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rot Weiß Rot",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rotweissrot.fan/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://secureonair.krone.at/rwr.aac"
+      }
+    ]
+  },
+  {
+    "name": "88.6 New Rock",
+    "coordinates": {
+      "lat": 47.42524,
+      "lon": 15.00681
+    },
+    "radioStations": [
+      {
+        "title": "88.6 New Rock",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_NEWROCK.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/88.6_New_Rock/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio 80er",
+    "coordinates": {
+      "lat": 47.48574,
+      "lon": 14.48744
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio 80er",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "ORF - Radio Salzburg",
+    "coordinates": {
+      "lat": 47.5,
+      "lon": 14.08333
+    },
+    "radioStations": [
+      {
+        "title": "ORF - Radio Salzburg",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/sbg-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Superfly Radio",
+    "coordinates": {
+      "lat": 47.39289,
+      "lon": 13.68699
+    },
+    "radioStations": [
+      {
+        "title": "Superfly Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://superfly.fm/player/img/s_logo.png?cb=V3000009",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.stream.superfly.fm/superfly-live?aggregator=Website"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo + Volksmusik",
+    "coordinates": {
+      "lat": 47.38333,
+      "lon": 13.41667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo + Volksmusik",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/small_RF_Volksmusik_Vollfla_echig_Stream_Icon_4000x4000px_v1_3c3eaff79d.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfplusvolksmusik"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rudina",
+    "coordinates": {
+      "lat": 47.41667,
+      "lon": 13.21667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rudina",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5ea5bd3c1bd4b07f0727b9e8/85982ce5-159e-45a2-8580-f7f69121326a/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.datea.services:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ENERGY ÖSTERREICH",
+    "coordinates": {
+      "lat": 47.42681,
+      "lon": 12.848
+    },
+    "radioStations": [
+      {
+        "title": "ENERGY ÖSTERREICH",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.brandfetch.io/idBu4-_WiS/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769076313016",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.nrjaudio.fm/ouvfydoarp52"
+      }
+    ]
+  },
+  {
+    "name": "dbFM Radio",
+    "coordinates": {
+      "lat": 47.44637,
+      "lon": 12.39215
+    },
+    "radioStations": [
+      {
+        "title": "dbFM Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dbfmradio.org/DBFM_Logo3.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.dbfmradio.org:8030/stream"
+      }
+    ]
+  },
+  {
+    "name": "Energy",
+    "coordinates": {
+      "lat": 47.48906,
+      "lon": 12.06174
+    },
+    "radioStations": [
+      {
+        "title": "Energy",
+        "subtitle": "Wieden",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.energy.at:8000/vie"
+      }
+    ]
+  },
+  {
+    "name": "CITY23",
+    "coordinates": {
+      "lat": 47.35169,
+      "lon": 11.71014
+    },
+    "radioStations": [
+      {
+        "title": "CITY23",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.city23.at/wp-content/themes/city23/medias/app-icons/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiomax.technology/city23"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Relax",
+    "coordinates": {
+      "lat": 47.3689,
+      "lon": 11.14404
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Relax",
+        "subtitle": "Wien",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "DrumandBass.FM",
+    "coordinates": {
+      "lat": 47.48333,
+      "lon": 10.71667
+    },
+    "radioStations": [
+      {
+        "title": "DrumandBass.FM",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/drumandbass_fm"
+      }
+    ]
+  },
+  {
+    "name": "Hardstyle and Hardcore",
+    "coordinates": {
+      "lat": 47.49934,
+      "lon": 10.51641
+    },
+    "radioStations": [
+      {
+        "title": "Hardstyle and Hardcore",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/hardstyle-and-hardcore"
+      }
+    ]
+  },
+  {
+    "name": "Arabella wien",
+    "coordinates": {
+      "lat": 47.35778,
+      "lon": 10.18759
+    },
+    "radioStations": [
+      {
+        "title": "Arabella wien",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Kärnten Partyhitmix",
+    "coordinates": {
+      "lat": 47.41427,
+      "lon": 9.74195
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Kärnten Partyhitmix",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antenne.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/ost"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Partymix",
+    "coordinates": {
+      "lat": 47.55,
+      "lon": 9.75
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Partymix",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-partymix"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Classic Rock",
+    "coordinates": {
+      "lat": 47.57409,
+      "lon": 10.44723
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Classic Rock",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Arabella schlager",
+    "coordinates": {
+      "lat": 47.55,
+      "lon": 10.63333
+    },
+    "radioStations": [
+      {
+        "title": "Arabella schlager",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Orange 94.0 secure",
+    "coordinates": {
+      "lat": 47.52659,
+      "lon": 11.70559
+    },
+    "radioStations": [
+      {
+        "title": "Orange 94.0 secure",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://o94.at/themes/custom/radio_orange/images/icons/apple/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://securestream.o94.at/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio ClassicRock",
+    "coordinates": {
+      "lat": 47.58333,
+      "lon": 12.16667
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio ClassicRock",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg 90s Hits",
+    "coordinates": {
+      "lat": 47.5233,
+      "lon": 12.4232
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg 90s Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-90er"
+      }
+    ]
+  },
+  {
+    "name": "Arabella 90 er",
+    "coordinates": {
+      "lat": 47.58475,
+      "lon": 12.69333
+    },
+    "radioStations": [
+      {
+        "title": "Arabella 90 er",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Musica Italiana",
+    "coordinates": {
+      "lat": 47.66667,
+      "lon": 13.13333
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Musica Italiana",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-italiana"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg 2000er Hits",
+    "coordinates": {
+      "lat": 47.64252,
+      "lon": 13.61609
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg 2000er Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-2000er"
+      }
+    ]
+  },
+  {
+    "name": "Radio886",
+    "coordinates": {
+      "lat": 47.55556,
+      "lon": 13.93187
+    },
+    "radioStations": [
+      {
+        "title": "Radio886",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Arabella 80 r",
+    "coordinates": {
+      "lat": 47.56667,
+      "lon": 14.23333
+    },
+    "radioStations": [
+      {
+        "title": "Arabella 80 r",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "City Jazz",
+    "coordinates": {
+      "lat": 47.57537,
+      "lon": 14.46075
+    },
+    "radioStations": [
+      {
+        "title": "City Jazz",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cityjazz.at/wp-content/uploads/2024/04/city_jazz_x40.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at/CITYJAZZ"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Niederösterreich",
+    "coordinates": {
+      "lat": 47.53333,
+      "lon": 14.88333
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Niederösterreich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Technikum One",
+    "coordinates": {
+      "lat": 47.54211,
+      "lon": 15.23898
+    },
+    "radioStations": [
+      {
+        "title": "Technikum One",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.technikumone.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at/TECHONE"
+      }
+    ]
+  },
+  {
+    "name": "ViyanaFM",
+    "coordinates": {
+      "lat": 47.6066,
+      "lon": 15.67226
+    },
+    "radioStations": [
+      {
+        "title": "ViyanaFM",
+        "subtitle": "Wien",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.viyanafm.at/1453/stream"
+      }
+    ]
+  },
+  {
+    "name": "ORF Ö1 (290k HLS)",
+    "coordinates": {
+      "lat": 47.67487,
+      "lon": 15.93893
+    },
+    "radioStations": [
+      {
+        "title": "ORF Ö1 (290k HLS)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Chill Out Hits",
+    "coordinates": {
+      "lat": 47.52183,
+      "lon": 16.19419
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Chill Out Hits",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Soundportal",
+    "coordinates": {
+      "lat": 47.6,
+      "lon": 16.63333
+    },
+    "radioStations": [
+      {
+        "title": "Soundportal",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at"
+      }
+    ]
+  },
+  {
+    "name": "ÖsterreichRadio",
+    "coordinates": {
+      "lat": 47.83678,
+      "lon": 16.92581
+    },
+    "radioStations": [
+      {
+        "title": "ÖsterreichRadio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://oesterreichradio.stream.laut.fm/oesterreichradio?t302=2026-08-26_17-18-17&uuid=9e6c830a-fe7f-41e1-a3a8-8e4e04f03890"
+      }
+    ]
+  },
+  {
+    "name": "Radio MORA - HQ",
+    "coordinates": {
+      "lat": 47.78098,
+      "lon": 16.54232
+    },
+    "radioStations": [
+      {
+        "title": "Radio MORA - HQ",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server4.streamserver24.com:26253/stream"
+      }
+    ]
+  },
+  {
+    "name": "U1 Tirol",
+    "coordinates": {
+      "lat": 47.80485,
+      "lon": 16.23196
+    },
+    "radioStations": [
+      {
+        "title": "U1 Tirol",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-300x300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "Blechradio 2",
+    "coordinates": {
+      "lat": 47.71565,
+      "lon": 16.03575
+    },
+    "radioStations": [
+      {
+        "title": "Blechradio 2",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://player.blechradio.at/images/blechradio_2_logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamt.at:8010/website_popandrock.mp3?ver=141186"
+      }
+    ]
+  },
+  {
+    "name": "Super80s",
+    "coordinates": {
+      "lat": 47.81223,
+      "lon": 15.70581
+    },
+    "radioStations": [
+      {
+        "title": "Super80s",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.super80s.at/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412"
+      }
+    ]
+  },
+  {
+    "name": "Superfly Webradio Pure",
+    "coordinates": {
+      "lat": 47.77306,
+      "lon": 15.31639
+    },
+    "radioStations": [
+      {
+        "title": "Superfly Webradio Pure",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge81.stream.superfly.fm/superfly-pure"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Österreich",
+    "coordinates": {
+      "lat": 47.80664,
+      "lon": 14.93797
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Österreich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://energy.at/api/streams/logos/aut.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.energy.at:8000/aut"
+      }
+    ]
+  },
+  {
+    "name": "Callshop Radio Wien",
+    "coordinates": {
+      "lat": 47.68631,
+      "lon": 14.61705
+    },
+    "radioStations": [
+      {
+        "title": "Callshop Radio Wien",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.sanity.io/images/0smxd0yv/production/e21c49aec89f19279ac0b5d37a283e0a5be838c1-500x500.svg?w=300&h=300&fm=png&fit=max&auto=format",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.callshopradio.com/callshopradio-wien"
+      }
+    ]
+  },
+  {
+    "name": "Infora Austria",
+    "coordinates": {
+      "lat": 47.72223,
+      "lon": 14.32755
+    },
+    "radioStations": [
+      {
+        "title": "Infora Austria",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orf.at/app-infos/sound/logos/infoRadio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s35.derstream.net/inforadio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lounge FM Digital",
+    "coordinates": {
+      "lat": 47.80716,
+      "lon": 13.779
+    },
+    "radioStations": [
+      {
+        "title": "Lounge FM Digital",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.138.9.183/digital.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vogal FM",
+    "coordinates": {
+      "lat": 47.73932,
+      "lon": 13.44666
+    },
+    "radioStations": [
+      {
+        "title": "Vogal FM",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vogalfunk.com/wp-content/uploads/2021/01/VF_Web_Grafik_Home.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.vogalfunk.com/stream/vogalfm/vogalfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "JazzW3",
+    "coordinates": {
+      "lat": 47.79941,
+      "lon": 13.04399
+    },
+    "radioStations": [
+      {
+        "title": "JazzW3",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://jazz.w3.at/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://jazz.w3.at:8000/w3jazz.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Soundportal (MP3, 128 kBit)",
+    "coordinates": {
+      "lat": 47.78333,
+      "lon": 12.96667
+    },
+    "radioStations": [
+      {
+        "title": "Soundportal (MP3, 128 kBit)",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rs8.stream24.net/radio-soundportal.mp3"
+      }
+    ]
+  },
+  {
+    "name": "WELLE 1 - Oberösterreich - HQ",
+    "coordinates": {
+      "lat": 47.68333,
+      "lon": 12.18333
+    },
+    "radioStations": [
+      {
+        "title": "WELLE 1 - Oberösterreich - HQ",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.welle1.at:17256/stream"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Chill Out",
+    "coordinates": {
+      "lat": 47.93911,
+      "lon": 12.95108
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Chill Out",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream8.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "1000-ELECTRONIC-DANCE-MUSIC",
+    "coordinates": {
+      "lat": 47.9,
+      "lon": 13.18333
+    },
+    "radioStations": [
+      {
+        "title": "1000-ELECTRONIC-DANCE-MUSIC",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-08-27_02-48-01&uuid=626dfb6e-df51-43b5-918e-48da878141f4"
+      }
+    ]
+  },
+  {
+    "name": "Freies Radio Österreich",
+    "coordinates": {
+      "lat": 48.00279,
+      "lon": 13.65652
+    },
+    "radioStations": [
+      {
+        "title": "Freies Radio Österreich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.fro.at:8008/fro64.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Dance Radio",
+    "coordinates": {
+      "lat": 47.91839,
+      "lon": 13.79933
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Dance Radio",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-dance"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg 70er Hits",
+    "coordinates": {
+      "lat": 47.87764,
+      "lon": 14.13357
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg 70er Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-70er"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Tirol",
+    "coordinates": {
+      "lat": 47.85717,
+      "lon": 14.66409
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Tirol",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://liferadio.konsole-labs.com/img/live.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.liferadio.tirol/live/aac-256/SHQ"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maria Austria",
+    "coordinates": {
+      "lat": 47.96004,
+      "lon": 14.77361
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maria Austria",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiomaria.at:8000/rma"
+      }
+    ]
+  },
+  {
+    "name": "Antenna Österreich",
+    "coordinates": {
+      "lat": 48.00474,
+      "lon": 15.16817
+    },
+    "radioStations": [
+      {
+        "title": "Antenna Österreich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge23.streamonkey.net/antoesterreich-live"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Schlagerkult",
+    "coordinates": {
+      "lat": 47.85383,
+      "lon": 15.56969
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Schlagerkult",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+      }
+    ]
+  },
+  {
+    "name": "oe1 surround",
+    "coordinates": {
+      "lat": 47.89759,
+      "lon": 15.96022
+    },
+    "radioStations": [
+      {
+        "title": "oe1 surround",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Classic Rock",
+    "coordinates": {
+      "lat": 48.00543,
+      "lon": 16.23264
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Classic Rock",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream11.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Proton - das freie Radio",
+    "coordinates": {
+      "lat": 47.84565,
+      "lon": 16.52327
+    },
+    "radioStations": [
+      {
+        "title": "Proton - das freie Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioproton.at:8443/proton"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Chillout",
+    "coordinates": {
+      "lat": 47.94901,
+      "lon": 16.8417
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Chillout",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Technikum CITY",
+    "coordinates": {
+      "lat": 48.0242,
+      "lon": 16.7757
+    },
+    "radioStations": [
+      {
+        "title": "Technikum CITY",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://technikumsmoothjazz.macjingle.at:8206/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "88.6 Rot-Weiß-Rock",
+    "coordinates": {
+      "lat": 48.13333,
+      "lon": 16.46667
+    },
+    "radioStations": [
+      {
+        "title": "88.6 Rot-Weiß-Rock",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_ROTWEISSROCK.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio886.at/streams/88.6_Rot_Weiss_Rock/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Arabella 70 r",
+    "coordinates": {
+      "lat": 48.16116,
+      "lon": 16.38233
+    },
+    "radioStations": [
+      {
+        "title": "Arabella 70 r",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "WELLE 1 - Oberöstereich",
+    "coordinates": {
+      "lat": 48.0339,
+      "lon": 15.77414
+    },
+    "radioStations": [
+      {
+        "title": "WELLE 1 - Oberöstereich",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.welle1.at:17128/stream"
+      }
+    ]
+  },
+  {
+    "name": "ORF Ö1 Campus | HQ",
+    "coordinates": {
+      "lat": 48.10571,
+      "lon": 15.60539
+    },
+    "radioStations": [
+      {
+        "title": "ORF Ö1 Campus | HQ",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/campus-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Radio Helsinki 92,6 MHz (128 kbps)",
+    "coordinates": {
+      "lat": 48.16667,
+      "lon": 15.08333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Helsinki 92,6 MHz (128 kbps)",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.helsinki.at:8088/live128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Burgenland",
+    "coordinates": {
+      "lat": 48.1229,
+      "lon": 14.87206
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Burgenland",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/bgl-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Greatest Hits",
+    "coordinates": {
+      "lat": 48.04274,
+      "lon": 14.42127
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Greatest Hits",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "RES.RADIO",
+    "coordinates": {
+      "lat": 48.16667,
+      "lon": 14.03333
+    },
+    "radioStations": [
+      {
+        "title": "RES.RADIO",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://res.radio/android-chrome-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge.mixlr.com/channel/zwtuo"
+      }
+    ]
+  },
+  {
+    "name": "Red Bull TV",
+    "coordinates": {
+      "lat": 48.00833,
+      "lon": 13.71667
+    },
+    "radioStations": [
+      {
+        "title": "Red Bull TV",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.redbull.com/images/c_scale,w_120/favicons/www.redbull.com/favicon/apple-touch-icon-120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Rock",
+    "coordinates": {
+      "lat": 48.06844,
+      "lon": 13.49065
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Rock",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Kärnten HQ",
+    "coordinates": {
+      "lat": 48.10732,
+      "lon": 13.15081
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Kärnten HQ",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/ktn-q2a"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Wien (290k HLS)",
+    "coordinates": {
+      "lat": 48.04636,
+      "lon": 12.82937
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Wien (290k HLS)",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio VM1",
+    "coordinates": {
+      "lat": 48.25154,
+      "lon": 13.23406
+    },
+    "radioStations": [
+      {
+        "title": "Radio VM1",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/548694_ab538cd3682b46c6b81c924de1b94ee0~mv2.png/v1/fill/w_248,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_vm1_edited.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "antennevorarlberg coffee",
+    "coordinates": {
+      "lat": 48.21123,
+      "lon": 13.48855
+    },
+    "radioStations": [
+      {
+        "title": "antennevorarlberg coffee",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://web.radio.antennevorarlberg.at/av-coffee/stream/mp3?aggregator=icecastdirectory"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Rock Radio",
+    "coordinates": {
+      "lat": 48.17593,
+      "lon": 14.01495
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Rock Radio",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-rock"
+      }
+    ]
+  },
+  {
+    "name": "Styrialounge",
+    "coordinates": {
+      "lat": 48.30639,
+      "lon": 14.28611
+    },
+    "radioStations": [
+      {
+        "title": "Styrialounge",
+        "subtitle": "Styria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://styrialounge.out.airtime.pro:8000/styrialounge_a"
+      }
+    ]
+  },
+  {
+    "name": "Her.st Propaganda Broadcast",
+    "coordinates": {
+      "lat": 48.21346,
+      "lon": 14.47612
+    },
+    "radioStations": [
+      {
+        "title": "Her.st Propaganda Broadcast",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://her.st/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.her.st/listen/listen/128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ERF Suedtirol 192k",
+    "coordinates": {
+      "lat": 48.22862,
+      "lon": 14.85884
+    },
+    "radioStations": [
+      {
+        "title": "ERF Suedtirol 192k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/erfplus_192"
+      }
+    ]
+  },
+  {
+    "name": "Radio VM1 - Wien",
+    "coordinates": {
+      "lat": 48.22737,
+      "lon": 15.33186
+    },
+    "radioStations": [
+      {
+        "title": "Radio VM1 - Wien",
+        "subtitle": "Wien",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Welle 1 - Salzburg",
+    "coordinates": {
+      "lat": 48.20762,
+      "lon": 15.63725
+    },
+    "radioStations": [
+      {
+        "title": "Welle 1 - Salzburg",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.welle1.at:18128/stream"
+      }
+    ]
+  },
+  {
+    "name": "LCR Radio",
+    "coordinates": {
+      "lat": 48.32829,
+      "lon": 16.05858
+    },
+    "radioStations": [
+      {
+        "title": "LCR Radio",
+        "subtitle": "Wien",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.radio.co/sba5c95896/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio OP",
+    "coordinates": {
+      "lat": 48.20849,
+      "lon": 16.37208
+    },
+    "radioStations": [
+      {
+        "title": "Radio OP",
+        "subtitle": "Burgenland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioop.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server4.streamserver24.com:26250/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rockhuhn",
+    "coordinates": {
+      "lat": 48.2333,
+      "lon": 16.46002
+    },
+    "radioStations": [
+      {
+        "title": "Rockhuhn",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.laut.fm/4a14090df7d0f20183a5a09a1529acc8?t=_640x640",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/rockhuhn"
+      }
+    ]
+  },
+  {
+    "name": "Radio VM1 - Steiermark",
+    "coordinates": {
+      "lat": 48.22479,
+      "lon": 16.8223
+    },
+    "radioStations": [
+      {
+        "title": "Radio VM1 - Steiermark",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio MORA",
+    "coordinates": {
+      "lat": 48.47315,
+      "lon": 16.85062
+    },
+    "radioStations": [
+      {
+        "title": "Radio MORA",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio-browser.info/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server4.streamserver24.com:26250/stream?1655820557881"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo Hoamat",
+    "coordinates": {
+      "lat": 48.33925,
+      "lon": 16.72016
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo Hoamat",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/medium_RF_Hoamat_Vollfla_echig_Stream_Icon_4000x4000px_v1_0d86fbb36b.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfhoamat"
+      }
+    ]
+  },
+  {
+    "name": "Jö.Live",
+    "coordinates": {
+      "lat": 48.38333,
+      "lon": 16.21667
+    },
+    "radioStations": [
+      {
+        "title": "Jö.Live",
+        "subtitle": "Wien",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.joe-club.at/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge07.stream.maxfive.com/max5-joelive"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Sommersongs",
+    "coordinates": {
+      "lat": 48.40021,
+      "lon": 15.97874
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Sommersongs",
+        "subtitle": "Oberösterreich",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Freies Radio Innviertel",
+    "coordinates": {
+      "lat": 48.40921,
+      "lon": 15.61415
+    },
+    "radioStations": [
+      {
+        "title": "Freies Radio Innviertel",
+        "subtitle": "Upper Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio-fri.at/wp-content/uploads/2022/10/cropped-FRI_FreiesRadioInnviertel_favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiofri.out.airtime.pro/radiofri_a"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo + Kultschlager",
+    "coordinates": {
+      "lat": 48.42393,
+      "lon": 15.21924
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo + Kultschlager",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/medium_RF_Kult_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_0c3c69c99a.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfpluskultschlager"
+      }
+    ]
+  },
+  {
+    "name": "radioYpsilon - Wir hör'n uns!",
+    "coordinates": {
+      "lat": 48.40453,
+      "lon": 14.83824
+    },
+    "radioStations": [
+      {
+        "title": "radioYpsilon - Wir hör'n uns!",
+        "subtitle": "Lower Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://info.world4you.com/defaultpage_v2/img/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.radioypsilon.at:8000/mp3-160"
+      }
+    ]
+  },
+  {
+    "name": "Grün-Weiss",
+    "coordinates": {
+      "lat": 48.35363,
+      "lon": 14.41604
+    },
+    "radioStations": [
+      {
+        "title": "Grün-Weiss",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.gruen-weiss.at/rgw.aac"
+      }
+    ]
+  },
+  {
+    "name": "RRTH Austria",
+    "coordinates": {
+      "lat": 48.35209,
+      "lon": 14.1576
+    },
+    "radioStations": [
+      {
+        "title": "RRTH Austria",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rrth.stream.laut.fm/rrth?pl=pls&t302=2026-08-27_00-59-14&uuid=90c0bb56-f355-4b4d-96df-c1109fe6f95a"
+      }
+    ]
+  },
+  {
+    "name": "Revisited",
+    "coordinates": {
+      "lat": 48.36458,
+      "lon": 14.02044
+    },
+    "radioStations": [
+      {
+        "title": "Revisited",
+        "subtitle": "Sankt Veit an der Glan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.laut.fm/e837bb137d5e31a048d55632f3f84394?t=_120x120",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://revisited.stream.laut.fm/revisited"
+      }
+    ]
+  },
+  {
+    "name": "ClassicaL Relaxation Radio Art",
+    "coordinates": {
+      "lat": 48.45294,
+      "lon": 13.43722
+    },
+    "radioStations": [
+      {
+        "title": "ClassicaL Relaxation Radio Art",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.radioart.online/hClassical_relaxation.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
+      }
+    ]
+  },
+  {
+    "name": "ReplayScape",
+    "coordinates": {
+      "lat": 48.52058,
+      "lon": 13.49791
+    },
+    "radioStations": [
+      {
+        "title": "ReplayScape",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.replayscape.com:8443/128k.mp3"
+      }
+    ]
+  },
+  {
+    "name": "jö.live - Mein Tag. Meine Musik.",
+    "coordinates": {
+      "lat": 48.57275,
+      "lon": 13.98834
+    },
+    "radioStations": [
+      {
+        "title": "jö.live - Mein Tag. Meine Musik.",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maxfive.com/wp-content/themes/Default/Assets/Favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge09.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage"
+      }
+    ]
+  },
+  {
+    "name": "60er70er MEGAMIX",
+    "coordinates": {
+      "lat": 48.5199,
+      "lon": 14.2957
+    },
+    "radioStations": [
+      {
+        "title": "60er70er MEGAMIX",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/mm-60er70ermegamix"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Tirol - ITALO",
+    "coordinates": {
+      "lat": 48.51103,
+      "lon": 14.50453
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Tirol - ITALO",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.tirol/italo/mp3-192/link"
+      }
+    ]
+  },
+  {
+    "name": "Superfly.fm",
+    "coordinates": {
+      "lat": 48.57422,
+      "lon": 14.95789
+    },
+    "radioStations": [
+      {
+        "title": "Superfly.fm",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge66.stream.superfly.fm/superfly-live"
+      }
+    ]
+  },
+  {
+    "name": "Peters Plattenthek",
+    "coordinates": {
+      "lat": 48.60726,
+      "lon": 15.16714
+    },
+    "radioStations": [
+      {
+        "title": "Peters Plattenthek",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server7524.streamplus.de/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock Antenne (Austria)",
+    "coordinates": {
+      "lat": 48.66274,
+      "lon": 15.65663
+    },
+    "radioStations": [
+      {
+        "title": "Rock Antenne (Austria)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s6-webradio.webradio.de/rockantenne-oesterreich"
+      }
+    ]
+  },
+  {
+    "name": "Oldie Party",
+    "coordinates": {
+      "lat": 48.63892,
+      "lon": 15.81903
+    },
+    "radioStations": [
+      {
+        "title": "Oldie Party",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner"
+      }
+    ]
+  },
+  {
+    "name": "Radio FRO",
+    "coordinates": {
+      "lat": 48.55,
+      "lon": 16.08333
+    },
+    "radioStations": [
+      {
+        "title": "Radio FRO",
+        "subtitle": "Upper Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.fro.at/wp-content/themes/fro/images/fro_favicon_32x32pxl.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.fro.at:8008/fro-128.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Tiamo",
+    "coordinates": {
+      "lat": 48.57,
+      "lon": 16.57667
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Tiamo",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Dark Synth Radio",
+    "coordinates": {
+      "lat": 48.6042,
+      "lon": 16.9047
+    },
+    "radioStations": [
+      {
+        "title": "Dark Synth Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa"
+      }
+    ]
+  },
+  {
+    "name": "NJoy Radio 88.2 Steiermark",
+    "coordinates": {
+      "lat": 48.69158,
+      "lon": 16.86951
+    },
+    "radioStations": [
+      {
+        "title": "NJoy Radio 88.2 Steiermark",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.njoyradio.at/njoy"
+      }
+    ]
+  },
+  {
+    "name": "transhits",
+    "coordinates": {
+      "lat": 48.72083,
+      "lon": 16.49139
+    },
+    "radioStations": [
+      {
+        "title": "transhits",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiorecord.hostingradio.ru/trancehits96.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Radio Helsinki 92,6 MHz (160 kbps)",
+    "coordinates": {
+      "lat": 48.71667,
+      "lon": 16.38333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Helsinki 92,6 MHz (160 kbps)",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.helsinki.at:8088/live160.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ERF Plus Oesterreich 192k",
+    "coordinates": {
+      "lat": 48.75712,
+      "lon": 15.95485
+    },
+    "radioStations": [
+      {
+        "title": "ERF Plus Oesterreich 192k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.erf.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at/erfplus_192"
+      }
+    ]
+  },
+  {
+    "name": "Chromatique-Sky",
+    "coordinates": {
+      "lat": 48.7918,
+      "lon": 15.40429
+    },
+    "radioStations": [
+      {
+        "title": "Chromatique-Sky",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/chromatique-sky"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio 90er",
+    "coordinates": {
+      "lat": 48.81667,
+      "lon": 15.28333
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio 90er",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.liferadio.at"
+      }
+    ]
+  },
+  {
+    "name": "Radiofabrik",
+    "coordinates": {
+      "lat": 48.7683,
+      "lon": 14.9808
+    },
+    "radioStations": [
+      {
+        "title": "Radiofabrik",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofabrik.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiofabrik.at/rf_low.mp3"
+      }
+    ]
+  },
+  {
+    "name": "UP THE IRONS",
+    "coordinates": {
+      "lat": 48.67498,
+      "lon": 13.91049
+    },
+    "radioStations": [
+      {
+        "title": "UP THE IRONS",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uptheirons.stream.laut.fm/up_the_irons?pl=m3u&t302=2026-08-27_04-11-39&uuid=9eca820a-c445-46b9-b27d-65aa890a3957"
+      }
+    ]
+  },
+  {
+    "name": "Arabella Lovesongs",
+    "coordinates": {
+      "lat": 48.94409,
+      "lon": 15.04483
+    },
+    "radioStations": [
+      {
+        "title": "Arabella Lovesongs",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Coffee Hits",
+    "coordinates": {
+      "lat": 48.86667,
+      "lon": 15.11667
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Coffee Hits",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-coffee"
+      }
+    ]
+  },
+  {
+    "name": "Now Radio 192k",
+    "coordinates": {
+      "lat": 48.85,
+      "lon": 15.5
+    },
+    "radioStations": [
+      {
+        "title": "Now Radio 192k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.erf.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at/nowradio_192"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maria Austria (56 kbps)",
+    "coordinates": {
+      "lat": 48.85,
+      "lon": 15.85
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maria Austria (56 kbps)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomaria.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiomaria.at:8000/rma2"
+      }
+    ]
+  },
+  {
+    "name": "Kronehit TV",
+    "coordinates": {
+      "lat": 48.0925,
+      "lon": 17.06389
+    },
+    "radioStations": [
+      {
+        "title": "Kronehit TV",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kronehit.at///apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Welle 1 - Salzburg - HQ",
+    "coordinates": {
+      "lat": 46.76909,
+      "lon": 14.06758
+    },
+    "radioStations": [
+      {
+        "title": "Welle 1 - Salzburg - HQ",
+        "subtitle": "Salzburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.welle1.at:18256/stream"
+      }
+    ]
+  },
+  {
+    "name": "Technikum Gold",
+    "coordinates": {
+      "lat": 48.28325,
+      "lon": 13.77059
+    },
+    "radioStations": [
+      {
+        "title": "Technikum Gold",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at/TECHGOLD"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Kärnten Sunrise",
+    "coordinates": {
+      "lat": 47.06591,
+      "lon": 14.42908
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Kärnten Sunrise",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antenne.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.antenne.at/sun"
+      }
+    ]
+  },
+  {
+    "name": "Radio Freequenns",
+    "coordinates": {
+      "lat": 47.01257,
+      "lon": 10.29179
+    },
+    "radioStations": [
+      {
+        "title": "Radio Freequenns",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.freequenns.at/wp-content/uploads/2020/11/fav.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://livestream.freequenns.at/live"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg TOP40",
+    "coordinates": {
+      "lat": 47.30611,
+      "lon": 14.37556
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg TOP40",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-top40"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Lovesongs",
+    "coordinates": {
+      "lat": 48.16513,
+      "lon": 15.96654
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Lovesongs",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Arabella gold",
+    "coordinates": {
+      "lat": 47.56373,
+      "lon": 13.34599
+    },
+    "radioStations": [
+      {
+        "title": "Arabella gold",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "coordinates": {
+      "lat": 47.65128,
+      "lon": 16.37993
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlberg Christkindl Radio",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.antennevorarlberg.at/av-christkindl"
+      }
+    ]
+  },
+  {
+    "name": "Arabella holiday",
+    "coordinates": {
+      "lat": 46.5775,
+      "lon": 13.60667
+    },
+    "radioStations": [
+      {
+        "title": "Arabella holiday",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile"
+      }
+    ]
+  },
+  {
+    "name": "Bluffphonica",
+    "coordinates": {
+      "lat": 48.47929,
+      "lon": 13.73737
+    },
+    "radioStations": [
+      {
+        "title": "Bluffphonica",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://bluffphonica.stream.laut.fm/bluffphonica?pl=m3u&t302=2026-08-27_04-40-32&uuid=0e63491d-c55c-4737-b2e8-42af290d1c14"
+      }
+    ]
+  },
+  {
+    "name": "Technikum Rock",
+    "coordinates": {
+      "lat": 48.4,
+      "lon": 16.48333
+    },
+    "radioStations": [
+      {
+        "title": "Technikum Rock",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotechnikum.at/img/icon_rock.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at/TECHROCK"
+      }
+    ]
+  },
+  {
+    "name": "Yeshua.at Radio",
+    "coordinates": {
+      "lat": 46.94593,
+      "lon": 15.65093
+    },
+    "radioStations": [
+      {
+        "title": "Yeshua.at Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yeshua.at:8443/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Agora 105,5",
+    "coordinates": {
+      "lat": 48.58879,
+      "lon": 15.44914
+    },
+    "radioStations": [
+      {
+        "title": "Radio Agora 105,5",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.agora.at/images/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://livestream.agora.at/agora"
+      }
+    ]
+  },
+  {
+    "name": "PetersPlattentek",
+    "coordinates": {
+      "lat": 47.99578,
+      "lon": 15.40163
+    },
+    "radioStations": [
+      {
+        "title": "PetersPlattentek",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server7524.streamplus.de/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Popwelle. Das Musikradio,AutoDJ",
+    "coordinates": {
+      "lat": 48.53333,
+      "lon": 16.35
+    },
+    "radioStations": [
+      {
+        "title": "Popwelle. Das Musikradio,AutoDJ",
+        "subtitle": "St. Gallen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://popwelle.at/pimages/popwelle_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://popwelle.sp.radio.fm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Himmelberg",
+    "coordinates": {
+      "lat": 46.91972,
+      "lon": 12.33139
+    },
+    "radioStations": [
+      {
+        "title": "Radio Himmelberg",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/radio-himmelberg"
+      }
+    ]
+  },
+  {
+    "name": "ORF Ö1 Campus",
+    "coordinates": {
+      "lat": 47.46667,
+      "lon": 15.78333
+    },
+    "radioStations": [
+      {
+        "title": "ORF Ö1 Campus",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/campus-q1a"
+      }
+    ]
+  },
+  {
+    "name": "Vorarlberg 80s",
+    "coordinates": {
+      "lat": 47.03299,
+      "lon": 16.32448
+    },
+    "radioStations": [
+      {
+        "title": "Vorarlberg 80s",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer"
+      }
+    ]
+  },
+  {
+    "name": "Austria-Kult-Radio",
+    "coordinates": {
+      "lat": 47.28333,
+      "lon": 12.56667
+    },
+    "radioStations": [
+      {
+        "title": "Austria-Kult-Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://austria-kultradio.stream.laut.fm/austria-kultradio?pl=m3u&t302=2026-08-26_23-07-19&uuid=f503f7d3-025a-4643-b855-627ec0e5287a"
+      }
+    ]
+  },
+  {
+    "name": "Now Radio 320k",
+    "coordinates": {
+      "lat": 47.45781,
+      "lon": 9.95962
+    },
+    "radioStations": [
+      {
+        "title": "Now Radio 320k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/nowradio_320"
+      }
+    ]
+  },
+  {
+    "name": "Metal Radio",
+    "coordinates": {
+      "lat": 48.03046,
+      "lon": 14.19914
+    },
+    "radioStations": [
+      {
+        "title": "Metal Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at:80/METALRadio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Max Penny",
+    "coordinates": {
+      "lat": 47.18333,
+      "lon": 15.06667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Max Penny",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s112691q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.radiomax.technology/penny"
+      }
+    ]
+  },
+  {
+    "name": "Now Radio 96k",
+    "coordinates": {
+      "lat": 48.23308,
+      "lon": 13.01571
+    },
+    "radioStations": [
+      {
+        "title": "Now Radio 96k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.erf.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at/nowradio_96"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo Partyschlager",
+    "coordinates": {
+      "lat": 48.30215,
+      "lon": 14.65061
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo Partyschlager",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/medium_RF_Party_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_cff7d6fff8.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfpartyschlager"
+      }
+    ]
+  },
+  {
+    "name": "Popwelle Wörthersee,AutoDJ",
+    "coordinates": {
+      "lat": 47.88333,
+      "lon": 14.45
+    },
+    "radioStations": [
+      {
+        "title": "Popwelle Wörthersee,AutoDJ",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://lh3.googleusercontent.com/p/AF1QipO1nU_lDtIzU5-Sv6EZFzE7Wa-ttB38YYWP5f3A=s680-w680-h510",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://popwellezwei.sp.radio.fm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Tirol - Schlagerpuls",
+    "coordinates": {
+      "lat": 47.6699,
+      "lon": 12.40545
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Tirol - Schlagerpuls",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.liferadio.tirol/wp-content/uploads/2023/02/Channels-Radioplayer-quadratisch-Schlagerpuls.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.tirol/schlager/mp3-192/link"
+      }
+    ]
+  },
+  {
+    "name": "ERF Plus Oesterreich 320k",
+    "coordinates": {
+      "lat": 46.68806,
+      "lon": 15.98806
+    },
+    "radioStations": [
+      {
+        "title": "ERF Plus Oesterreich 320k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/erfplus_320"
+      }
+    ]
+  },
+  {
+    "name": "AustriaKult-Radio",
+    "coordinates": {
+      "lat": 47.99406,
+      "lon": 16.52018
+    },
+    "radioStations": [
+      {
+        "title": "AustriaKult-Radio",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/austria-kultradio"
+      }
+    ]
+  },
+  {
+    "name": "Soundstorm Radio",
+    "coordinates": {
+      "lat": 47.39444,
+      "lon": 13.93944
+    },
+    "radioStations": [
+      {
+        "title": "Soundstorm Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://soundstorm-radio.com/wp-content/uploads/2016/06/logo-breit-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Max Bipa",
+    "coordinates": {
+      "lat": 48.3656,
+      "lon": 15.41416
+    },
+    "radioStations": [
+      {
+        "title": "Radio Max Bipa",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.radiomax.technology/bipa"
+      }
+    ]
+  },
+  {
+    "name": "Heiligenkreuz_101 (102k)",
+    "coordinates": {
+      "lat": 46.54139,
+      "lon": 14.13425
+    },
+    "radioStations": [
+      {
+        "title": "Heiligenkreuz_101 (102k)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomaria.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiomaria.at:8000/rma101"
+      }
+    ]
+  },
+  {
+    "name": "Radio X-MAS",
+    "coordinates": {
+      "lat": 47.94056,
+      "lon": 17.06944
+    },
+    "radioStations": [
+      {
+        "title": "Radio X-MAS",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio-xmas.at/assets/img/bg/graphic-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.radio-xmas.at:443/xmas?type=http"
+      }
+    ]
+  },
+  {
+    "name": "ORF Ö1 (128k HLS)",
+    "coordinates": {
+      "lat": 48.15486,
+      "lon": 16.17359
+    },
+    "radioStations": [
+      {
+        "title": "ORF Ö1 (128k HLS)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "I-love-Radio-104",
+    "coordinates": {
+      "lat": 47.1307,
+      "lon": 11.5404
+    },
+    "radioStations": [
+      {
+        "title": "I-love-Radio-104",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ilm.stream27.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3Nzk4NjEwJmQ9ZDY1MzU1ODFiYTM0MDZiYWFhNmY"
+      }
+    ]
+  },
+  {
+    "name": "ERF Süd",
+    "coordinates": {
+      "lat": 47.38333,
+      "lon": 15.56667
+    },
+    "radioStations": [
+      {
+        "title": "ERF Süd",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://erfsued.com/site/templates/img/favicon-256x256.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://erfradio.com/ERF_Sued"
+      }
+    ]
+  },
+  {
+    "name": "Radio Max Billa",
+    "coordinates": {
+      "lat": 47.67556,
+      "lon": 15.49145
+    },
+    "radioStations": [
+      {
+        "title": "Radio Max Billa",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiomax.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.radiomax.technology/billa"
+      }
+    ]
+  },
+  {
+    "name": "Radio Helsinki",
+    "coordinates": {
+      "lat": 48.67379,
+      "lon": 16.18132
+    },
+    "radioStations": [
+      {
+        "title": "Radio Helsinki",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live.helsinki.at/img/helsinki.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.helsinki.at:8088/live160.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ORF Slovenski spored | HQ",
+    "coordinates": {
+      "lat": 48.1666,
+      "lon": 14.24609
+    },
+    "radioStations": [
+      {
+        "title": "ORF Slovenski spored | HQ",
+        "subtitle": "Kärnten",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orf.at/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ors-sn03.ors-shoutcast.at/slo-q2a"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo + Golden Hits",
+    "coordinates": {
+      "lat": 47.22656,
+      "lon": 12.99459
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo + Golden Hits",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/medium_RF_Golden_Hits_Vollfla_echig_Stream_Icon_4000x4000px_v1_5dea39f085.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfplusgoldenhits"
+      }
+    ]
+  },
+  {
+    "name": "emap.fm",
+    "coordinates": {
+      "lat": 46.70346,
+      "lon": 12.67758
+    },
+    "radioStations": [
+      {
+        "title": "emap.fm",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://emap.fm/images/logo_emap.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.stationplaylist.com:9470/listen.aac"
+      }
+    ]
+  },
+  {
+    "name": "Power FM Dublin",
+    "coordinates": {
+      "lat": 47.4,
+      "lon": 10.91667
+    },
+    "radioStations": [
+      {
+        "title": "Power FM Dublin",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.powerfm.org:8443/powerfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Blechradio 3",
+    "coordinates": {
+      "lat": 48.07893,
+      "lon": 14.67029
+    },
+    "radioStations": [
+      {
+        "title": "Blechradio 3",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://player.blechradio.at/images/blechradio_3_logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211"
+      }
+    ]
+  },
+  {
+    "name": "Yu Radio",
+    "coordinates": {
+      "lat": 47.42942,
+      "lon": 11.87794
+    },
+    "radioStations": [
+      {
+        "title": "Yu Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotechnikum.at:80/YURADIO"
+      }
+    ]
+  },
+  {
+    "name": "ORF Radio Wien (128k HLS)",
+    "coordinates": {
+      "lat": 47.42678,
+      "lon": 14.75442
+    },
+    "radioStations": [
+      {
+        "title": "ORF Radio Wien (128k HLS)",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Life Radio Tirol- Alles Malle",
+    "coordinates": {
+      "lat": 46.55,
+      "lon": 14.51667
+    },
+    "radioStations": [
+      {
+        "title": "Life Radio Tirol- Alles Malle",
+        "subtitle": "Tirol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.liferadio.tirol/malle/mp3-192/link"
+      }
+    ]
+  },
+  {
+    "name": "ERF Plus Oesterreich 96k",
+    "coordinates": {
+      "lat": 47.14595,
+      "lon": 10.33655
+    },
+    "radioStations": [
+      {
+        "title": "ERF Plus Oesterreich 96k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/erfplus_96"
+      }
+    ]
+  },
+  {
+    "name": "Now Radio 128k",
+    "coordinates": {
+      "lat": 47.32176,
+      "lon": 9.98067
+    },
+    "radioStations": [
+      {
+        "title": "Now Radio 128k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/nowradio_128"
+      }
+    ]
+  },
+  {
+    "name": "Radio-M1",
+    "coordinates": {
+      "lat": 47.70092,
+      "lon": 16.90779
+    },
+    "radioStations": [
+      {
+        "title": "Radio-M1",
+        "subtitle": "Tirol- Südtirol/Alto Adige/",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radio-m1.com/images/m1-fx-logo.JPG",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.laut.fm/m1"
+      }
+    ]
+  },
+  {
+    "name": "Atnnene sSterewich",
+    "coordinates": {
+      "lat": 47.21368,
+      "lon": 16.08081
+    },
+    "radioStations": [
+      {
+        "title": "Atnnene sSterewich",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge03.streamonkey.net/antoesterreich-live"
+      }
+    ]
+  },
+  {
+    "name": "ERF Plus Oesterreich 192k (A1)",
+    "coordinates": {
+      "lat": 48.14324,
+      "lon": 13.73643
+    },
+    "radioStations": [
+      {
+        "title": "ERF Plus Oesterreich 192k (A1)",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/erfplus_a1"
+      }
+    ]
+  },
+  {
+    "name": "ERF Plus Oesterreich 128k",
+    "coordinates": {
+      "lat": 47.65,
+      "lon": 14.98333
+    },
+    "radioStations": [
+      {
+        "title": "ERF Plus Oesterreich 128k",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.erf.at:8000/erfplus_128"
+      }
+    ]
+  },
+  {
+    "name": "Radio Weanerisch gspielt",
+    "coordinates": {
+      "lat": 48.06667,
+      "lon": 13.9
+    },
+    "radioStations": [
+      {
+        "title": "Radio Weanerisch gspielt",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiovm1.fluidstream.eu/weanarisch"
+      }
+    ]
+  },
+  {
+    "name": "Pfarr-Radio Enzersfeld",
+    "coordinates": {
+      "lat": 46.83111,
+      "lon": 15.97139
+    },
+    "radioStations": [
+      {
+        "title": "Pfarr-Radio Enzersfeld",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server4.streamserver24.com:43615/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flamingo Christkindl",
+    "coordinates": {
+      "lat": 47.93595,
+      "lon": 13.48306
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flamingo Christkindl",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioflamingo.at/uploads/medium_RF_Christkindl_Vollfla_echig_Stream_Icon_4000x4000px_v1_25557f0fa0.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflamingo.at/rfchristkindl"
+      }
+    ]
+  },
+  {
+    "name": "Purzelradio",
+    "coordinates": {
+      "lat": 46.97917,
+      "lon": 14.98417
+    },
+    "radioStations": [
+      {
+        "title": "Purzelradio",
+        "subtitle": "Lower Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.purzelradio.net/wp-content/uploads/2023/05/cropped-PurzelradioHeader.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radio.co/sa760ba7af/listen"
+      }
+    ]
+  },
+  {
+    "name": "Antenne Vorarlber Partymix",
+    "coordinates": {
+      "lat": 47.08333,
+      "lon": 15.66667
+    },
+    "radioStations": [
+      {
+        "title": "Antenne Vorarlber Partymix",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 48.01198,
+      "lon": 14.97334
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "AIR-Radio",
+    "coordinates": {
+      "lat": 48.152,
+      "lon": 16.66506
+    },
+    "radioStations": [
+      {
+        "title": "AIR-Radio",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamsrv-airradio.kechit.eu/128"
+      }
+    ]
+  },
+  {
+    "name": "Superfly webradio Easy",
+    "coordinates": {
+      "lat": 47.46667,
+      "lon": 12.61667
+    },
+    "radioStations": [
+      {
+        "title": "Superfly webradio Easy",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge81.stream.superfly.fm/superfly-easy"
+      }
+    ]
+  },
+  {
+    "name": "Diks Дикс",
+    "coordinates": {
+      "lat": 48.45,
+      "lon": 15.03333
+    },
+    "radioStations": [
+      {
+        "title": "Diks Дикс",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://strm112.1.fm/acpl_mobile_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nachtvogel",
+    "coordinates": {
+      "lat": 48.79725,
+      "lon": 15.67268
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nachtvogel",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.tramp-cast.ch/8012/stream"
+      }
+    ]
+  },
+  {
+    "name": "RTV Unirea International",
+    "coordinates": {
+      "lat": 48.69606,
+      "lon": 16.68283
+    },
+    "radioStations": [
+      {
+        "title": "RTV Unirea International",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvunirea.com/wp-content/uploads/2020/06/png.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.bcmsol.ro/8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "WEL 105,5",
+    "coordinates": {
+      "lat": 47.77767,
+      "lon": 13.23393
+    },
+    "radioStations": [
+      {
+        "title": "WEL 105,5",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wel105point5.stream.laut.fm/wel105point5"
+      }
+    ]
+  },
+  {
+    "name": "halil haydar telci",
+    "coordinates": {
+      "lat": 47.19554,
+      "lon": 11.15619
+    },
+    "radioStations": [
+      {
+        "title": "halil haydar telci",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+      }
+    ]
+  },
+  {
+    "name": "Radio Helsinki 92.6 FM",
+    "coordinates": {
+      "lat": 46.86001,
+      "lon": 12.94923
+    },
+    "radioStations": [
+      {
+        "title": "Radio Helsinki 92.6 FM",
+        "subtitle": "Steiermark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://helsinki.at/wp-content/uploads/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.helsinki.at:8088/live160.ogg"
+      }
+    ]
+  },
+  {
+    "name": "XXXLutz Radio",
+    "coordinates": {
+      "lat": 47.22464,
+      "lon": 12.03012
+    },
+    "radioStations": [
+      {
+        "title": "XXXLutz Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.xxxlutz-dasradio.at/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite"
+      }
+    ]
+  },
+  {
+    "name": "Yves Joseph",
+    "coordinates": {
+      "lat": 47.7,
+      "lon": 14.8
+    },
+    "radioStations": [
+      {
+        "title": "Yves Joseph",
+        "subtitle": "Pennsylvania (Philadelphia)",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tunein.com/radio/RADIO-PELERIN-FM-s260708/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://us1.streamingpulse.com/stream/trinity3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Surprise The Live DJ Radio",
+    "coordinates": {
+      "lat": 48.32573,
+      "lon": 14.98218
+    },
+    "radioStations": [
+      {
+        "title": "Radio Surprise The Live DJ Radio",
+        "subtitle": "Vienna",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a12.asurahosting.com/listen/radio_surprise/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sinnfunk",
+    "coordinates": {
+      "lat": 48.93333,
+      "lon": 15.35
+    },
+    "radioStations": [
+      {
+        "title": "Sinnfunk",
+        "subtitle": "Styria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sinnfunk.b-cdn.net/fotos/SinnfunkLogo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FREIRAD",
+    "coordinates": {
+      "lat": 46.6416,
+      "lon": 13.18454
+    },
+    "radioStations": [
+      {
+        "title": "FREIRAD",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.freirad.at/wp-content/themes/betheme-child/images/logo-mobile.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.freirad.at/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Medex ExYu Balkan",
+    "coordinates": {
+      "lat": 48.3713,
+      "lon": 13.57412
+    },
+    "radioStations": [
+      {
+        "title": "Medex ExYu Balkan",
+        "subtitle": "Vorarlberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a5.asurahosting.com:7350/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kronehit Love",
+    "coordinates": {
+      "lat": 47.85493,
+      "lon": 13.95573
+    },
+    "radioStations": [
+      {
+        "title": "Kronehit Love",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.radio.at/s/kronehitlove"
+      }
+    ]
+  },
+  {
+    "name": "Gamesboro Radio",
+    "coordinates": {
+      "lat": 47.44106,
+      "lon": 16.3492
+    },
+    "radioStations": [
+      {
+        "title": "Gamesboro Radio",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.gamesboro.org:50321/static/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.gamesboro.org/listen/gamesboro_shoutcast/radio192.mp3/radio.aac"
+      }
+    ]
+  },
+  {
+    "name": "Modular Station",
+    "coordinates": {
+      "lat": 46.70056,
+      "lon": 14.87556
+    },
+    "radioStations": [
+      {
+        "title": "Modular Station",
+        "subtitle": "Austria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://broadcast.modular-station.com/listen/modular_station/radio.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Steiermark",
+    "coordinates": {
+      "lat": 46.82949,
+      "lon": 15.79237
+    },
+    "radioStations": [
+      {
+        "title": "Radio Steiermark",
+        "subtitle": "Styria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://orf-live.ors-shoutcast.at/stm-q2a"
+      }
+    ]
+  }
+]
