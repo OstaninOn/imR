@@ -1025,7 +1025,7 @@
     {
       "name": "Slovakia",
       "name_ru": "Словакия",
-      "flag": "https://flagcdn.com/w320/sk.png"
+      "flag": "https://flagcdn.com/w320/sk.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/slovakia_radio_stations60.json"
     },
     {
