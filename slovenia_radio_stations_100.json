@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Radio Aktual",
+    "coordinates": {
+      "lat": 45.5482,
+      "lon": 13.72963
+    },
+    "radioStations": [
+      {
+        "title": "Radio Aktual",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioaktual.si/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.95.158.131:9080"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1",
+    "coordinates": {
+      "lat": 45.52583,
+      "lon": 13.83194
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radio1.si/ico/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio.si/Radio1"
+      }
+    ]
+  },
+  {
+    "name": "Val 202",
+    "coordinates": {
+      "lat": 45.56757,
+      "lon": 14.24571
+    },
+    "radioStations": [
+      {
+        "title": "Val 202",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/val202"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio Best Ballads SLO",
+    "coordinates": {
+      "lat": 45.62139,
+      "lon": 14.46056
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio Best Ballads SLO",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio Center",
+    "coordinates": {
+      "lat": 45.64323,
+      "lon": 14.86036
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio Center",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8000/center"
+      }
+    ]
+  },
+  {
+    "name": "Radio Si",
+    "coordinates": {
+      "lat": 45.5084,
+      "lon": 14.9092
+    },
+    "radioStations": [
+      {
+        "title": "Radio Si",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/rsi"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nula Organic",
+    "coordinates": {
+      "lat": 45.57262,
+      "lon": 15.1919
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nula Organic",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm.radionula.com/channel2"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ognjišče",
+    "coordinates": {
+      "lat": 45.64983,
+      "lon": 15.31333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ognjišče",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/ognjisce.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Štajerski val",
+    "coordinates": {
+      "lat": 45.78115,
+      "lon": 15.07571
+    },
+    "radioStations": [
+      {
+        "title": "Radio Štajerski val",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.stajerskival.si/assets/banners/0855810001603838423.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.stajerskival.si:8443/live"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio",
+    "coordinates": {
+      "lat": 45.73861,
+      "lon": 14.7275
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio",
+        "subtitle": "Osrednjeslovenska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rockradio.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris 80",
+    "coordinates": {
+      "lat": 45.76133,
+      "lon": 14.63574
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris 80",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/80"
+      }
+    ]
+  },
+  {
+    "name": "Radio Prvi",
+    "coordinates": {
+      "lat": 45.77435,
+      "lon": 14.21528
+    },
+    "radioStations": [
+      {
+        "title": "Radio Prvi",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/ra1"
+      }
+    ]
+  },
+  {
+    "name": "Radio City (Maribor) 100.6 FM",
+    "coordinates": {
+      "lat": 45.68292,
+      "lon": 14.19588
+    },
+    "radioStations": [
+      {
+        "title": "Radio City (Maribor) 100.6 FM",
+        "subtitle": "Podravska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://82.149.22.34:8000/CityMp364mono.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nula",
+    "coordinates": {
+      "lat": 45.70924,
+      "lon": 13.87333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nula",
+        "subtitle": "Ljubljana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radionula.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm.radionula.com/classics"
+      }
+    ]
+  },
+  {
+    "name": "BestFM",
+    "coordinates": {
+      "lat": 45.92927,
+      "lon": 13.64125
+    },
+    "radioStations": [
+      {
+        "title": "BestFM",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bestfm.si/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/BestFM"
+      }
+    ]
+  },
+  {
+    "name": "Ars",
+    "coordinates": {
+      "lat": 45.88601,
+      "lon": 13.90946
+    },
+    "radioStations": [
+      {
+        "title": "Ars",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/ars"
+      }
+    ]
+  },
+  {
+    "name": "Hit Radio Center (Ljubljana - 102.4MHz)",
+    "coordinates": {
+      "lat": 45.9168,
+      "lon": 14.22652
+    },
+    "radioStations": [
+      {
+        "title": "Hit Radio Center (Ljubljana - 102.4MHz)",
+        "subtitle": "Osrednjeslovenska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8000/;center/1"
+      }
+    ]
+  },
+  {
+    "name": "RADIO NET FM",
+    "coordinates": {
+      "lat": 45.83371,
+      "lon": 14.63636
+    },
+    "radioStations": [
+      {
+        "title": "RADIO NET FM",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radionet.si/images/logo_footer.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://reflector.radionet.si:8000/stream.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio Slovenia",
+    "coordinates": {
+      "lat": 45.93695,
+      "lon": 14.80529
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio Slovenia",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock"
+      }
+    ]
+  },
+  {
+    "name": "FRAJER RADIO",
+    "coordinates": {
+      "lat": 45.90424,
+      "lon": 15.02238
+    },
+    "radioStations": [
+      {
+        "title": "FRAJER RADIO",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.lemon-radio.com/public/logos/19410.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Veseljak",
+    "coordinates": {
+      "lat": 45.80397,
+      "lon": 15.16886
+    },
+    "radioStations": [
+      {
+        "title": "Radio Veseljak",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.95.158.131:9060"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center top 100",
+    "coordinates": {
+      "lat": 45.84207,
+      "lon": 15.33412
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center top 100",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:9020/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio ENTER",
+    "coordinates": {
+      "lat": 45.90726,
+      "lon": 15.59319
+    },
+    "radioStations": [
+      {
+        "title": "Radio ENTER",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://enter.radio/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
+      }
+    ]
+  },
+  {
+    "name": "Radio Salomon",
+    "coordinates": {
+      "lat": 46.07333,
+      "lon": 15.55989
+    },
+    "radioStations": [
+      {
+        "title": "Radio Salomon",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radiosalomon.si/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://84.52.138.44/Salomon"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sraka",
+    "coordinates": {
+      "lat": 45.95915,
+      "lon": 15.49167
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sraka",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiosraka.com/wp-content/themes/porto/images/logo/apple-touch-icon_120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.105.67.24:8006"
+      }
+    ]
+  },
+  {
+    "name": "Radio Veseljak-Pumpa",
+    "coordinates": {
+      "lat": 46.00792,
+      "lon": 15.31646
+    },
+    "radioStations": [
+      {
+        "title": "Radio Veseljak-Pumpa",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio.si/VeseljakPumpa"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center love",
+    "coordinates": {
+      "lat": 45.95166,
+      "lon": 15.0619
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center love",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8060/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio 2",
+    "coordinates": {
+      "lat": 45.95579,
+      "lon": 14.65891
+    },
+    "radioStations": [
+      {
+        "title": "Radio 2",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radio1.si/ico/80/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio2.si/Radio2?1448457274706.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ognjišče - mp3 stream",
+    "coordinates": {
+      "lat": 46.05108,
+      "lon": 14.50513
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ognjišče - mp3 stream",
+        "subtitle": "Osrednjeslovenska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.ognjisce.si/ognjisce.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rogla",
+    "coordinates": {
+      "lat": 45.9635,
+      "lon": 14.29484
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rogla",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiorogla.si/wp-content/uploads/2021/01/cropped-logo_rogla.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.105.67.24:8010?type=http&nocache=3804"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nula Beatz",
+    "coordinates": {
+      "lat": 46.00295,
+      "lon": 14.02787
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nula Beatz",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://strm.radionula.com/lounge"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center megamix",
+    "coordinates": {
+      "lat": 45.95604,
+      "lon": 13.64837
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center megamix",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8066/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "radio nula lounge",
+    "coordinates": {
+      "lat": 46.18304,
+      "lon": 13.73321
+    },
+    "radioStations": [
+      {
+        "title": "radio nula lounge",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radionula.com:8800/lounge"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris Hits",
+    "coordinates": {
+      "lat": 46.22482,
+      "lon": 14.17205
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris Hits",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/HITS"
+      }
+    ]
+  },
+  {
+    "name": "Muravidéki Magyar Rádió",
+    "coordinates": {
+      "lat": 46.23887,
+      "lon": 14.35561
+    },
+    "radioStations": [
+      {
+        "title": "Muravidéki Magyar Rádió",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/mmr/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/mmr"
+      }
+    ]
+  },
+  {
+    "name": "radio nula 2",
+    "coordinates": {
+      "lat": 46.22587,
+      "lon": 14.61207
+    },
+    "radioStations": [
+      {
+        "title": "radio nula 2",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radionula.com:8800/channel2"
+      }
+    ]
+  },
+  {
+    "name": "Radio Triglav",
+    "coordinates": {
+      "lat": 46.21918,
+      "lon": 14.71953
+    },
+    "radioStations": [
+      {
+        "title": "Radio Triglav",
+        "subtitle": "Gorenjska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiotriglav.si/Triglav"
+      }
+    ]
+  },
+  {
+    "name": "Radio City",
+    "coordinates": {
+      "lat": 46.1541,
+      "lon": 15.05178
+    },
+    "radioStations": [
+      {
+        "title": "Radio City",
+        "subtitle": "Štajerska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.radiocity.si/CityMp3128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 Rock",
+    "coordinates": {
+      "lat": 46.23092,
+      "lon": 15.26044
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 Rock",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radio1.si/ico/rock/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Radio1Rock?t=1776880155210"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center 80's",
+    "coordinates": {
+      "lat": 46.21722,
+      "lon": 15.3975
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center 80's",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8064/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Antena",
+    "coordinates": {
+      "lat": 46.23733,
+      "lon": 15.63912
+    },
+    "radioStations": [
+      {
+        "title": "Radio Antena",
+        "subtitle": "Ljubljana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioantena.si/Antena"
+      }
+    ]
+  },
+  {
+    "name": "Radio KRka",
+    "coordinates": {
+      "lat": 46.36867,
+      "lon": 15.90628
+    },
+    "radioStations": [
+      {
+        "title": "Radio KRka",
+        "subtitle": "Dolenjska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiokrka.si/images/favicon.bmp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Krka"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maribor",
+    "coordinates": {
+      "lat": 46.31428,
+      "lon": 15.57808
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maribor",
+        "subtitle": "Izberite regijo, državo ali provinco.",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/ramb/icons/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.rtvslo.si/rmb"
+      }
+    ]
+  },
+  {
+    "name": "Rock Maribor",
+    "coordinates": {
+      "lat": 46.33735,
+      "lon": 15.42329
+    },
+    "radioStations": [
+      {
+        "title": "Rock Maribor",
+        "subtitle": "Podravska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://media.rockmaribor.si/ico/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.rockmaribor.si/RockMB"
+      }
+    ]
+  },
+  {
+    "name": "Radio Študent",
+    "coordinates": {
+      "lat": 46.35719,
+      "lon": 15.11277
+    },
+    "radioStations": [
+      {
+        "title": "Radio Študent",
+        "subtitle": "Osrednjeslovenska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://kruljo.radiostudent.si:8000/hiq"
+      }
+    ]
+  },
+  {
+    "name": "Radio Expres",
+    "coordinates": {
+      "lat": 46.38,
+      "lon": 15.04861
+    },
+    "radioStations": [
+      {
+        "title": "Radio Expres",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.radioekspres.si:8016/stream?type=http&nocache=138"
+      }
+    ]
+  },
+  {
+    "name": "Radio MARŠ",
+    "coordinates": {
+      "lat": 46.34358,
+      "lon": 14.83377
+    },
+    "radioStations": [
+      {
+        "title": "Radio MARŠ",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://frekvenca.eu:8000/radiomars.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris EX - YU",
+    "coordinates": {
+      "lat": 46.25007,
+      "lon": 14.4862
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris EX - YU",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/EXYU"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sora",
+    "coordinates": {
+      "lat": 46.36357,
+      "lon": 14.31046
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sora",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio-sora.si:8000/radio-sora.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Antena (105.2MHz)",
+    "coordinates": {
+      "lat": 46.34347,
+      "lon": 14.17547
+    },
+    "radioStations": [
+      {
+        "title": "Radio Antena (105.2MHz)",
+        "subtitle": "Osrednjeslovenska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radioantena.si/ico/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Antena"
+      }
+    ]
+  },
+  {
+    "name": "Toti Radio",
+    "coordinates": {
+      "lat": 46.27216,
+      "lon": 13.9535
+    },
+    "radioStations": [
+      {
+        "title": "Toti Radio",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.totiradio.si/toti.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Toti"
+      }
+    ]
+  },
+  {
+    "name": "Radio robin",
+    "coordinates": {
+      "lat": 46.33808,
+      "lon": 13.55245
+    },
+    "radioStations": [
+      {
+        "title": "Radio robin",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.robin.si/wp-content/uploads/2021/09/cropped-robin-favicon-270x270.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Robin"
+      }
+    ]
+  },
+  {
+    "name": "Radio City MB",
+    "coordinates": {
+      "lat": 46.45689,
+      "lon": 13.77824
+    },
+    "radioStations": [
+      {
+        "title": "Radio City MB",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://82.149.22.34:8000/CityMp3128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gorenc",
+    "coordinates": {
+      "lat": 46.4324,
+      "lon": 14.06232
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gorenc",
+        "subtitle": "Gorenjska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s9953q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiogorenc.si:8000/radiogorenc.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio Hard & Heavy SLO",
+    "coordinates": {
+      "lat": 46.3941,
+      "lon": 14.50659
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio Hard & Heavy SLO",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Student",
+    "coordinates": {
+      "lat": 46.5203,
+      "lon": 14.85307
+    },
+    "radioStations": [
+      {
+        "title": "Radio Student",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://kruljo.radiostudent.si:8000/ehiq"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio Classics SLO",
+    "coordinates": {
+      "lat": 46.51088,
+      "lon": 15.08377
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio Classics SLO",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio SLO",
+    "coordinates": {
+      "lat": 46.44141,
+      "lon": 15.20027
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio SLO",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ptuj",
+    "coordinates": {
+      "lat": 46.39309,
+      "lon": 15.57347
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ptuj",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioptuj.svet24.si/images/RadioPtuj_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Ptuj"
+      }
+    ]
+  },
+  {
+    "name": "Radi Frajer",
+    "coordinates": {
+      "lat": 46.42005,
+      "lon": 15.87018
+    },
+    "radioStations": [
+      {
+        "title": "Radi Frajer",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Frajer",
+    "coordinates": {
+      "lat": 46.51765,
+      "lon": 16.19817
+    },
+    "radioStations": [
+      {
+        "title": "Radio Frajer",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.nextmedia.si/hls/frj/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris 90 DANCE",
+    "coordinates": {
+      "lat": 46.39417,
+      "lon": 16.26806
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris 90 DANCE",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/MEGAMIX"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris Dalmacija",
+    "coordinates": {
+      "lat": 46.56494,
+      "lon": 16.45091
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris Dalmacija",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/DALMACIJA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capodistria",
+    "coordinates": {
+      "lat": 46.66264,
+      "lon": 16.16643
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capodistria",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://cdn-radiotime-logos.tunein.com/s16010q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/capo"
+      }
+    ]
+  },
+  {
+    "name": "Radio Koper",
+    "coordinates": {
+      "lat": 46.57676,
+      "lon": 15.83172
+    },
+    "radioStations": [
+      {
+        "title": "Radio Koper",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://img.rtvslo.si/_static/r180/rakp/icons/favicon-194x194.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si/rakp"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris ITALIA",
+    "coordinates": {
+      "lat": 46.55583,
+      "lon": 15.64593
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris ITALIA",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/ITA"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris SLO",
+    "coordinates": {
+      "lat": 46.54013,
+      "lon": 15.5179
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris SLO",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/SLO"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris 90 POP",
+    "coordinates": {
+      "lat": 46.61527,
+      "lon": 15.22472
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris 90 POP",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/90"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center yu",
+    "coordinates": {
+      "lat": 46.54315,
+      "lon": 14.97053
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center yu",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8100/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nula Classics",
+    "coordinates": {
+      "lat": 46.69779,
+      "lon": 15.90932
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nula Classics",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radionula.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radionula.com:8800/classics"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center fresh pop",
+    "coordinates": {
+      "lat": 46.79762,
+      "lon": 16.09837
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center fresh pop",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8058/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center latin",
+    "coordinates": {
+      "lat": 46.82412,
+      "lon": 16.29779
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center latin",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream3.radiocenter.si:8200/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Val202",
+    "coordinates": {
+      "lat": 45.52914,
+      "lon": 14.69838
+    },
+    "radioStations": [
+      {
+        "title": "Val202",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.rtvslo.si:8000/val202"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris LOVE",
+    "coordinates": {
+      "lat": 46.68333,
+      "lon": 15.7
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris LOVE",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/LOVE"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio center rock",
+    "coordinates": {
+      "lat": 45.81559,
+      "lon": 13.74827
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio center rock",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rockradio.si:9034/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Terminal",
+    "coordinates": {
+      "lat": 46.5695,
+      "lon": 16.02347
+    },
+    "radioStations": [
+      {
+        "title": "Radio Terminal",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioterminal.si/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://air.radioterminal.si/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zica",
+    "coordinates": {
+      "lat": 46.68519,
+      "lon": 16.39371
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zica",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.1chi.si/zica"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maxi",
+    "coordinates": {
+      "lat": 46.12533,
+      "lon": 13.98266
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maxi",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radiomaxi.si/ico/32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live2.infonetmedia.si:8000/Maxi"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris Rock",
+    "coordinates": {
+      "lat": 46.06038,
+      "lon": 14.8218
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris Rock",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/ROCK"
+      }
+    ]
+  },
+  {
+    "name": "Zeleni val",
+    "coordinates": {
+      "lat": 46.41955,
+      "lon": 14.69369
+    },
+    "radioStations": [
+      {
+        "title": "Zeleni val",
+        "subtitle": "Ljubljana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://jurepeterka.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 - Maribor (107.9MHz)",
+    "coordinates": {
+      "lat": 46.08741,
+      "lon": 13.63488
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 - Maribor (107.9MHz)",
+        "subtitle": "Podravska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio1.si/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio1.si/Radio1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capris POLETJE",
+    "coordinates": {
+      "lat": 46.1074,
+      "lon": 14.14769
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capris POLETJE",
+        "subtitle": "Primorska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream02.exit.si:8000/POLETJE"
+      }
+    ]
+  },
+  {
+    "name": "Radio Tomi",
+    "coordinates": {
+      "lat": 46.24436,
+      "lon": 14.95098
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tomi",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://93.103.130.12:8080/tomi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Center 80s",
+    "coordinates": {
+      "lat": 46.35034,
+      "lon": 15.73412
+    },
+    "radioStations": [
+      {
+        "title": "Radio Center 80s",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.radioekspres.si:8064/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 94",
+    "coordinates": {
+      "lat": 45.52778,
+      "lon": 13.57056
+    },
+    "radioStations": [
+      {
+        "title": "Radio 94",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://77.38.12.198:8000/radio94"
+      }
+    ]
+  },
+  {
+    "name": "Univox",
+    "coordinates": {
+      "lat": 45.60722,
+      "lon": 13.94278
+    },
+    "radioStations": [
+      {
+        "title": "Univox",
+        "subtitle": "Dolenjska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://univox.si/wp-content/uploads/2021/01/cropped-univox-favicon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Prlek",
+    "coordinates": {
+      "lat": 46.06551,
+      "lon": 15.18206
+    },
+    "radioStations": [
+      {
+        "title": "Radio Prlek",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioprlek.net/templates/jd_medical/images/presets/preset3/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://86.61.68.81:8000"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Timea",
+    "coordinates": {
+      "lat": 46.14251,
+      "lon": 14.43158
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Timea",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://evcast.mediacp.eu:1480/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Center Gen X",
+    "coordinates": {
+      "lat": 45.79703,
+      "lon": 14.36263
+    },
+    "radioStations": [
+      {
+        "title": "Radio Center Gen X",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.nextmedia.si/hls/gex/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio1",
+    "coordinates": {
+      "lat": 46.39048,
+      "lon": 16.05004
+    },
+    "radioStations": [
+      {
+        "title": "Radio1",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio1.si/Radio80"
+      }
+    ]
+  },
+  {
+    "name": "bAm BaM RADIO - All shades of house",
+    "coordinates": {
+      "lat": 46.27356,
+      "lon": 15.82658
+    },
+    "radioStations": [
+      {
+        "title": "bAm BaM RADIO - All shades of house",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.bambamradio.com/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.laidbackvib.es:8888/320"
+      }
+    ]
+  },
+  {
+    "name": "Toti Maxi",
+    "coordinates": {
+      "lat": 46.25639,
+      "lon": 15.12194
+    },
+    "radioStations": [
+      {
+        "title": "Toti Maxi",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radiomaxi.si/maxi.svg?3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio.si/Maxi"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 45.83376,
+      "lon": 14.92804
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Slovenija 1",
+    "coordinates": {
+      "lat": 46.45225,
+      "lon": 15.68095
+    },
+    "radioStations": [
+      {
+        "title": "Radio Slovenija 1",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.rtvslo.si/prvi"
+      }
+    ]
+  },
+  {
+    "name": "Radio MMR",
+    "coordinates": {
+      "lat": 45.99743,
+      "lon": 13.52711
+    },
+    "radioStations": [
+      {
+        "title": "Radio MMR",
+        "subtitle": "l",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/channels/radio-mmr.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.rtvslo.si/mmr"
+      }
+    ]
+  },
+  {
+    "name": "Radio ARS",
+    "coordinates": {
+      "lat": 46.24761,
+      "lon": 13.57907
+    },
+    "radioStations": [
+      {
+        "title": "Radio ARS",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.rtvslo.si/ars"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 80-a",
+    "coordinates": {
+      "lat": 46.48594,
+      "lon": 15.96818
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 80-a",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.svet24.si/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio1.si/Radio80"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sloven'c",
+    "coordinates": {
+      "lat": 45.95891,
+      "lon": 14.52811
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sloven'c",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioslovenc.si/images/slovenc.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.142.192.172/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 Koroska",
+    "coordinates": {
+      "lat": 46.13637,
+      "lon": 14.56167
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 Koroska",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radio1.si/ico/192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio1.si/Radio1KOR"
+      }
+    ]
+  },
+  {
+    "name": "Radio METEOR .si",
+    "coordinates": {
+      "lat": 45.77272,
+      "lon": 14.5065
+    },
+    "radioStations": [
+      {
+        "title": "Radio METEOR .si",
+        "subtitle": "Slovenia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiometeor.si/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiometeor.si/listen/meteor/live.mp3"
+      }
+    ]
+  }
+]
