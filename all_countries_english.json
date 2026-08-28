@@ -1031,7 +1031,8 @@
     {
       "name": "Slovenia",
       "name_ru": "Словения",
-      "flag": "https://flagcdn.com/w320/si.png"
+      "flag": "https://flagcdn.com/w320/si.png",
+      "stationsJSON": ""
     },
     {
       "name": "Solomon Islands",
