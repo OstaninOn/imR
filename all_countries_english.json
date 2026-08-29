@@ -672,7 +672,8 @@
     {
       "name": "Luxembourg",
       "name_ru": "Люксембург",
-      "flag": "https://flagcdn.com/w320/lu.png"
+      "flag": "https://flagcdn.com/w320/lu.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/luxembourg_radio_stations_24.json"
     },
     {
       "name": "Macao",
