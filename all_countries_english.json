@@ -1003,7 +1003,8 @@
     {
       "name": "Serbia",
       "name_ru": "Сербия",
-      "flag": "https://flagcdn.com/w320/rs.png"
+      "flag": "https://flagcdn.com/w320/rs.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/serbia_radio_stations_100.json"
     },
     {
       "name": "Seychelles",
