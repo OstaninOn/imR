@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "JOE",
+    "coordinates": {
+      "lat": 49.69371,
+      "lon": 5.37382
+    },
+    "radioStations": [
+      {
+        "title": "JOE",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic Belgium",
+    "coordinates": {
+      "lat": 49.56824,
+      "lon": 5.53259
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic Belgium",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac"
+      }
+    ]
+  },
+  {
+    "name": "MNM",
+    "coordinates": {
+      "lat": 49.68333,
+      "lon": 5.81667
+    },
+    "radioStations": [
+      {
+        "title": "MNM",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/mnm-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studio Brussel",
+    "coordinates": {
+      "lat": 49.69986,
+      "lon": 5.7467
+    },
+    "radioStations": [
+      {
+        "title": "Studio Brussel",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 1",
+    "coordinates": {
+      "lat": 49.72329,
+      "lon": 5.61999
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 1",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/radio1-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tomorrowland One World Radio",
+    "coordinates": {
+      "lat": 49.85596,
+      "lon": 5.25539
+    },
+    "radioStations": [
+      {
+        "title": "Tomorrowland One World Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF La Première",
+    "coordinates": {
+      "lat": 49.79324,
+      "lon": 5.06703
+    },
+    "radioStations": [
+      {
+        "title": "RTBF La Première",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/laprem1ere-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie Vlaanderen",
+    "coordinates": {
+      "lat": 49.96248,
+      "lon": 4.45427
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie Vlaanderen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser"
+      }
+    ]
+  },
+  {
+    "name": "TOPradio Belgium",
+    "coordinates": {
+      "lat": 49.90395,
+      "lon": 5.13537
+    },
+    "radioStations": [
+      {
+        "title": "TOPradio Belgium",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.topradio.be/favicons/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://str.topradio.be/topradio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Willy",
+    "coordinates": {
+      "lat": 49.98107,
+      "lon": 5.25612
+    },
+    "radioStations": [
+      {
+        "title": "Willy",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s308770/images/logod.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac"
+      }
+    ]
+  },
+  {
+    "name": "De Tijdloze",
+    "coordinates": {
+      "lat": 49.911,
+      "lon": 5.57848
+    },
+    "radioStations": [
+      {
+        "title": "De Tijdloze",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MNM Hits",
+    "coordinates": {
+      "lat": 50.00347,
+      "lon": 5.71844
+    },
+    "radioStations": [
+      {
+        "title": "MNM Hits",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic21",
+    "coordinates": {
+      "lat": 50.15804,
+      "lon": 5.92395
+    },
+    "radioStations": [
+      {
+        "title": "Classic21",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radios.rtbf.be/classic21-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21",
+    "coordinates": {
+      "lat": 50.13235,
+      "lon": 5.78962
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.fr/300/classic21.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/classic21-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tipik",
+    "coordinates": {
+      "lat": 50.09501,
+      "lon": 5.52895
+    },
+    "radioStations": [
+      {
+        "title": "Tipik",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/pure-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bel RTL",
+    "coordinates": {
+      "lat": 50.1631,
+      "lon": 5.2216
+    },
+    "radioStations": [
+      {
+        "title": "Bel RTL",
+        "subtitle": "wallonie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtlmedias.rtl.be/GED/webradios/logo_belrtl.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Klara",
+    "coordinates": {
+      "lat": 50.11042,
+      "lon": 4.95554
+    },
+    "radioStations": [
+      {
+        "title": "Klara",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/klara-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 2 West-Vlaanderen",
+    "coordinates": {
+      "lat": 50.13356,
+      "lon": 4.73545
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 2 West-Vlaanderen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2wvl-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Joe 80's & 90's",
+    "coordinates": {
+      "lat": 50.05284,
+      "lon": 4.49495
+    },
+    "radioStations": [
+      {
+        "title": "Joe 80's & 90's",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic 21 80's New Wave",
+    "coordinates": {
+      "lat": 50.04856,
+      "lon": 4.31712
+    },
+    "radioStations": [
+      {
+        "title": "Classic 21 80's New Wave",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.rtbf.be/c21-80nw/mp3-128/me"
+      }
+    ]
+  },
+  {
+    "name": "Tomorrowland - Daybreak Sessions",
+    "coordinates": {
+      "lat": 50.0271,
+      "lon": 4.16519
+    },
+    "radioStations": [
+      {
+        "title": "Tomorrowland - Daybreak Sessions",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tomorrowland.com/home/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac"
+      }
+    ]
+  },
+  {
+    "name": "VRT NWS",
+    "coordinates": {
+      "lat": 50.33237,
+      "lon": 3.69553
+    },
+    "radioStations": [
+      {
+        "title": "VRT NWS",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "100% Retro",
+    "coordinates": {
+      "lat": 50.34009,
+      "lon": 3.90409
+    },
+    "radioStations": [
+      {
+        "title": "100% Retro",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.starradio.online/favicon-194x194.png?v=0.3.0",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server.musicstars.online/radio/8000/listen"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie 80's",
+    "coordinates": {
+      "lat": 50.30688,
+      "lon": 4.11129
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie 80's",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3"
+      }
+    ]
+  },
+  {
+    "name": "100,5 Das Hitradio",
+    "coordinates": {
+      "lat": 50.25401,
+      "lon": 4.43796
+    },
+    "radioStations": [
+      {
+        "title": "100,5 Das Hitradio",
+        "subtitle": "Eupen/Eifel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dashitradio.de/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Rainy Day",
+    "coordinates": {
+      "lat": 50.32119,
+      "lon": 4.66232
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Rainy Day",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mynoise.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rainyday.radio.mynoise.net"
+      }
+    ]
+  },
+  {
+    "name": "joe easy",
+    "coordinates": {
+      "lat": 50.25807,
+      "lon": 4.91166
+    },
+    "radioStations": [
+      {
+        "title": "joe easy",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic 21 Blues",
+    "coordinates": {
+      "lat": 50.29449,
+      "lon": 5.10015
+    },
+    "radioStations": [
+      {
+        "title": "Classic 21 Blues",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbfradioplayer.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radios.rtbf.be/wr-c21-blues-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 2 Antwerpen",
+    "coordinates": {
+      "lat": 50.22678,
+      "lon": 5.34416
+    },
+    "radioStations": [
+      {
+        "title": "Radio 2 Antwerpen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2ant-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 2 Vlaams-Brabant",
+    "coordinates": {
+      "lat": 50.26742,
+      "lon": 5.44609
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 2 Vlaams-Brabant",
+        "subtitle": "Flanders",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2vlb.aac"
+      }
+    ]
+  },
+  {
+    "name": "Joe Gold",
+    "coordinates": {
+      "lat": 50.28477,
+      "lon": 5.79236
+    },
+    "radioStations": [
+      {
+        "title": "Joe Gold",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio RGR Dance Rotselaar, Be",
+    "coordinates": {
+      "lat": 50.28407,
+      "lon": 5.91502
+    },
+    "radioStations": [
+      {
+        "title": "Radio RGR Dance Rotselaar, Be",
+        "subtitle": "Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.rgrfm.be"
+      }
+    ]
+  },
+  {
+    "name": "Fun Radio",
+    "coordinates": {
+      "lat": 50.28146,
+      "lon": 6.12724
+    },
+    "radioStations": [
+      {
+        "title": "Fun Radio",
+        "subtitle": "Forest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Route 66",
+    "coordinates": {
+      "lat": 50.41488,
+      "lon": 6.11207
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Route 66",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbfradioplayer.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-route66-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio contact",
+    "coordinates": {
+      "lat": 50.42686,
+      "lon": 6.02794
+    },
+    "radioStations": [
+      {
+        "title": "Radio contact",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocontact.be/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic 21 80’s Hits",
+    "coordinates": {
+      "lat": 50.48375,
+      "lon": 5.86674
+    },
+    "radioStations": [
+      {
+        "title": "Classic 21 80’s Hits",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.rtbf.be/c21-80s/mp3-128/me"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 2 Oost-Vlaanderen",
+    "coordinates": {
+      "lat": 50.35291,
+      "lon": 5.45631
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 2 Oost-Vlaanderen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2ovl.aac"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 1 Classics",
+    "coordinates": {
+      "lat": 50.46707,
+      "lon": 5.2428
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 1 Classics",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/radio1_classics-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Instrumentals Forever",
+    "coordinates": {
+      "lat": 50.48941,
+      "lon": 5.09513
+    },
+    "radioStations": [
+      {
+        "title": "Instrumentals Forever",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://instrumentalsforever.eu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://quincy.torontocast.com:1910/stream"
+      }
+    ]
+  },
+  {
+    "name": "The Funky Channel",
+    "coordinates": {
+      "lat": 50.4669,
+      "lon": 4.86746
+    },
+    "radioStations": [
+      {
+        "title": "The Funky Channel",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://thefunkychannel.com/wp-content/uploads/2022/06/TFC-favicon-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast3.my-control-panel.com:8170/stream"
+      }
+    ]
+  },
+  {
+    "name": "Klara Continuo",
+    "coordinates": {
+      "lat": 50.40338,
+      "lon": 4.52826
+    },
+    "radioStations": [
+      {
+        "title": "Klara Continuo",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Bruxelles",
+    "coordinates": {
+      "lat": 50.41136,
+      "lon": 4.44448
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Bruxelles",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivabxl-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "One World Radio - Tomorrowland",
+    "coordinates": {
+      "lat": 50.48657,
+      "lon": 4.18785
+    },
+    "radioStations": [
+      {
+        "title": "One World Radio - Tomorrowland",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tomorrowland.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+      }
+    ]
+  },
+  {
+    "name": "Joe - All the way",
+    "coordinates": {
+      "lat": 50.45413,
+      "lon": 3.95229
+    },
+    "radioStations": [
+      {
+        "title": "Joe - All the way",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.joe.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic Q-Allstars",
+    "coordinates": {
+      "lat": 50.4746,
+      "lon": 3.64961
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic Q-Allstars",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+      }
+    ]
+  },
+  {
+    "name": "Chérie Belgique",
+    "coordinates": {
+      "lat": 50.6441,
+      "lon": 3.28013
+    },
+    "radioStations": [
+      {
+        "title": "Chérie Belgique",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.cheriebelgique.be/build/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/r3cprzsqtg0uv"
+      }
+    ]
+  },
+  {
+    "name": "Joe - Top 2000",
+    "coordinates": {
+      "lat": 50.60715,
+      "lon": 3.38932
+    },
+    "radioStations": [
+      {
+        "title": "Joe - Top 2000",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic",
+    "coordinates": {
+      "lat": 50.50819,
+      "lon": 3.59373
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s87683/images/logod.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Q Music België",
+    "coordinates": {
+      "lat": 50.62937,
+      "lon": 3.77801
+    },
+    "radioStations": [
+      {
+        "title": "Q Music België",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac"
+      }
+    ]
+  },
+  {
+    "name": "NRJ België",
+    "coordinates": {
+      "lat": 50.57904,
+      "lon": 4.07129
+    },
+    "radioStations": [
+      {
+        "title": "NRJ België",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Pure Nature",
+    "coordinates": {
+      "lat": 50.59833,
+      "lon": 4.32848
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Pure Nature",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mynoise.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://purenature-mynoise.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Ocean Waves",
+    "coordinates": {
+      "lat": 50.56149,
+      "lon": 4.69889
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Ocean Waves",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://oceanwaves.radio.mynoise.net"
+      }
+    ]
+  },
+  {
+    "name": "La Première - Bruxelles",
+    "coordinates": {
+      "lat": 50.59076,
+      "lon": 4.91175
+    },
+    "radioStations": [
+      {
+        "title": "La Première - Bruxelles",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radios.rtbf.be/laprem1erebxl-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Zen Garden",
+    "coordinates": {
+      "lat": 50.62848,
+      "lon": 5.14798
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Zen Garden",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mynoise.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://zengarden.radio.mynoise.net"
+      }
+    ]
+  },
+  {
+    "name": "Radio 2 Oost-Vlaanderen",
+    "coordinates": {
+      "lat": 50.51894,
+      "lon": 5.23284
+    },
+    "radioStations": [
+      {
+        "title": "Radio 2 Oost-Vlaanderen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2ovl-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 2 Bene Bene",
+    "coordinates": {
+      "lat": 50.63373,
+      "lon": 5.56749
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 2 Bene Bene",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "48FM",
+    "coordinates": {
+      "lat": 50.58907,
+      "lon": 5.86241
+    },
+    "radioStations": [
+      {
+        "title": "48FM",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://48fm.com/wp-content/uploads/48FM_Logo_header-site.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.48fm.com:8000/listen"
+      }
+    ]
+  },
+  {
+    "name": "Tomorrowland One World Radio - Anthems",
+    "coordinates": {
+      "lat": 50.6279,
+      "lon": 6.03647
+    },
+    "radioStations": [
+      {
+        "title": "Tomorrowland One World Radio - Anthems",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac"
+      }
+    ]
+  },
+  {
+    "name": "Best Oldies Radio 2 THC",
+    "coordinates": {
+      "lat": 50.6672,
+      "lon": 6.11535
+    },
+    "radioStations": [
+      {
+        "title": "Best Oldies Radio 2 THC",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - 70's",
+    "coordinates": {
+      "lat": 50.71809,
+      "lon": 6.01107
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - 70's",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-70-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tipik à l'ancienne (RTBF)",
+    "coordinates": {
+      "lat": 50.71184,
+      "lon": 5.6468
+    },
+    "radioStations": [
+      {
+        "title": "Tipik à l'ancienne (RTBF)",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.rtbf.be/tipik-al/mp3-128/rb"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Liège",
+    "coordinates": {
+      "lat": 50.78054,
+      "lon": 5.46484
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Liège",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivaliege-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - 90's",
+    "coordinates": {
+      "lat": 50.81679,
+      "lon": 5.18647
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - 90's",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-90-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Q-Foute Radio",
+    "coordinates": {
+      "lat": 50.80745,
+      "lon": 4.9378
+    },
+    "radioStations": [
+      {
+        "title": "Q-Foute Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://qmusic.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kiosk Radio",
+    "coordinates": {
+      "lat": 50.72357,
+      "lon": 4.86914
+    },
+    "radioStations": [
+      {
+        "title": "Kiosk Radio",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kioskradio.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b"
+      }
+    ]
+  },
+  {
+    "name": "Radio 2 Limburg",
+    "coordinates": {
+      "lat": 50.71717,
+      "lon": 4.60138
+    },
+    "radioStations": [
+      {
+        "title": "Radio 2 Limburg",
+        "subtitle": "Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2lim-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio 2 Vlaams-Brabant",
+    "coordinates": {
+      "lat": 50.80225,
+      "lon": 4.33943
+    },
+    "radioStations": [
+      {
+        "title": "Radio 2 Vlaams-Brabant",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2vlb-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 2 Antwerpen - AAC",
+    "coordinates": {
+      "lat": 50.69059,
+      "lon": 4.2009
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 2 Antwerpen - AAC",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/ra2ant.aac"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie Belgique",
+    "coordinates": {
+      "lat": 50.77343,
+      "lon": 3.88223
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie Belgique",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.nostalgie.be/build/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/5gd04cwptg0uv"
+      }
+    ]
+  },
+  {
+    "name": "Topradio TopBam",
+    "coordinates": {
+      "lat": 50.74574,
+      "lon": 3.6005
+    },
+    "radioStations": [
+      {
+        "title": "Topradio TopBam",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.topradio.be/favicons/favicon-196x196.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BEST OLDIES RADIO (BOR)",
+    "coordinates": {
+      "lat": 50.81268,
+      "lon": 3.33848
+    },
+    "radioStations": [
+      {
+        "title": "BEST OLDIES RADIO (BOR)",
+        "subtitle": "Oost Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a8.asurahosting.com:8090/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Park FM",
+    "coordinates": {
+      "lat": 50.74497,
+      "lon": 3.20639
+    },
+    "radioStations": [
+      {
+        "title": "Radio Park FM",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://parkfm.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streams.movemedia.eu:8054"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie + (Belgique)",
+    "coordinates": {
+      "lat": 50.78069,
+      "lon": 3.03854
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie + (Belgique)",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.nostalgie.be/build/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
+      }
+    ]
+  },
+  {
+    "name": "Studio Brussel - Vuurland",
+    "coordinates": {
+      "lat": 50.81514,
+      "lon": 2.77066
+    },
+    "radioStations": [
+      {
+        "title": "Studio Brussel - Vuurland",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru_tgs-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Contact MAX",
+    "coordinates": {
+      "lat": 50.85386,
+      "lon": 2.72659
+    },
+    "radioStations": [
+      {
+        "title": "Contact MAX",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://contactmax.be&size=256",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "La Cible",
+    "coordinates": {
+      "lat": 50.85114,
+      "lon": 2.88569
+    },
+    "radioStations": [
+      {
+        "title": "La Cible",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.lacibleradio.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://quincy.torontocast.com:3195/stream"
+      }
+    ]
+  },
+  {
+    "name": "Afrikana Radio – Live African",
+    "coordinates": {
+      "lat": 50.82803,
+      "lon": 3.26487
+    },
+    "radioStations": [
+      {
+        "title": "Afrikana Radio – Live African",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio FG Antwerpen",
+    "coordinates": {
+      "lat": 50.88898,
+      "lon": 3.42756
+    },
+    "radioStations": [
+      {
+        "title": "Radio FG Antwerpen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofg.be/wp-content/uploads/2021/09/LOGO-FG-GLOBAL-cropped.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/5wesqhfap98uv"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Tarmac",
+    "coordinates": {
+      "lat": 50.85168,
+      "lon": 3.60891
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Tarmac",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbfradioplayer.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/tarmac-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Panik",
+    "coordinates": {
+      "lat": 50.86955,
+      "lon": 3.81052
+    },
+    "radioStations": [
+      {
+        "title": "Radio Panik",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.domainepublic.net/radiopanik.ogg"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Pure FM",
+    "coordinates": {
+      "lat": 50.93604,
+      "lon": 4.0355
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Pure FM",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/pure-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Reggae",
+    "coordinates": {
+      "lat": 50.85045,
+      "lon": 4.34878
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Reggae",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-eventradio-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie Extra (What a Feeling)",
+    "coordinates": {
+      "lat": 50.88365,
+      "lon": 4.47298
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie Extra (What a Feeling)",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nl.nostalgie.be/icons/icon-144x144.png?v=afcbc45fada5babe32741403f76fa06c",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italia Charleroi",
+    "coordinates": {
+      "lat": 50.87959,
+      "lon": 4.70093
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italia Charleroi",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://players.fluidstream.it/RadioItaliaCharleroi/images/cover_default.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://str01.fluidstream.net:7170/listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Hainaut",
+    "coordinates": {
+      "lat": 50.94013,
+      "lon": 5.16636
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Hainaut",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivahainaut-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Warm FM 104.2",
+    "coordinates": {
+      "lat": 50.93106,
+      "lon": 5.33781
+    },
+    "radioStations": [
+      {
+        "title": "Warm FM 104.2",
+        "subtitle": "Liège",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.warm.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream05.warm.fm:9002/warm"
+      }
+    ]
+  },
+  {
+    "name": "ZenFm",
+    "coordinates": {
+      "lat": 50.965,
+      "lon": 5.50082
+    },
+    "radioStations": [
+      {
+        "title": "ZenFm",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://str.topradio.be/zenfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Musiq3",
+    "coordinates": {
+      "lat": 50.96545,
+      "lon": 5.69452
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Musiq3",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/musiq3-128.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Charleroi",
+    "coordinates": {
+      "lat": 51.09802,
+      "lon": 5.78379
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Charleroi",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivacharleroi-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Soul Power",
+    "coordinates": {
+      "lat": 51.1303,
+      "lon": 5.45952
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Soul Power",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbfradioplayer.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-soul-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Topradio TopRetroArena",
+    "coordinates": {
+      "lat": 51.04954,
+      "lon": 5.22606
+    },
+    "radioStations": [
+      {
+        "title": "Topradio TopRetroArena",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.topradio.be/favicons/favicon-196x196.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental Radio, Be",
+    "coordinates": {
+      "lat": 50.98923,
+      "lon": 5.05062
+    },
+    "radioStations": [
+      {
+        "title": "Instrumental Radio, Be",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://instrumentalradio.eu/wp-content/uploads/2017/10/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streams.shoutcastsolutions.com:8599/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Minerva",
+    "coordinates": {
+      "lat": 51.07537,
+      "lon": 4.72827
+    },
+    "radioStations": [
+      {
+        "title": "Radio Minerva",
+        "subtitle": "Antwerpen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiominerva.be/radio/assets/img/Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radiominerva.be/minerva"
+      }
+    ]
+  },
+  {
+    "name": "Willy Class X",
+    "coordinates": {
+      "lat": 51.02574,
+      "lon": 4.47762
+    },
+    "radioStations": [
+      {
+        "title": "Willy Class X",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s322560/images/logod.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+      }
+    ]
+  },
+  {
+    "name": "Bruzz",
+    "coordinates": {
+      "lat": 51.06041,
+      "lon": 4.36019
+    },
+    "radioStations": [
+      {
+        "title": "Bruzz",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rrr.sz.xlcdn.com?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Underground",
+    "coordinates": {
+      "lat": 51.02869,
+      "lon": 4.10106
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Underground",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.fr/300/classic21underground.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-underground-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Viva+",
+    "coordinates": {
+      "lat": 51.10364,
+      "lon": 3.99339
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Viva+",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.fr/300/rtbfvivaplus.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivaplus-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Live",
+    "coordinates": {
+      "lat": 51.05,
+      "lon": 3.71667
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Live",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.maradio.be/stationimages/1107_programme_image.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-live-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ketnet Hits",
+    "coordinates": {
+      "lat": 50.99931,
+      "lon": 3.32707
+    },
+    "radioStations": [
+      {
+        "title": "Ketnet Hits",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/vrtnu-resources/images/apple-touch-icon_max.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm"
+      }
+    ]
+  },
+  {
+    "name": "CityMusic",
+    "coordinates": {
+      "lat": 51.14236,
+      "lon": 3.1368
+    },
+    "radioStations": [
+      {
+        "title": "CityMusic",
+        "subtitle": "Oost-Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://citymusic.be/wp-content/uploads/2024/12/City_music_logo-hr-150.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.citymusic.be/citymusic.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Top Techno",
+    "coordinates": {
+      "lat": 51.03248,
+      "lon": 2.86384
+    },
+    "radioStations": [
+      {
+        "title": "Top Techno",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.topradio.be/images/8178.91fb06c.16-9.1000.90.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3"
+      }
+    ]
+  },
+  {
+    "name": "AudioDrama Radio",
+    "coordinates": {
+      "lat": 51.11642,
+      "lon": 2.63772
+    },
+    "radioStations": [
+      {
+        "title": "AudioDrama Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.audiodrama.com/2026/01/10142806/cropped-Copy-of-AUDIODRAMA-1000-x-1000-px_20260123_171114_0000-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://fritske.be:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "VRT - Studio Brussel",
+    "coordinates": {
+      "lat": 51.18532,
+      "lon": 2.82077
+    },
+    "radioStations": [
+      {
+        "title": "VRT - Studio Brussel",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru.aac"
+      }
+    ]
+  },
+  {
+    "name": "top radio retro",
+    "coordinates": {
+      "lat": 51.21551,
+      "lon": 2.927
+    },
+    "radioStations": [
+      {
+        "title": "top radio retro",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.topradio.be/favicons/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://str.topradio.be/topradioretroarena.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - 60's",
+    "coordinates": {
+      "lat": 51.20892,
+      "lon": 3.22424
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - 60's",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-60-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - 80's",
+    "coordinates": {
+      "lat": 51.20737,
+      "lon": 3.44511
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - 80's",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-80-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tommorowland One World Radio - Daybreak Sessions",
+    "coordinates": {
+      "lat": 51.18703,
+      "lon": 3.55654
+    },
+    "radioStations": [
+      {
+        "title": "Tommorowland One World Radio - Daybreak Sessions",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Space Odyssey",
+    "coordinates": {
+      "lat": 51.18963,
+      "lon": 3.80777
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Space Odyssey",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mynoise.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://spaceodyssey-mynoise.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "MyNoise Drone Zone",
+    "coordinates": {
+      "lat": 51.16509,
+      "lon": 4.1437
+    },
+    "radioStations": [
+      {
+        "title": "MyNoise Drone Zone",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mynoise.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dronezone-mynoise.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "depechemode.be",
+    "coordinates": {
+      "lat": 51.22047,
+      "lon": 4.40026
+    },
+    "radioStations": [
+      {
+        "title": "depechemode.be",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c2.radioboss.fm:8494/stream"
+      }
+    ]
+  },
+  {
+    "name": "Studio Brussel UNTZ",
+    "coordinates": {
+      "lat": 51.2912,
+      "lon": 4.49182
+    },
+    "radioStations": [
+      {
+        "title": "Studio Brussel UNTZ",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru_untz.aac"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Namur & Brabant Wallon",
+    "coordinates": {
+      "lat": 51.17655,
+      "lon": 4.83248
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Namur & Brabant Wallon",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivanamurbw-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Slow Radio",
+    "coordinates": {
+      "lat": 51.16557,
+      "lon": 4.98917
+    },
+    "radioStations": [
+      {
+        "title": "Slow Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nl.slowradio.be/img/favicons/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream1.slowradio.com"
+      }
+    ]
+  },
+  {
+    "name": "RGR Classic Hits",
+    "coordinates": {
+      "lat": 51.23074,
+      "lon": 5.31349
+    },
+    "radioStations": [
+      {
+        "title": "RGR Classic Hits",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rgrfm.be/img/logo/rgrfm_logo_cover_big.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.rgrfm.be"
+      }
+    ]
+  },
+  {
+    "name": "Classic 21 Metal",
+    "coordinates": {
+      "lat": 51.22807,
+      "lon": 5.4427
+    },
+    "radioStations": [
+      {
+        "title": "Classic 21 Metal",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.maradio.be/stationimages/29_programme_image.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.rtbf.be/c21-metal/aac-128/fl"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centraal 106.7FM",
+    "coordinates": {
+      "lat": 51.17041,
+      "lon": 5.73761
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centraal 106.7FM",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiocentraal.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streams.movemedia.eu:8530"
+      }
+    ]
+  },
+  {
+    "name": "MelindaFM",
+    "coordinates": {
+      "lat": 51.32254,
+      "lon": 4.94471
+    },
+    "radioStations": [
+      {
+        "title": "MelindaFM",
+        "subtitle": "West Flanders",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://melindafm.be/wp-content/uploads/2022/03/cropped-android-chrome-512x512-2-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.decibelhuis.be:8000/1"
+      }
+    ]
+  },
+  {
+    "name": "RCF Bruxelles",
+    "coordinates": {
+      "lat": 51.40029,
+      "lon": 4.76034
+    },
+    "radioStations": [
+      {
+        "title": "RCF Bruxelles",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://rcf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rcf.streamakaci.com/rcfbruxelles.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RCF Sud Belgique",
+    "coordinates": {
+      "lat": 51.38442,
+      "lon": 4.47556
+    },
+    "radioStations": [
+      {
+        "title": "RCF Sud Belgique",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rcf.fr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rcf.streamakaci.com/rcfsudbe.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Stadsradio Vlaanderen",
+    "coordinates": {
+      "lat": 51.31377,
+      "lon": 4.43539
+    },
+    "radioStations": [
+      {
+        "title": "Stadsradio Vlaanderen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://randstad.wirelessbelgie.be:8330/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NRJ Belgique",
+    "coordinates": {
+      "lat": 51.31511,
+      "lon": 3.3017
+    },
+    "radioStations": [
+      {
+        "title": "NRJ Belgique",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.nrj.be/build/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcs.revma.com/xh00fwuptg0uv"
+      }
+    ]
+  },
+  {
+    "name": "urgent.fm",
+    "coordinates": {
+      "lat": 51.35,
+      "lon": 3.26667
+    },
+    "radioStations": [
+      {
+        "title": "urgent.fm",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://urgentstream.radiostudio.be:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "Charleking Radio",
+    "coordinates": {
+      "lat": 50.98333,
+      "lon": 3.08333
+    },
+    "radioStations": [
+      {
+        "title": "Charleking Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3"
+      }
+    ]
+  },
+  {
+    "name": "VRT Radio 1 (low)",
+    "coordinates": {
+      "lat": 50.3312,
+      "lon": 6.33919
+    },
+    "radioStations": [
+      {
+        "title": "VRT Radio 1 (low)",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/VRT_Radio_1_logo.svg/158px-VRT_Radio_1_logo.svg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/radio1-mid.mp3"
+      }
+    ]
+  },
+  {
+    "name": "10584",
+    "coordinates": {
+      "lat": 50.47488,
+      "lon": 5.57711
+    },
+    "radioStations": [
+      {
+        "title": "10584",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.voscast.com:10584/stream"
+      }
+    ]
+  },
+  {
+    "name": "Jamendo Lounge",
+    "coordinates": {
+      "lat": 50.1664,
+      "lon": 4.18416
+    },
+    "radioStations": [
+      {
+        "title": "Jamendo Lounge",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.jamendo.com/Client/assets/toolkit/images/icon/apple-touch-icon-180x180.780963008.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streamingp.shoutcast.com/JamendoLounge"
+      }
+    ]
+  },
+  {
+    "name": "RCF Liège",
+    "coordinates": {
+      "lat": 51.44565,
+      "lon": 5.0433
+    },
+    "radioStations": [
+      {
+        "title": "RCF Liège",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rcf.streamakaci.com/rcfliege.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pallieter",
+    "coordinates": {
+      "lat": 49.56052,
+      "lon": 5.74433
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pallieter",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s39.myradiostream.com:14494/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RGR FM 106.5Fm Heist op den Berg, Be",
+    "coordinates": {
+      "lat": 51.18133,
+      "lon": 4.60181
+    },
+    "radioStations": [
+      {
+        "title": "RGR FM 106.5Fm Heist op den Berg, Be",
+        "subtitle": "Antwerpen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://uplink.intronic.nl/rgrfm"
+      }
+    ]
+  },
+  {
+    "name": "Studio Brussel Zware Gitaren",
+    "coordinates": {
+      "lat": 49.83195,
+      "lon": 5.73655
+    },
+    "radioStations": [
+      {
+        "title": "Studio Brussel Zware Gitaren",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.vrtcdn.be/stubru_bruut-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Joe Lage Landen",
+    "coordinates": {
+      "lat": 49.98037,
+      "lon": 4.93674
+    },
+    "radioStations": [
+      {
+        "title": "Joe Lage Landen",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://joe.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Valencia 105 FM - Meer, Be",
+    "coordinates": {
+      "lat": 50.68069,
+      "lon": 5.32785
+    },
+    "radioStations": [
+      {
+        "title": "Radio Valencia 105 FM - Meer, Be",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiovalencia.be"
+      }
+    ]
+  },
+  {
+    "name": "Paradise",
+    "coordinates": {
+      "lat": 51.2983,
+      "lon": 3.08213
+    },
+    "radioStations": [
+      {
+        "title": "Paradise",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioparadise.com/flac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gompel  105,6 FM , Mol, be",
+    "coordinates": {
+      "lat": 51.28914,
+      "lon": 4.17587
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gompel  105,6 FM , Mol, be",
+        "subtitle": "Antwerpen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/SyCVuT4L8f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://caster05.streampakket.com:8916/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Willy Radio",
+    "coordinates": {
+      "lat": 49.80244,
+      "lon": 5.46371
+    },
+    "radioStations": [
+      {
+        "title": "Willy Radio",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.willy.radio/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Musiq3 Jazz RTBF",
+    "coordinates": {
+      "lat": 50.33933,
+      "lon": 4.28604
+    },
+    "radioStations": [
+      {
+        "title": "Musiq3 Jazz RTBF",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/2/107862.v1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-m3-jazz-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nostalgie Plus",
+    "coordinates": {
+      "lat": 50.77318,
+      "lon": 4.0635
+    },
+    "radioStations": [
+      {
+        "title": "Nostalgie Plus",
+        "subtitle": "Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nostalgieplus.eu/images/favicon/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3"
+      }
+    ]
+  },
+  {
+    "name": "TSF Radio Allround",
+    "coordinates": {
+      "lat": 51.00526,
+      "lon": 3.88341
+    },
+    "radioStations": [
+      {
+        "title": "TSF Radio Allround",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ec5.yesstreaming.net:3430/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Chevaucoir",
+    "coordinates": {
+      "lat": 50.73863,
+      "lon": 5.82224
+    },
+    "radioStations": [
+      {
+        "title": "Radio Chevaucoir",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.webradiostreams.nl/illus/logo's%20radio/Radio%20Chevauchoir.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio10.pro-fhi.net/flux-nqjpklks/stream"
+      }
+    ]
+  },
+  {
+    "name": "Ajoin Music",
+    "coordinates": {
+      "lat": 50.52783,
+      "lon": 4.47968
+    },
+    "radioStations": [
+      {
+        "title": "Ajoin Music",
+        "subtitle": "Oost-Vlaanderen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ajoinmusic.be/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.ajoinmusic.be/ajoinmusic.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 50.98512,
+      "lon": 3.56654
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic Maximum Hits",
+    "coordinates": {
+      "lat": 50.99561,
+      "lon": 4.87175
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic Maximum Hits",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s348071/images/logod.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio-streaming.qmusic.be/q-maximum-hits.aac"
+      }
+    ]
+  },
+  {
+    "name": "Goldies Radio",
+    "coordinates": {
+      "lat": 51.09017,
+      "lon": 3.44693
+    },
+    "radioStations": [
+      {
+        "title": "Goldies Radio",
+        "subtitle": "Sint Niklaas",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.goldiesradio.be///templates/urbanlife/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu1.reliastream.com:7064/stream"
+      }
+    ]
+  },
+  {
+    "name": "Pure FM - 128",
+    "coordinates": {
+      "lat": 50.56961,
+      "lon": 5.39231
+    },
+    "radioStations": [
+      {
+        "title": "Pure FM - 128",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radios.rtbf.be/pure-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTBF Classic 21 - Metal",
+    "coordinates": {
+      "lat": 50.95129,
+      "lon": 4.23197
+    },
+    "radioStations": [
+      {
+        "title": "RTBF Classic 21 - Metal",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-c21-metal-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Musiq3 Baroque",
+    "coordinates": {
+      "lat": 50.72659,
+      "lon": 2.88019
+    },
+    "radioStations": [
+      {
+        "title": "Musiq3 Baroque",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtbf.be/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Air Libre",
+    "coordinates": {
+      "lat": 50.82614,
+      "lon": 5.63995
+    },
+    "radioStations": [
+      {
+        "title": "Radio Air Libre",
+        "subtitle": "Brussels",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.domainepublic.net:8000/radioairlibre.ogg"
+      }
+    ]
+  },
+  {
+    "name": "RTBF VivaCité Luxembourg",
+    "coordinates": {
+      "lat": 50.38023,
+      "lon": 4.98608
+    },
+    "radioStations": [
+      {
+        "title": "RTBF VivaCité Luxembourg",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios.rtbf.be/vivalux-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "YOLO - Life is like a dance",
+    "coordinates": {
+      "lat": 51.26825,
+      "lon": 4.71296
+    },
+    "radioStations": [
+      {
+        "title": "YOLO - Life is like a dance",
+        "subtitle": "Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.yoloradio.be/uploads/3/9/6/3/3963899/editor/logo.png?1652812395",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance"
+      }
+    ]
+  },
+  {
+    "name": "La Classica",
+    "coordinates": {
+      "lat": 51.16837,
+      "lon": 5.17027
+    },
+    "radioStations": [
+      {
+        "title": "La Classica",
+        "subtitle": "Belgium",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laclassica.be:8023/stream"
+      }
+    ]
+  }
+]
