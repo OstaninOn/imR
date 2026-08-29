@@ -173,7 +173,8 @@
     {
       "name": "Bulgaria",
       "name_ru": "Болгария",
-      "flag": "https://flagcdn.com/w320/bg.png"
+      "flag": "https://flagcdn.com/w320/bg.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/bulgaria_radio_stations_70.json"
     },
     {
       "name": "Burkina Faso",
