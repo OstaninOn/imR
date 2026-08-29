@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "Radio Veselina",
+    "coordinates": {
+      "lat": 41.39846,
+      "lon": 23.20702
+    },
+    "radioStations": [
+      {
+        "title": "Radio Veselina",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bss1.neterra.tv/veselina/veselina.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Bulgaria",
+    "coordinates": {
+      "lat": 41.56667,
+      "lon": 23.73333
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Bulgaria",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/nrj128"
+      }
+    ]
+  },
+  {
+    "name": "Badrock Hard & Heavy",
+    "coordinates": {
+      "lat": 41.66326,
+      "lon": 24.37557
+    },
+    "radioStations": [
+      {
+        "title": "Badrock Hard & Heavy",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.badrockradio.net/hard-heavy"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 (Bulgaria)",
+    "coordinates": {
+      "lat": 41.57439,
+      "lon": 24.71204
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 (Bulgaria)",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radio1.bg/theme_assets/radio1/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://149.13.0.81/radio1.ogg"
+      }
+    ]
+  },
+  {
+    "name": "City HipHop R&B",
+    "coordinates": {
+      "lat": 41.64502,
+      "lon": 25.36578
+    },
+    "radioStations": [
+      {
+        "title": "City HipHop R&B",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/cityrab.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/cityrabhi.aac"
+      }
+    ]
+  },
+  {
+    "name": "Extreme Deep House Radio",
+    "coordinates": {
+      "lat": 41.52672,
+      "lon": 26.1249
+    },
+    "radioStations": [
+      {
+        "title": "Extreme Deep House Radio",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://scontent.fbre4-1.fna.fbcdn.net/v/t39.30808-6/294865141_110190498433524_6398220129326637406_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gM8-afZumNgAX_ZBvv7&_nc_ht=scontent.fbre4-1.fna&oh=00_AfAuZDwZvdbnXoKWuNCS_pjQFLhTjwwOpzpD2aKQuDVF3Q&oe=65F139C1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://whsh4u-panel.com/proxy/yfryujzw/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Veronika",
+    "coordinates": {
+      "lat": 41.97958,
+      "lon": 27.52477
+    },
+    "radioStations": [
+      {
+        "title": "Radio Veronika",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/radioveronika.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/veronikahi.aac"
+      }
+    ]
+  },
+  {
+    "name": "BNR Horizont",
+    "coordinates": {
+      "lat": 41.93233,
+      "lon": 25.90172
+    },
+    "radioStations": [
+      {
+        "title": "BNR Horizont",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/testb.aac?dist=RADIOPLAY"
+      }
+    ]
+  },
+  {
+    "name": "RADIO CITY",
+    "coordinates": {
+      "lat": 41.93415,
+      "lon": 25.55557
+    },
+    "radioStations": [
+      {
+        "title": "RADIO CITY",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.city.bg/theme_assets/city/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/city64"
+      }
+    ]
+  },
+  {
+    "name": "BG Estrada",
+    "coordinates": {
+      "lat": 42.01667,
+      "lon": 24.86667
+    },
+    "radioStations": [
+      {
+        "title": "BG Estrada",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/bgestrada.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/bgestrada"
+      }
+    ]
+  },
+  {
+    "name": "1 Rock Bulgaria",
+    "coordinates": {
+      "lat": 42.03372,
+      "lon": 24.29995
+    },
+    "radioStations": [
+      {
+        "title": "1 Rock Bulgaria",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.13.223.148:8000/1_rock.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Badrock Golden Era",
+    "coordinates": {
+      "lat": 42.02754,
+      "lon": 23.99155
+    },
+    "radioStations": [
+      {
+        "title": "Badrock Golden Era",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.badrockradio.net/golden-era"
+      }
+    ]
+  },
+  {
+    "name": "BG Radio",
+    "coordinates": {
+      "lat": 42.01457,
+      "lon": 23.09804
+    },
+    "radioStations": [
+      {
+        "title": "BG Radio",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://bgradio.net/theme_assets/bgradio/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioreklama.bg/bgradio128"
+      }
+    ]
+  },
+  {
+    "name": "Vanilla",
+    "coordinates": {
+      "lat": 42.28314,
+      "lon": 22.69224
+    },
+    "radioStations": [
+      {
+        "title": "Vanilla",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/vanilla.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/vanillahi.aac"
+      }
+    ]
+  },
+  {
+    "name": "Fresh!",
+    "coordinates": {
+      "lat": 42.26478,
+      "lon": 23.11723
+    },
+    "radioStations": [
+      {
+        "title": "Fresh!",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://1.bp.blogspot.com/_RoR-1v43z1E/TToGkbRBWuI/AAAAAAAAAU0/0VrxqD0ipm8/s1600/radiofresh.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.108.24.21:8000/fresh"
+      }
+    ]
+  },
+  {
+    "name": "Easy Radio FLAC",
+    "coordinates": {
+      "lat": 42.22016,
+      "lon": 24.11854
+    },
+    "radioStations": [
+      {
+        "title": "Easy Radio FLAC",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.easyradio.bg/flac"
+      }
+    ]
+  },
+  {
+    "name": "Deep House Radio",
+    "coordinates": {
+      "lat": 42.19934,
+      "lon": 24.33318
+    },
+    "radioStations": [
+      {
+        "title": "Deep House Radio",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://deephouseradio.co/img/deephouseradio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://home.radionrg.com/hls/deephouse/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Badrock National",
+    "coordinates": {
+      "lat": 42.15387,
+      "lon": 24.75001
+    },
+    "radioStations": [
+      {
+        "title": "Badrock National",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.badrockradio.net/national"
+      }
+    ]
+  },
+  {
+    "name": "folk mix",
+    "coordinates": {
+      "lat": 42.05,
+      "lon": 25.6
+    },
+    "radioStations": [
+      {
+        "title": "folk mix",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radiofolkmix.com/folkmixios"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 радио 1 класическите хитове",
+    "coordinates": {
+      "lat": 42.3,
+      "lon": 25.93333
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 радио 1 класическите хитове",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio1.bg/theme_assets/radio1/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioreklama.bg/radio164"
+      }
+    ]
+  },
+  {
+    "name": "Extreme Deep House",
+    "coordinates": {
+      "lat": 42.16667,
+      "lon": 26.56667
+    },
+    "radioStations": [
+      {
+        "title": "Extreme Deep House",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://scontent.fbre4-1.fna.fbcdn.net/v/t39.30808-6/294865141_110190498433524_6398220129326637406_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gM8-afZumNgAX_ZBvv7&_nc_ht=scontent.fbre4-1.fna&oh=00_AfAuZDwZvdbnXoKWuNCS_pjQFLhTjwwOpzpD2aKQuDVF3Q&oe=65F139C1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://whsh4u-panel.com:14113/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radioplay Cafe",
+    "coordinates": {
+      "lat": 42.34747,
+      "lon": 27.17898
+    },
+    "radioStations": [
+      {
+        "title": "Radioplay Cafe",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/cafe.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/cafehi.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Party Mix",
+    "coordinates": {
+      "lat": 42.16955,
+      "lon": 27.84541
+    },
+    "radioStations": [
+      {
+        "title": "Radio Party Mix",
+        "subtitle": "София",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pozdravite.net/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Balkan Radio",
+    "coordinates": {
+      "lat": 42.50651,
+      "lon": 27.46886
+    },
+    "radioStations": [
+      {
+        "title": "Balkan Radio",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://balkanradio.com/img/Icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vitosha",
+    "coordinates": {
+      "lat": 42.70322,
+      "lon": 27.25464
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vitosha",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bss1.neterra.tv/vitosha/vitosha.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "БГ радио (opus)",
+    "coordinates": {
+      "lat": 42.48243,
+      "lon": 26.50006
+    },
+    "radioStations": [
+      {
+        "title": "БГ радио (opus)",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bgradio.bg/theme_assets/bgradio/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioreklama.bg/bgradio.opus"
+      }
+    ]
+  },
+  {
+    "name": "Avto Radio",
+    "coordinates": {
+      "lat": 42.68607,
+      "lon": 26.32558
+    },
+    "radioStations": [
+      {
+        "title": "Avto Radio",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.avtoradio.bg/ar_logo.f88b409f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac"
+      }
+    ]
+  },
+  {
+    "name": "Tangra Mega Rock",
+    "coordinates": {
+      "lat": 42.43205,
+      "lon": 25.64262
+    },
+    "radioStations": [
+      {
+        "title": "Tangra Mega Rock",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream-bg-01.radiotangra.com:8000/Tangra.ogg"
+      }
+    ]
+  },
+  {
+    "name": "SWEET RADIO - BULGARIA",
+    "coordinates": {
+      "lat": 42.63333,
+      "lon": 24.8
+    },
+    "radioStations": [
+      {
+        "title": "SWEET RADIO - BULGARIA",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sweetradio.online/wp-content/uploads/cropped-sweet-1a.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.sweetradio.online:8001/HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Melody",
+    "coordinates": {
+      "lat": 42.49518,
+      "lon": 24.19021
+    },
+    "radioStations": [
+      {
+        "title": "Radio Melody",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomelody.bg/i/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.108.24.6:8000/melody?file=.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Z-Rock radio",
+    "coordinates": {
+      "lat": 42.43821,
+      "lon": 23.81608
+    },
+    "radioStations": [
+      {
+        "title": "Z-Rock radio",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://zrockradio.bg/wp-content/uploads/2017/08/zrock_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.108.24.6:8000/zrock"
+      }
+    ]
+  },
+  {
+    "name": "Радио Зиг Заг - Най-яките парчета",
+    "coordinates": {
+      "lat": 42.69751,
+      "lon": 23.32415
+    },
+    "radioStations": [
+      {
+        "title": "Радио Зиг Заг - Най-яките парчета",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104839446.jpg?alt=media&token=aa505737-c1ae-4e42-8996-c73e0d8c575f",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayin.com.tr:4474/stream"
+      }
+    ]
+  },
+  {
+    "name": "Badrock Classic Rock",
+    "coordinates": {
+      "lat": 42.59671,
+      "lon": 23.03318
+    },
+    "radioStations": [
+      {
+        "title": "Badrock Classic Rock",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.badrockradio.net/classic-rock"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
+    "coordinates": {
+      "lat": 42.85182,
+      "lon": 23.03792
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://top-radio.ru/assets/image/radio/180/radio1bg.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1 Rock",
+    "coordinates": {
+      "lat": 42.81667,
+      "lon": 23.21667
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1 Rock",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.metacast.eu/radio1rock.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Радио БНР програма Христо Ботев Русе 95.7 FM",
+    "coordinates": {
+      "lat": 42.90799,
+      "lon": 23.79274
+    },
+    "radioStations": [
+      {
+        "title": "Радио БНР програма Христо Ботев Русе 95.7 FM",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJusaIg46ObkF14JycLTOLnA-K2KxiIsRPQ&s",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Veronika",
+    "coordinates": {
+      "lat": 42.91667,
+      "lon": 24.26667
+    },
+    "radioStations": [
+      {
+        "title": "Veronika",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.metacast.eu/veronika.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Nova News",
+    "coordinates": {
+      "lat": 43.02295,
+      "lon": 25.10364
+    },
+    "radioStations": [
+      {
+        "title": "Nova News",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioreklama.bg/novanews.aac"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only (ogg)",
+    "coordinates": {
+      "lat": 43.08124,
+      "lon": 25.62904
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Bulgaria 90s Only (ogg)",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/energy-90s.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only",
+    "coordinates": {
+      "lat": 42.93333,
+      "lon": 25.88333
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Bulgaria 90s Only",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/energy-90s"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jugomania",
+    "coordinates": {
+      "lat": 42.88333,
+      "lon": 26.45
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jugomania",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s8.yesstreaming.net:17051/autodj"
+      }
+    ]
+  },
+  {
+    "name": "MAGIC FM",
+    "coordinates": {
+      "lat": 43.05,
+      "lon": 27.35
+    },
+    "radioStations": [
+      {
+        "title": "MAGIC FM",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/Magic-FM-Bulgaria.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bss1.neterra.tv/magicfm/magicfm.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only (aac)",
+    "coordinates": {
+      "lat": 42.99296,
+      "lon": 27.71596
+    },
+    "radioStations": [
+      {
+        "title": "Energy NRJ Bulgaria 90s Only (aac)",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/energy-90s.aac"
+      }
+    ]
+  },
+  {
+    "name": "Metro DANCE Radio",
+    "coordinates": {
+      "lat": 43.42166,
+      "lon": 28.15848
+    },
+    "radioStations": [
+      {
+        "title": "Metro DANCE Radio",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR"
+      }
+    ]
+  },
+  {
+    "name": "Jazz FM",
+    "coordinates": {
+      "lat": 43.21912,
+      "lon": 27.91024
+    },
+    "radioStations": [
+      {
+        "title": "Jazz FM",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzfm.bg/static/bg/microsites/jazzfm/img/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.bweb.bg/radio/jazz-fm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "City Radio",
+    "coordinates": {
+      "lat": 43.27064,
+      "lon": 26.92286
+    },
+    "radioStations": [
+      {
+        "title": "City Radio",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/radiocity.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.global.audio/cityhi.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Lagoshevtsi",
+    "coordinates": {
+      "lat": 43.2512,
+      "lon": 26.57215
+    },
+    "radioStations": [
+      {
+        "title": "Radio Lagoshevtsi",
+        "subtitle": "vidin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.vidinlan.com/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Veronika 6 bez 10",
+    "coordinates": {
+      "lat": 43.35,
+      "lon": 26.23333
+    },
+    "radioStations": [
+      {
+        "title": "Veronika 6 bez 10",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/6bez10.aac"
+      }
+    ]
+  },
+  {
+    "name": "FolkBG",
+    "coordinates": {
+      "lat": 43.12778,
+      "lon": 25.70167
+    },
+    "radioStations": [
+      {
+        "title": "FolkBG",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.folkbg.net:8002/folkbg"
+      }
+    ]
+  },
+  {
+    "name": "FolkBG Player 2",
+    "coordinates": {
+      "lat": 43.13227,
+      "lon": 24.71763
+    },
+    "radioStations": [
+      {
+        "title": "FolkBG Player 2",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://folkbg.ombadmin.com:8001/folkbg"
+      }
+    ]
+  },
+  {
+    "name": "Nova",
+    "coordinates": {
+      "lat": 43.41791,
+      "lon": 24.61666
+    },
+    "radioStations": [
+      {
+        "title": "Nova",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.metacast.eu/nova.ogg"
+      }
+    ]
+  },
+  {
+    "name": "City Bulgaria",
+    "coordinates": {
+      "lat": 43.27884,
+      "lon": 24.08251
+    },
+    "radioStations": [
+      {
+        "title": "City Bulgaria",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.13.223.148:8000/city.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радио Хоро",
+    "coordinates": {
+      "lat": 43.21052,
+      "lon": 23.56312
+    },
+    "radioStations": [
+      {
+        "title": "Радио Хоро",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://g5.turbohost.eu:8020/stream256"
+      }
+    ]
+  },
+  {
+    "name": "Radio The Voice",
+    "coordinates": {
+      "lat": 43.38417,
+      "lon": 22.88083
+    },
+    "radioStations": [
+      {
+        "title": "Radio The Voice",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dance With Me",
+    "coordinates": {
+      "lat": 43.62722,
+      "lon": 22.68361
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dance With Me",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dancewithme-bg.com/images/liveradio/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://g5.turbohost.eu:8002/stream128"
+      }
+    ]
+  },
+  {
+    "name": "Авто Радио",
+    "coordinates": {
+      "lat": 43.69281,
+      "lon": 23.44518
+    },
+    "radioStations": [
+      {
+        "title": "Авто Радио",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://avtoradio.bg/ar_logo.f88b409f.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream80.metacast.eu/avtoradiohi.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Cyberfolk",
+    "coordinates": {
+      "lat": 43.77691,
+      "lon": 23.73001
+    },
+    "radioStations": [
+      {
+        "title": "Radio Cyberfolk",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiocyberfolk.com/cyberfolk.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.227.77.124/cyberfolk"
+      }
+    ]
+  },
+  {
+    "name": "City HipHop RaB",
+    "coordinates": {
+      "lat": 43.45963,
+      "lon": 24.25739
+    },
+    "radioStations": [
+      {
+        "title": "City HipHop RaB",
+        "subtitle": "Sofia City",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplay.bg/assets/logos/cityrab.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.global.audio/cityrab.aac"
+      }
+    ]
+  },
+  {
+    "name": "Deluxe Radio Bulgaria | HQ",
+    "coordinates": {
+      "lat": 43.65062,
+      "lon": 25.1343
+    },
+    "radioStations": [
+      {
+        "title": "Deluxe Radio Bulgaria | HQ",
+        "subtitle": "Sofia - town",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomaxxfm.com/wp-content/uploads/2021/09/deluxe.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radiomaxxfm.com/deluxe-high"
+      }
+    ]
+  },
+  {
+    "name": "EasyRadio.Bg (FLAC)",
+    "coordinates": {
+      "lat": 43.61875,
+      "lon": 25.35033
+    },
+    "radioStations": [
+      {
+        "title": "EasyRadio.Bg (FLAC)",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static-media.streema.com/media/cache/be/44/be44390943e863372f8c554897327595.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c30.radioboss.fm:8758/live"
+      }
+    ]
+  },
+  {
+    "name": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+    "coordinates": {
+      "lat": 43.7,
+      "lon": 26.26667
+    },
+    "radioStations": [
+      {
+        "title": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+        "subtitle": "Plovdiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://xraydio.ddns.net/live"
+      }
+    ]
+  },
+  {
+    "name": "Metro Urban Hits",
+    "coordinates": {
+      "lat": 43.53331,
+      "lon": 26.51849
+    },
+    "radioStations": [
+      {
+        "title": "Metro Urban Hits",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR"
+      }
+    ]
+  },
+  {
+    "name": "Radio Slavianska Parodia",
+    "coordinates": {
+      "lat": 43.74789,
+      "lon": 27.40911
+    },
+    "radioStations": [
+      {
+        "title": "Radio Slavianska Parodia",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://79.98.108.170:8033/autodj"
+      }
+    ]
+  },
+  {
+    "name": "folklor.fm",
+    "coordinates": {
+      "lat": 43.56491,
+      "lon": 27.83138
+    },
+    "radioStations": [
+      {
+        "title": "folklor.fm",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.227.77.124/folklorfm"
+      }
+    ]
+  },
+  {
+    "name": "BNR - Hristo Botev",
+    "coordinates": {
+      "lat": 43.70123,
+      "lon": 28.03787
+    },
+    "radioStations": [
+      {
+        "title": "BNR - Hristo Botev",
+        "subtitle": "Sofia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KATRA FM",
+    "coordinates": {
+      "lat": 43.81675,
+      "lon": 27.75552
+    },
+    "radioStations": [
+      {
+        "title": "KATRA FM",
+        "subtitle": "Plovdiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.katrafm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.katrafm.com:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio 1",
+    "coordinates": {
+      "lat": 44.1171,
+      "lon": 27.26056
+    },
+    "radioStations": [
+      {
+        "title": "Radio 1",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.metacast.eu/radio1128"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sladko Izkushenie",
+    "coordinates": {
+      "lat": 44.04906,
+      "lon": 26.61206
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sladko Izkushenie",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://g5.turbohost.eu:8006/autodj"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jega Жега",
+    "coordinates": {
+      "lat": 43.84872,
+      "lon": 25.9534
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jega Жега",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.predavatel.com/theme/images/favicon.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://g5.turbohost.eu:8004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Радио Жега 96",
+    "coordinates": {
+      "lat": 43.8317,
+      "lon": 23.23793
+    },
+    "radioStations": [
+      {
+        "title": "Радио Жега 96",
+        "subtitle": "Bulgaria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://g5.turbohost.eu:8004/stream96"
+      }
+    ]
+  }
+]
