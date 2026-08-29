@@ -513,7 +513,8 @@
     {
       "name": "Hungary",
       "name_ru": "Венгрия",
-      "flag": "https://flagcdn.com/w320/hu.png"
+      "flag": "https://flagcdn.com/w320/hu.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/hungary_radio_stations_100.json"
     },
     {
       "name": "Iceland",
