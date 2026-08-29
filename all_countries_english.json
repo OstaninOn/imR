@@ -594,7 +594,7 @@
   "name": "Kosovo",
   "name_ru": "Косово",
   "flag": "https://flagcdn.com/w320/xk.png",
-      "stationsJSON": ""
+  "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/kosovo_radio_stations_10.json"
 },
     {
       "name": "Kenya",
