@@ -107,7 +107,8 @@
     {
       "name": "Belgium",
       "name_ru": "Бельгия",
-      "flag": "https://flagcdn.com/w320/be.png"
+      "flag": "https://flagcdn.com/w320/be.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/belgium_radio_stations_150.json"
     },
     {
       "name": "Belize",
