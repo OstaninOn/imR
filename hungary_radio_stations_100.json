@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Dance Wave!",
+    "coordinates": {
+      "lat": 45.96,
+      "lon": 17.45861
+    },
+    "radioStations": [
+      {
+        "title": "Dance Wave!",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dancewave.online/dw_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dancewave.online/dance.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Retro Rádió",
+    "coordinates": {
+      "lat": 46.07617,
+      "lon": 18.22814
+    },
+    "radioStations": [
+      {
+        "title": "Retro Rádió",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5001/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 1",
+    "coordinates": {
+      "lat": 45.9902,
+      "lon": 18.68621
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 1",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5201/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Klubrádió 95,3",
+    "coordinates": {
+      "lat": 46.03194,
+      "lon": 19.04278
+    },
+    "radioStations": [
+      {
+        "title": "Klubrádió 95,3",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a7.asurahosting.com:8160/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "coordinates": {
+      "lat": 46.0587,
+      "lon": 19.26121
+    },
+    "radioStations": [
+      {
+        "title": "Dance Wave Retro!",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dancewave.online/dwr_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dancewave.online/retrodance.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)",
+    "coordinates": {
+      "lat": 46.28333,
+      "lon": 21.01667
+    },
+    "radioStations": [
+      {
+        "title": "BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.bdpstrock.hu/assets/img/front/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s2.audiostream.hu:8091/bdpstrock_FLAC"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 47",
+    "coordinates": {
+      "lat": 46.21667,
+      "lon": 20.48333
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 47",
+        "subtitle": "Békés",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio47.hu/downloads/r47logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s01.diazol.hu:9102/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mercy Rádió - Kabaré",
+    "coordinates": {
+      "lat": 46.253,
+      "lon": 20.14824
+    },
+    "radioStations": [
+      {
+        "title": "Mercy Rádió - Kabaré",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://mercyradio.eu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.mercyradio.eu/kabare.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen The 80s Hits",
+    "coordinates": {
+      "lat": 46.29861,
+      "lon": 19.32583
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen The 80s Hits",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenthe80shits"
+      }
+    ]
+  },
+  {
+    "name": "Petőfi Rádió",
+    "coordinates": {
+      "lat": 46.18299,
+      "lon": 18.95307
+    },
+    "radioStations": [
+      {
+        "title": "Petőfi Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i1.sndcdn.com/artworks-000103658408-5g7ohr-t500x500.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/4738/mr2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 1 - Budapest",
+    "coordinates": {
+      "lat": 46.34723,
+      "lon": 18.71189
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 1 - Budapest",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icast.connectmedia.hu/5201/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MegaDance Rádió",
+    "coordinates": {
+      "lat": 46.36667,
+      "lon": 17.8
+    },
+    "radioStations": [
+      {
+        "title": "MegaDance Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://megadanceradio.hopto.org:8000/livemega.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kossuth Rádió",
+    "coordinates": {
+      "lat": 46.22961,
+      "lon": 17.35788
+    },
+    "radioStations": [
+      {
+        "title": "Kossuth Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mr-stream.mediaconnect.hu/4734/mr1.aac"
+      }
+    ]
+  },
+  {
+    "name": "Inforádió",
+    "coordinates": {
+      "lat": 46.25314,
+      "lon": 17.1006
+    },
+    "radioStations": [
+      {
+        "title": "Inforádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://infostart.hu/images/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.infostart.hu/lejatszo/index.html?sid=1"
+      }
+    ]
+  },
+  {
+    "name": "Danubius",
+    "coordinates": {
+      "lat": 46.62403,
+      "lon": 16.53863
+    },
+    "radioStations": [
+      {
+        "title": "Danubius",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://danubiusradio.hu/assets/img/front/danubius_radio_album_cover_v2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.danubiusradio.hu/danubius_128k"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Italo Hits",
+    "coordinates": {
+      "lat": 46.45347,
+      "lon": 16.99104
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Italo Hits",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenitalohits"
+      }
+    ]
+  },
+  {
+    "name": "Luxfunk Dance",
+    "coordinates": {
+      "lat": 46.58498,
+      "lon": 17.41196
+    },
+    "radioStations": [
+      {
+        "title": "Luxfunk Dance",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream"
+      }
+    ]
+  },
+  {
+    "name": "Laza Rádió (OGG 320 Kbps)",
+    "coordinates": {
+      "lat": 46.42178,
+      "lon": 18.23953
+    },
+    "radioStations": [
+      {
+        "title": "Laza Rádió (OGG 320 Kbps)",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.lazaradio.com:8100/live.ogg"
+      }
+    ]
+  },
+  {
+    "name": "radiocafé 98.0",
+    "coordinates": {
+      "lat": 46.63333,
+      "lon": 18.28333
+    },
+    "radioStations": [
+      {
+        "title": "radiocafé 98.0",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.radiocafe98.hu/radiocafe98_192k.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Classic Rock",
+    "coordinates": {
+      "lat": 46.6221,
+      "lon": 18.85569
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Classic Rock",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenclassicrock"
+      }
+    ]
+  },
+  {
+    "name": "Base FM",
+    "coordinates": {
+      "lat": 46.43402,
+      "lon": 19.48479
+    },
+    "radioStations": [
+      {
+        "title": "Base FM",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://basefm.hu/wp-content/themes/basefm/assets/dist/img/favicon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5401/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laza Rádió - Mulatós",
+    "coordinates": {
+      "lat": 46.49028,
+      "lon": 19.74
+    },
+    "radioStations": [
+      {
+        "title": "Laza Rádió - Mulatós",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://lazaradio.com/wp-content/uploads/2024/09/laza_logo-2048x818.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.lazaradio.com/mulatos.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hír FM",
+    "coordinates": {
+      "lat": 46.41667,
+      "lon": 20.33333
+    },
+    "radioStations": [
+      {
+        "title": "Hír FM",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n34a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABnZd5-KEAvca0veOvcEeJDw"
+      }
+    ]
+  },
+  {
+    "name": "Sláger FM",
+    "coordinates": {
+      "lat": 46.4,
+      "lon": 20.91667
+    },
+    "radioStations": [
+      {
+        "title": "Sláger FM",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/rku29tm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://92.61.114.159:7812/slagerfm256.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Magic Disco Radio",
+    "coordinates": {
+      "lat": 46.65,
+      "lon": 21.28333
+    },
+    "radioStations": [
+      {
+        "title": "Magic Disco Radio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.165.11.30:4420/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Oldies",
+    "coordinates": {
+      "lat": 46.75,
+      "lon": 21.38333
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Oldies",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenoldies"
+      }
+    ]
+  },
+  {
+    "name": "DANCE 90'S",
+    "coordinates": {
+      "lat": 46.68333,
+      "lon": 21.1
+    },
+    "radioStations": [
+      {
+        "title": "DANCE 90'S",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc06?ver=887687"
+      }
+    ]
+  },
+  {
+    "name": "Csukás Meserádió",
+    "coordinates": {
+      "lat": 46.86667,
+      "lon": 20.55
+    },
+    "radioStations": [
+      {
+        "title": "Csukás Meserádió",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mediaklikk.hu/wp-content/plugins/hms-mediaklikk/common/styles/images/csukas_logo_horizontal_v2.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mr-stream.connectmedia.hu/4611/mr10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tilos Rádió",
+    "coordinates": {
+      "lat": 46.71213,
+      "lon": 19.84458
+    },
+    "radioStations": [
+      {
+        "title": "Tilos Rádió",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://tilos.hu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.tilos.hu/tilos"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen The 90s Hits",
+    "coordinates": {
+      "lat": 46.90618,
+      "lon": 19.69128
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen The 90s Hits",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenthe90shits"
+      }
+    ]
+  },
+  {
+    "name": "Kossuth",
+    "coordinates": {
+      "lat": 46.96479,
+      "lon": 18.93974
+    },
+    "radioStations": [
+      {
+        "title": "Kossuth",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/4736/mr1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BDPST ROCK -  320 kbit/s",
+    "coordinates": {
+      "lat": 46.88692,
+      "lon": 18.62041
+    },
+    "radioStations": [
+      {
+        "title": "BDPST ROCK -  320 kbit/s",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bdpstrock.hu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s2.audiostream.hu/bdpstrock_320k"
+      }
+    ]
+  },
+  {
+    "name": "Best FM - Debrecen",
+    "coordinates": {
+      "lat": 46.90413,
+      "lon": 18.058
+    },
+    "radioStations": [
+      {
+        "title": "Best FM - Debrecen",
+        "subtitle": "Hajdú-Bihar",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://myonlineradio.hu/public/uploads/radio_img/best-fm/play_250_250.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.webthings.hu:8000/fm95-x-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RadiOzora Chill",
+    "coordinates": {
+      "lat": 46.88152,
+      "lon": 17.44117
+    },
+    "radioStations": [
+      {
+        "title": "RadiOzora Chill",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://chill.out.airtime.pro/chill_a"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Magyar Zene",
+    "coordinates": {
+      "lat": 46.83695,
+      "lon": 16.84401
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Magyar Zene",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenmagyarzene"
+      }
+    ]
+  },
+  {
+    "name": "Dankó Rádió",
+    "coordinates": {
+      "lat": 46.95261,
+      "lon": 16.27358
+    },
+    "radioStations": [
+      {
+        "title": "Dankó Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mr-stream.mediaconnect.hu/4747/mr7.aac"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Funky&Soul",
+    "coordinates": {
+      "lat": 47.23088,
+      "lon": 16.62155
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Funky&Soul",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc25"
+      }
+    ]
+  },
+  {
+    "name": "Radio1",
+    "coordinates": {
+      "lat": 47.25395,
+      "lon": 16.93525
+    },
+    "radioStations": [
+      {
+        "title": "Radio1",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5202/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Lounge",
+    "coordinates": {
+      "lat": 47.10196,
+      "lon": 17.55892
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Lounge",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenlounge"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Love Songs",
+    "coordinates": {
+      "lat": 47.09327,
+      "lon": 17.91149
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Love Songs",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/09/14v2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc28"
+      }
+    ]
+  },
+  {
+    "name": "Cool.FM REMIX MUSIC",
+    "coordinates": {
+      "lat": 47.18995,
+      "lon": 18.41034
+    },
+    "radioStations": [
+      {
+        "title": "Cool.FM REMIX MUSIC",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/5/83855.v4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc23?ver=266114"
+      }
+    ]
+  },
+  {
+    "name": "ROCK FM: 103.9",
+    "coordinates": {
+      "lat": 47.16095,
+      "lon": 18.94478
+    },
+    "radioStations": [
+      {
+        "title": "ROCK FM: 103.9",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rockradio.hu/wp-content/themes/rockfm/assets/dist/img/logo_invert.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5301/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Argentine Tango Radio",
+    "coordinates": {
+      "lat": 47.18594,
+      "lon": 19.31091
+    },
+    "radioStations": [
+      {
+        "title": "Argentine Tango Radio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.net/300/argentinetango.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bartók Rádió",
+    "coordinates": {
+      "lat": 47.18066,
+      "lon": 20.19835
+    },
+    "radioStations": [
+      {
+        "title": "Bartók Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BALATONICA RADIO",
+    "coordinates": {
+      "lat": 47.18333,
+      "lon": 20.41667
+    },
+    "radioStations": [
+      {
+        "title": "BALATONICA RADIO",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.balatonica.hu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://balatonica.hu:8000/stream_high"
+      }
+    ]
+  },
+  {
+    "name": "Cool.FM DANCE 2000's",
+    "coordinates": {
+      "lat": 47.21667,
+      "lon": 20.76667
+    },
+    "radioStations": [
+      {
+        "title": "Cool.FM DANCE 2000's",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc04?ver=209775"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Acoustic",
+    "coordinates": {
+      "lat": 47.22362,
+      "lon": 21.53656
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Acoustic",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc12"
+      }
+    ]
+  },
+  {
+    "name": "Cool.FM PARTY Hits",
+    "coordinates": {
+      "lat": 47.13333,
+      "lon": 21.71667
+    },
+    "radioStations": [
+      {
+        "title": "Cool.FM PARTY Hits",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/1/83851.v6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc18?ver=975254"
+      }
+    ]
+  },
+  {
+    "name": "Club Dance Online - Retro",
+    "coordinates": {
+      "lat": 47.38333,
+      "lon": 21.9
+    },
+    "radioStations": [
+      {
+        "title": "Club Dance Online - Retro",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubdance.online/ss_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.clubdance.online:8000/retro"
+      }
+    ]
+  },
+  {
+    "name": "Klubrádió - Zebrádió",
+    "coordinates": {
+      "lat": 47.53167,
+      "lon": 21.62444
+    },
+    "radioStations": [
+      {
+        "title": "Klubrádió - Zebrádió",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zebradio.klubradio.hu/static/frontend/icon/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.zebradio.hu:8443/zebradio"
+      }
+    ]
+  },
+  {
+    "name": "Best FM - Budapest",
+    "coordinates": {
+      "lat": 47.31667,
+      "lon": 20.93333
+    },
+    "radioStations": [
+      {
+        "title": "Best FM - Budapest",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/favicon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5101/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jazzy",
+    "coordinates": {
+      "lat": 47.36667,
+      "lon": 20.63333
+    },
+    "radioStations": [
+      {
+        "title": "Jazzy",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzy.hu/apple-icon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.musorok.org/listen/jazzy/jazzy.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Music",
+    "coordinates": {
+      "lat": 47.5,
+      "lon": 19.91667
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Music",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://oxygenmusic.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenmusic_192"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Best Hits EVER",
+    "coordinates": {
+      "lat": 47.47997,
+      "lon": 19.25388
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Best Hits EVER",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc11"
+      }
+    ]
+  },
+  {
+    "name": "Park FM",
+    "coordinates": {
+      "lat": 47.49835,
+      "lon": 19.04045
+    },
+    "radioStations": [
+      {
+        "title": "Park FM",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://parkfm.hu/wp-content/themes/park-fm/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s03.diazol.hu:7142/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jazzy Groove",
+    "coordinates": {
+      "lat": 47.48671,
+      "lon": 18.31225
+    },
+    "radioStations": [
+      {
+        "title": "Jazzy Groove",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-groove.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Nyári Slágerek",
+    "coordinates": {
+      "lat": 47.37787,
+      "lon": 18.20353
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Nyári Slágerek",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc09"
+      }
+    ]
+  },
+  {
+    "name": "Aktív Rádió",
+    "coordinates": {
+      "lat": 47.33004,
+      "lon": 17.4674
+    },
+    "radioStations": [
+      {
+        "title": "Aktív Rádió",
+        "subtitle": "Jász-Nagykun-Szolnok",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.popularis.hu/radio/aktiv.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://aktivradio.hu:8000/aktiv.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jazzy Soul",
+    "coordinates": {
+      "lat": 47.46594,
+      "lon": 17.09294
+    },
+    "radioStations": [
+      {
+        "title": "Jazzy Soul",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-soul.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RadiOzora Trance",
+    "coordinates": {
+      "lat": 47.38922,
+      "lon": 16.541
+    },
+    "radioStations": [
+      {
+        "title": "RadiOzora Trance",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trance.out.airtime.pro/trance_a"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Sportoláshoz",
+    "coordinates": {
+      "lat": 47.68501,
+      "lon": 16.59049
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Sportoláshoz",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc20"
+      }
+    ]
+  },
+  {
+    "name": "Roxy Radio",
+    "coordinates": {
+      "lat": 47.61155,
+      "lon": 17.25012
+    },
+    "radioStations": [
+      {
+        "title": "Roxy Radio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s2.audiostream.hu:9443/unsafe/500x0/smart/https://roxyradio.hu/Logok/Roxy_Logo_App.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.audiostream.hu/roxy_192k"
+      }
+    ]
+  },
+  {
+    "name": "MixradioRetro",
+    "coordinates": {
+      "lat": 47.68333,
+      "lon": 17.63512
+    },
+    "radioStations": [
+      {
+        "title": "MixradioRetro",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.phost.hu:8004/retro"
+      }
+    ]
+  },
+  {
+    "name": "Megadance",
+    "coordinates": {
+      "lat": 47.74318,
+      "lon": 18.11913
+    },
+    "radioStations": [
+      {
+        "title": "Megadance",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://gamershouse.hu:8080/livemega.mp3"
+      }
+    ]
+  },
+  {
+    "name": "AdventNet rádió",
+    "coordinates": {
+      "lat": 47.59247,
+      "lon": 18.38099
+    },
+    "radioStations": [
+      {
+        "title": "AdventNet rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.adventnet.hu/wp-content/uploads/2013/05/copy-adnradio_logo_s.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.adventnet.hu:8443/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádió Comedy",
+    "coordinates": {
+      "lat": 47.77591,
+      "lon": 19.13612
+    },
+    "radioStations": [
+      {
+        "title": "Rádió Comedy",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a7.asurahosting.com/listen/radio_comedy/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Club Dance Online",
+    "coordinates": {
+      "lat": 47.59657,
+      "lon": 19.35515
+    },
+    "radioStations": [
+      {
+        "title": "Club Dance Online",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubdance.online/ss_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.clubdance.online:8002/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SuperDj Radio",
+    "coordinates": {
+      "lat": 47.78257,
+      "lon": 19.928
+    },
+    "radioStations": [
+      {
+        "title": "SuperDj Radio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.diazol.hu:35150/autodj"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 1 Debrecen",
+    "coordinates": {
+      "lat": 47.81667,
+      "lon": 20.58333
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 1 Debrecen",
+        "subtitle": "Hajdú-Bihar",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://graph.facebook.com/radio1debrecen/picture?type=large",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.82.85.44:8080/debrecenradiofm95"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM 2000-es évek",
+    "coordinates": {
+      "lat": 47.61667,
+      "lon": 20.76667
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM 2000-es évek",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc03"
+      }
+    ]
+  },
+  {
+    "name": "RadiOzora",
+    "coordinates": {
+      "lat": 47.66667,
+      "lon": 21.51667
+    },
+    "radioStations": [
+      {
+        "title": "RadiOzora",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trance.out.airtime.pro:8000/trance_a"
+      }
+    ]
+  },
+  {
+    "name": "Best FM - Nyíregyháza",
+    "coordinates": {
+      "lat": 47.83333,
+      "lon": 22.13333
+    },
+    "radioStations": [
+      {
+        "title": "Best FM - Nyíregyháza",
+        "subtitle": "Szabolcs-Szatmár-Bereg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5115/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Spirit FM",
+    "coordinates": {
+      "lat": 47.86547,
+      "lon": 22.39159
+    },
+    "radioStations": [
+      {
+        "title": "Spirit FM",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://spiritfm.hu/assets/img/spiritfm/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s01.diazol.hu:10050/spweb1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Folkrádio",
+    "coordinates": {
+      "lat": 47.95528,
+      "lon": 22.32348
+    },
+    "radioStations": [
+      {
+        "title": "Folkrádio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.folkradio.hu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.folkradio.hu/folkradio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 1 Szeged",
+    "coordinates": {
+      "lat": 47.95539,
+      "lon": 21.71671
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 1 Szeged",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icast.connectmedia.hu/5232/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Danubius Rádió",
+    "coordinates": {
+      "lat": 47.96667,
+      "lon": 21.35
+    },
+    "radioStations": [
+      {
+        "title": "Danubius Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://danubiusradio.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.danubiusradio.hu/danubius_192k"
+      }
+    ]
+  },
+  {
+    "name": "MR3 - Bartók Rádió",
+    "coordinates": {
+      "lat": 48.10327,
+      "lon": 20.77806
+    },
+    "radioStations": [
+      {
+        "title": "MR3 - Bartók Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Black Music",
+    "coordinates": {
+      "lat": 47.90265,
+      "lon": 20.37329
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Black Music",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/blackmusic_128"
+      }
+    ]
+  },
+  {
+    "name": "Cool FM - Goldie'S",
+    "coordinates": {
+      "lat": 48.09872,
+      "lon": 19.80303
+    },
+    "radioStations": [
+      {
+        "title": "Cool FM - Goldie'S",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mediagw.e-tiger.net:8000/stream/goldhq"
+      }
+    ]
+  },
+  {
+    "name": "BDPST ROCK",
+    "coordinates": {
+      "lat": 48.07296,
+      "lon": 19.29614
+    },
+    "radioStations": [
+      {
+        "title": "BDPST ROCK",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bdpstrock.hu/assets/img/front/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s2.audiostream.hu/bdpstrock_FLAC"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 1 - Békéscsaba",
+    "coordinates": {
+      "lat": 47.99619,
+      "lon": 19.20231
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 1 - Békéscsaba",
+        "subtitle": "Békés",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5233/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Best FM Székesfehérvár",
+    "coordinates": {
+      "lat": 47.8893,
+      "lon": 17.32615
+    },
+    "radioStations": [
+      {
+        "title": "Best FM Székesfehérvár",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icast.connectmedia.hu/5113/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sola Rádió",
+    "coordinates": {
+      "lat": 47.99643,
+      "lon": 17.19821
+    },
+    "radioStations": [
+      {
+        "title": "Sola Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kegyelem.net/uploads/thumbs/c7b42f10c-1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.virtualisan.net/prx/7000/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Poptarisznya",
+    "coordinates": {
+      "lat": 48.23333,
+      "lon": 20.2
+    },
+    "radioStations": [
+      {
+        "title": "Poptarisznya",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://adas.poptarisznya.hu:8200/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Klasszik Rádió 92.1",
+    "coordinates": {
+      "lat": 48.25,
+      "lon": 20.63333
+    },
+    "radioStations": [
+      {
+        "title": "Klasszik Rádió 92.1",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.musorok.org/listen/klasszik/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Oxygen Indie",
+    "coordinates": {
+      "lat": 48.21667,
+      "lon": 20.71667
+    },
+    "radioStations": [
+      {
+        "title": "Oxygen Indie",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://oxygenmusic.hu:8443/oxygenindie"
+      }
+    ]
+  },
+  {
+    "name": "MR1 - Kossuth Rádió",
+    "coordinates": {
+      "lat": 48.39492,
+      "lon": 21.65871
+    },
+    "radioStations": [
+      {
+        "title": "MR1 - Kossuth Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM Filmzenék",
+    "coordinates": {
+      "lat": 48.21667,
+      "lon": 22.08333
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM Filmzenék",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/K%C3%89SZ_Filmzen%C3%A9k_2-%C3%9AJ-R%C3%81DI%C3%93.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc01?ver=753658"
+      }
+    ]
+  },
+  {
+    "name": "COOLFM YouTube HOT HITS!",
+    "coordinates": {
+      "lat": 48.32149,
+      "lon": 22.19107
+    },
+    "radioStations": [
+      {
+        "title": "COOLFM YouTube HOT HITS!",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediagw.e-tiger.net/stream/zc22"
+      }
+    ]
+  },
+  {
+    "name": "MR2 - Petőfi Rádió",
+    "coordinates": {
+      "lat": 48.28333,
+      "lon": 21.2
+    },
+    "radioStations": [
+      {
+        "title": "MR2 - Petőfi Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádió Dikh",
+    "coordinates": {
+      "lat": 47.03333,
+      "lon": 21.16667
+    },
+    "radioStations": [
+      {
+        "title": "Rádió Dikh",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icast.connectmedia.hu/6121/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Manna FM 98.6",
+    "coordinates": {
+      "lat": 46.77136,
+      "lon": 19.28695
+    },
+    "radioStations": [
+      {
+        "title": "Manna FM 98.6",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icast.connectmedia.hu/4780/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Danubius Radio",
+    "coordinates": {
+      "lat": 45.78955,
+      "lon": 18.30575
+    },
+    "radioStations": [
+      {
+        "title": "Danubius Radio",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://danubiusradio.hu/logo192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.danubiusradio.hu:8091/danubius_HiFi"
+      }
+    ]
+  },
+  {
+    "name": "Duna World Rádió",
+    "coordinates": {
+      "lat": 45.87247,
+      "lon": 17.84711
+    },
+    "radioStations": [
+      {
+        "title": "Duna World Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/hu/thumb/5/56/DW_radio.png/250px-DW_radio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mr-stream.mediaconnect.hu/4760/dwr.aac"
+      }
+    ]
+  },
+  {
+    "name": "Mária Rádió",
+    "coordinates": {
+      "lat": 47.72095,
+      "lon": 18.73641
+    },
+    "radioStations": [
+      {
+        "title": "Mária Rádió",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://honlap.mariaradio.hu:8000/mr"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA HUNGARY",
+    "coordinates": {
+      "lat": 47.17266,
+      "lon": 19.79952
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA HUNGARY",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8032/stream"
+      }
+    ]
+  },
+  {
+    "name": "Cool FM",
+    "coordinates": {
+      "lat": 47.6,
+      "lon": 20.28333
+    },
+    "radioStations": [
+      {
+        "title": "Cool FM",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mediagw.e-tiger.net/stream/cfmhq"
+      }
+    ]
+  },
+  {
+    "name": "Rádió 7",
+    "coordinates": {
+      "lat": 47.83095,
+      "lon": 19.53105
+    },
+    "radioStations": [
+      {
+        "title": "Rádió 7",
+        "subtitle": "Csongrád",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://4.bp.blogspot.com/-IX-c5PaKy8A/VYnOJXxzUlI/AAAAAAAAAGQ/mzmfSQG3tAc/s420/r2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.radio7.hu:8300/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jazzy Cool",
+    "coordinates": {
+      "lat": 47.58278,
+      "lon": 21.15108
+    },
+    "radioStations": [
+      {
+        "title": "Jazzy Cool",
+        "subtitle": "Hungary",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-cool.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Luxfunk Blackmix",
+    "coordinates": {
+      "lat": 46.69076,
+      "lon": 17.84136
+    },
+    "radioStations": [
+      {
+        "title": "Luxfunk Blackmix",
+        "subtitle": "Budapest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.luxfunkradio.com/logos/luxfunk_radio_blackmix_logo_black_r_400x400.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream"
+      }
+    ]
+  }
+]
