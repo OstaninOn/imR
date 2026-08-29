@@ -591,6 +591,12 @@
       "flag": "https://flagcdn.com/w320/kz.png"
     },
     {
+  "name": "Kosovo",
+  "name_ru": "Косово",
+  "flag": "https://flagcdn.com/w320/xk.png",
+      "stationsJSON": ""
+},
+    {
       "name": "Kenya",
       "name_ru": "Кения",
       "flag": "https://flagcdn.com/w320/ke.png"
