@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Radio Zëri i Shtimes",
+    "coordinates": {
+      "lat": 42.21389,
+      "lon": 20.73972
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zëri i Shtimes",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.1dhe1.com:8090/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dukagjini",
+    "coordinates": {
+      "lat": 42.23194,
+      "lon": 21.25944
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dukagjini",
+        "subtitle": "Prishtina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dukagjini.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s6.voscast.com:8824"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA KOSOVO",
+    "coordinates": {
+      "lat": 42.46045,
+      "lon": 21.46986
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA KOSOVO",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp2.com:8124/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plus",
+    "coordinates": {
+      "lat": 42.37056,
+      "lon": 21.15528
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plus",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplus.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      }
+    ]
+  },
+  {
+    "name": "Urban FM 103.5",
+    "coordinates": {
+      "lat": 42.35861,
+      "lon": 20.825
+    },
+    "radioStations": [
+      {
+        "title": "Urban FM 103.5",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiourban.fm/wp-content/uploads/2023/04/URBAN-FM-LOGO.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.itprishtina.com/urbanfm.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Kolektiv Radio",
+    "coordinates": {
+      "lat": 42.39944,
+      "lon": 20.65472
+    },
+    "radioStations": [
+      {
+        "title": "Kolektiv Radio",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kolektivradio.com/wp-content/uploads/2023/11/Kolektivradio-Logo-Cat-col.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://studio28.radiolize.com/radio/8100/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Glam Radio",
+    "coordinates": {
+      "lat": 42.38028,
+      "lon": 20.43083
+    },
+    "radioStations": [
+      {
+        "title": "Glam Radio",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.glamradio.fm:8443/glamradio"
+      }
+    ]
+  },
+  {
+    "name": "KLAN Kosova FM",
+    "coordinates": {
+      "lat": 42.65913,
+      "lon": 20.28828
+    },
+    "radioStations": [
+      {
+        "title": "KLAN Kosova FM",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.radio.co/sd1d1904dc/listen"
+      }
+    ]
+  },
+  {
+    "name": "Club FM Kosovë",
+    "coordinates": {
+      "lat": 42.78083,
+      "lon": 20.4875
+    },
+    "radioStations": [
+      {
+        "title": "Club FM Kosovë",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubfmkosova.al/wp-content/uploads/2021/01/Player-Cover-ClubFM-Kosove-play-2-768x768.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Hisar",
+    "coordinates": {
+      "lat": 42.62833,
+      "lon": 20.89389
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Hisar",
+        "subtitle": "Kosovo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyohisar.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a8.asurahosting.com:6920/radio.mp3"
+      }
+    ]
+  }
+]
