@@ -142,7 +142,8 @@
     {
       "name": "Bosnia and Herzegovina",
       "name_ru": "Босния и Герцеговина",
-      "flag": "https://flagcdn.com/w320/ba.png"
+      "flag": "https://flagcdn.com/w320/ba.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/bosnia_herzegovina_radio_stations_96.json"
     },
     {
       "name": "Botswana",
