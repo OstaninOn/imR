@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "Otvoreni radio - Uživo",
+    "coordinates": {
+      "lat": 42.96333,
+      "lon": 16.7225
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni radio - Uživo",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.otvoreni.hr/otvoreni"
+      }
+    ]
+  },
+  {
+    "name": "Yammat FM",
+    "coordinates": {
+      "lat": 42.96038,
+      "lon": 17.13525
+    },
+    "radioStations": [
+      {
+        "title": "Yammat FM",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.yammat.fm/radio/8000/yammat.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Top Radio",
+    "coordinates": {
+      "lat": 42.78611,
+      "lon": 17.89194
+    },
+    "radioStations": [
+      {
+        "title": "Top Radio",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://topradio.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c5.hostingcentar.com/streams/topradio"
+      }
+    ]
+  },
+  {
+    "name": "bravo! kids",
+    "coordinates": {
+      "lat": 42.64125,
+      "lon": 18.10909
+    },
+    "radioStations": [
+      {
+        "title": "bravo! kids",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.social3.hr/listen/bravo_kids/stream?3367"
+      }
+    ]
+  },
+  {
+    "name": "Radio Tvornica",
+    "coordinates": {
+      "lat": 43.05417,
+      "lon": 17.64833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tvornica",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiotvornica.hr/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001"
+      }
+    ]
+  },
+  {
+    "name": "bravo!",
+    "coordinates": {
+      "lat": 43.05611,
+      "lon": 17.43278
+    },
+    "radioStations": [
+      {
+        "title": "bravo!",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8059/stream?4960"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..",
+    "coordinates": {
+      "lat": 43.29694,
+      "lon": 17.01778
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8030/stream?type=http&nocache=773949"
+      }
+    ]
+  },
+  {
+    "name": "Happy FM",
+    "coordinates": {
+      "lat": 43.1725,
+      "lon": 16.44278
+    },
+    "radioStations": [
+      {
+        "title": "Happy FM",
+        "subtitle": "Zagrebačka županija",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:9543/stream?4923"
+      }
+    ]
+  },
+  {
+    "name": "HRT HR 1 - Prvi program",
+    "coordinates": {
+      "lat": 43.06194,
+      "lon": 16.18306
+    },
+    "radioStations": [
+      {
+        "title": "HRT HR 1 - Prvi program",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://21633.live.streamtheworld.com/PROGRAM1AAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Rijeka",
+    "coordinates": {
+      "lat": 43.75547,
+      "lon": 15.74444
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Rijeka",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://23613.live.streamtheworld.com:3690/RIJEKAAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radio Student 100.5",
+    "coordinates": {
+      "lat": 43.73429,
+      "lon": 15.8942
+    },
+    "radioStations": [
+      {
+        "title": "Radio Student 100.5",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://161.53.122.184:8000/AAC128.aac"
+      }
+    ]
+  },
+  {
+    "name": "HRT HR 2 - Drugi program",
+    "coordinates": {
+      "lat": 43.50891,
+      "lon": 16.43915
+    },
+    "radioStations": [
+      {
+        "title": "HRT HR 2 - Drugi program",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25503.live.streamtheworld.com:3690/PROGRAM2AAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Banovina Turbo",
+    "coordinates": {
+      "lat": 43.44472,
+      "lon": 16.68861
+    },
+    "radioStations": [
+      {
+        "title": "Banovina Turbo",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio-banovina.hr/turbo/tmp/images/logo.1642614175.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.radio-banovina.hr:7010/stream"
+      }
+    ]
+  },
+  {
+    "name": "ZFM",
+    "coordinates": {
+      "lat": 43.44667,
+      "lon": 17.21667
+    },
+    "radioStations": [
+      {
+        "title": "ZFM",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-MINI.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:7015/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tranzistor",
+    "coordinates": {
+      "lat": 43.90828,
+      "lon": 16.3983
+    },
+    "radioStations": [
+      {
+        "title": "Tranzistor",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/6dddvp8f7qcb.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr/tranzistor"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Sljeme",
+    "coordinates": {
+      "lat": 44.04063,
+      "lon": 16.19662
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Sljeme",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://27743.live.streamtheworld.com/SLJEMEAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radio 101",
+    "coordinates": {
+      "lat": 43.94333,
+      "lon": 15.45194
+    },
+    "radioStations": [
+      {
+        "title": "Radio 101",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio101.hr:9531/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "HRT HR 3 - Treći program",
+    "coordinates": {
+      "lat": 44.11578,
+      "lon": 15.22514
+    },
+    "radioStations": [
+      {
+        "title": "HRT HR 3 - Treći program",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://23613.live.streamtheworld.com:3690/PROGRAM3AAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kaj",
+    "coordinates": {
+      "lat": 44.53056,
+      "lon": 14.46861
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kaj",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kaj.hr/wp-content/uploads/2024/01/logoradiokaj-2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8050/stream"
+      }
+    ]
+  },
+  {
+    "name": "bravo! balade",
+    "coordinates": {
+      "lat": 44.30306,
+      "lon": 15.08528
+    },
+    "radioStations": [
+      {
+        "title": "bravo! balade",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8360/stream?1510"
+      }
+    ]
+  },
+  {
+    "name": "Radio Techno Zagreb",
+    "coordinates": {
+      "lat": 44.54611,
+      "lon": 15.37472
+    },
+    "radioStations": [
+      {
+        "title": "Radio Techno Zagreb",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mercury.reliastream.com:8085/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hrvatski radio - Rock",
+    "coordinates": {
+      "lat": 44.29916,
+      "lon": 15.84752
+    },
+    "radioStations": [
+      {
+        "title": "Hrvatski radio - Rock",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://aviion-frontcdn.aviion.tv/epg/Rockradio.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://22183.live.streamtheworld.com:3690/HR_ROCK_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radio Italo Disco Net",
+    "coordinates": {
+      "lat": 44.88766,
+      "lon": 18.82575
+    },
+    "radioStations": [
+      {
+        "title": "Radio Italo Disco Net",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.italo-disco.net/Pictures/JPG/Hearticon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://65.21.202.84:8356/stream"
+      }
+    ]
+  },
+  {
+    "name": "Bravo",
+    "coordinates": {
+      "lat": 44.74389,
+      "lon": 15.70972
+    },
+    "radioStations": [
+      {
+        "title": "Bravo",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8059/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio stubica",
+    "coordinates": {
+      "lat": 44.86944,
+      "lon": 15.2375
+    },
+    "radioStations": [
+      {
+        "title": "Radio stubica",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio-stubica.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiostubica.hc.hr:7006/stream"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni LIVE",
+    "coordinates": {
+      "lat": 44.75372,
+      "lon": 14.77378
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni LIVE",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.otvoreni.hr/stream48"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Pula",
+    "coordinates": {
+      "lat": 44.86833,
+      "lon": 13.84806
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Pula",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25503.live.streamtheworld.com:3690/PULAAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "FolkyTon Radio",
+    "coordinates": {
+      "lat": 45.08268,
+      "lon": 13.63457
+    },
+    "radioStations": [
+      {
+        "title": "FolkyTon Radio",
+        "subtitle": "Velika Mlaka",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.folkyton.com/index_htm_files/292@2x.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:6035/stream"
+      }
+    ]
+  },
+  {
+    "name": "ULTRA Split",
+    "coordinates": {
+      "lat": 45.095,
+      "lon": 14.11972
+    },
+    "radioStations": [
+      {
+        "title": "ULTRA Split",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8061/stream"
+      }
+    ]
+  },
+  {
+    "name": "Club Music Radio - ITALO DISCO",
+    "coordinates": {
+      "lat": 45.32673,
+      "lon": 14.44241
+    },
+    "radioStations": [
+      {
+        "title": "Club Music Radio - ITALO DISCO",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cmr-hosting.com:7005/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Club Music Radio - 70's 80's 90's",
+    "coordinates": {
+      "lat": 45.26611,
+      "lon": 15.22861
+    },
+    "radioStations": [
+      {
+        "title": "Club Music Radio - 70's 80's 90's",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cmr-hosting.com:7003/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ritam Šibenik",
+    "coordinates": {
+      "lat": 45.11456,
+      "lon": 15.5843
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ritam Šibenik",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:8455/stream"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni - Live",
+    "coordinates": {
+      "lat": 45.33806,
+      "lon": 16.08806
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni - Live",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w480-h960",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.otvoreni.hr/otvoreni"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dalmacija - Hajdučke",
+    "coordinates": {
+      "lat": 45.23167,
+      "lon": 16.53917
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dalmacija - Hajdučke",
+        "subtitle": "Splitsko Dalmatinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiodalmacija.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8221/stream"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni Radio",
+    "coordinates": {
+      "lat": 45.34056,
+      "lon": 16.97694
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni Radio",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w240-h480-rw",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.otvoreni.hr/otvoreni"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kampus",
+    "coordinates": {
+      "lat": 45.255,
+      "lon": 17.38306
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kampus",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.unist.hr/img/favicon/favicon-16x16.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.alter-media.hr:7016/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dalmacija - Oliver",
+    "coordinates": {
+      "lat": 45.16158,
+      "lon": 18.0163
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dalmacija - Oliver",
+        "subtitle": "Splitsko Dalmatinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiodalmacija.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8275/stream"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: ExYU POP-ROCK ::..",
+    "coordinates": {
+      "lat": 45.30833,
+      "lon": 18.41056
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: ExYU POP-ROCK ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8080/stream?type=http&nocache=13098"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..",
+    "coordinates": {
+      "lat": 45.28833,
+      "lon": 18.80472
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubmusic-1.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8060/stream?type=http&nocache=823456"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dalmacija - Furešta",
+    "coordinates": {
+      "lat": 45.22222,
+      "lon": 19.37694
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dalmacija - Furešta",
+        "subtitle": "Splitsko Dalmatinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Radio_Dalmacija_logo.jpg/300px-Radio_Dalmacija_logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8215/stream"
+      }
+    ]
+  },
+  {
+    "name": "Top Radio Yugo",
+    "coordinates": {
+      "lat": 45.35161,
+      "lon": 19.00225
+    },
+    "radioStations": [
+      {
+        "title": "Top Radio Yugo",
+        "subtitle": "Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://topradio.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.social3.hr/listen/top_exyu/stream?8298"
+      }
+    ]
+  },
+  {
+    "name": "Radio Otok Krk",
+    "coordinates": {
+      "lat": 45.55066,
+      "lon": 18.6942
+    },
+    "radioStations": [
+      {
+        "title": "Radio Otok Krk",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s8.iqstreaming.com:8014/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Šibenik",
+    "coordinates": {
+      "lat": 45.48861,
+      "lon": 18.08778
+    },
+    "radioStations": [
+      {
+        "title": "Radio Šibenik",
+        "subtitle": "Šibenik-Knin",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiosibenik.hr/wp-content/uploads/2019/08/radio_sibenik_logo_2a-mali.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://144.76.219.22:8215/stream.mp3?ver=421911"
+      }
+    ]
+  },
+  {
+    "name": "057 radio, Zadar, Croatia",
+    "coordinates": {
+      "lat": 45.70333,
+      "lon": 17.70278
+    },
+    "radioStations": [
+      {
+        "title": "057 radio, Zadar, Croatia",
+        "subtitle": "Banana state",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.alter-media.hr/9052/stream"
+      }
+    ]
+  },
+  {
+    "name": "Prolaznik Evergreen Lepoglava",
+    "coordinates": {
+      "lat": 45.59056,
+      "lon": 17.225
+    },
+    "radioStations": [
+      {
+        "title": "Prolaznik Evergreen Lepoglava",
+        "subtitle": "Varaždinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://prolaznik.com/radio/wp-content/uploads/2026/01/cropped-Ploca-515-32x32.png\"",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s8.ssl-stream.com/prolaznik"
+      }
+    ]
+  },
+  {
+    "name": "Zagorski radio",
+    "coordinates": {
+      "lat": 45.475,
+      "lon": 16.78194
+    },
+    "radioStations": [
+      {
+        "title": "Zagorski radio",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s8.iqstreaming.com:2020/stream/zagorski/stream"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Split",
+    "coordinates": {
+      "lat": 45.46608,
+      "lon": 16.37748
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Split",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://28563.live.streamtheworld.com:3690/SPLITAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "CMC Tambure",
+    "coordinates": {
+      "lat": 45.7125,
+      "lon": 16.07556
+    },
+    "radioStations": [
+      {
+        "title": "CMC Tambure",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.cmc.com.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio-stream.cmc.com.hr:8050/autodj"
+      }
+    ]
+  },
+  {
+    "name": "CMC Rock",
+    "coordinates": {
+      "lat": 45.49167,
+      "lon": 15.55
+    },
+    "radioStations": [
+      {
+        "title": "CMC Rock",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.cmc.com.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio-stream.cmc.com.hr:8060/autodj"
+      }
+    ]
+  },
+  {
+    "name": "Radio Max",
+    "coordinates": {
+      "lat": 45.37278,
+      "lon": 14.93528
+    },
+    "radioStations": [
+      {
+        "title": "Radio Max",
+        "subtitle": "Varaždinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.novi-net.net/radio/8010/radiomax.aac"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA CROATIA",
+    "coordinates": {
+      "lat": 45.35,
+      "lon": 14.43028
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA CROATIA",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp4.com:8080/stream"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Dubrovnik",
+    "coordinates": {
+      "lat": 45.37528,
+      "lon": 14.34861
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Dubrovnik",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://27823.live.streamtheworld.com/DUBROVNIKAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "KLFM.org",
+    "coordinates": {
+      "lat": 45.43139,
+      "lon": 13.52389
+    },
+    "radioStations": [
+      {
+        "title": "KLFM.org",
+        "subtitle": "Splitsko-Dalmatinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://klfmorgborg.radioca.st/stream?type=http&nocache=1089"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rojc",
+    "coordinates": {
+      "lat": 45.80306,
+      "lon": 15.71806
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rojc",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i0.wp.com/radio.rojc.eu/wp-content/uploads/2023/08/radio-rojc-frekvencija-logo-4-1-3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Happy FM Fest",
+    "coordinates": {
+      "lat": 45.81444,
+      "lon": 15.97798
+    },
+    "radioStations": [
+      {
+        "title": "Happy FM Fest",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8372/stream?4956"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..",
+    "coordinates": {
+      "lat": 45.80611,
+      "lon": 16.24444
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://clubmusic-1.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8070/stream?type=http&nocache=646624"
+      }
+    ]
+  },
+  {
+    "name": "bravo! rock",
+    "coordinates": {
+      "lat": 45.89789,
+      "lon": 16.85071
+    },
+    "radioStations": [
+      {
+        "title": "bravo! rock",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8348/stream?1996"
+      }
+    ]
+  },
+  {
+    "name": "HKR",
+    "coordinates": {
+      "lat": 45.83448,
+      "lon": 17.38555
+    },
+    "radioStations": [
+      {
+        "title": "HKR",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.hkr.hr:8000/hkr.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hrvatski radio - Klasik",
+    "coordinates": {
+      "lat": 45.78608,
+      "lon": 17.98339
+    },
+    "radioStations": [
+      {
+        "title": "Hrvatski radio - Klasik",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.hrt.hr/static/klasik.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25633.live.streamtheworld.com:3690/HR_CLASSICS_SC"
+      }
+    ]
+  },
+  {
+    "name": "CMC Classic",
+    "coordinates": {
+      "lat": 45.76083,
+      "lon": 18.16722
+    },
+    "radioStations": [
+      {
+        "title": "CMC Classic",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio-stream.cmc.com.hr:8100/autodj"
+      }
+    ]
+  },
+  {
+    "name": "Soundset Ragusa",
+    "coordinates": {
+      "lat": 45.77,
+      "lon": 18.60361
+    },
+    "radioStations": [
+      {
+        "title": "Soundset Ragusa",
+        "subtitle": "Dubrovnik",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://178.218.163.171:8012/stream"
+      }
+    ]
+  },
+  {
+    "name": "HRT HR 2",
+    "coordinates": {
+      "lat": 46.16364,
+      "lon": 16.8297
+    },
+    "radioStations": [
+      {
+        "title": "HRT HR 2",
+        "subtitle": "Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
+    "coordinates": {
+      "lat": 46.30444,
+      "lon": 16.33778
+    },
+    "radioStations": [
+      {
+        "title": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
+        "subtitle": "Zagorje",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706"
+      }
+    ]
+  },
+  {
+    "name": "Radio 105 Selnica (HR)",
+    "coordinates": {
+      "lat": 46.22306,
+      "lon": 16.12
+    },
+    "radioStations": [
+      {
+        "title": "Radio 105 Selnica (HR)",
+        "subtitle": "Medjimurje",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio105.hr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.novi-net.net/radio/8050/radio105.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Otocac",
+    "coordinates": {
+      "lat": 46.16417,
+      "lon": 15.75083
+    },
+    "radioStations": [
+      {
+        "title": "Radio Otocac",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Sljeme (mp3)",
+    "coordinates": {
+      "lat": 45.02744,
+      "lon": 14.57542
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Sljeme (mp3)",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maestral",
+    "coordinates": {
+      "lat": 45.59572,
+      "lon": 14.64632
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maestral",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ec2s.crolive.com.hr:1630/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Istra",
+    "coordinates": {
+      "lat": 42.7625,
+      "lon": 17.48222
+    },
+    "radioStations": [
+      {
+        "title": "Radio Istra",
+        "subtitle": "ISTRA",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://de4.streamingpulse.com:7117/stream"
+      }
+    ]
+  },
+  {
+    "name": "Petrinjski radio",
+    "coordinates": {
+      "lat": 45.40944,
+      "lon": 13.96667
+    },
+    "radioStations": [
+      {
+        "title": "Petrinjski radio",
+        "subtitle": "https://www.openstreetmap.org/relation/8076890",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://petrinjskiradio.hr/wp-content/uploads/2018/04/Petrinjski-Radio-Logo5.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8062/stream"
+      }
+    ]
+  },
+  {
+    "name": "Thompson 24/7 - Radio NU",
+    "coordinates": {
+      "lat": 46.06054,
+      "lon": 17.19187
+    },
+    "radioStations": [
+      {
+        "title": "Thompson 24/7 - Radio NU",
+        "subtitle": "Dalmatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nu.net.hr/wp-content/uploads/2023/03/Logo-radio-nu.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://slusaj.hr:10446/stream?type=http&nocache=9"
+      }
+    ]
+  },
+  {
+    "name": "Radio Županja",
+    "coordinates": {
+      "lat": 45.35806,
+      "lon": 17.76389
+    },
+    "radioStations": [
+      {
+        "title": "Radio Županja",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.alter-media.hr:7019/stream"
+      }
+    ]
+  },
+  {
+    "name": "dvb.digital",
+    "coordinates": {
+      "lat": 44.55306,
+      "lon": 15.96194
+    },
+    "radioStations": [
+      {
+        "title": "dvb.digital",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dvb.digital/favicon_io/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dvb.digital/listen/dvb.digital/hq.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Brac",
+    "coordinates": {
+      "lat": 43.71181,
+      "lon": 16.66154
+    },
+    "radioStations": [
+      {
+        "title": "Radio Brac",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8066/stream"
+      }
+    ]
+  },
+  {
+    "name": "Novi Radio Zadar",
+    "coordinates": {
+      "lat": 45.06667,
+      "lon": 18.48889
+    },
+    "radioStations": [
+      {
+        "title": "Novi Radio Zadar",
+        "subtitle": "Dalmatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.noviradio.hr/wp-content/uploads/2020/03/portal-mala.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8022/stream"
+      }
+    ]
+  },
+  {
+    "name": "Slavonski Radio",
+    "coordinates": {
+      "lat": 46.02194,
+      "lon": 16.5425
+    },
+    "radioStations": [
+      {
+        "title": "Slavonski Radio",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:8035/stream"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: LOVE SONG ::..",
+    "coordinates": {
+      "lat": 46.38417,
+      "lon": 16.68083
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: LOVE SONG ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8040/stream?type=http&nocache=869535"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni Fitness",
+    "coordinates": {
+      "lat": 44.18389,
+      "lon": 15.55417
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni Fitness",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.otvoreni.hr/fitness"
+      }
+    ]
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: Folk ::..",
+    "coordinates": {
+      "lat": 44.98944,
+      "lon": 14.90583
+    },
+    "radioStations": [
+      {
+        "title": "..:: CLUB MUSIC RADIO ::....:: Folk ::..",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8010/stream?type=http&nocache=401572"
+      }
+    ]
+  },
+  {
+    "name": "Radio Dalmacija - Rokija",
+    "coordinates": {
+      "lat": 43.51472,
+      "lon": 16.10639
+    },
+    "radioStations": [
+      {
+        "title": "Radio Dalmacija - Rokija",
+        "subtitle": "Splitsko Dalmatinska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Radio_Dalmacija_logo.jpg/300px-Radio_Dalmacija_logo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8209/stream"
+      }
+    ]
+  },
+  {
+    "name": "HRT Radio Osijek",
+    "coordinates": {
+      "lat": 42.76757,
+      "lon": 16.89708
+    },
+    "radioStations": [
+      {
+        "title": "HRT Radio Osijek",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25703.live.streamtheworld.com/OSIJEKAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "HRT Glas Hrvatske",
+    "coordinates": {
+      "lat": 45.665,
+      "lon": 16.52333
+    },
+    "radioStations": [
+      {
+        "title": "HRT Glas Hrvatske",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://27943.live.streamtheworld.com/VOICEOFCROATIAAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Happy FM Tambura",
+    "coordinates": {
+      "lat": 46.52502,
+      "lon": 16.36267
+    },
+    "radioStations": [
+      {
+        "title": "Happy FM Tambura",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:8378/stream?3238"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni Radio - Love",
+    "coordinates": {
+      "lat": 45.52806,
+      "lon": 15.85911
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni Radio - Love",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.otvoreni.hr/love"
+      }
+    ]
+  },
+  {
+    "name": "Happy FM Croatia",
+    "coordinates": {
+      "lat": 43.97334,
+      "lon": 15.76073
+    },
+    "radioStations": [
+      {
+        "title": "Happy FM Croatia",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://c5.hostingcentar.com:9543/stream?1820"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centar Studio Poreč",
+    "coordinates": {
+      "lat": 45.76711,
+      "lon": 15.41483
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centar Studio Poreč",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiocentar.hr:8282/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Club Music Radio - CRO HITS",
+    "coordinates": {
+      "lat": 46.00611,
+      "lon": 16.11111
+    },
+    "radioStations": [
+      {
+        "title": "Club Music Radio - CRO HITS",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cmr-hosting.com:7006/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Club Music Radio - FOLK",
+    "coordinates": {
+      "lat": 45.14028,
+      "lon": 19.03556
+    },
+    "radioStations": [
+      {
+        "title": "Club Music Radio - FOLK",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cmr-hosting.com:7001/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni Hot",
+    "coordinates": {
+      "lat": 44.55778,
+      "lon": 14.88667
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni Hot",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.otvoreni.hr/hot"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA",
+    "coordinates": {
+      "lat": 45.6825,
+      "lon": 16.95389
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8026/stream?type=http&nocache=215"
+      }
+    ]
+  },
+  {
+    "name": "Radio Quirinus 91.7",
+    "coordinates": {
+      "lat": 43.74056,
+      "lon": 16.18972
+    },
+    "radioStations": [
+      {
+        "title": "Radio Quirinus 91.7",
+        "subtitle": "Sisačko-moslavačka županija",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://quirinusportal.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8064/stream"
+      }
+    ]
+  },
+  {
+    "name": "Pomorski Radio Bakar",
+    "coordinates": {
+      "lat": 45.27639,
+      "lon": 13.72083
+    },
+    "radioStations": [
+      {
+        "title": "Pomorski Radio Bakar",
+        "subtitle": "Nautička 3, 51222 Bakar",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.pomorskiradio.hr/wp-content/uploads/2021/12/prb_novi_logo_horiz-1-scaled-e1639421254142-1024x243.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://matrix-server.hr:8010/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studentski radio UNIOS",
+    "coordinates": {
+      "lat": 45.32361,
+      "lon": 15.69861
+    },
+    "radioStations": [
+      {
+        "title": "Studentski radio UNIOS",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.unios.hr:8000/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hrvatski Radio Čakovec d.o.o. Stream",
+    "coordinates": {
+      "lat": 45.10639,
+      "lon": 17.74556
+    },
+    "radioStations": [
+      {
+        "title": "Hrvatski Radio Čakovec d.o.o. Stream",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radio-cakovec.hr:7020/stream"
+      }
+    ]
+  },
+  {
+    "name": "https://clubmusic-1.com/",
+    "coordinates": {
+      "lat": 45.07032,
+      "lon": 16.37753
+    },
+    "radioStations": [
+      {
+        "title": "https://clubmusic-1.com/",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8050/stream?type=http&nocache=5796"
+      }
+    ]
+  },
+  {
+    "name": "Otvoreni Chill",
+    "coordinates": {
+      "lat": 45.77468,
+      "lon": 18.88007
+    },
+    "radioStations": [
+      {
+        "title": "Otvoreni Chill",
+        "subtitle": "Grad Zagreb",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.otvoreni.hr/chill"
+      }
+    ]
+  },
+  {
+    "name": "Radio Centar - Studio Poreč",
+    "coordinates": {
+      "lat": 43.51314,
+      "lon": 16.94267
+    },
+    "radioStations": [
+      {
+        "title": "Radio Centar - Studio Poreč",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://demo.superdsgn.com/radio-centar/img/logo2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiocentar.hr:8282/stream.aac"
+      }
+    ]
+  },
+  {
+    "name": "Banovina Light",
+    "coordinates": {
+      "lat": 45.16111,
+      "lon": 14.76472
+    },
+    "radioStations": [
+      {
+        "title": "Banovina Light",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.radio-banovina.hr:7008/stream"
+      }
+    ]
+  },
+  {
+    "name": "Bijelo Plavi radio",
+    "coordinates": {
+      "lat": 45.19111,
+      "lon": 16.80028
+    },
+    "radioStations": [
+      {
+        "title": "Bijelo Plavi radio",
+        "subtitle": "Istarska 2, Osijek",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.bijeloplaviradio.hr/data/source/logo/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8028/stream"
+      }
+    ]
+  },
+  {
+    "name": "Prigorski radio",
+    "coordinates": {
+      "lat": 44.10924,
+      "lon": 15.94139
+    },
+    "radioStations": [
+      {
+        "title": "Prigorski radio",
+        "subtitle": "Antuna Gustava Matoša 3, Križevci",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://prigorskiradio.hr/wp-content/uploads/2023/01/prigorskiradio_web_logo.png.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s8.iqstreaming.com:8048/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zelina",
+    "coordinates": {
+      "lat": 43.93972,
+      "lon": 15.16333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zelina",
+        "subtitle": "Croatia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:1690/stream"
+      }
+    ]
+  }
+]
