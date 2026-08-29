@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Eldoradio",
+    "coordinates": {
+      "lat": 49.51014,
+      "lon": 5.92414
+    },
+    "radioStations": [
+      {
+        "title": "Eldoradio",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://81.92.238.33"
+      }
+    ]
+  },
+  {
+    "name": "RTL Radio Letzebuerg",
+    "coordinates": {
+      "lat": 49.49583,
+      "lon": 5.98056
+    },
+    "radioStations": [
+      {
+        "title": "RTL Radio Letzebuerg",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtl.lu/assets/images/favicon-rtllu/apple-touch-icon.png?v=202304271020",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sc-rtllive.newmedia.lu"
+      }
+    ]
+  },
+  {
+    "name": "RTL Radio Lëtzebuerg",
+    "coordinates": {
+      "lat": 49.60982,
+      "lon": 6.13268
+    },
+    "radioStations": [
+      {
+        "title": "RTL Radio Lëtzebuerg",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RTL Radio - Deutschlands Hit-Radio",
+    "coordinates": {
+      "lat": 49.6256,
+      "lon": 6.16926
+    },
+    "radioStations": [
+      {
+        "title": "RTL Radio - Deutschlands Hit-Radio",
+        "subtitle": "Luxemburg, mp3 192 Kbit",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtlradio.de/assets/fallback/fallback_1x1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rtlradio.de/rtl-de-national/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "RTL Radio - Die besten Hits aller Zeiten",
+    "coordinates": {
+      "lat": 49.47,
+      "lon": 6.362
+    },
+    "radioStations": [
+      {
+        "title": "RTL Radio - Die besten Hits aller Zeiten",
+        "subtitle": "Luxemburg, AAC",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "RTL Gold",
+    "coordinates": {
+      "lat": 49.61114,
+      "lon": 6.40546
+    },
+    "radioStations": [
+      {
+        "title": "RTL Gold",
+        "subtitle": "Luxembourg, MP3 256kbits",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Generation Dance Radio",
+    "coordinates": {
+      "lat": 49.67751,
+      "lon": 6.44022
+    },
+    "radioStations": [
+      {
+        "title": "Generation Dance Radio",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://generation.dance/logo_500x500.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://generationdance.lu/radio/8030/hd"
+      }
+    ]
+  },
+  {
+    "name": "Free Radio Luxembourg FRL",
+    "coordinates": {
+      "lat": 49.66591,
+      "lon": 6.30257
+    },
+    "radioStations": [
+      {
+        "title": "Free Radio Luxembourg FRL",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.radioking.com/play/rfm-luxembourg/137599"
+      }
+    ]
+  },
+  {
+    "name": "RTL Die besten Hits aller Zeiten",
+    "coordinates": {
+      "lat": 49.70722,
+      "lon": 6.25306
+    },
+    "radioStations": [
+      {
+        "title": "RTL Die besten Hits aller Zeiten",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
+      }
+    ]
+  },
+  {
+    "name": "Radio 100komma7",
+    "coordinates": {
+      "lat": 49.66321,
+      "lon": 6.13224
+    },
+    "radioStations": [
+      {
+        "title": "Radio 100komma7",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://100komma7.lu/static/logo-radio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio C Luxembourg",
+    "coordinates": {
+      "lat": 49.645,
+      "lon": 5.99083
+    },
+    "radioStations": [
+      {
+        "title": "Radio C Luxembourg",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge01.streamonkey.net/radioc-live"
+      }
+    ]
+  },
+  {
+    "name": "RTL Schlagerliebe",
+    "coordinates": {
+      "lat": 49.66139,
+      "lon": 5.91917
+    },
+    "radioStations": [
+      {
+        "title": "RTL Schlagerliebe",
+        "subtitle": "Luxembourg, MP3 192 kbits",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.rtlradio.de/schlagerliebe/mp3-192"
+      }
+    ]
+  },
+  {
+    "name": "Radio 100,7",
+    "coordinates": {
+      "lat": 49.83083,
+      "lon": 5.845
+    },
+    "radioStations": [
+      {
+        "title": "Radio 100,7",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ELDORADIO - Chill Channel",
+    "coordinates": {
+      "lat": 49.96547,
+      "lon": 5.9339
+    },
+    "radioStations": [
+      {
+        "title": "ELDORADIO - Chill Channel",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.eldo.lu/assets/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sc.bce.lu/eldochill"
+      }
+    ]
+  },
+  {
+    "name": "ELDORADIO - Alternative Channel",
+    "coordinates": {
+      "lat": 49.86687,
+      "lon": 6.15451
+    },
+    "radioStations": [
+      {
+        "title": "ELDORADIO - Alternative Channel",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.eldo.lu/assets/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sc.bce.lu/eldoalt"
+      }
+    ]
+  },
+  {
+    "name": "Eldo Radio Chill",
+    "coordinates": {
+      "lat": 49.935,
+      "lon": 6.20889
+    },
+    "radioStations": [
+      {
+        "title": "Eldo Radio Chill",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rtl.lu/live/hls/radio/eldochill"
+      }
+    ]
+  },
+  {
+    "name": "Groovetime",
+    "coordinates": {
+      "lat": 49.83583,
+      "lon": 6.29167
+    },
+    "radioStations": [
+      {
+        "title": "Groovetime",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://groovetime.lu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://kotdt.com:8000/groovetime"
+      }
+    ]
+  },
+  {
+    "name": "Country Radio Gilsdorf 103.9",
+    "coordinates": {
+      "lat": 49.81212,
+      "lon": 6.41846
+    },
+    "radioStations": [
+      {
+        "title": "Country Radio Gilsdorf 103.9",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.aoip.international:8000/cr-gilsdorf"
+      }
+    ]
+  },
+  {
+    "name": "FCE-CONTINUO Webradio",
+    "coordinates": {
+      "lat": 50.01218,
+      "lon": 6.09089
+    },
+    "radioStations": [
+      {
+        "title": "FCE-CONTINUO Webradio",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.radioking.com/play/fce-continuo"
+      }
+    ]
+  },
+  {
+    "name": "L'Essentiel Radio",
+    "coordinates": {
+      "lat": 50.12111,
+      "lon": 6.00028
+    },
+    "radioStations": [
+      {
+        "title": "L'Essentiel Radio",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://lessentielradio.lu/upload/602fd5fe8a8987.60975527.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Braintrip Radio",
+    "coordinates": {
+      "lat": 50.05333,
+      "lon": 5.91917
+    },
+    "radioStations": [
+      {
+        "title": "Braintrip Radio",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.laut.fm/3e5e39b59b48da2d4d07f5fb8eecd8d3?t=_640x640",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.laut.fm/braintrip-radio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gutt Laun",
+    "coordinates": {
+      "lat": 49.77256,
+      "lon": 6.01532
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gutt Laun",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio.co/sa631ff66a/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio Radijacija",
+    "coordinates": {
+      "lat": 49.52278,
+      "lon": 6.22472
+    },
+    "radioStations": [
+      {
+        "title": "Radio Radijacija",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTL Today",
+    "coordinates": {
+      "lat": 49.78694,
+      "lon": 6.17472
+    },
+    "radioStations": [
+      {
+        "title": "RTL Today",
+        "subtitle": "Luxembourg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://shoutcast.rtl.lu/rtltodayradio"
+      }
+    ]
+  }
+]
