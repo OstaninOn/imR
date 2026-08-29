@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "OK radio",
+    "coordinates": {
+      "lat": 42.25846,
+      "lon": 21.66456
+    },
+    "radioStations": [
+      {
+        "title": "OK radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslstream.okradio.net?type=http&nocache=8804"
+      }
+    ]
+  },
+  {
+    "name": "Cool Radio",
+    "coordinates": {
+      "lat": 42.55139,
+      "lon": 21.90028
+    },
+    "radioStations": [
+      {
+        "title": "Cool Radio",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://176.9.30.66/cool64"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM Radio Beograd",
+    "coordinates": {
+      "lat": 42.43364,
+      "lon": 22.22861
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Radio Beograd",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.hitfm.rs:8000/hit"
+      }
+    ]
+  },
+  {
+    "name": "TDI BEZ REKLAMA",
+    "coordinates": {
+      "lat": 43.01417,
+      "lon": 22.77556
+    },
+    "radioStations": [
+      {
+        "title": "TDI BEZ REKLAMA",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-e1647953245156.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.tdiradio.com/tdiradiobezreklama.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Cool Radio Serbia",
+    "coordinates": {
+      "lat": 42.80988,
+      "lon": 22.29881
+    },
+    "radioStations": [
+      {
+        "title": "Cool Radio Serbia",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://coolradio.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.coolradio.rs/cool320"
+      }
+    ]
+  },
+  {
+    "name": "Pink Radio",
+    "coordinates": {
+      "lat": 42.99806,
+      "lon": 21.94611
+    },
+    "radioStations": [
+      {
+        "title": "Pink Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.pinkradio.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Balkan Narodna",
+    "coordinates": {
+      "lat": 42.92389,
+      "lon": 21.7375
+    },
+    "radioStations": [
+      {
+        "title": "Radio Balkan Narodna",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiobalkan.live/assets/icons/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiobalkan.live/radio/live/narodna.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio LOLA",
+    "coordinates": {
+      "lat": 42.84306,
+      "lon": 21.58333
+    },
+    "radioStations": [
+      {
+        "title": "Radio LOLA",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://player.radiolola.rs/img/CD/cd-lola.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.tdiradio.com/radiolola.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Beograd 1",
+    "coordinates": {
+      "lat": 42.99028,
+      "lon": 20.33139
+    },
+    "radioStations": [
+      {
+        "title": "Radio Beograd 1",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RTV - Radio Novi Sad 1",
+    "coordinates": {
+      "lat": 43.13694,
+      "lon": 19.80556
+    },
+    "radioStations": [
+      {
+        "title": "RTV - Radio Novi Sad 1",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TDI Radio",
+    "coordinates": {
+      "lat": 43.14528,
+      "lon": 19.85889
+    },
+    "radioStations": [
+      {
+        "title": "TDI Radio",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.tdiradio.com:8000/tdiradio"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio Serbia",
+    "coordinates": {
+      "lat": 43.21528,
+      "lon": 20.31556
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio Serbia",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.playradio.rs:8443/play.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Beograd 202",
+    "coordinates": {
+      "lat": 43.13667,
+      "lon": 20.51222
+    },
+    "radioStations": [
+      {
+        "title": "Radio Beograd 202",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - Рокенролер",
+    "coordinates": {
+      "lat": 43.13826,
+      "lon": 21.27339
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - Рокенролер",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Karolina",
+    "coordinates": {
+      "lat": 43.23417,
+      "lon": 21.58806
+    },
+    "radioStations": [
+      {
+        "title": "Karolina",
+        "subtitle": "Centralna Srbija",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.karolina.rs:8000/karolina"
+      }
+    ]
+  },
+  {
+    "name": "Rock Radio Beograd",
+    "coordinates": {
+      "lat": 43.19,
+      "lon": 21.71306
+    },
+    "radioStations": [
+      {
+        "title": "Rock Radio Beograd",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge9.pink.rs/rockstream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Karolina",
+    "coordinates": {
+      "lat": 43.32472,
+      "lon": 21.90333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Karolina",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://player.karolina.rs/img/CD/cd-karolina.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.karolina.rs/karolina.mp3"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - 202",
+    "coordinates": {
+      "lat": 43.21833,
+      "lon": 22.31111
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - 202",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio 021",
+    "coordinates": {
+      "lat": 43.15306,
+      "lon": 22.58611
+    },
+    "radioStations": [
+      {
+        "title": "Radio 021",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dukahosting.com/8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vladimirci",
+    "coordinates": {
+      "lat": 43.56634,
+      "lon": 22.25701
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vladimirci",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.astratelekom.com:8000/vladimirci"
+      }
+    ]
+  },
+  {
+    "name": "021 caffe",
+    "coordinates": {
+      "lat": 43.41333,
+      "lon": 22.12111
+    },
+    "radioStations": [
+      {
+        "title": "021 caffe",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.dukahosting.com/proxy/021kafe/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Lola - Domaca",
+    "coordinates": {
+      "lat": 43.54167,
+      "lon": 21.70778
+    },
+    "radioStations": [
+      {
+        "title": "Radio Lola - Domaca",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.tdiradio.com/radiolola.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Super FM",
+    "coordinates": {
+      "lat": 43.58,
+      "lon": 21.33389
+    },
+    "radioStations": [
+      {
+        "title": "Super FM",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://superfm.rs/wp-content/uploads/2021/03/super-loading-100x100.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair.superfm.rs/superfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio S EX YU",
+    "coordinates": {
+      "lat": 43.61694,
+      "lon": 21.0025
+    },
+    "radioStations": [
+      {
+        "title": "Radio S EX YU",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Šumadinac Južni Vetar",
+    "coordinates": {
+      "lat": 43.62725,
+      "lon": 20.89634
+    },
+    "radioStations": [
+      {
+        "title": "Radio Šumadinac Južni Vetar",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-juzni"
+      }
+    ]
+  },
+  {
+    "name": "JAT Radio",
+    "coordinates": {
+      "lat": 43.72583,
+      "lon": 20.68944
+    },
+    "radioStations": [
+      {
+        "title": "JAT Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.radiojat.rs/radiojat.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Psychedelic Travel Radio",
+    "coordinates": {
+      "lat": 43.58028,
+      "lon": 20.23111
+    },
+    "radioStations": [
+      {
+        "title": "Psychedelic Travel Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ptpimg.me/ibo76q.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://e20.yesstreaming.net:6148/stream"
+      }
+    ]
+  },
+  {
+    "name": "DENSOMANIAK Radio",
+    "coordinates": {
+      "lat": 43.75306,
+      "lon": 20.09556
+    },
+    "radioStations": [
+      {
+        "title": "DENSOMANIAK Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Gym",
+    "coordinates": {
+      "lat": 43.74977,
+      "lon": 19.71273
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Gym",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Gym1000px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9068/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Pingvin",
+    "coordinates": {
+      "lat": 43.84678,
+      "lon": 19.40935
+    },
+    "radioStations": [
+      {
+        "title": "Radio Pingvin",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://uzivo4.radiopingvin.com:8187/domaci1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Morava",
+    "coordinates": {
+      "lat": 43.97083,
+      "lon": 19.5675
+    },
+    "radioStations": [
+      {
+        "title": "Radio Morava",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dasko i Mladja",
+    "coordinates": {
+      "lat": 43.85861,
+      "lon": 19.84878
+    },
+    "radioStations": [
+      {
+        "title": "Dasko i Mladja",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.daskoimladja.com/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://172.105.250.193:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S3",
+    "coordinates": {
+      "lat": 43.89139,
+      "lon": 20.34972
+    },
+    "radioStations": [
+      {
+        "title": "Radio S3",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radio-uzivo.com/images/radio-stanica/radio_s3_200_1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio S4",
+    "coordinates": {
+      "lat": 44.02603,
+      "lon": 20.46152
+    },
+    "radioStations": [
+      {
+        "title": "Radio S4",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/footerlogo/s4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - 2",
+    "coordinates": {
+      "lat": 44.01667,
+      "lon": 20.91667
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - 2",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio B92",
+    "coordinates": {
+      "lat": 43.97713,
+      "lon": 21.26121
+    },
+    "radioStations": [
+      {
+        "title": "Radio B92",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.b92.net:7999/radio-b92.mp3"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - 3",
+    "coordinates": {
+      "lat": 43.9275,
+      "lon": 21.37
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - 3",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RTV - Radio Novi Sad 3",
+    "coordinates": {
+      "lat": 44.07488,
+      "lon": 22.09591
+    },
+    "radioStations": [
+      {
+        "title": "RTV - Radio Novi Sad 3",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADIO.D59B",
+    "coordinates": {
+      "lat": 43.90358,
+      "lon": 22.26405
+    },
+    "radioStations": [
+      {
+        "title": "RADIO.D59B",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.d59b.com/h-content/uploads/2019/01/cropped-favicon-color-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://n0f.radiojar.com/gn6dqzhf9mzuv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Aparat",
+    "coordinates": {
+      "lat": 44.22639,
+      "lon": 22.53083
+    },
+    "radioStations": [
+      {
+        "title": "Radio Aparat",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://station-images-prod.radio-assets.com/300/radioaparat.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.rcast.net/72355"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sunset",
+    "coordinates": {
+      "lat": 44.42771,
+      "lon": 21.94596
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sunset",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cmr-hosting.com:8425/stream"
+      }
+    ]
+  },
+  {
+    "name": "Zrenjanin 103.6",
+    "coordinates": {
+      "lat": 44.52281,
+      "lon": 21.75987
+    },
+    "radioStations": [
+      {
+        "title": "Zrenjanin 103.6",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozrenjanin.rs/wp-content/uploads/2024/11/LOGO-RADIO-ZRENJANIN.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dukahosting.com:7031/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bubonja",
+    "coordinates": {
+      "lat": 44.37694,
+      "lon": 21.41917
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bubonja",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.uzivoradio.net/wp-content/uploads/2013/07/bubonja-ljig-1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://213.239.205.210:8094/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S1",
+    "coordinates": {
+      "lat": 44.18424,
+      "lon": 21.09727
+    },
+    "radioStations": [
+      {
+        "title": "Radio S1",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/footerlogo/s1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Južni",
+    "coordinates": {
+      "lat": 44.36548,
+      "lon": 20.95885
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Južni",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RSG Radio Stari Grad",
+    "coordinates": {
+      "lat": 44.30694,
+      "lon": 20.56
+    },
+    "radioStations": [
+      {
+        "title": "RSG Radio Stari Grad",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rsg.rs/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Šumadinac",
+    "coordinates": {
+      "lat": 44.38534,
+      "lon": 20.2557
+    },
+    "radioStations": [
+      {
+        "title": "Radio Šumadinac",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-uzivo"
+      }
+    ]
+  },
+  {
+    "name": "Radio Šumadinac Narodna",
+    "coordinates": {
+      "lat": 44.27513,
+      "lon": 19.89821
+    },
+    "radioStations": [
+      {
+        "title": "Radio Šumadinac Narodna",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-narodna"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - Плетеница",
+    "coordinates": {
+      "lat": 44.37306,
+      "lon": 19.60139
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - Плетеница",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Podrinje",
+    "coordinates": {
+      "lat": 44.53118,
+      "lon": 19.24267
+    },
+    "radioStations": [
+      {
+        "title": "Radio Podrinje",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvpodrinje.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.skeletor.rs/podrinje"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sloboda Kraljevo",
+    "coordinates": {
+      "lat": 44.4652,
+      "lon": 19.15673
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sloboda Kraljevo",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.slobodafm.com:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Muzicki Radio 101",
+    "coordinates": {
+      "lat": 44.8375,
+      "lon": 19.48056
+    },
+    "radioStations": [
+      {
+        "title": "Muzicki Radio 101",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://as1.radioserveri.com:8090/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NAŠ MM Radio 97.8",
+    "coordinates": {
+      "lat": 44.74667,
+      "lon": 19.69
+    },
+    "radioStations": [
+      {
+        "title": "NAŠ MM Radio 97.8",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nasradiomm.com/wp-content/uploads/2023/12/cropped-logo-nas-radio-MM-png.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dukahosting.com:7045/stream"
+      }
+    ]
+  },
+  {
+    "name": "Moj Radio",
+    "coordinates": {
+      "lat": 44.60049,
+      "lon": 20.08539
+    },
+    "radioStations": [
+      {
+        "title": "Moj Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio 4P Narodna Muzika",
+    "coordinates": {
+      "lat": 44.8458,
+      "lon": 20.40116
+    },
+    "radioStations": [
+      {
+        "title": "Radio 4P Narodna Muzika",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server4p.com:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "WTF Radio",
+    "coordinates": {
+      "lat": 44.80401,
+      "lon": 20.46513
+    },
+    "radioStations": [
+      {
+        "title": "WTF Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.wtfradio.rs/wtfradio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio S2",
+    "coordinates": {
+      "lat": 44.66436,
+      "lon": 20.92763
+    },
+    "radioStations": [
+      {
+        "title": "Radio S2",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/footerlogo/s2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Folk Radio Beograd",
+    "coordinates": {
+      "lat": 44.62133,
+      "lon": 21.18782
+    },
+    "radioStations": [
+      {
+        "title": "Folk Radio Beograd",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://usa6.fastcast4u.com:5010/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S3 Juzni",
+    "coordinates": {
+      "lat": 44.8975,
+      "lon": 21.41722
+    },
+    "radioStations": [
+      {
+        "title": "Radio S3 Juzni",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio Party",
+    "coordinates": {
+      "lat": 44.65296,
+      "lon": 21.63199
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio Party",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.playradio.rs:8443/party.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laguna",
+    "coordinates": {
+      "lat": 44.61147,
+      "lon": 22.60955
+    },
+    "radioStations": [
+      {
+        "title": "Laguna",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiolaguna.rs/laguna"
+      }
+    ]
+  },
+  {
+    "name": "Radio Balkan Zabavna",
+    "coordinates": {
+      "lat": 45.11667,
+      "lon": 21.30361
+    },
+    "radioStations": [
+      {
+        "title": "Radio Balkan Zabavna",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiobalkan.live/radio/live/zabavna.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTV - Radio Novi Sad 2 (Újvidéki Rádió)",
+    "coordinates": {
+      "lat": 45.04987,
+      "lon": 21.018
+    },
+    "radioStations": [
+      {
+        "title": "RTV - Radio Novi Sad 2 (Újvidéki Rádió)",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.200.230.50:1935/rns2/drugiprogram/livestream/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ritam Srca",
+    "coordinates": {
+      "lat": 45.11988,
+      "lon": 20.7286
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ritam Srca",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s4.radio.co/s0f65dad2d/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio S",
+    "coordinates": {
+      "lat": 45.11167,
+      "lon": 20.62139
+    },
+    "radioStations": [
+      {
+        "title": "Radio S",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RSG Relax",
+    "coordinates": {
+      "lat": 44.985,
+      "lon": 20.16083
+    },
+    "radioStations": [
+      {
+        "title": "RSG Relax",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rsg.rs/relax"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio Rock",
+    "coordinates": {
+      "lat": 45.25167,
+      "lon": 19.83694
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio Rock",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.playradio.rs:8443/rock.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA SERBIA HUNG",
+    "coordinates": {
+      "lat": 44.97639,
+      "lon": 19.61222
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA SERBIA HUNG",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8014/stream"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - Џубокс",
+    "coordinates": {
+      "lat": 45.24966,
+      "lon": 19.39664
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - Џубокс",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Beseda",
+    "coordinates": {
+      "lat": 45.6726,
+      "lon": 18.978
+    },
+    "radioStations": [
+      {
+        "title": "Radio Beseda",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.eparhijabacka.info:8000/RadioBeseda"
+      }
+    ]
+  },
+  {
+    "name": "Radio Šumadinac Krajiška",
+    "coordinates": {
+      "lat": 45.66098,
+      "lon": 19.45435
+    },
+    "radioStations": [
+      {
+        "title": "Radio Šumadinac Krajiška",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-krajiska"
+      }
+    ]
+  },
+  {
+    "name": "Radio Fruska Gora",
+    "coordinates": {
+      "lat": 45.57139,
+      "lon": 19.64083
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fruska Gora",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Balkan Trending",
+    "coordinates": {
+      "lat": 45.61632,
+      "lon": 20.03331
+    },
+    "radioStations": [
+      {
+        "title": "Radio Balkan Trending",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiobalkan.live/assets/icons/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiobalkan.live/radio/live/trending.mp3"
+      }
+    ]
+  },
+  {
+    "name": "РТС - Радио Београд - Вртешка",
+    "coordinates": {
+      "lat": 45.38361,
+      "lon": 20.38194
+    },
+    "radioStations": [
+      {
+        "title": "РТС - Радио Београд - Вртешка",
+        "subtitle": "Belgrade",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtsplaneta.rs/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Focus Radio",
+    "coordinates": {
+      "lat": 45.50928,
+      "lon": 20.609
+    },
+    "radioStations": [
+      {
+        "title": "Focus Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamer.radio.co/s34d2c17d8/listen"
+      }
+    ]
+  },
+  {
+    "name": "RSG Party time",
+    "coordinates": {
+      "lat": 45.44725,
+      "lon": 20.85546
+    },
+    "radioStations": [
+      {
+        "title": "RSG Party time",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rsg.rs/partytime"
+      }
+    ]
+  },
+  {
+    "name": "Radio San Loznica",
+    "coordinates": {
+      "lat": 45.74617,
+      "lon": 20.78917
+    },
+    "radioStations": [
+      {
+        "title": "Radio San Loznica",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s1.skeletor.rs/san"
+      }
+    ]
+  },
+  {
+    "name": "Radio JAT",
+    "coordinates": {
+      "lat": 45.82972,
+      "lon": 20.46528
+    },
+    "radioStations": [
+      {
+        "title": "Radio JAT",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://player.radiojat.rs/img/CD/cd-jat.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.tdiradio.com/radiojat.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bum Bum Radio",
+    "coordinates": {
+      "lat": 45.76457,
+      "lon": 20.13286
+    },
+    "radioStations": [
+      {
+        "title": "Bum Bum Radio",
+        "subtitle": "Beograd",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bumbumradio.rs/wp-content/uploads/2024/05/bum-bum-radio-logo-beograd.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://bumbum.nlnet.rs:8443/bumbum?download=false"
+      }
+    ]
+  },
+  {
+    "name": "Internet Radio Pingvin",
+    "coordinates": {
+      "lat": 45.9275,
+      "lon": 20.07722
+    },
+    "radioStations": [
+      {
+        "title": "Internet Radio Pingvin",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uzivo.radiopingvin.com/domaci1"
+      }
+    ]
+  },
+  {
+    "name": "OK Prelo Radio",
+    "coordinates": {
+      "lat": 46.1,
+      "lon": 19.66667
+    },
+    "radioStations": [
+      {
+        "title": "OK Prelo Radio",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.okplus.rs/listen/prelo/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Razbibriga",
+    "coordinates": {
+      "lat": 45.77417,
+      "lon": 19.11222
+    },
+    "radioStations": [
+      {
+        "title": "Radio Razbibriga",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://213.239.205.210:8001/stream"
+      }
+    ]
+  },
+  {
+    "name": "mr.chem fm",
+    "coordinates": {
+      "lat": 43.46056,
+      "lon": 19.81139
+    },
+    "radioStations": [
+      {
+        "title": "mr.chem fm",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ptpimg.me/25mrpr.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://e20.yesstreaming.net:6217/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Futog Krajina",
+    "coordinates": {
+      "lat": 44.19685,
+      "lon": 21.78838
+    },
+    "radioStations": [
+      {
+        "title": "Radio Futog Krajina",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.uzivoradio.net/wp-content/uploads/2023/05/futog-krajina.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.dukahosting.com/proxy/futog/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Tavor",
+    "coordinates": {
+      "lat": 44.18944,
+      "lon": 19.37667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tavor",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://eparhijabacka.info/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.eparhijabacka.info:8000/RadioTavor"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Rock Ballads",
+    "coordinates": {
+      "lat": 44.57222,
+      "lon": 20.56222
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Rock Ballads",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/RockBalads1000px%20(1).png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9058/stream"
+      }
+    ]
+  },
+  {
+    "name": "Nisville Radio",
+    "coordinates": {
+      "lat": 43.83028,
+      "lon": 21.95306
+    },
+    "radioStations": [
+      {
+        "title": "Nisville Radio",
+        "subtitle": "Niš",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.nisville.com/listen/live/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio S 80e",
+    "coordinates": {
+      "lat": 45.99088,
+      "lon": 19.10635
+    },
+    "radioStations": [
+      {
+        "title": "Radio S 80e",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/500px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9036/stream"
+      }
+    ]
+  },
+  {
+    "name": "skc slobodni",
+    "coordinates": {
+      "lat": 45.20359,
+      "lon": 20.13558
+    },
+    "radioStations": [
+      {
+        "title": "skc slobodni",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://skc.fm/hls/skc_radio/aac_hifi.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Zlatousti",
+    "coordinates": {
+      "lat": 43.58306,
+      "lon": 19.52519
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zlatousti",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radiozlatousti.rs/wp-content/uploads/2015/06/radiozlatousti1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.unlimited.rs:8076/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Pop Folk",
+    "coordinates": {
+      "lat": 45.45566,
+      "lon": 19.33728
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Pop Folk",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk500px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9046/stream"
+      }
+    ]
+  },
+  {
+    "name": "skc",
+    "coordinates": {
+      "lat": 45.2501,
+      "lon": 20.96016
+    },
+    "radioStations": [
+      {
+        "title": "skc",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://skc.fm/hls/skc_radio/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Gold",
+    "coordinates": {
+      "lat": 44.55376,
+      "lon": 19.7715
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Gold",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Gold-350x350px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9020/stream"
+      }
+    ]
+  },
+  {
+    "name": "S21 Euro",
+    "coordinates": {
+      "lat": 45.81516,
+      "lon": 19.6318
+    },
+    "radioStations": [
+      {
+        "title": "S21 Euro",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s21media.pl/s21radio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiozender.mpbnetwerken.nl/s21radio?v=1.0"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Jazz",
+    "coordinates": {
+      "lat": 42.70778,
+      "lon": 22.06333
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Jazz",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Jazz1000px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9076/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Sport",
+    "coordinates": {
+      "lat": 45.30837,
+      "lon": 20.63514
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Sport",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Sport1000px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9078/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Latino",
+    "coordinates": {
+      "lat": 44.89388,
+      "lon": 19.86344
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Latino",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Latino1000px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9054/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO AS FM",
+    "coordinates": {
+      "lat": 45.64102,
+      "lon": 20.41434
+    },
+    "radioStations": [
+      {
+        "title": "RADIO AS FM",
+        "subtitle": "Vojvodina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioas.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://asfmonair-masterasfm.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio S Classic",
+    "coordinates": {
+      "lat": 44.96731,
+      "lon": 19.28993
+    },
+    "radioStations": [
+      {
+        "title": "Radio S Classic",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Classic1000px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9074/stream"
+      }
+    ]
+  },
+  {
+    "name": "Dharmar Goa",
+    "coordinates": {
+      "lat": 42.5011,
+      "lon": 22.47238
+    },
+    "radioStations": [
+      {
+        "title": "Dharmar Goa",
+        "subtitle": "Serbia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mugadavanje.rs/wp-content/uploads/2024/01/cropped-SLOVA-SAMO1111-768x197.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mugadavanje.rs/listen/dharmar_goa/dharmar"
+      }
+    ]
+  }
+]
