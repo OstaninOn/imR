@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Radio Zu",
+    "coordinates": {
+      "lat": 43.99069,
+      "lon": 22.93328
+    },
+    "radioStations": [
+      {
+        "title": "Radio Zu",
+        "subtitle": "ROMANIA",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozu.ro/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://zuicast.digitalag.ro:9420/zu"
+      }
+    ]
+  },
+  {
+    "name": "Deep House Radio - Bucharest Romania",
+    "coordinates": {
+      "lat": 44.01667,
+      "lon": 23.35
+    },
+    "radioStations": [
+      {
+        "title": "Deep House Radio - Bucharest Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dancemusic.ro/dancemusic-favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.dancemusic.ro:7000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Atmospheric dnb s0urce",
+    "coordinates": {
+      "lat": 43.8,
+      "lon": 24.08333
+    },
+    "radioStations": [
+      {
+        "title": "Atmospheric dnb s0urce",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://brokenbeats.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://brokenbeats.net/stream/aac"
+      }
+    ]
+  },
+  {
+    "name": "Dance FM 89.5 Bucharest",
+    "coordinates": {
+      "lat": 43.7469,
+      "lon": 24.86846
+    },
+    "radioStations": [
+      {
+        "title": "Dance FM 89.5 Bucharest",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.profm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20220913-06-3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Kiss Fm",
+    "coordinates": {
+      "lat": 43.98333,
+      "lon": 25.33333
+    },
+    "radioStations": [
+      {
+        "title": "Kiss Fm",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.kissfm.ro/kissfm.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Pescobar Radio",
+    "coordinates": {
+      "lat": 43.88664,
+      "lon": 25.9627
+    },
+    "radioStations": [
+      {
+        "title": "Pescobar Radio",
+        "subtitle": "Cluj",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radioking.com/radio/701141/stream/766385"
+      }
+    ]
+  },
+  {
+    "name": "Play 90's",
+    "coordinates": {
+      "lat": 44.01667,
+      "lon": 27.78333
+    },
+    "radioStations": [
+      {
+        "title": "Play 90's",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/b7/89/4a/b7894a1a-07c8-d9ae-fc50-5fcc33c59173/source/280x280.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.playradio.org:9090/90HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Impuls Romania",
+    "coordinates": {
+      "lat": 43.81667,
+      "lon": 28.2
+    },
+    "radioStations": [
+      {
+        "title": "Radio Impuls Romania",
+        "subtitle": "Bucuresti",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://w7.pngwing.com/pngs/843/39/png-transparent-cluj-napoca-radio-impuls-paprika-radio-fm-broadcasting-radio-electronics-text-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio-impuls.ro/stream"
+      }
+    ]
+  },
+  {
+    "name": "DIGI FM",
+    "coordinates": {
+      "lat": 43.81623,
+      "lon": 28.57656
+    },
+    "radioStations": [
+      {
+        "title": "DIGI FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.digi-fm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rls-2021111100-v9",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio România Cultural",
+    "coordinates": {
+      "lat": 44.18073,
+      "lon": 28.63432
+    },
+    "radioStations": [
+      {
+        "title": "Radio România Cultural",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.srr.ro:8012"
+      }
+    ]
+  },
+  {
+    "name": "Magic Fm",
+    "coordinates": {
+      "lat": 44.25,
+      "lon": 28.28333
+    },
+    "radioStations": [
+      {
+        "title": "Magic Fm",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.magicfm.ro/magicfm.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Pro FM",
+    "coordinates": {
+      "lat": 44.38333,
+      "lon": 27.83333
+    },
+    "radioStations": [
+      {
+        "title": "Pro FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.profm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rel-20240507-11-22",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge126.rdsnet.ro:84/profm/profm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Romantic FM",
+    "coordinates": {
+      "lat": 44.2051,
+      "lon": 27.31356
+    },
+    "radioStations": [
+      {
+        "title": "Romantic FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://romanticfm.ro/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://zuicast.digitalag.ro:9420/romanticfm"
+      }
+    ]
+  },
+  {
+    "name": "Magic Party Mix",
+    "coordinates": {
+      "lat": 44.08333,
+      "lon": 26.63333
+    },
+    "radioStations": [
+      {
+        "title": "Magic Party Mix",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1606492636/brand_manager/stations/agepcxvlmp6fbmslx6tt.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.magicfm.ro/magic.party.mix"
+      }
+    ]
+  },
+  {
+    "name": "RockFM",
+    "coordinates": {
+      "lat": 44.37571,
+      "lon": 26.12085
+    },
+    "radioStations": [
+      {
+        "title": "RockFM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rockfm.ro/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.rockfm.ro/rockfm.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Europa FM Romania",
+    "coordinates": {
+      "lat": 44.27806,
+      "lon": 25.52444
+    },
+    "radioStations": [
+      {
+        "title": "Europa FM Romania",
+        "subtitle": "Bucuresti",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.europafm.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://astreaming.edi.ro:8443/EuropaFM_aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Cafe Romania",
+    "coordinates": {
+      "lat": 44.11667,
+      "lon": 24.98333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Cafe Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiocafe.ro/wp-content/uploads/2018/12/logo-fara-90fm-resize-e1546368131330.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiocafe.ro:8048/live.aac"
+      }
+    ]
+  },
+  {
+    "name": "Dance FM",
+    "coordinates": {
+      "lat": 44.11667,
+      "lon": 24.35
+    },
+    "radioStations": [
+      {
+        "title": "Dance FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dancefm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20221003-07-3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge126.rcs-rds.ro/profm/dancefm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "One FM Dance",
+    "coordinates": {
+      "lat": 44.31667,
+      "lon": 23.8
+    },
+    "radioStations": [
+      {
+        "title": "One FM Dance",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.onefm.ro/img/onefm-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.onefm.ro/onefm.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vacanța - Gold",
+    "coordinates": {
+      "lat": 44.08333,
+      "lon": 23.2
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vacanța - Gold",
+        "subtitle": "Constanta",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.srr.ro:8443/gold_rv"
+      }
+    ]
+  },
+  {
+    "name": "Radio Guerrilla",
+    "coordinates": {
+      "lat": 44.37389,
+      "lon": 22.59306
+    },
+    "radioStations": [
+      {
+        "title": "Radio Guerrilla",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://guerrillaradio.ro/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.guerrillaradio.ro:8010/guerrilla.aac"
+      }
+    ]
+  },
+  {
+    "name": "Chill FM Romania",
+    "coordinates": {
+      "lat": 44.7375,
+      "lon": 21.66694
+    },
+    "radioStations": [
+      {
+        "title": "Chill FM Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.chillfm.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Digi24FM",
+    "coordinates": {
+      "lat": 44.72299,
+      "lon": 22.39619
+    },
+    "radioStations": [
+      {
+        "title": "Digi24FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.digi24.ro/static/theme-repo/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "EuropaFM",
+    "coordinates": {
+      "lat": 44.62693,
+      "lon": 22.65288
+    },
+    "radioStations": [
+      {
+        "title": "EuropaFM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.europafm.ro/icons/favicon-16x16.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://astreaming.edi.ro:8000/EuropaFM_aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Disco Mix",
+    "coordinates": {
+      "lat": 44.55,
+      "lon": 23.51667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Disco Mix",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://scontent.fsbz4-1.fna.fbcdn.net/v/t39.30808-6/335841304_737873554406490_4291068825206123225_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Rzwicn1igMAQ7kNvgHp9yeH&_nc_zt=23&_nc_ht=scontent.fsbz4-1.fna&_nc_gid=ASHALMr8ce0swTJpiBYArx9&oh=00_AYBX8OTWi0wbmHhUnFC2SPQI0JiLSzwkiKZ3ia4lBvzHqA&oe=673FD069",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.discomix.ro/8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "FM Radio Manele",
+    "coordinates": {
+      "lat": 44.43333,
+      "lon": 24.36667
+    },
+    "radioStations": [
+      {
+        "title": "FM Radio Manele",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmradiomanele.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://a.fmradiomanele.ro:8054/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio România Actualități",
+    "coordinates": {
+      "lat": 44.56667,
+      "lon": 24.55
+    },
+    "radioStations": [
+      {
+        "title": "Radio România Actualități",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.srr.ro:8443/romania-actualitati"
+      }
+    ]
+  },
+  {
+    "name": "FMV FIT Radio High Energy",
+    "coordinates": {
+      "lat": 44.71667,
+      "lon": 25.31667
+    },
+    "radioStations": [
+      {
+        "title": "FMV FIT Radio High Energy",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmvfitradio.webicdp.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.webicdp.com/listen/fmvfitradiohighenergy/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SoundVibe Radio",
+    "coordinates": {
+      "lat": 44.43225,
+      "lon": 26.10626
+    },
+    "radioStations": [
+      {
+        "title": "SoundVibe Radio",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s4.radio.co/s599dc3645/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio DEEA",
+    "coordinates": {
+      "lat": 44.4234,
+      "lon": 26.16874
+    },
+    "radioStations": [
+      {
+        "title": "Radio DEEA",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i0.wp.com/radiodeea.ro/wp-content/uploads/2017/07/cropped-fav2.jpg?fit=180%2c180&#038;ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiocdn.nxthost.com/radio-deea"
+      }
+    ]
+  },
+  {
+    "name": "Ambiento",
+    "coordinates": {
+      "lat": 44.43333,
+      "lon": 27.31667
+    },
+    "radioStations": [
+      {
+        "title": "Ambiento",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ambiento-adradio.radioca.st/128"
+      }
+    ]
+  },
+  {
+    "name": "Europa FM",
+    "coordinates": {
+      "lat": 44.5647,
+      "lon": 27.3633
+    },
+    "radioStations": [
+      {
+        "title": "Europa FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.europafm.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://astreaming.europafm.ro:8000/europafm_aacp48k"
+      }
+    ]
+  },
+  {
+    "name": "Antena satelor",
+    "coordinates": {
+      "lat": 44.68555,
+      "lon": 27.95009
+    },
+    "radioStations": [
+      {
+        "title": "Antena satelor",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.238.227.6:8042"
+      }
+    ]
+  },
+  {
+    "name": "Radio Romania International",
+    "coordinates": {
+      "lat": 44.55,
+      "lon": 28.56667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Romania International",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.srr.ro:8052"
+      }
+    ]
+  },
+  {
+    "name": "FMV FIT Radio Medium Energy",
+    "coordinates": {
+      "lat": 45.08333,
+      "lon": 29.08333
+    },
+    "radioStations": [
+      {
+        "title": "FMV FIT Radio Medium Energy",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmvfitradio.webicdp.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.webicdp.com/listen/fmvfitradiomediumenergy/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio 91.6",
+    "coordinates": {
+      "lat": 45.1787,
+      "lon": 28.80501
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio 91.6",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.playradio.ro/wp-content/uploads/2023/02/Logo-PNG.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.playradio.org:9090/FMHD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vacanța Nostalgia",
+    "coordinates": {
+      "lat": 44.88333,
+      "lon": 28.36667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vacanța Nostalgia",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.srr.ro:8443/nostalgia_rv"
+      }
+    ]
+  },
+  {
+    "name": "ProB Radio",
+    "coordinates": {
+      "lat": 45.13333,
+      "lon": 27.45
+    },
+    "radioStations": [
+      {
+        "title": "ProB Radio",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioprob.ro:8888/stream"
+      }
+    ]
+  },
+  {
+    "name": "EBS | Movie Soundtracks",
+    "coordinates": {
+      "lat": 45.15,
+      "lon": 26.83333
+    },
+    "radioStations": [
+      {
+        "title": "EBS | Movie Soundtracks",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ebsradio.ro/stream/img/stream-movies-soundtrack.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Hot Style",
+    "coordinates": {
+      "lat": 45.01667,
+      "lon": 26.45
+    },
+    "radioStations": [
+      {
+        "title": "Radio Hot Style",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiohot.ro/wp-content/uploads/2022/04/cropped-cropped-cropped-RadioHot250.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.radiohot.ro:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Hard Rock by Rock FM",
+    "coordinates": {
+      "lat": 44.95,
+      "lon": 26.01667
+    },
+    "radioStations": [
+      {
+        "title": "Hard Rock by Rock FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.soundis.ro/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.rockfm.ro/hard.rock"
+      }
+    ]
+  },
+  {
+    "name": "Stil România -Radio Stil Manele",
+    "coordinates": {
+      "lat": 44.92543,
+      "lon": 25.4567
+    },
+    "radioStations": [
+      {
+        "title": "Stil România -Radio Stil Manele",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/iP4ePfGMfG3juEavcLE8lazbWBE9xmq3pFj0DHLS5qOAtHku4GbAAfrPT_UtXxE2gg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mp3.radiostill.ro:8888/stream"
+      }
+    ]
+  },
+  {
+    "name": "ROMÂNIA  Antena Satelor",
+    "coordinates": {
+      "lat": 44.85,
+      "lon": 24.86667
+    },
+    "radioStations": [
+      {
+        "title": "ROMÂNIA  Antena Satelor",
+        "subtitle": "Bucuresti",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream4.srr.ro:8443/antena-satelor"
+      }
+    ]
+  },
+  {
+    "name": "EBS | Electro",
+    "coordinates": {
+      "lat": 45.1,
+      "lon": 24.36667
+    },
+    "radioStations": [
+      {
+        "title": "EBS | Electro",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ebsradio.ro/stream/img/stream-electro.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azura.ebsmedia.ro/listen/electro/electro128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Arges",
+    "coordinates": {
+      "lat": 45.05,
+      "lon": 23.28333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Arges",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.39.189.53:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Minimal Techno Radio & Track Discovery - ROminimal.club",
+    "coordinates": {
+      "lat": 44.80333,
+      "lon": 22.97194
+    },
+    "radioStations": [
+      {
+        "title": "Minimal Techno Radio & Track Discovery - ROminimal.club",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rominimal.club/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://r4.rominimal.club/listen/rominimal.club/radio2.m4a"
+      }
+    ]
+  },
+  {
+    "name": "Tequila România -Radio Petrecere",
+    "coordinates": {
+      "lat": 44.87972,
+      "lon": 22.4125
+    },
+    "radioStations": [
+      {
+        "title": "Tequila România -Radio Petrecere",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://petrecere.radiotequila.ro/7000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Clasic Radio_Soundtrack -București",
+    "coordinates": {
+      "lat": 45.0325,
+      "lon": 21.68944
+    },
+    "radioStations": [
+      {
+        "title": "Clasic Radio_Soundtrack -București",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.clasicradio.ro/logo/soundtrack.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioclasic.com/listen/radio_clasic_soundtrack/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SpaceFM Romania -SpaceFM Retro",
+    "coordinates": {
+      "lat": 44.86083,
+      "lon": 21.37028
+    },
+    "radioStations": [
+      {
+        "title": "SpaceFM Romania -SpaceFM Retro",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/hCoGCiYFwbdEHCRoEDpk_JO_wznwAmbDj2kp6ykv5qu9eKhI-seGNI5Swist_WpBzDg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://retro.spacefm.live/listen/spacefm_retro/retro128"
+      }
+    ]
+  },
+  {
+    "name": "Radio Manele Vechi",
+    "coordinates": {
+      "lat": 45.49861,
+      "lon": 20.87583
+    },
+    "radioStations": [
+      {
+        "title": "Radio Manele Vechi",
+        "subtitle": "Mures",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomanelevechi.com/logo2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mars.streamerr.co/radiomanelevechi"
+      }
+    ]
+  },
+  {
+    "name": "Radio Timișoara",
+    "coordinates": {
+      "lat": 45.43111,
+      "lon": 21.43
+    },
+    "radioStations": [
+      {
+        "title": "Radio Timișoara",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.238.227.6:8354"
+      }
+    ]
+  },
+  {
+    "name": "DJ Radio Romania",
+    "coordinates": {
+      "lat": 45.30083,
+      "lon": 21.88917
+    },
+    "radioStations": [
+      {
+        "title": "DJ Radio Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.djradio.ro/radio/8000/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Space Fm Dance",
+    "coordinates": {
+      "lat": 45.41667,
+      "lon": 22.21667
+    },
+    "radioStations": [
+      {
+        "title": "Space Fm Dance",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spacefm.live/radio/8000/spacefm128"
+      }
+    ]
+  },
+  {
+    "name": "Mária Rádió Erdély",
+    "coordinates": {
+      "lat": 45.33731,
+      "lon": 23.1524
+    },
+    "radioStations": [
+      {
+        "title": "Mária Rádió Erdély",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.mariaradio.ro:8000/MRE"
+      }
+    ]
+  },
+  {
+    "name": "Radio Boom House Music",
+    "coordinates": {
+      "lat": 45.41667,
+      "lon": 23.36667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Boom House Music",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://stream.radioboom.ro/static/uploads/boom_house_music/album_art.1711440856.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radioboom.ro/listen/boom_house_music/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "EBS | Romanian Gold",
+    "coordinates": {
+      "lat": 45.23333,
+      "lon": 24.33333
+    },
+    "radioStations": [
+      {
+        "title": "EBS | Romanian Gold",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ebsradio.ro/stream/img/stream-romanian-gold.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Clasic Radio_Chopin -București",
+    "coordinates": {
+      "lat": 45.18333,
+      "lon": 24.85
+    },
+    "radioStations": [
+      {
+        "title": "Clasic Radio_Chopin -București",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.clasicradio.ro/logo/chopin.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Magic FM 90s Hits",
+    "coordinates": {
+      "lat": 45.56093,
+      "lon": 25.31787
+    },
+    "radioStations": [
+      {
+        "title": "Magic FM 90s Hits",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.magicfm.ro/resized/streams/2024/04/19/magic-90s-hits-ec1e24_64b16503f88c07789df5c1977f73fd36.jpg?w=120&h=120&c=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.kissfm.ro/Magic-90s"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MAGIA INIMII TALE",
+    "coordinates": {
+      "lat": 45.18333,
+      "lon": 25.66667
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MAGIA INIMII TALE",
+        "subtitle": "Bucuresti",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a9.asurahosting.com:7030/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SpaceFM Romania -SpaceFM Dance",
+    "coordinates": {
+      "lat": 45.41667,
+      "lon": 26.3
+    },
+    "radioStations": [
+      {
+        "title": "SpaceFM Romania -SpaceFM Dance",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/hCoGCiYFwbdEHCRoEDpk_JO_wznwAmbDj2kp6ykv5qu9eKhI-seGNI5Swist_WpBzDg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spacefm.live/listen/spacefm_romania/spacefm192"
+      }
+    ]
+  },
+  {
+    "name": "Radio BOOM House Music -Buzău, Rm. Sarat 102,3 FM",
+    "coordinates": {
+      "lat": 45.38333,
+      "lon": 27.05
+    },
+    "radioStations": [
+      {
+        "title": "Radio BOOM House Music -Buzău, Rm. Sarat 102,3 FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live.radioboom.ro/generic_song-house.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radioboom.ro:8530/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sinaia Radio Forever",
+    "coordinates": {
+      "lat": 45.21667,
+      "lon": 27.8
+    },
+    "radioStations": [
+      {
+        "title": "Sinaia Radio Forever",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl.asculta.live/8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "Stil România -Radio Stil Popular",
+    "coordinates": {
+      "lat": 45.43687,
+      "lon": 28.05028
+    },
+    "radioStations": [
+      {
+        "title": "Stil România -Radio Stil Popular",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/iP4ePfGMfG3juEavcLE8lazbWBE9xmq3pFj0DHLS5qOAtHku4GbAAfrPT_UtXxE2gg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://popular.radiostill.ro/8176/stream"
+      }
+    ]
+  },
+  {
+    "name": "FMV FIT Radio Focus",
+    "coordinates": {
+      "lat": 45.18333,
+      "lon": 28.66667
+    },
+    "radioStations": [
+      {
+        "title": "FMV FIT Radio Focus",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmvfitradio.webicdp.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FMV FIT Radio Urban",
+    "coordinates": {
+      "lat": 45.41667,
+      "lon": 29.28333
+    },
+    "radioStations": [
+      {
+        "title": "FMV FIT Radio Urban",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmvfitradio.webicdp.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.webicdp.com/listen/fmvfitradiourban/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Focus FM Regional -Vrancea, Braila, Galati 97,0 FM",
+    "coordinates": {
+      "lat": 45.56667,
+      "lon": 28.03333
+    },
+    "radioStations": [
+      {
+        "title": "Focus FM Regional -Vrancea, Braila, Galati 97,0 FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.focusfm.ro/wp-content/uploads/2017/01/focus_fm_sigla_decembrie_2016-e1485617733611.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.focusfm.ro:8000/focusfmlow.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Best Love 2019",
+    "coordinates": {
+      "lat": 45.84973,
+      "lon": 27.43441
+    },
+    "radioStations": [
+      {
+        "title": "Best Love 2019",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/folNvnoQ_b78PSueNJzg7K5w2iiL3lvPJAP-bkGwOMZNTKjJp51yMwdzWG1nI4Q8vK0=w240-h480",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl.kenhost.ro:8010/stream"
+      }
+    ]
+  },
+  {
+    "name": "EBS Radio Romanian Gold -Cluj Napoca",
+    "coordinates": {
+      "lat": 45.7,
+      "lon": 27.18333
+    },
+    "radioStations": [
+      {
+        "title": "EBS Radio Romanian Gold -Cluj Napoca",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3?refresh=1779029137110"
+      }
+    ]
+  },
+  {
+    "name": "SpaceFM Romania -SpaceFM Deluxe",
+    "coordinates": {
+      "lat": 45.85,
+      "lon": 26.18333
+    },
+    "radioStations": [
+      {
+        "title": "SpaceFM Romania -SpaceFM Deluxe",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/hCoGCiYFwbdEHCRoEDpk_JO_wznwAmbDj2kp6ykv5qu9eKhI-seGNI5Swist_WpBzDg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://spacefm.live/listen/spacefm_deluxe/space-deluxe192"
+      }
+    ]
+  },
+  {
+    "name": "Radio Etno Mania Romania",
+    "coordinates": {
+      "lat": 45.64861,
+      "lon": 25.60613
+    },
+    "radioStations": [
+      {
+        "title": "Radio Etno Mania Romania",
+        "subtitle": "buch",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioetnomania.com/wp-content/uploads/2023/04/Radio-Etno-Maniax150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioetnomania.com:9300/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Tech House",
+    "coordinates": {
+      "lat": 45.7,
+      "lon": 25.45
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Tech House",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Tech-House-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://techhouselive.radionoise.ro:9118/stream"
+      }
+    ]
+  },
+  {
+    "name": "GHERLA",
+    "coordinates": {
+      "lat": 45.85,
+      "lon": 24.96667
+    },
+    "radioStations": [
+      {
+        "title": "GHERLA",
+        "subtitle": "Transylvania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gherlafm.ro/wp-content/uploads/2020/04/cropped-logomic2-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.streamaudio.co/proxy/gherlafm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Nicecream.fm BLUE",
+    "coordinates": {
+      "lat": 45.8,
+      "lon": 24.15
+    },
+    "radioStations": [
+      {
+        "title": "Nicecream.fm BLUE",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.nicecream.fm/blue.aac"
+      }
+    ]
+  },
+  {
+    "name": "Super FM -Brașov 93.8 FM",
+    "coordinates": {
+      "lat": 45.83651,
+      "lon": 23.36998
+    },
+    "radioStations": [
+      {
+        "title": "Super FM -Brașov 93.8 FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://superfm.ro/static/images/logo_red.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.superfm.ro/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Latino",
+    "coordinates": {
+      "lat": 45.75,
+      "lon": 22.9
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Latino",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Latino-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://latinolive.radionoise.ro:9104/stream"
+      }
+    ]
+  },
+  {
+    "name": "Smart FM",
+    "coordinates": {
+      "lat": 45.85,
+      "lon": 22.18333
+    },
+    "radioStations": [
+      {
+        "title": "Smart FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.smartradio.ro:9128/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio România Muzical",
+    "coordinates": {
+      "lat": 45.68861,
+      "lon": 21.90306
+    },
+    "radioStations": [
+      {
+        "title": "Radio România Muzical",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.srr.ro:8026"
+      }
+    ]
+  },
+  {
+    "name": "MusicFM",
+    "coordinates": {
+      "lat": 45.75372,
+      "lon": 21.22571
+    },
+    "radioStations": [
+      {
+        "title": "MusicFM",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://edge126.rdsnet.ro:84/profm/music-fm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Super Manele",
+    "coordinates": {
+      "lat": 45.79139,
+      "lon": 20.71722
+    },
+    "radioStations": [
+      {
+        "title": "Radio Super Manele",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://manele.capitalfm.ro:8020/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Flo Manele",
+    "coordinates": {
+      "lat": 46.08333,
+      "lon": 20.63333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Flo Manele",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioflomanele.ro/8084/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio MANELE",
+    "coordinates": {
+      "lat": 46.18333,
+      "lon": 21.31667
+    },
+    "radioStations": [
+      {
+        "title": "Radio MANELE",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-manele/play_250_250.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.wrhradios.com/8044/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vacanta",
+    "coordinates": {
+      "lat": 46.09085,
+      "lon": 21.69628
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vacanta",
+        "subtitle": "Constanta",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.238.227.6:8330"
+      }
+    ]
+  },
+  {
+    "name": "Radio DOR Romania",
+    "coordinates": {
+      "lat": 46.26667,
+      "lon": 22.35
+    },
+    "radioStations": [
+      {
+        "title": "Radio DOR Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live7digi.antenaplay.ro/radiodor/radiodor-48000.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Magic Gold Hits",
+    "coordinates": {
+      "lat": 46.13333,
+      "lon": 22.78333
+    },
+    "radioStations": [
+      {
+        "title": "Magic Gold Hits",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1606494213/brand_manager/stations/x6xeyevggfagng9eahwl.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.magicfm.ro/magic.gold.hits"
+      }
+    ]
+  },
+  {
+    "name": "Rock Fm Blues",
+    "coordinates": {
+      "lat": 46.06667,
+      "lon": 23.58333
+    },
+    "radioStations": [
+      {
+        "title": "Rock Fm Blues",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rockfm.ro/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.rockfm.ro/blues"
+      }
+    ]
+  },
+  {
+    "name": "Play Urban",
+    "coordinates": {
+      "lat": 46.16667,
+      "lon": 24.35
+    },
+    "radioStations": [
+      {
+        "title": "Play Urban",
+        "subtitle": "Constanta",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/3/103533.v6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.playradio.org:9090/UrbanHD"
+      }
+    ]
+  },
+  {
+    "name": "Super Fm Manele Prahova",
+    "coordinates": {
+      "lat": 46.22141,
+      "lon": 24.79279
+    },
+    "radioStations": [
+      {
+        "title": "Super Fm Manele Prahova",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomanele.net/wp-content/uploads/2024/01/Super-FM-Prahova.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://asculta.superfmradio.ro/9720/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Folclor",
+    "coordinates": {
+      "lat": 46.3,
+      "lon": 25.3
+    },
+    "radioStations": [
+      {
+        "title": "Radio Folclor",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s152191g.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl.omegahost.ro/8092/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tranquila Manele România",
+    "coordinates": {
+      "lat": 46.0,
+      "lon": 26.13333
+    },
+    "radioStations": [
+      {
+        "title": "Tranquila Manele România",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotranquila.net/wp-content/uploads/2022/11/RADIO-TRANQUILA-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiotranquila.net:8032/stream"
+      }
+    ]
+  },
+  {
+    "name": "FUN Radio Romania",
+    "coordinates": {
+      "lat": 46.27899,
+      "lon": 26.61301
+    },
+    "radioStations": [
+      {
+        "title": "FUN Radio Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://funradio.ro/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.webcastradio.ro/fun"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vocea Evangheliei Suceava - RVE",
+    "coordinates": {
+      "lat": 46.09911,
+      "lon": 27.18143
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vocea Evangheliei Suceava - RVE",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rvesv.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s9.yesstreaming.net:7014/stream"
+      }
+    ]
+  },
+  {
+    "name": "Extravaganza Radio",
+    "coordinates": {
+      "lat": 46.23175,
+      "lon": 27.66907
+    },
+    "radioStations": [
+      {
+        "title": "Extravaganza Radio",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.radio.co/s1492c0564/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio ZEN",
+    "coordinates": {
+      "lat": 46.20444,
+      "lon": 28.01972
+    },
+    "radioStations": [
+      {
+        "title": "Radio ZEN",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiozen.ro/wp-content/uploads/2021/04/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming.shoutcast.com/radiozen"
+      }
+    ]
+  },
+  {
+    "name": "Radio Boom Gold",
+    "coordinates": {
+      "lat": 46.67361,
+      "lon": 28.05944
+    },
+    "radioStations": [
+      {
+        "title": "Radio Boom Gold",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://stream.radioboom.ro/static/uploads/boom_gold/album_art.1711440856.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radioboom.ro/listen/boom_gold/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Goldies",
+    "coordinates": {
+      "lat": 46.63333,
+      "lon": 27.73333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Goldies",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/2bbd78_a51b1b16db544c5a8c15c35f3aa814dd~mv2.png/v1/fill/w_386,h_304,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PicsArt_05-19-04_25_59.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s10.streamingcloud.online/stream/13664"
+      }
+    ]
+  },
+  {
+    "name": "Radio Oltenia Craiova",
+    "coordinates": {
+      "lat": 46.56718,
+      "lon": 26.91384
+    },
+    "radioStations": [
+      {
+        "title": "Radio Oltenia Craiova",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.srr.ro:8370"
+      }
+    ]
+  },
+  {
+    "name": "Radio Boom Rock",
+    "coordinates": {
+      "lat": 46.47523,
+      "lon": 26.48907
+    },
+    "radioStations": [
+      {
+        "title": "Radio Boom Rock",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://stream.radioboom.ro/static/uploads/boom_rock/album_art.1711440856.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radioboom.ro/listen/boom_rock/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Brașov",
+    "coordinates": {
+      "lat": 46.35,
+      "lon": 25.8
+    },
+    "radioStations": [
+      {
+        "title": "Radio Brașov",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}"
+      }
+    ]
+  },
+  {
+    "name": "Radio Timișoara 630 AM",
+    "coordinates": {
+      "lat": 46.58333,
+      "lon": 25.06667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Timișoara 630 AM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiotimisoara.ro/wp-content/themes/radiotimisoara/images/favicons/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.238.227.6:8352"
+      }
+    ]
+  },
+  {
+    "name": "Love Marilena Galați",
+    "coordinates": {
+      "lat": 46.54245,
+      "lon": 24.55747
+    },
+    "radioStations": [
+      {
+        "title": "Love Marilena Galați",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioexpert.net/radio-logo/romania/radio-love-marilena-186-gala%C8%9Bi-romania-320.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.sonicpanel.ro/8068/stream"
+      }
+    ]
+  },
+  {
+    "name": "Play 90 Constanta",
+    "coordinates": {
+      "lat": 46.33191,
+      "lon": 24.29662
+    },
+    "radioStations": [
+      {
+        "title": "Play 90 Constanta",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.playradio.ro/fm/assets/img/favicon-96x96.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.playradio.org:8443/FMHD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Terra",
+    "coordinates": {
+      "lat": 46.56667,
+      "lon": 23.78333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Terra",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio-terra.ro/img/logos/terra-navbar.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.26.110.59:8000/terra_hq.mp3"
+      }
+    ]
+  },
+  {
+    "name": "EBS | Alternative",
+    "coordinates": {
+      "lat": 46.36667,
+      "lon": 23.05
+    },
+    "radioStations": [
+      {
+        "title": "EBS | Alternative",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ebsradio.ro/stream/img/stream-alternative.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio A-Tentat",
+    "coordinates": {
+      "lat": 46.66667,
+      "lon": 22.35
+    },
+    "radioStations": [
+      {
+        "title": "Radio A-Tentat",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://atentat.ro/wp-content/uploads/2021/03/radio240-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl.omegahost.ro/8066/stream"
+      }
+    ]
+  },
+  {
+    "name": "Manastirea Putna",
+    "coordinates": {
+      "lat": 46.35,
+      "lon": 21.5
+    },
+    "radioStations": [
+      {
+        "title": "Manastirea Putna",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ortodoxradio.ro/images/favicon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.ortodoxradio.ro:8000/stream48"
+      }
+    ]
+  },
+  {
+    "name": "Club Radio",
+    "coordinates": {
+      "lat": 46.35,
+      "lon": 21.3
+    },
+    "radioStations": [
+      {
+        "title": "Club Radio",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/0/132460.v3.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.clubradio.ro/listen/clubradio/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Iasi Fm",
+    "coordinates": {
+      "lat": 47.0458,
+      "lon": 21.91833
+    },
+    "radioStations": [
+      {
+        "title": "Radio Iasi Fm",
+        "subtitle": "Iasi",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioiasi.ro/wp-content/uploads/2024/11/favicon-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.srr.ro:8202"
+      }
+    ]
+  },
+  {
+    "name": "RadioReintregirea Alba Iulia",
+    "coordinates": {
+      "lat": 47.05811,
+      "lon": 22.3995
+    },
+    "radioStations": [
+      {
+        "title": "RadioReintregirea Alba Iulia",
+        "subtitle": "Alba Iulia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.reintregirea.ro"
+      }
+    ]
+  },
+  {
+    "name": "BOOM TV",
+    "coordinates": {
+      "lat": 46.86667,
+      "lon": 23.05
+    },
+    "radioStations": [
+      {
+        "title": "BOOM TV",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live.radioboom.ro/livetv.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioboom.ro/live-tv/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TimiBanat -Populară",
+    "coordinates": {
+      "lat": 46.76667,
+      "lon": 23.6
+    },
+    "radioStations": [
+      {
+        "title": "TimiBanat -Populară",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s222371/images/logod.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming12.elitecomunicacion.es:8096/stream3"
+      }
+    ]
+  },
+  {
+    "name": "One FM Dance Station",
+    "coordinates": {
+      "lat": 47.03333,
+      "lon": 23.91667
+    },
+    "radioStations": [
+      {
+        "title": "One FM Dance Station",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.onefm.ro/img/onefm-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.kissfm.ro/onefm.aacp"
+      }
+    ]
+  },
+  {
+    "name": "Radio Renasterea",
+    "coordinates": {
+      "lat": 46.78333,
+      "lon": 24.71667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Renasterea",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorenasterea.ro/wp-content/uploads/2020/07/RR-rotund-Recovered-480x482.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast1.asurahosting.com/proxy/arhiepis/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vocea Speranței RVS",
+    "coordinates": {
+      "lat": 46.9243,
+      "lon": 25.3519
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vocea Speranței RVS",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rvs.ro/imgs/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.rvs.ro/play"
+      }
+    ]
+  },
+  {
+    "name": "Star rádió",
+    "coordinates": {
+      "lat": 46.72292,
+      "lon": 25.60055
+    },
+    "radioStations": [
+      {
+        "title": "Star rádió",
+        "subtitle": "Harghita",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://magyarfeny.ro/template/images/starradio-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.webcastradio.ro/star"
+      }
+    ]
+  },
+  {
+    "name": "FMV FIT Radio Calm & Relax",
+    "coordinates": {
+      "lat": 46.91667,
+      "lon": 26.33333
+    },
+    "radioStations": [
+      {
+        "title": "FMV FIT Radio Calm & Relax",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://fmvfitradio.webicdp.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.webicdp.com/listen/fmvfitradiorelax/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Luduș Manele",
+    "coordinates": {
+      "lat": 46.92119,
+      "lon": 26.92646
+    },
+    "radioStations": [
+      {
+        "title": "Luduș Manele",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.gazduirejocuri.ro/8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Trance",
+    "coordinates": {
+      "lat": 47.05,
+      "lon": 27.56667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Trance",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Trance-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trancelive.radionoise.ro:9060/stream"
+      }
+    ]
+  },
+  {
+    "name": "Smart Radio -Smart and Rave",
+    "coordinates": {
+      "lat": 46.95,
+      "lon": 27.93333
+    },
+    "radioStations": [
+      {
+        "title": "Smart Radio -Smart and Rave",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.smartradio.ro/2019/12/rave-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.smartradio.ro:8443/smartrave"
+      }
+    ]
+  },
+  {
+    "name": "shred.ing",
+    "coordinates": {
+      "lat": 47.16667,
+      "lon": 27.6
+    },
+    "radioStations": [
+      {
+        "title": "shred.ing",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://shred.ing/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://shred.ing"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Romania",
+    "coordinates": {
+      "lat": 47.2,
+      "lon": 27.0
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Romania",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Romania-Main.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radionoise.ro:9100/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise We Love 80s",
+    "coordinates": {
+      "lat": 47.2469,
+      "lon": 26.72291
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise We Love 80s",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-We-Love-80s-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://welove80slive.radionoise.ro:9080/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO FOLCLOR AUTENTIC ROMÂNIA",
+    "coordinates": {
+      "lat": 47.25,
+      "lon": 26.06667
+    },
+    "radioStations": [
+      {
+        "title": "RADIO FOLCLOR AUTENTIC ROMÂNIA",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://zeno.fm/_ipx/_/https://images.zeno.fm/08ix4l1G9paMJzRgnlGKrmLh7UCkDza-q9PxkkFAN2k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0luYk9JMXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lfY1NBbUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc1OTUyOTAwOTAwMA.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-178.surfernetwork.com/9gmprxrd6nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Z21wcnhyZDZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkcwMlc3amRpUkVHYk50QzE3ZVkxbUEiLCJpYXQiOjE3ODc3OTc4NDksImV4cCI6MTc4Nzc5NzkwOX0.C9CSg40JsH2GcggNwFbixcp7nyBAArFhFLrN5sBM4LU"
+      }
+    ]
+  },
+  {
+    "name": "Cloud Radio Romania",
+    "coordinates": {
+      "lat": 47.35,
+      "lon": 25.36667
+    },
+    "radioStations": [
+      {
+        "title": "Cloud Radio Romania",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cloudradio.ro/wp-content/uploads/2026/07/CloudRadio-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.cloudradio.ro:9400/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Costesti Arges Online",
+    "coordinates": {
+      "lat": 47.13316,
+      "lon": 24.50011
+    },
+    "radioStations": [
+      {
+        "title": "Radio Costesti Arges Online",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://costesti-ag.ro/wp-content/uploads/2025/12/logoradio-300x262.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.wrhradios.com:8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "Station Offline",
+    "coordinates": {
+      "lat": 47.15,
+      "lon": 23.86667
+    },
+    "radioStations": [
+      {
+        "title": "Station Offline",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live.station-offline.com/static/uploads/background.1769937941.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.station-offline.com/listen/station-offline/live.aac"
+      }
+    ]
+  },
+  {
+    "name": "HIT FM -Brașov  94,2 FM Zărnești 94,2 FM",
+    "coordinates": {
+      "lat": 47.25896,
+      "lon": 23.25651
+    },
+    "radioStations": [
+      {
+        "title": "HIT FM -Brașov  94,2 FM Zărnești 94,2 FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://img.radios.com.br/radio/lg/radio235295_1704928996.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.sonicpanel.ro/8082/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Club",
+    "coordinates": {
+      "lat": 47.2,
+      "lon": 23.05
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Club",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Club-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://clublive.radionoise.ro:9180/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Love",
+    "coordinates": {
+      "lat": 47.35,
+      "lon": 22.33333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Love",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Love-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lovelive.radionoise.ro:9070/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Manele",
+    "coordinates": {
+      "lat": 47.3,
+      "lon": 22.0
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Manele",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Manele-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://manelelive.radionoise.ro:9162/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Mix",
+    "coordinates": {
+      "lat": 47.68333,
+      "lon": 22.46667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Mix",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Mix-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mixlive.radionoise.ro:9190/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noise Top 40",
+    "coordinates": {
+      "lat": 47.79926,
+      "lon": 22.86255
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noise Top 40",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Top-40-Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://top40live.radionoise.ro:9108/stream"
+      }
+    ]
+  },
+  {
+    "name": "RFI Romania",
+    "coordinates": {
+      "lat": 47.65729,
+      "lon": 23.56808
+    },
+    "radioStations": [
+      {
+        "title": "RFI Romania",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://asculta.rfi.ro:9128/live.aac"
+      }
+    ]
+  },
+  {
+    "name": "Focus FM",
+    "coordinates": {
+      "lat": 47.81667,
+      "lon": 24.06667
+    },
+    "radioStations": [
+      {
+        "title": "Focus FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u"
+      }
+    ]
+  },
+  {
+    "name": "Realitatea FM",
+    "coordinates": {
+      "lat": 47.65527,
+      "lon": 24.66328
+    },
+    "radioStations": [
+      {
+        "title": "Realitatea FM",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorfm.ro/wp-content/uploads/2023/05/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://shout.realitatea.net:8001/rfmweb"
+      }
+    ]
+  },
+  {
+    "name": "Radio România Iași",
+    "coordinates": {
+      "lat": 47.53333,
+      "lon": 25.56667
+    },
+    "radioStations": [
+      {
+        "title": "Radio România Iași",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioiasi.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://89.238.227.6:8202"
+      }
+    ]
+  },
+  {
+    "name": "RADAIO ROMANCE21.ROMANIA",
+    "coordinates": {
+      "lat": 47.85,
+      "lon": 25.91667
+    },
+    "radioStations": [
+      {
+        "title": "RADAIO ROMANCE21.ROMANIA",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcast.net/200392"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio Cafe",
+    "coordinates": {
+      "lat": 47.75,
+      "lon": 26.66667
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio Cafe",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.playradio.org:9090/CafeHD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Doxologia",
+    "coordinates": {
+      "lat": 47.55,
+      "lon": 26.86667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Doxologia",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rlive.doxologia.ro/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádió KoKo",
+    "coordinates": {
+      "lat": 47.53333,
+      "lon": 27.43333
+    },
+    "radioStations": [
+      {
+        "title": "Rádió KoKo",
+        "subtitle": "Mureș",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiokokoms.ro/images/radiokoko-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://az10.yesstreaming.net:8210/radiokoko.mp3"
+      }
+    ]
+  },
+  {
+    "name": "CFM Radio",
+    "coordinates": {
+      "lat": 47.95,
+      "lon": 26.86667
+    },
+    "radioStations": [
+      {
+        "title": "CFM Radio",
+        "subtitle": "Constanta",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.radiocfm.ro:9090/CFM"
+      }
+    ]
+  },
+  {
+    "name": "Play Radio",
+    "coordinates": {
+      "lat": 47.95,
+      "lon": 26.4
+    },
+    "radioStations": [
+      {
+        "title": "Play Radio",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.playradio.org:8443/90HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Romania Targu Mures",
+    "coordinates": {
+      "lat": 47.93333,
+      "lon": 25.68333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Romania Targu Mures",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.romaniaregional.ro/wp-content/uploads/2014/04/logo-romania-regional.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radiomures.ro:8302/listen.pls;/stream"
+      }
+    ]
+  },
+  {
+    "name": "Smart Radio",
+    "coordinates": {
+      "lat": 47.91667,
+      "lon": 25.55
+    },
+    "radioStations": [
+      {
+        "title": "Smart Radio",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.smartradio.ro:8443/live"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MIRAJUL MUZICII",
+    "coordinates": {
+      "lat": 47.93195,
+      "lon": 23.88603
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MIRAJUL MUZICII",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radiomiraj.ro:9952/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Transilvania - Cluj",
+    "coordinates": {
+      "lat": 47.86667,
+      "lon": 23.43333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Transilvania - Cluj",
+        "subtitle": "Cluj",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-transilvania/play_250_250.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.radiotransilvania.ro/Cluj"
+      }
+    ]
+  },
+  {
+    "name": "radio SOMEȘ",
+    "coordinates": {
+      "lat": 47.96667,
+      "lon": 23.01667
+    },
+    "radioStations": [
+      {
+        "title": "radio SOMEȘ",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiosomes.ro/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.mediacp.eu/stream/radiosomes"
+      }
+    ]
+  },
+  {
+    "name": "Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia",
+    "coordinates": {
+      "lat": 44.62761,
+      "lon": 26.69147
+    },
+    "radioStations": [
+      {
+        "title": "Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radiomures.ro:8312"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA ROMANIA",
+    "coordinates": {
+      "lat": 44.78333,
+      "lon": 24.0
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA ROMANIA",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomaria.ro/wp-content/uploads/2017/06/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp2.com:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "Aripi Spre Cer",
+    "coordinates": {
+      "lat": 44.896,
+      "lon": 29.59294
+    },
+    "radioStations": [
+      {
+        "title": "Aripi Spre Cer",
+        "subtitle": "Romania",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mobile.stream.aripisprecer.ro/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nova22",
+    "coordinates": {
+      "lat": 46.73333,
+      "lon": 21.58333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nova22",
+        "subtitle": "Bucharest",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s2.myradiostream.com:4520/listen.m4a"
+      }
+    ]
+  }
+]
