@@ -923,7 +923,8 @@
     {
       "name": "Romania",
       "name_ru": "Румыния",
-      "flag": "https://flagcdn.com/w320/ro.png"
+      "flag": "https://flagcdn.com/w320/ro.png",
+      "stationsJSON":"https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/romania_radio_stations_150.json"
     },
     {
       "name": "Russia",
