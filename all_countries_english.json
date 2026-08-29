@@ -273,7 +273,8 @@
     {
       "name": "Croatia",
       "name_ru": "Хорватия",
-      "flag": "https://flagcdn.com/w320/hr.png"
+      "flag": "https://flagcdn.com/w320/hr.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/croatia_radio_stations_100.json"
     },
     {
       "name": "Cuba",
