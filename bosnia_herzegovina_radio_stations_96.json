@@ -1,0 +1,1730 @@
+[
+  {
+    "name": "Kalman Radio",
+    "coordinates": {
+      "lat": 42.92333,
+      "lon": 17.61556
+    },
+    "radioStations": [
+      {
+        "title": "Kalman Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.40.62.20:8004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Big2",
+    "coordinates": {
+      "lat": 42.9512,
+      "lon": 18.08702
+    },
+    "radioStations": [
+      {
+        "title": "Big2",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://big2.bigportal.ba:8100/big2"
+      }
+    ]
+  },
+  {
+    "name": "BH Radio 1",
+    "coordinates": {
+      "lat": 42.71197,
+      "lon": 18.34362
+    },
+    "radioStations": [
+      {
+        "title": "BH Radio 1",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bhrt.ba/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Balkan Hip-Hop Radio",
+    "coordinates": {
+      "lat": 43.16722,
+      "lon": 18.53528
+    },
+    "radioStations": [
+      {
+        "title": "Balkan Hip-Hop Radio",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.dukahosting.com:2022/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bihać Folk",
+    "coordinates": {
+      "lat": 43.084,
+      "lon": 17.95995
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bihać Folk",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.9.13.39:8071/stream"
+      }
+    ]
+  },
+  {
+    "name": "Patrisamato Radio",
+    "coordinates": {
+      "lat": 43.12139,
+      "lon": 17.68444
+    },
+    "radioStations": [
+      {
+        "title": "Patrisamato Radio",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://patrisamato.com/cover.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://patrisamato.com/listen/live/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Big Radio 1 Banja Luka",
+    "coordinates": {
+      "lat": 43.19694,
+      "lon": 17.545
+    },
+    "radioStations": [
+      {
+        "title": "Big Radio 1 Banja Luka",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.bigradiobl.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://big1.bigportal.ba:8100/big1"
+      }
+    ]
+  },
+  {
+    "name": "RSG Sarajevo",
+    "coordinates": {
+      "lat": 43.47281,
+      "lon": 17.32621
+    },
+    "radioStations": [
+      {
+        "title": "RSG Sarajevo",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.rsg.ba/static/assets/rsg-logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Miljacka",
+    "coordinates": {
+      "lat": 43.34333,
+      "lon": 17.80806
+    },
+    "radioStations": [
+      {
+        "title": "Radio Miljacka",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomiljacka.ba/static/images/visuals/logo-miljacka.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream1.custom.ba/listen/radio_miljacka/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Srce Krajine",
+    "coordinates": {
+      "lat": 43.40953,
+      "lon": 17.87855
+    },
+    "radioStations": [
+      {
+        "title": "Srce Krajine",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://srv.mediastriming.com/8330/stream"
+      }
+    ]
+  },
+  {
+    "name": "BIG 3",
+    "coordinates": {
+      "lat": 43.50464,
+      "lon": 18.44649
+    },
+    "radioStations": [
+      {
+        "title": "BIG 3",
+        "subtitle": "Republic of Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.bigradiobl.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://big3.bigportal.ba:8100/big3?1548653014620"
+      }
+    ]
+  },
+  {
+    "name": "Thrash Metal",
+    "coordinates": {
+      "lat": 43.50646,
+      "lon": 18.77854
+    },
+    "radioStations": [
+      {
+        "title": "Thrash Metal",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://79.120.77.11:8000/thrashmetal"
+      }
+    ]
+  },
+  {
+    "name": "Federalni Radio",
+    "coordinates": {
+      "lat": 43.7826,
+      "lon": 19.29256
+    },
+    "radioStations": [
+      {
+        "title": "Federalni Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_fbih.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radiopostaja Mir - Međugorje",
+    "coordinates": {
+      "lat": 43.66795,
+      "lon": 18.97564
+    },
+    "radioStations": [
+      {
+        "title": "Radiopostaja Mir - Međugorje",
+        "subtitle": "Herzegovina-Neretva Canton",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mirm.live/mir.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pakao Radio",
+    "coordinates": {
+      "lat": 43.81664,
+      "lon": 18.56949
+    },
+    "radioStations": [
+      {
+        "title": "Pakao Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.pakaoradio.net/img/bigthumb.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://securestream.pakaoradio.net/live"
+      }
+    ]
+  },
+  {
+    "name": "Day Dee Eurodance Radio",
+    "coordinates": {
+      "lat": 43.82222,
+      "lon": 18.20667
+    },
+    "radioStations": [
+      {
+        "title": "Day Dee Eurodance Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://daydeeeurodance.stream.laut.fm/daydeeeurodance"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bosanski Brod",
+    "coordinates": {
+      "lat": 43.65126,
+      "lon": 17.96082
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bosanski Brod",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://zpilipov-geckohost.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO VITEZ",
+    "coordinates": {
+      "lat": 43.82222,
+      "lon": 17.60917
+    },
+    "radioStations": [
+      {
+        "title": "RADIO VITEZ",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.iti.hr/listen/radio_vitez/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Feral Kalesija",
+    "coordinates": {
+      "lat": 43.73714,
+      "lon": 17.52869
+    },
+    "radioStations": [
+      {
+        "title": "Radio Feral Kalesija",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio-feral.ba/wp-content/uploads/2022/10/FERAL-LOGO-STRANICA-WEB-1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio M plus",
+    "coordinates": {
+      "lat": 43.71849,
+      "lon": 17.22515
+    },
+    "radioStations": [
+      {
+        "title": "Radio M plus",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiom.ba/assets/storage/photos/shares/radio-m-plus.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://team-data.ba:10000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Esoterica Radio S5",
+    "coordinates": {
+      "lat": 43.78265,
+      "lon": 16.92676
+    },
+    "radioStations": [
+      {
+        "title": "Esoterica Radio S5",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://esoterica.live/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Esoterica Radio S3",
+    "coordinates": {
+      "lat": 44.04583,
+      "lon": 16.84861
+    },
+    "radioStations": [
+      {
+        "title": "Esoterica Radio S3",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://esoterica.live/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Glas Drine",
+    "coordinates": {
+      "lat": 43.82695,
+      "lon": 17.00746
+    },
+    "radioStations": [
+      {
+        "title": "Radio Glas Drine",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvglasdrine.com/wp-content/uploads/2021/03/favicon-16x16-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast2.name.ba/proxy/glasdrine/stream"
+      }
+    ]
+  },
+  {
+    "name": "BIG Radio 2 Banja Luka",
+    "coordinates": {
+      "lat": 44.05722,
+      "lon": 17.45083
+    },
+    "radioStations": [
+      {
+        "title": "BIG Radio 2 Banja Luka",
+        "subtitle": "Republic of Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://big2.bigportal.ba:8080/big2"
+      }
+    ]
+  },
+  {
+    "name": "Big Radio 4 Domaćica",
+    "coordinates": {
+      "lat": 43.93806,
+      "lon": 17.58833
+    },
+    "radioStations": [
+      {
+        "title": "Big Radio 4 Domaćica",
+        "subtitle": "Republic of Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bigportal.ba/wp-content/uploads/2023/09/cropped-big-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://domacica.bigportal.ba:8100/domacica"
+      }
+    ]
+  },
+  {
+    "name": "Radio M",
+    "coordinates": {
+      "lat": 43.94295,
+      "lon": 18.08132
+    },
+    "radioStations": [
+      {
+        "title": "Radio M",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiom.ba/wp-content/uploads/2021/06/Radio-M-rotacija.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.team-data.ba:8030/stream"
+      }
+    ]
+  },
+  {
+    "name": "Slon Radio Tuzla",
+    "coordinates": {
+      "lat": 43.84864,
+      "lon": 18.35644
+    },
+    "radioStations": [
+      {
+        "title": "Slon Radio Tuzla",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;"
+      }
+    ]
+  },
+  {
+    "name": "Radio Slon",
+    "coordinates": {
+      "lat": 43.878,
+      "lon": 18.49699
+    },
+    "radioStations": [
+      {
+        "title": "Radio Slon",
+        "subtitle": "TK",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://31.47.0.130:88/broadwavehigh.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antena Radio, Jelah Tešanj",
+    "coordinates": {
+      "lat": 43.93817,
+      "lon": 18.80079
+    },
+    "radioStations": [
+      {
+        "title": "Antena Radio, Jelah Tešanj",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.tnt.ba/radio/8020/live?1616060583"
+      }
+    ]
+  },
+  {
+    "name": "Kalesijski Ba",
+    "coordinates": {
+      "lat": 44.17016,
+      "lon": 19.09195
+    },
+    "radioStations": [
+      {
+        "title": "Kalesijski Ba",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kalesijski.ba/wp-content/uploads/2024/09/cropped-images-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.9.95.57:8102/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Valentino",
+    "coordinates": {
+      "lat": 44.29896,
+      "lon": 18.85532
+    },
+    "radioStations": [
+      {
+        "title": "Radio Valentino",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_valentino.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Tešanj 92.2MHz",
+    "coordinates": {
+      "lat": 44.22669,
+      "lon": 18.69274
+    },
+    "radioStations": [
+      {
+        "title": "Radio Tešanj 92.2MHz",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiotesanj.ba/assets/site/assets/images/logo-white-mobile.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.daj.ba:8082/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio RTRS",
+    "coordinates": {
+      "lat": 44.16444,
+      "lon": 18.32833
+    },
+    "radioStations": [
+      {
+        "title": "Radio RTRS",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://lat.rtrs.tv/_bmp/logo-127x37.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RVK",
+    "coordinates": {
+      "lat": 44.20169,
+      "lon": 17.90397
+    },
+    "radioStations": [
+      {
+        "title": "RVK",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiovkladusa.ba/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rvk2021.radioca.st:8206/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sehara",
+    "coordinates": {
+      "lat": 44.22637,
+      "lon": 17.66583
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sehara",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiosehara.net/wp-content/uploads/2017/02/logo-2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast.name.ba:8000"
+      }
+    ]
+  },
+  {
+    "name": "Radio TK",
+    "coordinates": {
+      "lat": 44.14361,
+      "lon": 17.4
+    },
+    "radioStations": [
+      {
+        "title": "Radio TK",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_tk.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bosanski Petrovac",
+    "coordinates": {
+      "lat": 44.28237,
+      "lon": 17.08597
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bosanski Petrovac",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Merak",
+    "coordinates": {
+      "lat": 44.37389,
+      "lon": 16.38083
+    },
+    "radioStations": [
+      {
+        "title": "Radio Merak",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://176.9.113.180:8084/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADIO ZENIT",
+    "coordinates": {
+      "lat": 44.17944,
+      "lon": 16.36389
+    },
+    "radioStations": [
+      {
+        "title": "RADIO ZENIT",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.189.168.133:8020/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio USK",
+    "coordinates": {
+      "lat": 44.63039,
+      "lon": 16.07443
+    },
+    "radioStations": [
+      {
+        "title": "Radio USK",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_usk.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vogošća",
+    "coordinates": {
+      "lat": 44.55537,
+      "lon": 16.36897
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vogošća",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvvogosca.ba/logo6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Usora",
+    "coordinates": {
+      "lat": 44.61354,
+      "lon": 16.64062
+    },
+    "radioStations": [
+      {
+        "title": "Radio Usora",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_usora.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gradačac",
+    "coordinates": {
+      "lat": 44.53251,
+      "lon": 16.77682
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gradačac",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio MIX, BiH",
+    "coordinates": {
+      "lat": 44.41729,
+      "lon": 17.08288
+    },
+    "radioStations": [
+      {
+        "title": "Radio MIX, BiH",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.radiomix.ba/images/mix/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bosanska Krupa",
+    "coordinates": {
+      "lat": 44.49071,
+      "lon": 17.38161
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bosanska Krupa",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiobk.ba/wp-content/uploads/2024/11/Radio1-300x112.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RadioMajevica.com",
+    "coordinates": {
+      "lat": 44.60639,
+      "lon": 17.85972
+    },
+    "radioStations": [
+      {
+        "title": "RadioMajevica.com",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiomajevica.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiomajevica.com:7520/live"
+      }
+    ]
+  },
+  {
+    "name": "﻿﻿Radio Osvit",
+    "coordinates": {
+      "lat": 44.44583,
+      "lon": 18.14972
+    },
+    "radioStations": [
+      {
+        "title": "﻿﻿Radio Osvit",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dukahosting.com/8020/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Studio M",
+    "coordinates": {
+      "lat": 44.44874,
+      "lon": 18.20521
+    },
+    "radioStations": [
+      {
+        "title": "Radio Studio M",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.studiomteslic.net/images/logo_new.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.leftor.com/proxy/studiom2/stream"
+      }
+    ]
+  },
+  {
+    "name": "Alpha 93.1 FM Riscado",
+    "coordinates": {
+      "lat": 44.53842,
+      "lon": 18.66709
+    },
+    "radioStations": [
+      {
+        "title": "Alpha 93.1 FM Riscado",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kadushi.westream.cloud/listen/alfafm/xstream"
+      }
+    ]
+  },
+  {
+    "name": "Esoterica Radio S4",
+    "coordinates": {
+      "lat": 44.48212,
+      "lon": 18.78796
+    },
+    "radioStations": [
+      {
+        "title": "Esoterica Radio S4",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://esoterica.live/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio USK 1",
+    "coordinates": {
+      "lat": 44.38605,
+      "lon": 19.10247
+    },
+    "radioStations": [
+      {
+        "title": "Radio USK 1",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiousk.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bobar",
+    "coordinates": {
+      "lat": 44.75874,
+      "lon": 19.21437
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bobar",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiobobar.com/wp-content/uploads/2017/11/logo_new_radio1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radios.rs:9082/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Postaja Odzak",
+    "coordinates": {
+      "lat": 44.87162,
+      "lon": 18.8163
+    },
+    "radioStations": [
+      {
+        "title": "Radio Postaja Odzak",
+        "subtitle": "-",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcast.net/70602"
+      }
+    ]
+  },
+  {
+    "name": "RADIO MARIA BOSNIA",
+    "coordinates": {
+      "lat": 44.70819,
+      "lon": 18.48834
+    },
+    "radioStations": [
+      {
+        "title": "RADIO MARIA BOSNIA",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8034/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Brcko District",
+    "coordinates": {
+      "lat": 44.70307,
+      "lon": 18.3101
+    },
+    "radioStations": [
+      {
+        "title": "Radio Brcko District",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.191.0.45:8000"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rujnica Zavidovici",
+    "coordinates": {
+      "lat": 44.73179,
+      "lon": 18.08698
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rujnica Zavidovici",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://r.name.ba:7115/stream"
+      }
+    ]
+  },
+  {
+    "name": "Kontakt Radio",
+    "coordinates": {
+      "lat": 44.87021,
+      "lon": 17.66256
+    },
+    "radioStations": [
+      {
+        "title": "Kontakt Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mojkontakt.com/wp-content/uploads/2022/11/Mediamodifier-Design-2.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mojstream.eu:8114/kontaktradio"
+      }
+    ]
+  },
+  {
+    "name": "Kupreški Radio",
+    "coordinates": {
+      "lat": 44.72453,
+      "lon": 17.32431
+    },
+    "radioStations": [
+      {
+        "title": "Kupreški Radio",
+        "subtitle": "Kanton 10",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://178.209.2.100:10000/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio HIT FM",
+    "coordinates": {
+      "lat": 44.77879,
+      "lon": 17.20629
+    },
+    "radioStations": [
+      {
+        "title": "Radio HIT FM",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Islamski Radio",
+    "coordinates": {
+      "lat": 44.8917,
+      "lon": 16.89814
+    },
+    "radioStations": [
+      {
+        "title": "Islamski Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eu3.fastcast4u.com:5762/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Busovača",
+    "coordinates": {
+      "lat": 44.7667,
+      "lon": 16.667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Busovača",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:1510/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kameleon",
+    "coordinates": {
+      "lat": 44.8825,
+      "lon": 16.15139
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kameleon",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Moj Radio",
+    "coordinates": {
+      "lat": 44.81694,
+      "lon": 15.87083
+    },
+    "radioStations": [
+      {
+        "title": "Moj Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/moj_radio.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADIO KISS KISELJAK",
+    "coordinates": {
+      "lat": 44.96694,
+      "lon": 15.94306
+    },
+    "radioStations": [
+      {
+        "title": "RADIO KISS KISELJAK",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.kissfm.ba:8010/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Slobodna Evropa",
+    "coordinates": {
+      "lat": 44.96,
+      "lon": 16.17917
+    },
+    "radioStations": [
+      {
+        "title": "Radio Slobodna Evropa",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n11.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABihgJBEQA_ptijcBtD6_jYw"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bihać",
+    "coordinates": {
+      "lat": 45.04643,
+      "lon": 16.37782
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bihać",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiobihac.com/images/logo/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiobihaclive.radioca.st:8249/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 7 Tuzla",
+    "coordinates": {
+      "lat": 44.97991,
+      "lon": 16.71401
+    },
+    "radioStations": [
+      {
+        "title": "Radio 7 Tuzla",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtv7.ba/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KUPRESKIRADIO",
+    "coordinates": {
+      "lat": 45.14484,
+      "lon": 17.25453
+    },
+    "radioStations": [
+      {
+        "title": "KUPRESKIRADIO",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ec2s.crolive.com.hr:1265/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Magic",
+    "coordinates": {
+      "lat": 45.0973,
+      "lon": 17.52331
+    },
+    "radioStations": [
+      {
+        "title": "Radio Magic",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.iradio.pro:8034/radiomagic"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mango",
+    "coordinates": {
+      "lat": 44.99121,
+      "lon": 17.7415
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mango",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomango.eu/wp-content/uploads/2020/11/cropped-MANGO-PROZIRNA.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://158.69.119.6:8780/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Preporod Odzak 95,2",
+    "coordinates": {
+      "lat": 44.97839,
+      "lon": 17.90779
+    },
+    "radioStations": [
+      {
+        "title": "Radio Preporod Odzak 95,2",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiopreporod.com/mobile/index_htm_files/4889@2x.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s1.voscast.com:7986"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bihać Caffe",
+    "coordinates": {
+      "lat": 45.02461,
+      "lon": 18.32107
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bihać Caffe",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.9.13.39:8075/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio - Livno",
+    "coordinates": {
+      "lat": 45.04327,
+      "lon": 18.66996
+    },
+    "radioStations": [
+      {
+        "title": "Radio - Livno",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast2.name.ba:8127/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio BA",
+    "coordinates": {
+      "lat": 45.18497,
+      "lon": 15.80579
+    },
+    "radioStations": [
+      {
+        "title": "Radio BA",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioba.ba/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Novi Radio Bihać",
+    "coordinates": {
+      "lat": 45.17667,
+      "lon": 16.80944
+    },
+    "radioStations": [
+      {
+        "title": "Novi Radio Bihać",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Konjic",
+    "coordinates": {
+      "lat": 43.25861,
+      "lon": 18.11333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Konjic",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_konjic.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio ASK Ilidža",
+    "coordinates": {
+      "lat": 45.21956,
+      "lon": 16.53929
+    },
+    "radioStations": [
+      {
+        "title": "Radio ASK Ilidža",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_ask.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Olovo",
+    "coordinates": {
+      "lat": 44.94975,
+      "lon": 17.35014
+    },
+    "radioStations": [
+      {
+        "title": "Radio Olovo",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.olovo.ba/storage/2020/04/logo_radio_olovo@2x.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://sonicpanel.vmakerhost.com:8038/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bugojno",
+    "coordinates": {
+      "lat": 44.08007,
+      "lon": 17.15556
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bugojno",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvbugojno.ba/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s3.free-shoutcast.com/stream/18156"
+      }
+    ]
+  },
+  {
+    "name": "Radio Goražde",
+    "coordinates": {
+      "lat": 44.60321,
+      "lon": 18.97967
+    },
+    "radioStations": [
+      {
+        "title": "Radio Goražde",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvbpk.ba/wp-content/uploads/2017/12/radio-gz.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gračanica",
+    "coordinates": {
+      "lat": 42.87645,
+      "lon": 18.42967
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gračanica",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ROBOT HIT RADIO",
+    "coordinates": {
+      "lat": 43.61781,
+      "lon": 19.36719
+    },
+    "radioStations": [
+      {
+        "title": "ROBOT HIT RADIO",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://robothitradio.com/pause.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://slusaj.off.ba/radio/8000/robot"
+      }
+    ]
+  },
+  {
+    "name": "A Radio Banja Luka",
+    "coordinates": {
+      "lat": 44.18455,
+      "lon": 19.33085
+    },
+    "radioStations": [
+      {
+        "title": "A Radio Banja Luka",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiouzivo.online/files/images/radio-uzivo/A-Radio-Banja-Luka.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://aradiostream.atvbl.com/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Prača",
+    "coordinates": {
+      "lat": 44.39261,
+      "lon": 16.62001
+    },
+    "radioStations": [
+      {
+        "title": "Radio Prača",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/radio_praca.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Imperia Radio",
+    "coordinates": {
+      "lat": 45.13747,
+      "lon": 17.98722
+    },
+    "radioStations": [
+      {
+        "title": "Imperia Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/bs/5/58/Imperia_logo.jpg?20200315174653",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Breza",
+    "coordinates": {
+      "lat": 44.61875,
+      "lon": 17.14351
+    },
+    "radioStations": [
+      {
+        "title": "Radio Breza",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.phonostar.de/images/auto_created/Radio_Breza2124x124.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sonicpanel.vmakerhost.com/8192/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ljubuški",
+    "coordinates": {
+      "lat": 44.40596,
+      "lon": 18.52648
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ljubuški",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaI3lhMhQrBrc3EkwkguvmYxa0NMChBnaS2zdLOhy91w&s",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s8.iqstreaming.com:8044/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Laktasi",
+    "coordinates": {
+      "lat": 44.87851,
+      "lon": 18.42764
+    },
+    "radioStations": [
+      {
+        "title": "Radio Laktasi",
+        "subtitle": "Republika Srpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.laktasiturizam.org/live"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 43.6658,
+      "lon": 18.44593
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Sana",
+    "coordinates": {
+      "lat": 43.3829,
+      "lon": 17.59416
+    },
+    "radioStations": [
+      {
+        "title": "Radio Sana",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sanartv.ba/wp-content/uploads/2017/03/Logo_Kapica.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://quasar.shoutca.st:8174/stream"
+      }
+    ]
+  },
+  {
+    "name": "Esoterica Radio S2",
+    "coordinates": {
+      "lat": 44.39875,
+      "lon": 17.94103
+    },
+    "radioStations": [
+      {
+        "title": "Esoterica Radio S2",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://esoterica.live/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Yes Radio",
+    "coordinates": {
+      "lat": 45.14593,
+      "lon": 16.01728
+    },
+    "radioStations": [
+      {
+        "title": "Yes Radio",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://77.78.198.84:8000"
+      }
+    ]
+  },
+  {
+    "name": "Radio Bet",
+    "coordinates": {
+      "lat": 44.9483,
+      "lon": 18.11669
+    },
+    "radioStations": [
+      {
+        "title": "Radio Bet",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast1.asurahosting.com/proxy/betradio/stream"
+      }
+    ]
+  },
+  {
+    "name": "Esoterica Radio S1",
+    "coordinates": {
+      "lat": 44.55058,
+      "lon": 18.4568
+    },
+    "radioStations": [
+      {
+        "title": "Esoterica Radio S1",
+        "subtitle": "Sarajevo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://esoterica.live/images/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Daš Extra",
+    "coordinates": {
+      "lat": 44.13311,
+      "lon": 18.12292
+    },
+    "radioStations": [
+      {
+        "title": "Radio Daš Extra",
+        "subtitle": "Serpska",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cast2.name.ba:8085/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Valentino ORV Life",
+    "coordinates": {
+      "lat": 43.09472,
+      "lon": 18.17028
+    },
+    "radioStations": [
+      {
+        "title": "Radio Valentino ORV Life",
+        "subtitle": "Bosnia and Herzegovina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://otv.ovh/live_radio/orv/icecast.audio"
+      }
+    ]
+  }
+]
