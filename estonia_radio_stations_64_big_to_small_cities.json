@@ -503,24 +503,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 58.80861,
-      "lon": 25.4325
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Estonia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Äripäeva Raadio",
     "coordinates": {
