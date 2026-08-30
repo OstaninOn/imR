@@ -4589,24 +4589,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 48.01198,
-      "lon": 14.97334
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Austria",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "AIR-Radio",
     "coordinates": {
