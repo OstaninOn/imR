@@ -521,24 +521,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 32.37451,
-      "lon": 62.11638
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Afghanistan",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "https://mp3islam.com/favicon.ico",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "esRADIO",
     "coordinates": {
