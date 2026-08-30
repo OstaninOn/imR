@@ -2519,24 +2519,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 50.98512,
-      "lon": 3.56654
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Belgium",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Qmusic Maximum Hits",
     "coordinates": {
