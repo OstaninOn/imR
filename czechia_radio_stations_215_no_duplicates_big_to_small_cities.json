@@ -3653,24 +3653,7 @@
       }
     ]
   },
-  {
-    "name": "Abdulbasit Abdulsamad",
-    "coordinates": {
-      "lat": 50.16238,
-      "lon": 16.91702
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "Czechia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Chat Rádio",
     "coordinates": {
