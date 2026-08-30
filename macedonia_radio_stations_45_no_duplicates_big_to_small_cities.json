@@ -773,24 +773,7 @@
       }
     ]
   },
-  {
-    "name": "Sopishte",
-    "coordinates": {
-      "lat": 41.9556,
-      "lon": 21.4278
-    },
-    "radioStations": [
-      {
-        "title": "Abdulbasit Abdulsamad",
-        "subtitle": "North Macedonia",
-        "logo": "dot.radiowaves.left.and.right",
-        "imageURL": "null",
-        "imageSize": 85,
-        "playerImageSize": 85,
-        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
-      }
-    ]
-  },
+  
   {
     "name": "Chucher Sandevo",
     "coordinates": {
