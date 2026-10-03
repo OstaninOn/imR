@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MaXXima",
+    "coordinates": {
+      "lat": -19.0944,
+      "lon": -169.9122
+    },
+    "radioStations": [
+      {
+        "title": "MaXXima",
+        "subtitle": "Niue",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://maxxima.mine.nu:8000/maxx.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": -19.1283,
+      "lon": -169.8506
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Niue",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  }
+]
