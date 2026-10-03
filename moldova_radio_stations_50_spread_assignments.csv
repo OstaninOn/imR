@@ -1,0 +1,51 @@
+station_name,place_name,population,lat,lon,streamURL,imageURL
+Sex Sound Radio,Vulcăneşti,14352,45.68492,28.40613,https://sexsoundradio.com:8000/radio.mp3,https://sexsoundradio.com/favicon.ico
+Retro FM Moldova,Taraclia,13512,45.90321,28.66628,https://efir.retrofm.md:8000/retro,https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png
+Hit FM 2000s HITS,Ceadîr-Lunga,22700,46.06169,28.83078,https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac,https://www.ascultalive.ro/images/stations/1736887228.webp
+Dance Fm Moldova,Comrat,22911,46.29488,28.65713,http://37.233.41.76:8000/dancefm,http://dancefmmoldova.md/images/96x96/10648733/dancefmlogosmall.png
+Kiss FM Moldova,Cahul,34492,45.90456,28.19516,https://live.kissfm.md/kissfm.chisinau,
+Aquarelle FM,Leova,14301,46.48195,28.25298,http://93.115.137.75:8000/aquarellefm.mp3,http://www.frocus.net/images/logotv/aquarelle-fm.jpg
+Radio Noroc Moldova,Iargara,5600,46.4252,28.42676,https://stream.noroc.tv/radionoroc_aac,https://www.radionoroc.md/favicon.ico
+Radio DAR,Cimişlia,12464,46.52629,28.7649,http://188.138.191.214/RadioDar,
+Hit FM Hot Hits,Căuşeni,21690,46.63738,29.41087,https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac,http://hitfm.md/favicon.ico
+Drive FM,Slobozia,15356,46.72927,29.70446,http://109.185.236.241:8000/DriveFM,
+Eco FM,Dnestrovsc,10426,46.624,29.906,http://188.138.204.98:8080/ecoFM,https://ecofm.md/wp-content/uploads/2017/10/cropped-customcolor_icon_transparent_background-180x180.png
+Crucial Velocity Radio,Tiraspol,157000,46.84275,29.6284,http://ais-sa2.cdnstream1.com/1369_128,https://live.mystreamplayer.com/configs/images/crucialvelocityradio_icon.png
+Hit Fm Drive Mode,Hryhoriopol,9456,47.15413,29.30008,https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac,
+Radio Relax - lo-fi,Chisinau,635994,47.00902,28.85938,https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac,https://radiorelax.md/front-assets/favicon/apple-touch-icon.png
+Jurnal Fm,Strășeni,19225,47.14216,28.60774,https://audio.jurnalfm.md/hq,https://jurnalfm.md/wp-content/uploads/2020/08/JFM-LOGO.png
+Radio ROKS Moldova,Nisporeni,11718,47.08025,28.17098,https://stream.dixi.md:9443/Roks,https://gitlab.com/alexby306/host-images/-/raw/c423ddd4e04814d37b020222f2ff4fca04aef928/radio-roks.jpg
+HIT FM Eurovision Hits,Fălești,14377,47.57667,27.71264,https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac,https://hitfm.md/img/channel/qbDkiVaF9GmGwBLA7Za2MGtZAOVhs7h2.png
+Love Radio Moldova,Ungheni,34422,47.21023,27.80013,http://37.233.41.76:8000/lovefm,
+Radio ZUM4,Călăraşi,14066,47.25548,28.30953,https://streams.radiozum.md/listen/zum4/ZUM4,https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg
+Radio Plai,Bucovăţ,1600,47.19064,28.45802,https://stream.radioplai.md/live,https://www.radioplai.md/logo-radio-plai.png
+Radio Relax - Nature,Orhei,24918,47.38503,28.82535,https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac,https://radiorelax.md/front-assets/favicon/apple-touch-icon.png
+DeepNova Radio,Dubăsari,23254,47.26562,29.16667,https://a8.asurahosting.com:8820/radio.mp3,https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp
+Glowwave-FM,Plopi,1277,47.95977,29.16068,https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1,https://glowlinks.net/the-glow-network.png
+Vocea Basarabiei,Rîbniţa,55455,47.76817,29.01,https://stream.noroc.tv/radiovb_aac,https://voceabasarabiei.md/wp-content/uploads/2022/08/cropped-Favicon-VB-192x192.png
+Radio Studentus,Floreşti,16759,47.89168,28.29339,http://radiolive.studentus.md:8000/live,
+Radio Record Moldova,Bălţi,125000,47.76291,27.92854,http://212.56.220.74:8000/RecordMD,
+HIT FM Русский Хит,Rîşcani,12893,47.94829,27.56669,https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac,
+Radio ZUM 1,Edineţ,22872,48.17319,27.30075,https://streams.radiozum.md/listen/zum1/ZUM1,https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png
+Первое радио в вашем мобильном,Briceni,14132,48.35628,27.70293,https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio,
+Radio Relax - Jazz & Blues,Drochia,16080,48.03686,27.81242,https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac,https://radiorelax.md/front-assets/favicon/apple-touch-icon.png
+Haliz Gagauz Radiosu - GRT,Soroca,27423,48.15659,28.28489,http://s02.radio-tochka.com:8020/radio?type=.mp3,
+Radio Ai Noștri,Camenca,11072,48.03233,28.69899,https://s5.radio.co/sfd9f42d1d/listen,https://www.ainostri.com/favicon.ico
+Master Class FM (MD),Dancu,10000,46.75818,28.20716,https://listen3.myradio24.com/master1,
+Realitatea FM,Anenii Noi,8250,46.87795,29.23503,https://radio.realitatea.group/realitatea,https://realitatea.md/wp-content/smush-webp/2021/03/cropped-rlive_avatar1-180x180.jpg.webp
+Inter FM 107.7,Hînceşti,16900,46.83089,28.58999,https://inter-fm.com/hlsstream/stream.m3u8,
+CITY FM,Palanca,2020,46.40861,30.09611,https://live.cityfm.md:8001/cityfm,https://cityfm.md/images/360/13545635/LOGOCITY004.png
+HIT FM Tricolor de Hituri,Mîndreşti,9280,47.50525,28.27687,https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac,https://hitfm.md/favicon.png?v=2
+Radio Moldova,Giurgiuleşti,3074,45.48167,28.19722,http://radiolive.trm.md:8000/RC-Actualitati,https://radiomoldova.md/apple-touch-icon.png
+Radio Vintage,Briceni,9900,48.36302,27.07847,https://live.radiovintage.md/vintage_main,https://radiovintage.md/favicon/apple-touch-icon.png?v=3
+Megapolis FM Moldova,Ucrainca,1559,46.43229,29.27548,https://megapolisfm.md:8443/886,
+Muz FM Moldova,Basarabeasca,10809,46.33352,28.96165,https://live.muzfm.md/muzfm,
+Hit FM Best Hits,Cantemir,3829,46.27749,28.20052,https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac,
+Radio ZUM 2,Pervomaisc,1306,46.69857,29.09089,https://streams.radiozum.md/listen/zum2/ZUM2,https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png
+Hit FM Dance,Ştefan Vodă,7700,46.51294,29.66223,https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac,
+Hit FM Summer Hits,Ocniţa,9325,48.38231,27.43864,https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac,
+Kiss FM Chișinău,Glodeni,10146,47.77467,27.51753,https://dc.digi.live.kissfm.ro/kissfm.chisinau,https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1
+VibeFM,Congaz,13406,46.10744,28.59303,https://stream.radio.co/s6a544f6c9/listen,https://static.wixstatic.com/media/daef01_5bbe85f23d3d44819ae8a0f4e2dc7097~mv2.png
+Radio Moldova Tineret,Vadul lui Vodă,5300,47.09009,29.0757,https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8,https://radiomoldova.md/apple-touch-icon.png
+Focul din Vatră,Sîngerei,14600,47.63694,28.1407,https://aiciascult.eu/radio,https://aiciascult.eu/favicon.ico
+DeepNova Radio - DanceNova,Popeştii de Sus,1463,48.08806,28.02556,https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3),https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png.webp
