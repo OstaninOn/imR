@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Youtube",
+    "coordinates": {
+      "lat": -14.00943,
+      "lon": -171.77682
+    },
+    "radioStations": [
+      {
+        "title": "Youtube",
+        "subtitle": "Heod",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://player.181fm.com/?station=181-xtraditional",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836"
+      }
+    ]
+  },
+  {
+    "name": "LOVE FM: Musika lauiloa i le gagana Sipaniolo",
+    "coordinates": {
+      "lat": -13.88695,
+      "lon": -171.58805
+    },
+    "radioStations": [
+      {
+        "title": "LOVE FM: Musika lauiloa i le gagana Sipaniolo",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "National Public Radio",
+    "coordinates": {
+      "lat": -13.86392,
+      "lon": -171.70438
+    },
+    "radioStations": [
+      {
+        "title": "National Public Radio",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://npr-ice.streamguys1.com/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Fm Christmas classics",
+    "coordinates": {
+      "lat": -13.83333,
+      "lon": -171.76666
+    },
+    "radioStations": [
+      {
+        "title": "Fm Christmas classics",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.181.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.181fm.com/181-xtraditional_128k.mp3"
+      }
+    ]
+  },
+  {
+    "name": "希望之声",
+    "coordinates": {
+      "lat": -13.83183,
+      "lon": -172.03602
+    },
+    "radioStations": [
+      {
+        "title": "希望之声",
+        "subtitle": "USA",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.soundofhope.org/img/logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://livecast1.soundofhope.org:2087/soh-live"
+      }
+    ]
+  },
+  {
+    "name": "Fox news",
+    "coordinates": {
+      "lat": -13.75859,
+      "lon": -172.29858
+    },
+    "radioStations": [
+      {
+        "title": "Fox news",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Christmas 356 Santa's Radio",
+    "coordinates": {
+      "lat": -13.67147,
+      "lon": -172.17768
+    },
+    "radioStations": [
+      {
+        "title": "Christmas 356 Santa's Radio",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://us7.streamingpulse.com/2826/index.php",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://us3.streamingpulse.com/ssl/7038"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": -13.45132,
+      "lon": -172.40177
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mp3islam.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rashi online",
+    "coordinates": {
+      "lat": -13.51963,
+      "lon": -172.63784
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rashi online",
+        "subtitle": "South Carolina",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/totzCmb.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.free-shoutcast.com/stream/18214"
+      }
+    ]
+  },
+  {
+    "name": "EXA FM: Pop musika i le Igilisi ma le Sipaniolo",
+    "coordinates": {
+      "lat": -13.82933,
+      "lon": -171.80604
+    },
+    "radioStations": [
+      {
+        "title": "EXA FM: Pop musika i le Igilisi ma le Sipaniolo",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.exafm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Planet black",
+    "coordinates": {
+      "lat": -13.80314,
+      "lon": -171.89098
+    },
+    "radioStations": [
+      {
+        "title": "Planet black",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://mp3.planetradio.de/plrchannels/hqblackbeats.aac"
+      }
+    ]
+  },
+  {
+    "name": "S1lhoutte - Rock FM",
+    "coordinates": {
+      "lat": -13.82678,
+      "lon": -171.79333
+    },
+    "radioStations": [
+      {
+        "title": "S1lhoutte - Rock FM",
+        "subtitle": "Amersham",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rockfm.rockfm.com.tr:9450"
+      }
+    ]
+  },
+  {
+    "name": "WMIL 106.1 FM",
+    "coordinates": {
+      "lat": -13.84432,
+      "lon": -171.81397
+    },
+    "radioStations": [
+      {
+        "title": "WMIL 106.1 FM",
+        "subtitle": "Samoa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.revma.ihrhls.com/zc2677/hls.m3u8?streamid=2677"
+      }
+    ]
+  }
+]
