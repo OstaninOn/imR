@@ -749,7 +749,8 @@
     {
       "name": "Moldova",
       "name_ru": "Молдова",
-      "flag": "https://flagcdn.com/w320/md.png"
+      "flag": "https://flagcdn.com/w320/md.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/moldova_radio.json"
     },
     {
       "name": "Monaco",
