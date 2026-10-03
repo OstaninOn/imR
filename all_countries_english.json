@@ -1194,7 +1194,8 @@
     {
       "name": "Ukraine",
       "name_ru": "Украина",
-      "flag": "https://flagcdn.com/w320/ua.png"
+      "flag": "https://flagcdn.com/w320/ua.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/ukraine_radio.json"
     },
     {
       "name": "United Arab Emirates",
