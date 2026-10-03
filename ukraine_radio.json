@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Hit FM (UKraine) - 128kb/s",
+    "coordinates": {
+      "lat": 44.60795,
+      "lon": 33.52134
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM (UKraine) - 128kb/s",
+        "subtitle": "Kiev",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.95.206.17/HitFM"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM 106.5",
+    "coordinates": {
+      "lat": 44.95719,
+      "lon": 34.11079
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM 106.5",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.kissfm.ua/KissFM"
+      }
+    ]
+  },
+  {
+    "name": "Люкс FМ 103.1",
+    "coordinates": {
+      "lat": 45.03199,
+      "lon": 35.38153
+    },
+    "radioStations": [
+      {
+        "title": "Люкс FМ 103.1",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://lux.fm/favicons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://lux.radio.tvstitch.com/kyiv/lux_adv_sd"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS Ballads",
+    "coordinates": {
+      "lat": 45.35675,
+      "lon": 36.47542
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS Ballads",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_Ballads_HD"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Ukrainian",
+    "coordinates": {
+      "lat": 45.11201,
+      "lon": 35.4786
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Ukrainian",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_Ukr"
+      }
+    ]
+  },
+  {
+    "name": "Blues & Rock Radio",
+    "coordinates": {
+      "lat": 45.7131,
+      "lon": 34.39273
+    },
+    "radioStations": [
+      {
+        "title": "Blues & Rock Radio",
+        "subtitle": "Chernivtsi",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.ibb.co/7pjwNCm/Blues-Rock.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/bluesrock"
+      }
+    ]
+  },
+  {
+    "name": "Радио НВ",
+    "coordinates": {
+      "lat": 45.20091,
+      "lon": 33.36655
+    },
+    "radioStations": [
+      {
+        "title": "Радио НВ",
+        "subtitle": "Kiev",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://d3e54v103j8qbb.cloudfront.net/static/designer_favicon.5ea478d03e.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.218.212.84:8000/radionv.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Хіт FM Сучасні хіти",
+    "coordinates": {
+      "lat": 45.50657,
+      "lon": 32.69776
+    },
+    "radioStations": [
+      {
+        "title": "Хіт FM Сучасні хіти",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.hitfm.ua/HitFM_Top"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS Hard'n'Heavy",
+    "coordinates": {
+      "lat": 45.40279,
+      "lon": 29.5869
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS Hard'n'Heavy",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_HardnHeavy_HD"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM",
+    "coordinates": {
+      "lat": 45.35058,
+      "lon": 28.83751
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play-lh.googleusercontent.com/tfpSUUVjoePVQ9FAD1rnu6xgnapf1RUjg-iPMx8dwKOWQL1aJ69aNto4je6PHednhA=w240-h480-rw",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_HD"
+      }
+    ]
+  },
+  {
+    "name": "Хіт FM",
+    "coordinates": {
+      "lat": 45.45421,
+      "lon": 28.27731
+    },
+    "radioStations": [
+      {
+        "title": "Хіт FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.hitfm.ua/HitFM_HD"
+      }
+    ]
+  },
+  {
+    "name": "РАДІОПІХОТА",
+    "coordinates": {
+      "lat": 45.98526,
+      "lon": 29.43286
+    },
+    "radioStations": [
+      {
+        "title": "РАДІОПІХОТА",
+        "subtitle": "Choose One...",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pihota.fm/imgs/default-cover.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.pihota.fm/listen/radio/aac64"
+      }
+    ]
+  },
+  {
+    "name": "TRANCE IS STAR RADIO",
+    "coordinates": {
+      "lat": 46.19484,
+      "lon": 30.34827
+    },
+    "radioStations": [
+      {
+        "title": "TRANCE IS STAR RADIO",
+        "subtitle": "Novosyolky",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://abs.twimg.com/favicons/twitter.2.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://myradio24.org/tisradio"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Максимум 94.2",
+    "coordinates": {
+      "lat": 46.29914,
+      "lon": 30.65529
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Максимум 94.2",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maximum.fm/assets/images/favicons/favicon-96x96.png?v=53",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://lux.radio.tvstitch.com/kyiv/max_adv_sd"
+      }
+    ]
+  },
+  {
+    "name": "KissFm Deep",
+    "coordinates": {
+      "lat": 46.17477,
+      "lon": 32.31765
+    },
+    "radioStations": [
+      {
+        "title": "KissFm Deep",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.kissfm.ua/KissFM_Deep_Live"
+      }
+    ]
+  },
+  {
+    "name": "Хіт ФМ Українські хіти",
+    "coordinates": {
+      "lat": 46.10919,
+      "lon": 33.69206
+    },
+    "radioStations": [
+      {
+        "title": "Хіт ФМ Українські хіти",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.hitfm.ua/HitFM_Ukr"
+      }
+    ]
+  },
+  {
+    "name": "Мелодія FM",
+    "coordinates": {
+      "lat": 45.95547,
+      "lon": 33.79261
+    },
+    "radioStations": [
+      {
+        "title": "Мелодія FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.onlineradiobox.com/img/l/6/26.v35.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.melodiafm.ua/MelodiaFM"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Deep",
+    "coordinates": {
+      "lat": 46.37179,
+      "lon": 35.3701
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Deep",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play.tavr.media/static/image/header_menu/kiss_deep_210x210.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_Deep"
+      }
+    ]
+  },
+  {
+    "name": "Мелодія FM 95.2",
+    "coordinates": {
+      "lat": 46.96098,
+      "lon": 37.27446
+    },
+    "radioStations": [
+      {
+        "title": "Мелодія FM 95.2",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.melodiafm.ua/MelodiaFM"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Digital HD",
+    "coordinates": {
+      "lat": 46.75578,
+      "lon": 36.78815
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Digital HD",
+        "subtitle": "Kiev",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_Digital_HD"
+      }
+    ]
+  },
+  {
+    "name": "Хіт ФМ Найбільші хіти",
+    "coordinates": {
+      "lat": 46.84735,
+      "lon": 35.38196
+    },
+    "radioStations": [
+      {
+        "title": "Хіт ФМ Найбільші хіти",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.hitfm.ua/HitFM_Best"
+      }
+    ]
+  },
+  {
+    "name": "Єдині новини 24 - BREAKING - LIVE",
+    "coordinates": {
+      "lat": 46.84585,
+      "lon": 34.37489
+    },
+    "radioStations": [
+      {
+        "title": "Єдині новини 24 - BREAKING - LIVE",
+        "subtitle": "БАНДЕРШТАТ",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online-news.radioplayer.ua/RadioNews"
+      }
+    ]
+  },
+  {
+    "name": "Radio Relax",
+    "coordinates": {
+      "lat": 46.75966,
+      "lon": 33.35591
+    },
+    "radioStations": [
+      {
+        "title": "Radio Relax",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radiorelax.ua/RadioRelax"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROCKS Kyiv 103.6FM HD",
+    "coordinates": {
+      "lat": 46.97625,
+      "lon": 31.99296
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROCKS Kyiv 103.6FM HD",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioroks.ua/RadioROKS_HD"
+      }
+    ]
+  },
+  {
+    "name": "Brokenbeats",
+    "coordinates": {
+      "lat": 46.48572,
+      "lon": 30.74383
+    },
+    "radioStations": [
+      {
+        "title": "Brokenbeats",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://brokenbeats.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.brokenbeats.net/tune"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS Classic Rock",
+    "coordinates": {
+      "lat": 46.85479,
+      "lon": 30.07091
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS Classic Rock",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioroks.ua/RadioROKS_ClassicRock_HD"
+      }
+    ]
+  },
+  {
+    "name": "Наше Радіо 107.9",
+    "coordinates": {
+      "lat": 46.44254,
+      "lon": 29.45463
+    },
+    "radioStations": [
+      {
+        "title": "Наше Радіо 107.9",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.nasheradio.ua/NasheRadio"
+      }
+    ]
+  },
+  {
+    "name": "Громадське радіо / Hromadske radio",
+    "coordinates": {
+      "lat": 47.54293,
+      "lon": 29.45586
+    },
+    "radioStations": [
+      {
+        "title": "Громадське радіо / Hromadske radio",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.218.212.67:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Lviv Wave Radio",
+    "coordinates": {
+      "lat": 47.38483,
+      "lon": 30.19065
+    },
+    "radioStations": [
+      {
+        "title": "Lviv Wave Radio",
+        "subtitle": "Lviv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair.lviv.fm:8000/lviv.fm"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Ukraine HD",
+    "coordinates": {
+      "lat": 47.56218,
+      "lon": 31.33602
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Ukraine HD",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_Ukr_HD"
+      }
+    ]
+  },
+  {
+    "name": "Люкс FM Львів",
+    "coordinates": {
+      "lat": 47.69057,
+      "lon": 32.51214
+    },
+    "radioStations": [
+      {
+        "title": "Люкс FM Львів",
+        "subtitle": "Lviv Oblast",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/nghwdngbqgeg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Svoboda (Радіо Свобода)",
+    "coordinates": {
+      "lat": 47.65983,
+      "lon": 33.71952
+    },
+    "radioStations": [
+      {
+        "title": "Radio Svoboda (Радіо Свобода)",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://images.app.goo.gl/os5abDD5JYqyk9n46",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA"
+      }
+    ]
+  },
+  {
+    "name": "MFM STATION",
+    "coordinates": {
+      "lat": 47.56826,
+      "lon": 34.39126
+    },
+    "radioStations": [
+      {
+        "title": "MFM STATION",
+        "subtitle": "Kharkiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mfm.ua/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://globalic.stream:1305/stream"
+      }
+    ]
+  },
+  {
+    "name": "HIT FM",
+    "coordinates": {
+      "lat": 47.25554,
+      "lon": 35.70836
+    },
+    "radioStations": [
+      {
+        "title": "HIT FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.hitfm.ua/HitFM"
+      }
+    ]
+  },
+  {
+    "name": "RadioRelax_Instrumental_HD",
+    "coordinates": {
+      "lat": 47.47865,
+      "lon": 36.25463
+    },
+    "radioStations": [
+      {
+        "title": "RadioRelax_Instrumental_HD",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radiorelax.ua/RadioRelax_Instrumental_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROCKS Новий Рок 103.6FM HD",
+    "coordinates": {
+      "lat": 47.11498,
+      "lon": 37.58519
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROCKS Новий Рок 103.6FM HD",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioroks.ua/RadioROKS_NewRock_HD"
+      }
+    ]
+  },
+  {
+    "name": "FM Disco Melody",
+    "coordinates": {
+      "lat": 47.6639,
+      "lon": 38.07753
+    },
+    "radioStations": [
+      {
+        "title": "FM Disco Melody",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.melodiafm.ua/MelodiaFM_Disco"
+      }
+    ]
+  },
+  {
+    "name": "Rock Ballads",
+    "coordinates": {
+      "lat": 48.07615,
+      "lon": 39.64744
+    },
+    "radioStations": [
+      {
+        "title": "Rock Ballads",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_Ballads"
+      }
+    ]
+  },
+  {
+    "name": "РАДІО КИЇВ – 98 FM",
+    "coordinates": {
+      "lat": 48.30237,
+      "lon": 38.03165
+    },
+    "radioStations": [
+      {
+        "title": "РАДІО КИЇВ – 98 FM",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.vsnw.net:8943/kyiv_fm_128k"
+      }
+    ]
+  },
+  {
+    "name": "True Black Metal Radio",
+    "coordinates": {
+      "lat": 48.023,
+      "lon": 37.80224
+    },
+    "radioStations": [
+      {
+        "title": "True Black Metal Radio",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trueblackmetalradio.com:666/radio"
+      }
+    ]
+  },
+  {
+    "name": "Одесса радио",
+    "coordinates": {
+      "lat": 48.3479,
+      "lon": 36.39637
+    },
+    "radioStations": [
+      {
+        "title": "Одесса радио",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen6.myradio24.com/odesradio"
+      }
+    ]
+  },
+  {
+    "name": "ProgressiveUA",
+    "coordinates": {
+      "lat": 47.85167,
+      "lon": 35.11714
+    },
+    "radioStations": [
+      {
+        "title": "ProgressiveUA",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://92.5.38.24:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Трек",
+    "coordinates": {
+      "lat": 47.81081,
+      "lon": 34.74324
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Трек",
+        "subtitle": "Rivne",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotrek.rv.ua/tpl/images/icons/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online2.radiotrek.rv.ua:8000/AAC+_64"
+      }
+    ]
+  },
+  {
+    "name": "Львівська хвиля (32 кбіт/с)",
+    "coordinates": {
+      "lat": 47.90572,
+      "lon": 33.39404
+    },
+    "radioStations": [
+      {
+        "title": "Львівська хвиля (32 кбіт/с)",
+        "subtitle": "Lviv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://onair.lviv.fm:8000/lviv32.fm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Roks HD",
+    "coordinates": {
+      "lat": 48.05674,
+      "lon": 32.1655
+    },
+    "radioStations": [
+      {
+        "title": "Radio Roks HD",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gold Ukraine",
+    "coordinates": {
+      "lat": 48.04478,
+      "lon": 30.84784
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gold Ukraine",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioplayer.ua/RadioGold"
+      }
+    ]
+  },
+  {
+    "name": "Гуляй Радіо",
+    "coordinates": {
+      "lat": 47.93596,
+      "lon": 29.62225
+    },
+    "radioStations": [
+      {
+        "title": "Гуляй Радіо",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.guliayradio.ua/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioplayer.ua/GuliayRadio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jazz Cover",
+    "coordinates": {
+      "lat": 47.74988,
+      "lon": 29.53074
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jazz Cover",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radiojazz.ua/RadioJazz_Cover_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ppeople FM – House Music",
+    "coordinates": {
+      "lat": 48.24056,
+      "lon": 28.28141
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ppeople FM – House Music",
+        "subtitle": "Odesa Oblast",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ppeople.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ppeople.fm:8000/main"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Relax 101.5",
+    "coordinates": {
+      "lat": 48.2258,
+      "lon": 26.51545
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Relax 101.5",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radiorelax.ua/RadioRelax"
+      }
+    ]
+  },
+  {
+    "name": "Мелодія Int",
+    "coordinates": {
+      "lat": 48.29045,
+      "lon": 25.93241
+    },
+    "radioStations": [
+      {
+        "title": "Мелодія Int",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.melodiafm.ua/MelodiaFM_Int_Live"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Nostalgie 99.0",
+    "coordinates": {
+      "lat": 48.2726,
+      "lon": 24.36029
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Nostalgie 99.0",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://lux.radio.tvstitch.com/kyiv/nst_adv_sd"
+      }
+    ]
+  },
+  {
+    "name": "Громадське радіо",
+    "coordinates": {
+      "lat": 48.17193,
+      "lon": 23.29791
+    },
+    "radioStations": [
+      {
+        "title": "Громадське радіо",
+        "subtitle": "Київська",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://5.9.8.20:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS Ukrainian",
+    "coordinates": {
+      "lat": 48.14126,
+      "lon": 23.03623
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS Ukrainian",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_Ukr_HD"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Digital SD",
+    "coordinates": {
+      "lat": 48.6242,
+      "lon": 22.2947
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Digital SD",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.kissfm.ua/KissFM_Digital"
+      }
+    ]
+  },
+  {
+    "name": "RadiVo",
+    "coordinates": {
+      "lat": 48.97158,
+      "lon": 23.96558
+    },
+    "radioStations": [
+      {
+        "title": "RadiVo",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radivo.thx8te.kh.ua/static/uploads/radivo/album_art.1770827559.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Jam progressive",
+    "coordinates": {
+      "lat": 48.92312,
+      "lon": 24.71248
+    },
+    "radioStations": [
+      {
+        "title": "Jam progressive",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://jam5.uk/listen/progressiveua/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо ROKS 103.6",
+    "coordinates": {
+      "lat": 49.01701,
+      "lon": 25.79808
+    },
+    "radioStations": [
+      {
+        "title": "Радіо ROKS 103.6",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS"
+      }
+    ]
+  },
+  {
+    "name": "Мелодія FM Romantic",
+    "coordinates": {
+      "lat": 48.67882,
+      "lon": 26.58516
+    },
+    "radioStations": [
+      {
+        "title": "Мелодія FM Romantic",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.melodiafm.ua/MelodiaFM_Romantic_Live"
+      }
+    ]
+  },
+  {
+    "name": "Армія FM 94.6",
+    "coordinates": {
+      "lat": 48.44278,
+      "lon": 27.79975
+    },
+    "radioStations": [
+      {
+        "title": "Армія FM 94.6",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.armyfm.com.ua/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.26.132.129:8000/ArmyFM"
+      }
+    ]
+  },
+  {
+    "name": "Informator FM",
+    "coordinates": {
+      "lat": 48.81294,
+      "lon": 29.37917
+    },
+    "radioStations": [
+      {
+        "title": "Informator FM",
+        "subtitle": "Dnepr",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://main.inf.fm:8101?type=http&nocache=221893"
+      }
+    ]
+  },
+  {
+    "name": "Sevastopol 102.0 FM",
+    "coordinates": {
+      "lat": 48.7501,
+      "lon": 30.21944
+    },
+    "radioStations": [
+      {
+        "title": "Sevastopol 102.0 FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://air.volna.top/SFM"
+      }
+    ]
+  },
+  {
+    "name": "Ретро",
+    "coordinates": {
+      "lat": 49.01291,
+      "lon": 31.3926
+    },
+    "radioStations": [
+      {
+        "title": "Ретро",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen1.myradio24.com/5967"
+      }
+    ]
+  },
+  {
+    "name": "Хомякс ФМ Луганск 102.3",
+    "coordinates": {
+      "lat": 48.50834,
+      "lon": 32.26618
+    },
+    "radioStations": [
+      {
+        "title": "Хомякс ФМ Луганск 102.3",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230402_021920573.jpg?alt=media&token=13c4ee8f-cde1-4552-8c09-91939db353c4",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.play-fm.ru:8001/homyak"
+      }
+    ]
+  },
+  {
+    "name": "Наше Радіо 107,9",
+    "coordinates": {
+      "lat": 48.67466,
+      "lon": 33.11761
+    },
+    "radioStations": [
+      {
+        "title": "Наше Радіо 107,9",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.nasheradio.ua/NasheRadio_HD"
+      }
+    ]
+  },
+  {
+    "name": "Радіо FM Галичина",
+    "coordinates": {
+      "lat": 48.51716,
+      "lon": 34.60617
+    },
+    "radioStations": [
+      {
+        "title": "Радіо FM Галичина",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://galychyna.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream320.galychyna.fm/WebSite"
+      }
+    ]
+  },
+  {
+    "name": "Люкс ФМ – Українські хіти",
+    "coordinates": {
+      "lat": 48.46664,
+      "lon": 35.04066
+    },
+    "radioStations": [
+      {
+        "title": "Люкс ФМ – Українські хіти",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://slukhay.com/uploads/2026/2/3/0e404084-9364-4afb-a3ee-709d3ea0fcae.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lux.radio.tvstitch.com/ukrayinski-hiti-sd"
+      }
+    ]
+  },
+  {
+    "name": "Радіо NovaLine",
+    "coordinates": {
+      "lat": 48.89066,
+      "lon": 36.31412
+    },
+    "radioStations": [
+      {
+        "title": "Радіо NovaLine",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://novaline.fm/wp-content/uploads/2022/11/cropped-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.novaline.net.ua/Novaline_320"
+      }
+    ]
+  },
+  {
+    "name": "FM 1 Перше Радіо",
+    "coordinates": {
+      "lat": 48.73106,
+      "lon": 37.56779
+    },
+    "radioStations": [
+      {
+        "title": "FM 1 Перше Радіо",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_211330438.jpg?alt=media&token=424792d2-1d55-410b-bd92-31c6c02ae929",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.138.81.134:8000/radio1-256"
+      }
+    ]
+  },
+  {
+    "name": "FreshRock Internet Radio Station",
+    "coordinates": {
+      "lat": 48.46906,
+      "lon": 38.79744
+    },
+    "radioStations": [
+      {
+        "title": "FreshRock Internet Radio Station",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://freshrock.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.freshrock.net/128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Країна FM 100.0",
+    "coordinates": {
+      "lat": 48.56814,
+      "lon": 39.30553
+    },
+    "radioStations": [
+      {
+        "title": "Країна FM 100.0",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live.radioec.com.ua:8000/kiev"
+      }
+    ]
+  },
+  {
+    "name": "Radio Maria Ukraine",
+    "coordinates": {
+      "lat": 49.53316,
+      "lon": 39.11845
+    },
+    "radioStations": [
+      {
+        "title": "Radio Maria Ukraine",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://dreamsiteradiocp.com:8022/stream"
+      }
+    ]
+  },
+  {
+    "name": "Europa Plus",
+    "coordinates": {
+      "lat": 49.04811,
+      "lon": 38.21552
+    },
+    "radioStations": [
+      {
+        "title": "Europa Plus",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://europaplus.kiev.ua/europa-box/2020/10/cropped-EP_Logo_final-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radioforge.com:7908/live?n=77357"
+      }
+    ]
+  },
+  {
+    "name": "Zakarpattya FM 101.9",
+    "coordinates": {
+      "lat": 49.20697,
+      "lon": 37.27679
+    },
+    "radioStations": [
+      {
+        "title": "Zakarpattya FM 101.9",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.234.148.51:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "Tik Tok Hits",
+    "coordinates": {
+      "lat": 49.37646,
+      "lon": 36.21848
+    },
+    "radioStations": [
+      {
+        "title": "Tik Tok Hits",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://telegram.org/img/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.europeanhitradio.com:8000/Stream_38.mp3"
+      }
+    ]
+  },
+  {
+    "name": "relax int",
+    "coordinates": {
+      "lat": 49.3776,
+      "lon": 35.44485
+    },
+    "radioStations": [
+      {
+        "title": "relax int",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radiorelax.ua/RadioRelax_Int"
+      }
+    ]
+  },
+  {
+    "name": "Garmonia Mira",
+    "coordinates": {
+      "lat": 49.58925,
+      "lon": 34.55367
+    },
+    "radioStations": [
+      {
+        "title": "Garmonia Mira",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://garmoniamira.com/wa-data/public/site/themes/garmonia/img/mylogo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://garmonia-stream.fakel.com.ua/1"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jazz Gold FM",
+    "coordinates": {
+      "lat": 49.06253,
+      "lon": 33.40484
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jazz Gold FM",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radiojazz.ua/RadioJazz_Gold"
+      }
+    ]
+  },
+  {
+    "name": "Ax Radio!",
+    "coordinates": {
+      "lat": 49.44452,
+      "lon": 32.05738
+    },
+    "radioStations": [
+      {
+        "title": "Ax Radio!",
+        "subtitle": "Zaporizhzhia",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://play.axradio.net/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://m.axradio.net/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Люкс ФМ – Сучасні хіти",
+    "coordinates": {
+      "lat": 49.41822,
+      "lon": 31.25174
+    },
+    "radioStations": [
+      {
+        "title": "Люкс ФМ – Сучасні хіти",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://slukhay.com/uploads/2026/2/3/a1200b2f-4914-4430-81cf-d6d4b6bf6f73.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lux.radio.tvstitch.com/suchasni-hiti-sd"
+      }
+    ]
+  },
+  {
+    "name": "The West Pole Radio",
+    "coordinates": {
+      "lat": 49.37019,
+      "lon": 29.66933
+    },
+    "radioStations": [
+      {
+        "title": "The West Pole Radio",
+        "subtitle": "Ivano Frankivsk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i0.wp.com/z-polus.info/wp-content/uploads/2020/12/cropped-zah_polus_white.png?fit=180%2c180&#038;ssl=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.z-polus.info/hq"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Накипіло / Radio Nakypilo",
+    "coordinates": {
+      "lat": 49.46129,
+      "lon": 28.51541
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Накипіло / Radio Nakypilo",
+        "subtitle": "Kharkiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.nakypilo.ua/wp-content/uploads/2021/09/cropped-radio_logo_favicon-1-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.nakypilo.ua/full"
+      }
+    ]
+  },
+  {
+    "name": "coma.fm",
+    "coordinates": {
+      "lat": 49.2322,
+      "lon": 28.46871
+    },
+    "radioStations": [
+      {
+        "title": "coma.fm",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.imgur.com/TEZtEBT.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio.co/s4360dbc20/listen"
+      }
+    ]
+  },
+  {
+    "name": "Люкс ФМ – Золоті хіти",
+    "coordinates": {
+      "lat": 49.41835,
+      "lon": 26.97936
+    },
+    "radioStations": [
+      {
+        "title": "Люкс ФМ – Золоті хіти",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://slukhay.com/uploads/2026/2/3/17d5d5ad-928a-4dc1-aed5-f86babdea9b4.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lux.radio.tvstitch.com/zoloti-hiti-sd"
+      }
+    ]
+  },
+  {
+    "name": "REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин",
+    "coordinates": {
+      "lat": 49.55404,
+      "lon": 25.59067
+    },
+    "radioStations": [
+      {
+        "title": "REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-UK.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://replaynewsuk.ice.infomaniak.ch/replaynewsuk-128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Українська Пісня",
+    "coordinates": {
+      "lat": 49.44578,
+      "lon": 24.93686
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Українська Пісня",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen2.myradio24.com/50904"
+      }
+    ]
+  },
+  {
+    "name": "Ulyublene radio Horodyshche 98 FM",
+    "coordinates": {
+      "lat": 49.35196,
+      "lon": 23.51121
+    },
+    "radioStations": [
+      {
+        "title": "Ulyublene radio Horodyshche 98 FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen7.myradio24.com/ulyublene"
+      }
+    ]
+  },
+  {
+    "name": "K-Pop 24",
+    "coordinates": {
+      "lat": 49.51624,
+      "lon": 23.20133
+    },
+    "radioStations": [
+      {
+        "title": "K-Pop 24",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://slukhay.com/uploads/2026/2/12/bfd86efc-78e8-4124-8815-c8849ca2a1b7.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lux.radio.tvstitch.com/k-pop-sd"
+      }
+    ]
+  },
+  {
+    "name": "Волна счастья Khvylia Shchastia",
+    "coordinates": {
+      "lat": 49.79467,
+      "lon": 23.15077
+    },
+    "radioStations": [
+      {
+        "title": "Волна счастья Khvylia Shchastia",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radioking.com/radio/562580/stream/622265"
+      }
+    ]
+  },
+  {
+    "name": "Люкс 104.7",
+    "coordinates": {
+      "lat": 49.83826,
+      "lon": 24.02324
+    },
+    "radioStations": [
+      {
+        "title": "Люкс 104.7",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.luxnet.ua/luxlviv"
+      }
+    ]
+  },
+  {
+    "name": "П'ятниця Кременчук",
+    "coordinates": {
+      "lat": 50.08854,
+      "lon": 25.14606
+    },
+    "radioStations": [
+      {
+        "title": "П'ятниця Кременчук",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.moa.org.ua/Friday"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jazz FM Ukraine",
+    "coordinates": {
+      "lat": 50.09864,
+      "lon": 25.72787
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jazz FM Ukraine",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radiojazz.ua/RadioJazz"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rocks",
+    "coordinates": {
+      "lat": 50.18118,
+      "lon": 27.06517
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rocks",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.95.206.13:8000/RadioROKS"
+      }
+    ]
+  },
+  {
+    "name": "Мелодія FM Disco",
+    "coordinates": {
+      "lat": 50.11944,
+      "lon": 27.50856
+    },
+    "radioStations": [
+      {
+        "title": "Мелодія FM Disco",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.melodiafm.ua/MelodiaFM_Disco_Live"
+      }
+    ]
+  },
+  {
+    "name": "Megapolis FM 105.2 Kryvyi Rih",
+    "coordinates": {
+      "lat": 50.26235,
+      "lon": 28.67913
+    },
+    "radioStations": [
+      {
+        "title": "Megapolis FM 105.2 Kryvyi Rih",
+        "subtitle": "DP",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cast.megapolis.fm/static/uploads/kryvyi_rih/album_art.1708626006.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lux FM",
+    "coordinates": {
+      "lat": 49.7994,
+      "lon": 30.1165
+    },
+    "radioStations": [
+      {
+        "title": "Lux FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://lux.fm/images/logo-lux.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Play FM Луганск 105.5ФМ",
+    "coordinates": {
+      "lat": 50.35051,
+      "lon": 30.95263
+    },
+    "radioStations": [
+      {
+        "title": "Play FM Луганск 105.5ФМ",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://play-fm.ru/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.play-fm.ru:8001/playfm"
+      }
+    ]
+  },
+  {
+    "name": "Західний полюс West Pole 32k AAC",
+    "coordinates": {
+      "lat": 50.27535,
+      "lon": 31.76343
+    },
+    "radioStations": [
+      {
+        "title": "Західний полюс West Pole 32k AAC",
+        "subtitle": "Ivano Frankivsk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://z-polus.info/wp-content/uploads/2020/06/zah_polus_newlogo_white-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.z-polus.info/mobile"
+      }
+    ]
+  },
+  {
+    "name": "Світле Радіо Еммануїл",
+    "coordinates": {
+      "lat": 50.01413,
+      "lon": 32.99975
+    },
+    "radioStations": [
+      {
+        "title": "Світле Радіо Еммануїл",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://svitle.org/images/favicon/mstile-70x70.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.svitle.org:6728/fm"
+      }
+    ]
+  },
+  {
+    "name": "SW-Radio Ukrainisch",
+    "coordinates": {
+      "lat": 50.06849,
+      "lon": 34.74697
+    },
+    "radioStations": [
+      {
+        "title": "SW-Radio Ukrainisch",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://www.segenswelle.de:8000/ukrainisch"
+      }
+    ]
+  },
+  {
+    "name": "Явір ФМ",
+    "coordinates": {
+      "lat": 50.30852,
+      "lon": 34.89468
+    },
+    "radioStations": [
+      {
+        "title": "Явір ФМ",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://yavir.fm/assets/images/logon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://complex.in.ua/Yavir"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jazz FM",
+    "coordinates": {
+      "lat": 49.98177,
+      "lon": 36.25475
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jazz FM",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radiojazz.ua/RadioJazz_Christmas_Live"
+      }
+    ]
+  },
+  {
+    "name": "Буковинська Хвиля",
+    "coordinates": {
+      "lat": 49.71003,
+      "lon": 37.61581
+    },
+    "radioStations": [
+      {
+        "title": "Буковинська Хвиля",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231117_102518593.jpg?alt=media&token=bb97ee18-72a3-4693-bebe-c0c56e108ebe",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://100.cv.ua:8443/play"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Максимум",
+    "coordinates": {
+      "lat": 49.91202,
+      "lon": 38.28421
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Максимум",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maximum.fm/assets/images/favicons2/favicon.ico?v=15348",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://lux.radio.tvstitch.com/kyiv/max_adv_sd"
+      }
+    ]
+  },
+  {
+    "name": "Radio Social.net.ua",
+    "coordinates": {
+      "lat": 50.39082,
+      "lon": 36.05548
+    },
+    "radioStations": [
+      {
+        "title": "Radio Social.net.ua",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.social.net.ua/static/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.social.net.ua/live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Марія",
+    "coordinates": {
+      "lat": 50.48478,
+      "lon": 34.96567
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Марія",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://91.203.4.121:8000/stream160"
+      }
+    ]
+  },
+  {
+    "name": "Звичайне україномовне радіо",
+    "coordinates": {
+      "lat": 50.91741,
+      "lon": 34.79906
+    },
+    "radioStations": [
+      {
+        "title": "Звичайне україномовне радіо",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/c4206e_a5d313806bd94ec9a12a93a05dc68cae~mv2.jpg/v1/fill/w_299,h_168,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/MAIN%20LOGO%20JPG.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://whsh4u-panel.com/proxy/yvlxzzdx?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Інді.UA",
+    "coordinates": {
+      "lat": 50.74025,
+      "lon": 33.4952
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Інді.UA",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/48/%D0%A0%D0%B0%D0%B4%D1%96%D0%BE_%D0%86%D0%BD%D0%B4%D1%96.UA.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioplayer.ua/RadioIndieUA"
+      }
+    ]
+  },
+  {
+    "name": "Classic Radio",
+    "coordinates": {
+      "lat": 50.59525,
+      "lon": 32.38382
+    },
+    "radioStations": [
+      {
+        "title": "Classic Radio",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.classicradio.ua/ClassicRadio_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Jazz Ukraine HD",
+    "coordinates": {
+      "lat": 50.52207,
+      "lon": 30.68228
+    },
+    "radioStations": [
+      {
+        "title": "Radio Jazz Ukraine HD",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://jazz.ipfm.net/RadioJazz_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio SunFM",
+    "coordinates": {
+      "lat": 50.45466,
+      "lon": 30.5238
+    },
+    "radioStations": [
+      {
+        "title": "Radio SunFM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ec5.yesstreaming.net:3650/stream"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Дзвони",
+    "coordinates": {
+      "lat": 50.9512,
+      "lon": 28.63859
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Дзвони",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dzvony.org.ua"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Хартія (Radio Khartia)",
+    "coordinates": {
+      "lat": 50.59141,
+      "lon": 27.60884
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Хартія (Radio Khartia)",
+        "subtitle": "Kharkiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://a9.asurahosting.com/static/uploads/radio_khartia/album_art.1762181552.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a9.asurahosting.com/listen/radio_khartia/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Українські хіти",
+    "coordinates": {
+      "lat": 50.87732,
+      "lon": 26.44797
+    },
+    "radioStations": [
+      {
+        "title": "Українські хіти",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dobreff.com/images/radio/favicon.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dobreff.com/ukraine.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pihota.FM",
+    "coordinates": {
+      "lat": 50.62036,
+      "lon": 26.23695
+    },
+    "radioStations": [
+      {
+        "title": "Pihota.FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://pihota.fm/imgs/default-cover.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.pihota.fm/listen/radio/128"
+      }
+    ]
+  },
+  {
+    "name": "Army FM",
+    "coordinates": {
+      "lat": 50.85033,
+      "lon": 24.32119
+    },
+    "radioStations": [
+      {
+        "title": "Army FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.armyfm.com.ua/templates/army/images/army_fm_new_logo.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.armyfm.com.ua:8443/ArmyFM"
+      }
+    ]
+  },
+  {
+    "name": "Золочів фм",
+    "coordinates": {
+      "lat": 50.39403,
+      "lon": 24.23935
+    },
+    "radioStations": [
+      {
+        "title": "Золочів фм",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ipradio.net:8443/zolochivHD"
+      }
+    ]
+  },
+  {
+    "name": "Best fm 95,6",
+    "coordinates": {
+      "lat": 51.22536,
+      "lon": 24.03225
+    },
+    "radioStations": [
+      {
+        "title": "Best fm 95,6",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.bestfm.ua/bestfm"
+      }
+    ]
+  },
+  {
+    "name": "Lounge Music",
+    "coordinates": {
+      "lat": 51.21548,
+      "lon": 24.70077
+    },
+    "radioStations": [
+      {
+        "title": "Lounge Music",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dobreff.com/images/radio/favicon.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.dobreff.com/lounge.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо такт Вінниця 103,7",
+    "coordinates": {
+      "lat": 51.34038,
+      "lon": 25.85547
+    },
+    "radioStations": [
+      {
+        "title": "Радіо такт Вінниця 103,7",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://193.107.104.79:8007/taktonair.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Нікополя",
+    "coordinates": {
+      "lat": 51.33898,
+      "lon": 26.60693
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Нікополя",
+        "subtitle": "Nikopol",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.nikopolnews.net/img/640logonikopol.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nikopolnews.net/listen/radio_nikopol/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS New Rock",
+    "coordinates": {
+      "lat": 51.22482,
+      "lon": 27.65228
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS New Rock",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.radioroks.ua/RadioROKS_NewRock_HD"
+      }
+    ]
+  },
+  {
+    "name": "Radio Skovoroda",
+    "coordinates": {
+      "lat": 51.3274,
+      "lon": 28.80165
+    },
+    "radioStations": [
+      {
+        "title": "Radio Skovoroda",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://radioskovoroda.com/favicon.png?v=7ab70b6",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioskovoroda.com:8000/radioskovoroda"
+      }
+    ]
+  },
+  {
+    "name": "Seven Rays - 7rays",
+    "coordinates": {
+      "lat": 51.06899,
+      "lon": 30.25149
+    },
+    "radioStations": [
+      {
+        "title": "Seven Rays - 7rays",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://7rays.stream.laut.fm/7rays"
+      }
+    ]
+  },
+  {
+    "name": "Radio TREK",
+    "coordinates": {
+      "lat": 51.50541,
+      "lon": 31.28656
+    },
+    "radioStations": [
+      {
+        "title": "Radio TREK",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast.radiotrek.rv.ua:8433/MP3_320"
+      }
+    ]
+  },
+  {
+    "name": "Радіо ПТРК",
+    "coordinates": {
+      "lat": 51.04772,
+      "lon": 31.88844
+    },
+    "radioStations": [
+      {
+        "title": "Радіо ПТРК",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://service.ptrk.tv:8443/PTRK"
+      }
+    ]
+  },
+  {
+    "name": "Твоє радіо",
+    "coordinates": {
+      "lat": 51.23251,
+      "lon": 33.2004
+    },
+    "radioStations": [
+      {
+        "title": "Твоє радіо",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.tvoeradio.com/tpl/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://complex.in.ua/tvoeRadio"
+      }
+    ]
+  },
+  {
+    "name": "Pulzus Rádió",
+    "coordinates": {
+      "lat": 51.14747,
+      "lon": 34.31079
+    },
+    "radioStations": [
+      {
+        "title": "Pulzus Rádió",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio2.tirek.hu:8000/sionelo"
+      }
+    ]
+  },
+  {
+    "name": "Західний полюс West Pole 64k AAC+",
+    "coordinates": {
+      "lat": 51.0244,
+      "lon": 35.24517
+    },
+    "radioStations": [
+      {
+        "title": "Західний полюс West Pole 64k AAC+",
+        "subtitle": "Ivano Frankivsk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://z-polus.info/wp-content/uploads/2020/06/zah_polus_newlogo_white-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.z-polus.info/mobilehq"
+      }
+    ]
+  },
+  {
+    "name": "Слобожанське ФМ",
+    "coordinates": {
+      "lat": 51.67982,
+      "lon": 33.91682
+    },
+    "radioStations": [
+      {
+        "title": "Слобожанське ФМ",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.sfm.in.ua/wp-content/uploads/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://globalic.stream:1810/stream"
+      }
+    ]
+  },
+  {
+    "name": "Богуслав FM",
+    "coordinates": {
+      "lat": 51.86434,
+      "lon": 33.47283
+    },
+    "radioStations": [
+      {
+        "title": "Богуслав FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://complex.in.ua/b320"
+      }
+    ]
+  },
+  {
+    "name": "Yantarne FM",
+    "coordinates": {
+      "lat": 51.7746,
+      "lon": 32.24747
+    },
+    "radioStations": [
+      {
+        "title": "Yantarne FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://yantarne.fm/img/main/favicon.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://complex.in.ua/yantarne"
+      }
+    ]
+  },
+  {
+    "name": "Фреш FM (Стрий, 104.8 FM)",
+    "coordinates": {
+      "lat": 51.89129,
+      "lon": 31.59632
+    },
+    "radioStations": [
+      {
+        "title": "Фреш FM (Стрий, 104.8 FM)",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.telelan.com.ua:8000/fresh-fm_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Smart Zeros",
+    "coordinates": {
+      "lat": 51.72367,
+      "lon": 26.66025
+    },
+    "radioStations": [
+      {
+        "title": "Smart Zeros",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://drive.google.com/file/d/1vp8G-7y84Wj6J4T_G5Kvh52sDZJspA8G/view?usp=sharing",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s61.radiolize.com//radio//8000//radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Комета",
+    "coordinates": {
+      "lat": 51.81385,
+      "lon": 26.13085
+    },
+    "radioStations": [
+      {
+        "title": "Комета",
+        "subtitle": "Донецк, ДНР",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://donetsk.kometa.fm:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "MFM Ukraine",
+    "coordinates": {
+      "lat": 51.733,
+      "lon": 25.02183
+    },
+    "radioStations": [
+      {
+        "title": "MFM Ukraine",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mfm.ua/online128"
+      }
+    ]
+  },
+  {
+    "name": "Trans World Radio Ukraine",
+    "coordinates": {
+      "lat": 49.37615,
+      "lon": 40.13647
+    },
+    "radioStations": [
+      {
+        "title": "Trans World Radio Ukraine",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio.eclipse-streaming.co.za/static/uploads/transworldradioukraine/album_art.1708590525.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kyiv",
+    "coordinates": {
+      "lat": 47.86737,
+      "lon": 25.19891
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kyiv",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://cdn.vsnw.net:8090/kyiv_fm_64k_aac"
+      }
+    ]
+  },
+  {
+    "name": "7 Rays Radio",
+    "coordinates": {
+      "lat": 50.59488,
+      "lon": 29.55873
+    },
+    "radioStations": [
+      {
+        "title": "7 Rays Radio",
+        "subtitle": "Lviv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://7promeniv.com.ua/images/Seven_Rays_Mix/7RaysRadioLogoNew.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://7rays.stream.laut.fm/7rays"
+      }
+    ]
+  },
+  {
+    "name": "radio Italiana(UA)",
+    "coordinates": {
+      "lat": 50.29889,
+      "lon": 37.03332
+    },
+    "radioStations": [
+      {
+        "title": "radio Italiana(UA)",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://online.radioplayer.ua/RadioItaliana"
+      }
+    ]
+  },
+  {
+    "name": "xradioua",
+    "coordinates": {
+      "lat": 50.75784,
+      "lon": 25.35024
+    },
+    "radioStations": [
+      {
+        "title": "xradioua",
+        "subtitle": "Kyiv",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://giss.tv:666/xradio_channel.ogg"
+      }
+    ]
+  },
+  {
+    "name": "Радіо X.ON",
+    "coordinates": {
+      "lat": 50.22562,
+      "lon": 33.88896
+    },
+    "radioStations": [
+      {
+        "title": "Радіо X.ON",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://x-on.com.ua/wp-content/uploads/2021/01/xon_favicon_512x512-150x150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.x-on.com.ua:8443/x-on-aacp-64.aac"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Захід FM+",
+    "coordinates": {
+      "lat": 48.7109,
+      "lon": 23.1851
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Захід FM+",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231118_140548015.jpg?alt=media&token=51146bdf-5a59-4f6b-b30b-853eb1aeac4d",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.zfm.com.ua:8443/zfm"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Перше",
+    "coordinates": {
+      "lat": 49.07362,
+      "lon": 27.67404
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Перше",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio1.com.ua/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radio1.com.ua/liveradio64"
+      }
+    ]
+  },
+  {
+    "name": "ReLIFE (Решетилівка)",
+    "coordinates": {
+      "lat": 47.55794,
+      "lon": 37.07451
+    },
+    "radioStations": [
+      {
+        "title": "ReLIFE (Решетилівка)",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://176.102.194.71:44808/radio"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Голос Надії",
+    "coordinates": {
+      "lat": 47.14387,
+      "lon": 32.76649
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Голос Надії",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s4.radio.co/s052c88338/low"
+      }
+    ]
+  },
+  {
+    "name": "Вільне Радіо",
+    "coordinates": {
+      "lat": 48.4586,
+      "lon": 31.32114
+    },
+    "radioStations": [
+      {
+        "title": "Вільне Радіо",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.vilneradio.com.ua/wp-content/uploads/2018/01/cropped-fav-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://complex.in.ua/live"
+      }
+    ]
+  },
+  {
+    "name": "Стрий FM",
+    "coordinates": {
+      "lat": 48.50209,
+      "lon": 25.16415
+    },
+    "radioStations": [
+      {
+        "title": "Стрий FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250105_105330095.jpg?alt=media&token=9ed5ae88-4d07-4081-9e5c-e91c4a6fc1cf",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.fm.stryi.com:8000/stryi-fm_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Калуш FM",
+    "coordinates": {
+      "lat": 49.00468,
+      "lon": 34.393
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Калуш FM",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240914_221204991.jpg?alt=media&token=e5cd7160-8500-4f71-9202-53fcbe2a1419",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.182.22.130:8000/Streamogg"
+      }
+    ]
+  },
+  {
+    "name": "Радіо Магніт",
+    "coordinates": {
+      "lat": 48.3442,
+      "lon": 33.84175
+    },
+    "radioStations": [
+      {
+        "title": "Радіо Магніт",
+        "subtitle": "Ukraine",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250105_091806626.jpg?alt=media&token=134cca09-3fb9-42ec-b4df-7a77757f51f8",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://176.67.8.31:8000/stream"
+      }
+    ]
+  }
+]
