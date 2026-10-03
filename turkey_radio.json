@@ -1,0 +1,5402 @@
+[
+  {
+    "name": "Virgin Radio Türkiye",
+    "coordinates": {
+      "lat": 36.20176,
+      "lon": 29.63766
+    },
+    "radioStations": [
+      {
+        "title": "Virgin Radio Türkiye",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC"
+      }
+    ]
+  },
+  {
+    "name": "Power POP",
+    "coordinates": {
+      "lat": 36.07508,
+      "lon": 32.83691
+    },
+    "radioStations": [
+      {
+        "title": "Power POP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KRAL TÜRK FM",
+    "coordinates": {
+      "lat": 36.1082,
+      "lon": 32.96113
+    },
+    "radioStations": [
+      {
+        "title": "KRAL TÜRK FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com/8032/stream"
+      }
+    ]
+  },
+  {
+    "name": "Slow Turk",
+    "coordinates": {
+      "lat": 36.24083,
+      "lon": 33.75041
+    },
+    "radioStations": [
+      {
+        "title": "Slow Turk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
+      }
+    ]
+  },
+  {
+    "name": "KRAL FM",
+    "coordinates": {
+      "lat": 36.08012,
+      "lon": 35.97603
+    },
+    "radioStations": [
+      {
+        "title": "KRAL FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue"
+      }
+    ]
+  },
+  {
+    "name": "Süper FM",
+    "coordinates": {
+      "lat": 36.20655,
+      "lon": 36.15722
+    },
+    "radioStations": [
+      {
+        "title": "Süper FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://27943.live.streamtheworld.com/SUPER_FMAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Metro FM",
+    "coordinates": {
+      "lat": 36.49939,
+      "lon": 36.35755
+    },
+    "radioStations": [
+      {
+        "title": "Metro FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://metrofm.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://25703.live.streamtheworld.com/METRO_FMAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Alem FM",
+    "coordinates": {
+      "lat": 36.41305,
+      "lon": 35.89033
+    },
+    "radioStations": [
+      {
+        "title": "Alem FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "POWER TÜRK FM",
+    "coordinates": {
+      "lat": 36.37778,
+      "lon": 33.93444
+    },
+    "radioStations": [
+      {
+        "title": "POWER TÜRK FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Baba Radyo",
+    "coordinates": {
+      "lat": 36.34148,
+      "lon": 33.39921
+    },
+    "radioStations": [
+      {
+        "title": "Baba Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://46.20.7.116"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Şiran",
+    "coordinates": {
+      "lat": 36.26942,
+      "lon": 32.31792
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Şiran",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com/8078/stream"
+      }
+    ]
+  },
+  {
+    "name": "Super Fm",
+    "coordinates": {
+      "lat": 36.54375,
+      "lon": 31.99982
+    },
+    "radioStations": [
+      {
+        "title": "Super Fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://superfm.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC"
+      }
+    ]
+  },
+  {
+    "name": "JOY TÜRK TURKEY",
+    "coordinates": {
+      "lat": 36.32573,
+      "lon": 30.30302
+    },
+    "radioStations": [
+      {
+        "title": "JOY TÜRK TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/"
+      }
+    ]
+  },
+  {
+    "name": "DamarTurk FM",
+    "coordinates": {
+      "lat": 36.36606,
+      "lon": 29.35187
+    },
+    "radioStations": [
+      {
+        "title": "DamarTurk FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.damarturkfm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Fenomen",
+    "coordinates": {
+      "lat": 36.73778,
+      "lon": 27.68417
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Fenomen",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Seymen",
+    "coordinates": {
+      "lat": 36.855,
+      "lon": 28.27417
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Seymen",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyoseymen.com.tr:1070/stream"
+      }
+    ]
+  },
+  {
+    "name": "Kafa Radyo",
+    "coordinates": {
+      "lat": 36.64038,
+      "lon": 29.12758
+    },
+    "radioStations": [
+      {
+        "title": "Kafa Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KRAL POP",
+    "coordinates": {
+      "lat": 36.59778,
+      "lon": 30.56056
+    },
+    "radioStations": [
+      {
+        "title": "KRAL POP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "pop 90 turkey",
+    "coordinates": {
+      "lat": 36.90812,
+      "lon": 30.69556
+    },
+    "radioStations": [
+      {
+        "title": "pop 90 turkey",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://21633.live.streamtheworld.com:3690/POP90AAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "TRT Türkü",
+    "coordinates": {
+      "lat": 36.78672,
+      "lon": 31.44086
+    },
+    "radioStations": [
+      {
+        "title": "TRT Türkü",
+        "subtitle": "Ankara",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KRAL POP ALTERNATİF 2",
+    "coordinates": {
+      "lat": 36.64043,
+      "lon": 32.89179
+    },
+    "radioStations": [
+      {
+        "title": "KRAL POP ALTERNATİF 2",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "a HABER",
+    "coordinates": {
+      "lat": 36.64389,
+      "lon": 33.43885
+    },
+    "radioStations": [
+      {
+        "title": "a HABER",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "NTV Radyo",
+    "coordinates": {
+      "lat": 36.60498,
+      "lon": 34.30836
+    },
+    "radioStations": [
+      {
+        "title": "NTV Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.ntvradyo.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://46.20.3.207/listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Radyo 45lik yeni",
+    "coordinates": {
+      "lat": 36.81196,
+      "lon": 34.63886
+    },
+    "radioStations": [
+      {
+        "title": "Radyo 45lik yeni",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radyo45lik.com:4545"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Turkuvaz",
+    "coordinates": {
+      "lat": 36.76863,
+      "lon": 35.78938
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Turkuvaz",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Power FM Türkiye",
+    "coordinates": {
+      "lat": 36.58718,
+      "lon": 36.17347
+    },
+    "radioStations": [
+      {
+        "title": "Power FM Türkiye",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm sleep",
+    "coordinates": {
+      "lat": 36.71611,
+      "lon": 37.115
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm sleep",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/sleep-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Joy Fm",
+    "coordinates": {
+      "lat": 36.83452,
+      "lon": 37.9983
+    },
+    "radioStations": [
+      {
+        "title": "Joy Fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://29053.live.streamtheworld.com/JOY_FMAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "POWER TÜRK DANS TÜRKİYE",
+    "coordinates": {
+      "lat": 36.71111,
+      "lon": 38.9475
+    },
+    "radioStations": [
+      {
+        "title": "POWER TÜRK DANS TÜRKİYE",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Show Radyo",
+    "coordinates": {
+      "lat": 36.75361,
+      "lon": 39.45
+    },
+    "radioStations": [
+      {
+        "title": "Show Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://showradyo.radyotvonline.net/showradyoaac"
+      }
+    ]
+  },
+  {
+    "name": "Kurd1 FM",
+    "coordinates": {
+      "lat": 36.84722,
+      "lon": 40.05
+    },
+    "radioStations": [
+      {
+        "title": "Kurd1 FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radioking.com/radio/119251/stream/158701"
+      }
+    ]
+  },
+  {
+    "name": "Karadeniz FM",
+    "coordinates": {
+      "lat": 37.24806,
+      "lon": 43.61361
+    },
+    "radioStations": [
+      {
+        "title": "Karadeniz FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/9477e9_88c8630d8926464eac285c1df9d8ce54~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm deep",
+    "coordinates": {
+      "lat": 37.24379,
+      "lon": 42.46345
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm deep",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/deep-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Voyage",
+    "coordinates": {
+      "lat": 37.22126,
+      "lon": 41.73862
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Voyage",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://voyagewmp.radyotvonline.com"
+      }
+    ]
+  },
+  {
+    "name": "Turku Radyo",
+    "coordinates": {
+      "lat": 37.07028,
+      "lon": 41.21465
+    },
+    "radioStations": [
+      {
+        "title": "Turku Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radyo.turkuradyo.net:4591/turkuradyo"
+      }
+    ]
+  },
+  {
+    "name": "Halk Tv",
+    "coordinates": {
+      "lat": 37.18836,
+      "lon": 40.57723
+    },
+    "radioStations": [
+      {
+        "title": "Halk Tv",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6vahxsup0jxl&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
+      }
+    ]
+  },
+  {
+    "name": "90 lar Pop",
+    "coordinates": {
+      "lat": 37.22349,
+      "lon": 39.75519
+    },
+    "radioStations": [
+      {
+        "title": "90 lar Pop",
+        "subtitle": "Istambul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "101.4 HATAY TEMPO FM",
+    "coordinates": {
+      "lat": 37.16708,
+      "lon": 38.79392
+    },
+    "radioStations": [
+      {
+        "title": "101.4 HATAY TEMPO FM",
+        "subtitle": "Hatay ; Antakya ; Samandağ ; Defne",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://hatayradyosu.com/resgenel/radyo/tempo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net:1215/stream"
+      }
+    ]
+  },
+  {
+    "name": "Diyanet Radyo",
+    "coordinates": {
+      "lat": 37.00972,
+      "lon": 37.79417
+    },
+    "radioStations": [
+      {
+        "title": "Diyanet Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT NAĞME",
+    "coordinates": {
+      "lat": 37.05944,
+      "lon": 37.3825
+    },
+    "radioStations": [
+      {
+        "title": "TRT NAĞME",
+        "subtitle": "ANKARA",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "102.1 Arabeskin Merkezi Fm",
+    "coordinates": {
+      "lat": 37.07417,
+      "lon": 36.24778
+    },
+    "radioStations": [
+      {
+        "title": "102.1 Arabeskin Merkezi Fm",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://images.keepone.net/1376-2022-10-17.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://canli.arabeskinmerkezi.com:9180/stream"
+      }
+    ]
+  },
+  {
+    "name": "TRT Radyo Haber",
+    "coordinates": {
+      "lat": 36.98615,
+      "lon": 35.32531
+    },
+    "radioStations": [
+      {
+        "title": "TRT Radyo Haber",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/20d0b80f-bb7a-4fcb-9a61-88662ebcb2dc.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trt.radyotvonline.net/trthaber"
+      }
+    ]
+  },
+  {
+    "name": "Kalp FM",
+    "coordinates": {
+      "lat": 37.05,
+      "lon": 35.23333
+    },
+    "radioStations": [
+      {
+        "title": "Kalp FM",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kalpfm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.kalpfm.com:8080"
+      }
+    ]
+  },
+  {
+    "name": "Ahaber",
+    "coordinates": {
+      "lat": 37.05431,
+      "lon": 34.34532
+    },
+    "radioStations": [
+      {
+        "title": "Ahaber",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Vav Radyo",
+    "coordinates": {
+      "lat": 37.18111,
+      "lon": 33.215
+    },
+    "radioStations": [
+      {
+        "title": "Vav Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT FM",
+    "coordinates": {
+      "lat": 36.98776,
+      "lon": 32.45674
+    },
+    "radioStations": [
+      {
+        "title": "TRT FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trt.radyotvonline.net/trtfm"
+      }
+    ]
+  },
+  {
+    "name": "Metro fm turkey",
+    "coordinates": {
+      "lat": 37.04861,
+      "lon": 31.79
+    },
+    "radioStations": [
+      {
+        "title": "Metro fm turkey",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm caffe",
+    "coordinates": {
+      "lat": 36.99009,
+      "lon": 30.71648
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm caffe",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/caffe-mp3"
+      }
+    ]
+  },
+  {
+    "name": "FENOMEN KARISIK",
+    "coordinates": {
+      "lat": 37.06498,
+      "lon": 30.19565
+    },
+    "radioStations": [
+      {
+        "title": "FENOMEN KARISIK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Pal Fm",
+    "coordinates": {
+      "lat": 37.1459,
+      "lon": 29.50876
+    },
+    "radioStations": [
+      {
+        "title": "Pal Fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Sputnik",
+    "coordinates": {
+      "lat": 37.21807,
+      "lon": 28.3665
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Sputnik",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.img.anlatilaninotesi.com.tr/i/favicon/favicon-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-rian.cdnvideo.ru/voicestm"
+      }
+    ]
+  },
+  {
+    "name": "Best FM",
+    "coordinates": {
+      "lat": 37.13706,
+      "lon": 27.58186
+    },
+    "radioStations": [
+      {
+        "title": "Best FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Diyanet Kur'an Radyo",
+    "coordinates": {
+      "lat": 37.03833,
+      "lon": 27.42917
+    },
+    "radioStations": [
+      {
+        "title": "Diyanet Kur'an Radyo",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Turkuaz Anadolu",
+    "coordinates": {
+      "lat": 37.38496,
+      "lon": 27.25643
+    },
+    "radioStations": [
+      {
+        "title": "Turkuaz Anadolu",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Cnn Türk Radyo",
+    "coordinates": {
+      "lat": 37.31639,
+      "lon": 27.78389
+    },
+    "radioStations": [
+      {
+        "title": "Cnn Türk Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0"
+      }
+    ]
+  },
+  {
+    "name": "Türkiyem FM",
+    "coordinates": {
+      "lat": 37.43917,
+      "lon": 28.84528
+    },
+    "radioStations": [
+      {
+        "title": "Türkiyem FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://turkiyemfm.com",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Habertürk Radyo",
+    "coordinates": {
+      "lat": 37.58105,
+      "lon": 29.26639
+    },
+    "radioStations": [
+      {
+        "title": "Habertürk Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://haberturkradyo.radyotvonline.net/haberturkradyo"
+      }
+    ]
+  },
+  {
+    "name": "TRT Radyo Kurdî",
+    "coordinates": {
+      "lat": 37.37301,
+      "lon": 29.82308
+    },
+    "radioStations": [
+      {
+        "title": "TRT Radyo Kurdî",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trtkurdi.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "FENOMEN POP",
+    "coordinates": {
+      "lat": 37.45917,
+      "lon": 30.595
+    },
+    "radioStations": [
+      {
+        "title": "FENOMEN POP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio 44",
+    "coordinates": {
+      "lat": 37.41926,
+      "lon": 31.84527
+    },
+    "radioStations": [
+      {
+        "title": "Radio 44",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyo44.com.tr/favicons/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo44.80.yayin.com.tr/stream"
+      }
+    ]
+  },
+  {
+    "name": "Fakir Fm",
+    "coordinates": {
+      "lat": 37.5732,
+      "lon": 32.77446
+    },
+    "radioStations": [
+      {
+        "title": "Fakir Fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.fakirfm.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com/1025/stream"
+      }
+    ]
+  },
+  {
+    "name": "Park Fm",
+    "coordinates": {
+      "lat": 37.32488,
+      "lon": 33.18634
+    },
+    "radioStations": [
+      {
+        "title": "Park Fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://yayin.netradyom.com:8050/PARKFM"
+      }
+    ]
+  },
+  {
+    "name": "SUPER FM 2 TURKEY",
+    "coordinates": {
+      "lat": 37.51333,
+      "lon": 34.04672
+    },
+    "radioStations": [
+      {
+        "title": "SUPER FM 2 TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/"
+      }
+    ]
+  },
+  {
+    "name": "FENOMEN TÜRK",
+    "coordinates": {
+      "lat": 37.42778,
+      "lon": 34.87167
+    },
+    "radioStations": [
+      {
+        "title": "FENOMEN TÜRK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm discotheque",
+    "coordinates": {
+      "lat": 37.45517,
+      "lon": 35.81573
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm discotheque",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/discotheque-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ava Turkiye",
+    "coordinates": {
+      "lat": 37.37389,
+      "lon": 36.09611
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ava Turkiye",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://play.markaradyo.com:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "PAL Nostalji",
+    "coordinates": {
+      "lat": 37.5847,
+      "lon": 36.92641
+    },
+    "radioStations": [
+      {
+        "title": "PAL Nostalji",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "JOY TÜRK ROCK TURKEY",
+    "coordinates": {
+      "lat": 37.42667,
+      "lon": 37.689
+    },
+    "radioStations": [
+      {
+        "title": "JOY TÜRK ROCK TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Alaturka",
+    "coordinates": {
+      "lat": 37.3625,
+      "lon": 38.52667
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Alaturka",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.jumboserver.net:9100/stream"
+      }
+    ]
+  },
+  {
+    "name": "Powerturk R&B Hip Hop",
+    "coordinates": {
+      "lat": 37.5705,
+      "lon": 39.3872
+    },
+    "radioStations": [
+      {
+        "title": "Powerturk R&B Hip Hop",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=843",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo 35",
+    "coordinates": {
+      "lat": 37.47801,
+      "lon": 40.48152
+    },
+    "radioStations": [
+      {
+        "title": "Radyo 35",
+        "subtitle": "izmir",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyo35.com/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.turkhosted.com/6012/stream"
+      }
+    ]
+  },
+  {
+    "name": "TRT3",
+    "coordinates": {
+      "lat": 37.31309,
+      "lon": 40.74357
+    },
+    "radioStations": [
+      {
+        "title": "TRT3",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT Radyo 1",
+    "coordinates": {
+      "lat": 37.33024,
+      "lon": 42.18484
+    },
+    "radioStations": [
+      {
+        "title": "TRT Radyo 1",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trt.radyotvonline.net/trt1"
+      }
+    ]
+  },
+  {
+    "name": "İstanbul FM",
+    "coordinates": {
+      "lat": 37.51393,
+      "lon": 42.45432
+    },
+    "radioStations": [
+      {
+        "title": "İstanbul FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.istanbulfm.com.tr/assets/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "POWER TÜRK TAPTAZE",
+    "coordinates": {
+      "lat": 37.57444,
+      "lon": 43.74083
+    },
+    "radioStations": [
+      {
+        "title": "POWER TÜRK TAPTAZE",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO TÜRKÜ",
+    "coordinates": {
+      "lat": 37.57362,
+      "lon": 44.28716
+    },
+    "radioStations": [
+      {
+        "title": "RADYO TÜRKÜ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyomadyo.com:8008/stream"
+      }
+    ]
+  },
+  {
+    "name": "RS FM",
+    "coordinates": {
+      "lat": 37.71144,
+      "lon": 44.60099
+    },
+    "radioStations": [
+      {
+        "title": "RS FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3"
+      }
+    ]
+  },
+  {
+    "name": "HOUSELAND TURKEY",
+    "coordinates": {
+      "lat": 37.65408,
+      "lon": 43.18821
+    },
+    "radioStations": [
+      {
+        "title": "HOUSELAND TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "BAYRAM FM TURKEY",
+    "coordinates": {
+      "lat": 37.93573,
+      "lon": 42.54927
+    },
+    "radioStations": [
+      {
+        "title": "BAYRAM FM TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net/3442/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Fenomen Clubbin",
+    "coordinates": {
+      "lat": 37.9293,
+      "lon": 41.94134
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Fenomen Clubbin",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.radyofenomen.com/artwork/logo20.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Viva",
+    "coordinates": {
+      "lat": 37.88738,
+      "lon": 41.13221
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Viva",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Erzincan Cem Radyo",
+    "coordinates": {
+      "lat": 37.91363,
+      "lon": 40.21721
+    },
+    "radioStations": [
+      {
+        "title": "Erzincan Cem Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://erzincan.80.yayin.com.tr/stream"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm locodyno",
+    "coordinates": {
+      "lat": 37.75503,
+      "lon": 39.31667
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm locodyno",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/locodyno-mp3"
+      }
+    ]
+  },
+  {
+    "name": "FENOMEN DANS",
+    "coordinates": {
+      "lat": 37.78552,
+      "lon": 38.6237
+    },
+    "radioStations": [
+      {
+        "title": "FENOMEN DANS",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KEYF STATION",
+    "coordinates": {
+      "lat": 37.76441,
+      "lon": 38.27629
+    },
+    "radioStations": [
+      {
+        "title": "KEYF STATION",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://yayin.radyomadyo.com:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "EGE HAVALARI TURKEY",
+    "coordinates": {
+      "lat": 37.74523,
+      "lon": 37.28618
+    },
+    "radioStations": [
+      {
+        "title": "EGE HAVALARI TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Eksen 96.2",
+    "coordinates": {
+      "lat": 37.86706,
+      "lon": 36.0643
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Eksen 96.2",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://eksenwmp.radyotvonline.com"
+      }
+    ]
+  },
+  {
+    "name": "Power love",
+    "coordinates": {
+      "lat": 37.81446,
+      "lon": 35.91233
+    },
+    "radioStations": [
+      {
+        "title": "Power love",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Number 1 Türk Rap",
+    "coordinates": {
+      "lat": 37.89056,
+      "lon": 34.55889
+    },
+    "radioStations": [
+      {
+        "title": "Number 1 Türk Rap",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dijimedya.radyotvonline.net/turkrap"
+      }
+    ]
+  },
+  {
+    "name": "POWERTÜRK SLOW",
+    "coordinates": {
+      "lat": 37.90222,
+      "lon": 33.83722
+    },
+    "radioStations": [
+      {
+        "title": "POWERTÜRK SLOW",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "POP 90",
+    "coordinates": {
+      "lat": 37.71596,
+      "lon": 33.55064
+    },
+    "radioStations": [
+      {
+        "title": "POP 90",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "SIZIR FM",
+    "coordinates": {
+      "lat": 37.87135,
+      "lon": 32.48464
+    },
+    "radioStations": [
+      {
+        "title": "SIZIR FM",
+        "subtitle": "Sivas, turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sizirfm.com/assets/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/tamm1f7kk48uv"
+      }
+    ]
+  },
+  {
+    "name": "Power dance",
+    "coordinates": {
+      "lat": 37.67735,
+      "lon": 31.72458
+    },
+    "radioStations": [
+      {
+        "title": "Power dance",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "powerturk",
+    "coordinates": {
+      "lat": 37.87462,
+      "lon": 30.85042
+    },
+    "radioStations": [
+      {
+        "title": "powerturk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Hemdem Radyo",
+    "coordinates": {
+      "lat": 37.76444,
+      "lon": 30.55222
+    },
+    "radioStations": [
+      {
+        "title": "Hemdem Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hemdemradyo.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://yayin.hemdemradyo.com"
+      }
+    ]
+  },
+  {
+    "name": "FG 93.8 (Future Generation) mp3 128k",
+    "coordinates": {
+      "lat": 37.77417,
+      "lon": 29.0875
+    },
+    "radioStations": [
+      {
+        "title": "FG 93.8 (Future Generation) mp3 128k",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge1.radyotvonline.net/shoutcast/play/fg"
+      }
+    ]
+  },
+  {
+    "name": "Türkü Radyo",
+    "coordinates": {
+      "lat": 37.91631,
+      "lon": 28.32225
+    },
+    "radioStations": [
+      {
+        "title": "Türkü Radyo",
+        "subtitle": "kocaeli",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.turkuradyo.info/public/default/images/upload/1190220421012000.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Hit Turkiye",
+    "coordinates": {
+      "lat": 37.84501,
+      "lon": 27.83963
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Hit Turkiye",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyohit.tr/logo-dark.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radyohit.tr/stream"
+      }
+    ]
+  },
+  {
+    "name": "ULUSAL ARABESK",
+    "coordinates": {
+      "lat": 37.7482,
+      "lon": 27.40614
+    },
+    "radioStations": [
+      {
+        "title": "ULUSAL ARABESK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.guventechnology.com/9334/stream"
+      }
+    ]
+  },
+  {
+    "name": "Genç FM",
+    "coordinates": {
+      "lat": 38.28246,
+      "lon": 26.37459
+    },
+    "radioStations": [
+      {
+        "title": "Genç FM",
+        "subtitle": "Bandırma",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gencfm.com.tr/static/2022/05/18/logo1234-1652884523-699.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TURKUVAZ NOSTALJİ",
+    "coordinates": {
+      "lat": 38.182,
+      "lon": 27.335
+    },
+    "radioStations": [
+      {
+        "title": "TURKUVAZ NOSTALJİ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "BesteFM Mix",
+    "coordinates": {
+      "lat": 38.2278,
+      "lon": 27.96955
+    },
+    "radioStations": [
+      {
+        "title": "BesteFM Mix",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bestefm.com/assets/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyomadyo.com:8002"
+      }
+    ]
+  },
+  {
+    "name": "90LAR",
+    "coordinates": {
+      "lat": 38.045,
+      "lon": 28.83056
+    },
+    "radioStations": [
+      {
+        "title": "90LAR",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Turkuvaz Anadolu",
+    "coordinates": {
+      "lat": 37.97694,
+      "lon": 29.60861
+    },
+    "radioStations": [
+      {
+        "title": "Turkuvaz Anadolu",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Banko",
+    "coordinates": {
+      "lat": 38.065,
+      "lon": 30.16557
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Banko",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://yayin.netradyom.com:9910/RADYOBANKO"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm smog",
+    "coordinates": {
+      "lat": 37.95083,
+      "lon": 30.63861
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm smog",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/smog-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Med Radyo",
+    "coordinates": {
+      "lat": 38.07944,
+      "lon": 31.36639
+    },
+    "radioStations": [
+      {
+        "title": "Med Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://medradyo.kesintisizyayin.com:8062/stream"
+      }
+    ]
+  },
+  {
+    "name": "A spor",
+    "coordinates": {
+      "lat": 38.23972,
+      "lon": 32.21139
+    },
+    "radioStations": [
+      {
+        "title": "A spor",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ALTIN ŞARKILAR",
+    "coordinates": {
+      "lat": 38.14509,
+      "lon": 33.50245
+    },
+    "radioStations": [
+      {
+        "title": "ALTIN ŞARKILAR",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ASPOR",
+    "coordinates": {
+      "lat": 38.27722,
+      "lon": 34.37194
+    },
+    "radioStations": [
+      {
+        "title": "ASPOR",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "اذاعة القرآن الكريم 🇹🇷",
+    "coordinates": {
+      "lat": 37.96583,
+      "lon": 34.67935
+    },
+    "radioStations": [
+      {
+        "title": "اذاعة القرآن الكريم 🇹🇷",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+      }
+    ]
+  },
+  {
+    "name": "JoyTürk Akustik",
+    "coordinates": {
+      "lat": 38.10228,
+      "lon": 35.35704
+    },
+    "radioStations": [
+      {
+        "title": "JoyTürk Akustik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Kent",
+    "coordinates": {
+      "lat": 38.02096,
+      "lon": 36.4973
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Kent",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kentfm955.com.tr/icons/radyokent_logo_tunein_512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kentfm955.ozelip.com/9306/stream"
+      }
+    ]
+  },
+  {
+    "name": "Joy FM Istanbul",
+    "coordinates": {
+      "lat": 38.20591,
+      "lon": 37.1983
+    },
+    "radioStations": [
+      {
+        "title": "Joy FM Istanbul",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://21633.live.streamtheworld.com/JOY_FM128AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "BEST SLOW",
+    "coordinates": {
+      "lat": 38.08574,
+      "lon": 37.87116
+    },
+    "radioStations": [
+      {
+        "title": "BEST SLOW",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hepsibest.radyotvonline.net/bestslow"
+      }
+    ]
+  },
+  {
+    "name": "Mega Radyo FM 97.7",
+    "coordinates": {
+      "lat": 38.03645,
+      "lon": 38.61257
+    },
+    "radioStations": [
+      {
+        "title": "Mega Radyo FM 97.7",
+        "subtitle": "İskenderun",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.megaradyoiskenderun.com/upload/tema/20260224__7638666033.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dinle.megaradyoiskenderun.com/8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "95.1 TEMPO RADYO HATAY",
+    "coordinates": {
+      "lat": 38.26899,
+      "lon": 39.75446
+    },
+    "radioStations": [
+      {
+        "title": "95.1 TEMPO RADYO HATAY",
+        "subtitle": "Hatay",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hatayradyosu.com/resgenel/radyo/tempo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net/tempo/stream"
+      }
+    ]
+  },
+  {
+    "name": "POWER XL TURKEY",
+    "coordinates": {
+      "lat": 38.25748,
+      "lon": 40.07435
+    },
+    "radioStations": [
+      {
+        "title": "POWER XL TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "HAYATMİX",
+    "coordinates": {
+      "lat": 38.13708,
+      "lon": 41.00817
+    },
+    "radioStations": [
+      {
+        "title": "HAYATMİX",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hayatmix.yayin.com.tr/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Risalet Radyo",
+    "coordinates": {
+      "lat": 38.15754,
+      "lon": 41.7733
+    },
+    "radioStations": [
+      {
+        "title": "Risalet Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "retro turk",
+    "coordinates": {
+      "lat": 38.22498,
+      "lon": 42.4183
+    },
+    "radioStations": [
+      {
+        "title": "retro turk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://29053.live.streamtheworld.com:3690/RETROTURKAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Hayat",
+    "coordinates": {
+      "lat": 38.09606,
+      "lon": 43.26091
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Hayat",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live4.radyotvonline.com:9450"
+      }
+    ]
+  },
+  {
+    "name": "radyo mezopotamya",
+    "coordinates": {
+      "lat": 38.04526,
+      "lon": 44.01718
+    },
+    "radioStations": [
+      {
+        "title": "radyo mezopotamya",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/9404/stream"
+      }
+    ]
+  },
+  {
+    "name": "Loops Radio Progressive",
+    "coordinates": {
+      "lat": 38.46582,
+      "lon": 43.98992
+    },
+    "radioStations": [
+      {
+        "title": "Loops Radio Progressive",
+        "subtitle": "Istambul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://progressive.ozelip.com/7670/stream"
+      }
+    ]
+  },
+  {
+    "name": "Erzincan Nostalji Radyo",
+    "coordinates": {
+      "lat": 38.49457,
+      "lon": 43.38323
+    },
+    "radioStations": [
+      {
+        "title": "Erzincan Nostalji Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://erzincannostalji.ozelip.com/8238/stream"
+      }
+    ]
+  },
+  {
+    "name": "KARMA TÜRK SLOW",
+    "coordinates": {
+      "lat": 38.49221,
+      "lon": 42.28269
+    },
+    "radioStations": [
+      {
+        "title": "KARMA TÜRK SLOW",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyomadyo.com:8004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo 45'lik",
+    "coordinates": {
+      "lat": 38.40115,
+      "lon": 42.10784
+    },
+    "radioStations": [
+      {
+        "title": "Radyo 45'lik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radyo45lik.com:4545"
+      }
+    ]
+  },
+  {
+    "name": "Türk Rock FM",
+    "coordinates": {
+      "lat": 38.49754,
+      "lon": 41.00668
+    },
+    "radioStations": [
+      {
+        "title": "Türk Rock FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin5.radyohizmeti.com/8090/stream"
+      }
+    ]
+  },
+  {
+    "name": "DEDEMİN RADYOSU",
+    "coordinates": {
+      "lat": 38.45821,
+      "lon": 40.63888
+    },
+    "radioStations": [
+      {
+        "title": "DEDEMİN RADYOSU",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/9002/stream"
+      }
+    ]
+  },
+  {
+    "name": "TRT VOT World",
+    "coordinates": {
+      "lat": 38.44223,
+      "lon": 39.30938
+    },
+    "radioStations": [
+      {
+        "title": "TRT VOT World",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtvotworld.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo 13 FM 96",
+    "coordinates": {
+      "lat": 38.56866,
+      "lon": 38.81634
+    },
+    "radioStations": [
+      {
+        "title": "Radyo 13 FM 96",
+        "subtitle": "Tatvan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyo13.com.tr/wp-content/uploads/2022/10/WhatsApp_Image_2022-10-11_at_15.27.31-removebg-preview.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayindakiler.com:3050/stream"
+      }
+    ]
+  },
+  {
+    "name": "RadyoAura",
+    "coordinates": {
+      "lat": 38.35018,
+      "lon": 38.31667
+    },
+    "radioStations": [
+      {
+        "title": "RadyoAura",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiaura.net/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c"
+      }
+    ]
+  },
+  {
+    "name": "RADYO 90",
+    "coordinates": {
+      "lat": 38.54583,
+      "lon": 37.50583
+    },
+    "radioStations": [
+      {
+        "title": "RADYO 90",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyo.in/9054/stream"
+      }
+    ]
+  },
+  {
+    "name": "irvess",
+    "coordinates": {
+      "lat": 38.47917,
+      "lon": 36.49898
+    },
+    "radioStations": [
+      {
+        "title": "irvess",
+        "subtitle": "Konya",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://irvess.com/assets/img/icon-512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://irvess.com/stream/irvess"
+      }
+    ]
+  },
+  {
+    "name": "90'lar Türkçe Pop",
+    "coordinates": {
+      "lat": 38.39056,
+      "lon": 35.49222
+    },
+    "radioStations": [
+      {
+        "title": "90'lar Türkçe Pop",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://onlineradio.com.tr/images/50_radio.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO ENERGY",
+    "coordinates": {
+      "lat": 38.35232,
+      "lon": 35.08873
+    },
+    "radioStations": [
+      {
+        "title": "RADYO ENERGY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "EFSANE 4LÜ TURKEY",
+    "coordinates": {
+      "lat": 38.37255,
+      "lon": 34.02537
+    },
+    "radioStations": [
+      {
+        "title": "EFSANE 4LÜ TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Turkuvaz Musiki",
+    "coordinates": {
+      "lat": 38.40167,
+      "lon": 33.41306
+    },
+    "radioStations": [
+      {
+        "title": "Turkuvaz Musiki",
+        "subtitle": "Bursa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "LALEGÜL FM",
+    "coordinates": {
+      "lat": 38.30778,
+      "lon": 32.86861
+    },
+    "radioStations": [
+      {
+        "title": "LALEGÜL FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.netmedya.net/lalegulfm"
+      }
+    ]
+  },
+  {
+    "name": "TGRT FM",
+    "coordinates": {
+      "lat": 38.3575,
+      "lon": 31.41639
+    },
+    "radioStations": [
+      {
+        "title": "TGRT FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm"
+      }
+    ]
+  },
+  {
+    "name": "Kiss Türk",
+    "coordinates": {
+      "lat": 38.29556,
+      "lon": 31.17778
+    },
+    "radioStations": [
+      {
+        "title": "Kiss Türk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kiss.radyotvonline.net/kissturk"
+      }
+    ]
+  },
+  {
+    "name": "HOME KLASİK TURKEY",
+    "coordinates": {
+      "lat": 38.46472,
+      "lon": 30.26946
+    },
+    "radioStations": [
+      {
+        "title": "HOME KLASİK TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Gol",
+    "coordinates": {
+      "lat": 38.30139,
+      "lon": 29.73861
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Gol",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edge1.radyotvonline.net/shoutcast/play/radyogol"
+      }
+    ]
+  },
+  {
+    "name": "TürküRadyo",
+    "coordinates": {
+      "lat": 38.35083,
+      "lon": 28.51718
+    },
+    "radioStations": [
+      {
+        "title": "TürküRadyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.turkhosted.com/4591/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo D",
+    "coordinates": {
+      "lat": 38.48258,
+      "lon": 28.14774
+    },
+    "radioStations": [
+      {
+        "title": "Radyo D",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm legacy",
+    "coordinates": {
+      "lat": 38.41273,
+      "lon": 27.13838
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm legacy",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/legacy-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Nida",
+    "coordinates": {
+      "lat": 38.32614,
+      "lon": 26.30574
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Nida",
+        "subtitle": "Bursa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyonida.com.tr/dist/img/radyo-nida.jpg?2",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/8106/stream"
+      }
+    ]
+  },
+  {
+    "name": "Power R&B Hip-Hop",
+    "coordinates": {
+      "lat": 38.6364,
+      "lon": 26.51094
+    },
+    "radioStations": [
+      {
+        "title": "Power R&B Hip-Hop",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT TSR",
+    "coordinates": {
+      "lat": 38.79975,
+      "lon": 26.97203
+    },
+    "radioStations": [
+      {
+        "title": "TRT TSR",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/4eee676f-ab62-437e-85ba-38855d7bd904.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trttsr.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Süper FM 99.9",
+    "coordinates": {
+      "lat": 38.91852,
+      "lon": 27.84006
+    },
+    "radioStations": [
+      {
+        "title": "Süper FM 99.9",
+        "subtitle": "Viranşehir",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.superfmradyo.com.tr/img/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.superfmradyo.com.tr/superfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "BEST RAP",
+    "coordinates": {
+      "lat": 38.93278,
+      "lon": 28.28942
+    },
+    "radioStations": [
+      {
+        "title": "BEST RAP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wowza3.radyotvonline.com/best/bestgicir.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO 75",
+    "coordinates": {
+      "lat": 38.67351,
+      "lon": 29.4058
+    },
+    "radioStations": [
+      {
+        "title": "RADYO 75",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/8126/stream"
+      }
+    ]
+  },
+  {
+    "name": "Barış Radyo 104.8",
+    "coordinates": {
+      "lat": 38.75667,
+      "lon": 30.54333
+    },
+    "radioStations": [
+      {
+        "title": "Barış Radyo 104.8",
+        "subtitle": "Adana",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.canliradyodinle.fm/wp-content/uploads/barisr-adyo.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin2.canliyayin.org:9350/stream?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Hayal",
+    "coordinates": {
+      "lat": 38.71111,
+      "lon": 31.04861
+    },
+    "radioStations": [
+      {
+        "title": "Radio Hayal",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2Zs0Z4mz2ITq-L7o2mYtKqDNDp0z8fDeaQ&s",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/8058/stream"
+      }
+    ]
+  },
+  {
+    "name": "İmbat FM",
+    "coordinates": {
+      "lat": 38.81418,
+      "lon": 31.73223
+    },
+    "radioStations": [
+      {
+        "title": "İmbat FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.imbatfm.com/wp-content/uploads/2021/04/imbat-fm-logo.png](https://www.imbatfm.com/wp-content/uploads/2021/04/imbat-fm-logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.medyahost.com.tr/8034/stream"
+      }
+    ]
+  },
+  {
+    "name": "RadioTEDU Jazz FLAC",
+    "coordinates": {
+      "lat": 38.65389,
+      "lon": 32.52972
+    },
+    "radioStations": [
+      {
+        "title": "RadioTEDU Jazz FLAC",
+        "subtitle": "Ankara",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-jazz.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotedu.com/cazz-flac"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm live from minimuzikhol",
+    "coordinates": {
+      "lat": 38.93925,
+      "lon": 33.5386
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm live from minimuzikhol",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/mmradyo-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Self FM",
+    "coordinates": {
+      "lat": 38.73728,
+      "lon": 34.03866
+    },
+    "radioStations": [
+      {
+        "title": "Self FM",
+        "subtitle": "Konyaaltı",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl22.radyotelekom.com/8084/stream"
+      }
+    ]
+  },
+  {
+    "name": "HOŞ MiX",
+    "coordinates": {
+      "lat": 38.625,
+      "lon": 34.71222
+    },
+    "radioStations": [
+      {
+        "title": "HOŞ MiX",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.hosmix.com/wp-content/uploads/2025/12/logoh200-200.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://178.32.4.127:8046/stream"
+      }
+    ]
+  },
+  {
+    "name": "Yön Radyo",
+    "coordinates": {
+      "lat": 38.73222,
+      "lon": 35.48528
+    },
+    "radioStations": [
+      {
+        "title": "Yön Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-radyo-1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radyolarburada.com:8020/yonradyo"
+      }
+    ]
+  },
+  {
+    "name": "RadioTEDU Classic FLAC",
+    "coordinates": {
+      "lat": 38.72285,
+      "lon": 36.39314
+    },
+    "radioStations": [
+      {
+        "title": "RadioTEDU Classic FLAC",
+        "subtitle": "Ankara",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-classic.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiotedu.com/classic-flac"
+      }
+    ]
+  },
+  {
+    "name": "Kalbe Dokunan Şarkılar",
+    "coordinates": {
+      "lat": 38.72225,
+      "lon": 37.27097
+    },
+    "radioStations": [
+      {
+        "title": "Kalbe Dokunan Şarkılar",
+        "subtitle": "İstanbul Avrupa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kalbedokunansarkilar.com.tr/uploads/logom/xlogo_1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.sinirsizhost.com.tr/8058/stream"
+      }
+    ]
+  },
+  {
+    "name": "KISS SPEED UP",
+    "coordinates": {
+      "lat": 38.81622,
+      "lon": 37.92882
+    },
+    "radioStations": [
+      {
+        "title": "KISS SPEED UP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dijimedya.radyotvonline.net/speedup"
+      }
+    ]
+  },
+  {
+    "name": "YENİ POP",
+    "coordinates": {
+      "lat": 38.94728,
+      "lon": 38.9423
+    },
+    "radioStations": [
+      {
+        "title": "YENİ POP",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Mydonose",
+    "coordinates": {
+      "lat": 38.67431,
+      "lon": 39.22321
+    },
+    "radioStations": [
+      {
+        "title": "Radio Mydonose",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "S1lhoutte Arabesk FM",
+    "coordinates": {
+      "lat": 38.88472,
+      "lon": 40.49389
+    },
+    "radioStations": [
+      {
+        "title": "S1lhoutte Arabesk FM",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyoarabesk.com.tr:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "BloombergHTradyo",
+    "coordinates": {
+      "lat": 38.73163,
+      "lon": 41.48482
+    },
+    "radioStations": [
+      {
+        "title": "BloombergHTradyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Mydonose Türk",
+    "coordinates": {
+      "lat": 38.7339,
+      "lon": 41.78396
+    },
+    "radioStations": [
+      {
+        "title": "Mydonose Türk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "HaYaTMiX Slow",
+    "coordinates": {
+      "lat": 38.7489,
+      "lon": 42.48007
+    },
+    "radioStations": [
+      {
+        "title": "HaYaTMiX Slow",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayin.com.tr:4090/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Yalova",
+    "coordinates": {
+      "lat": 38.85088,
+      "lon": 43.09766
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Yalova",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://studio25.radiolize.com/radio/8200/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": ".Al quran radio",
+    "coordinates": {
+      "lat": 38.65455,
+      "lon": 43.98869
+    },
+    "radioStations": [
+      {
+        "title": ".Al quran radio",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      }
+    ]
+  },
+  {
+    "name": "TRT Diyanet Çocuk",
+    "coordinates": {
+      "lat": 39.14317,
+      "lon": 43.91068
+    },
+    "radioStations": [
+      {
+        "title": "TRT Diyanet Çocuk",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Discoland",
+    "coordinates": {
+      "lat": 39.02587,
+      "lon": 43.35964
+    },
+    "radioStations": [
+      {
+        "title": "Discoland",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "GİMSA RADYO",
+    "coordinates": {
+      "lat": 39.22493,
+      "lon": 42.85693
+    },
+    "radioStations": [
+      {
+        "title": "GİMSA RADYO",
+        "subtitle": "Ankara",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://yayin1.canliyayin.org:9482/stream"
+      }
+    ]
+  },
+  {
+    "name": "TRT Radyo Arabi / عربي",
+    "coordinates": {
+      "lat": 39.09101,
+      "lon": 41.68301
+    },
+    "radioStations": [
+      {
+        "title": "TRT Radyo Arabi / عربي",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtarabi.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "HAYATMİX ARABESK",
+    "coordinates": {
+      "lat": 39.17375,
+      "lon": 41.45402
+    },
+    "radioStations": [
+      {
+        "title": "HAYATMİX ARABESK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayin.com.tr:4078/mp3"
+      }
+    ]
+  },
+  {
+    "name": "imaj fm Erzurum",
+    "coordinates": {
+      "lat": 39.22614,
+      "lon": 40.0695
+    },
+    "radioStations": [
+      {
+        "title": "imaj fm Erzurum",
+        "subtitle": "Erzurum",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net/imajfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Yaren FM",
+    "coordinates": {
+      "lat": 39.09921,
+      "lon": 39.54351
+    },
+    "radioStations": [
+      {
+        "title": "Yaren FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tarsusfm.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yarenfmn.80.yayin.com.tr//stream"
+      }
+    ]
+  },
+  {
+    "name": "PowerTürk Rap",
+    "coordinates": {
+      "lat": 39.04117,
+      "lon": 38.49516
+    },
+    "radioStations": [
+      {
+        "title": "PowerTürk Rap",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "MPL Radyo",
+    "coordinates": {
+      "lat": 39.03333,
+      "lon": 38.0
+    },
+    "radioStations": [
+      {
+        "title": "MPL Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.mihr.com/Content/images/mihrcom.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DREAM TÜRK",
+    "coordinates": {
+      "lat": 39.23354,
+      "lon": 37.39111
+    },
+    "radioStations": [
+      {
+        "title": "DREAM TÜRK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.duhnet.tv/dreamturk"
+      }
+    ]
+  },
+  {
+    "name": "DT NOSTALJİ",
+    "coordinates": {
+      "lat": 39.18342,
+      "lon": 36.07189
+    },
+    "radioStations": [
+      {
+        "title": "DT NOSTALJİ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://canli.dtnostalji.com.tr/9999/stream"
+      }
+    ]
+  },
+  {
+    "name": "KİSS GOLD TÜRK",
+    "coordinates": {
+      "lat": 39.30278,
+      "lon": 35.64389
+    },
+    "radioStations": [
+      {
+        "title": "KİSS GOLD TÜRK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dijimedya.radyotvonline.net/goldturk"
+      }
+    ]
+  },
+  {
+    "name": "efkar",
+    "coordinates": {
+      "lat": 39.21142,
+      "lon": 35.00036
+    },
+    "radioStations": [
+      {
+        "title": "efkar",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Power Deep",
+    "coordinates": {
+      "lat": 39.14583,
+      "lon": 34.16389
+    },
+    "radioStations": [
+      {
+        "title": "Power Deep",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_637.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "24 Radyo",
+    "coordinates": {
+      "lat": 39.09513,
+      "lon": 33.07989
+    },
+    "radioStations": [
+      {
+        "title": "24 Radyo",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo24.radyotvonline.net/radyo24"
+      }
+    ]
+  },
+  {
+    "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
+    "coordinates": {
+      "lat": 39.20417,
+      "lon": 32.74778
+    },
+    "radioStations": [
+      {
+        "title": "LİDER FM - 87.5 ALEMİN LİDERİ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://liderfm.net/public/images/1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "dijital slow",
+    "coordinates": {
+      "lat": 39.02444,
+      "lon": 31.79056
+    },
+    "radioStations": [
+      {
+        "title": "dijital slow",
+        "subtitle": "Türkiye",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://anadolu.liderhost.com.tr:8076/radyo"
+      }
+    ]
+  },
+  {
+    "name": "KİSS MUSİKİ",
+    "coordinates": {
+      "lat": 39.01972,
+      "lon": 31.15
+    },
+    "radioStations": [
+      {
+        "title": "KİSS MUSİKİ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dijimedya.radyotvonline.net/radyomusiki"
+      }
+    ]
+  },
+  {
+    "name": "RADYO ATILIM",
+    "coordinates": {
+      "lat": 39.02916,
+      "lon": 30.41639
+    },
+    "radioStations": [
+      {
+        "title": "RADYO ATILIM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/radyoatilim/mpeg/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Mavi Denizim",
+    "coordinates": {
+      "lat": 38.99389,
+      "lon": 29.39131
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Mavi Denizim",
+        "subtitle": "Pursaklar",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyomavidenizim.com/wp-content/uploads/2022/09/images.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com/8076/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADYO MÜZEYYEN",
+    "coordinates": {
+      "lat": 39.0882,
+      "lon": 28.97767
+    },
+    "radioStations": [
+      {
+        "title": "RADYO MÜZEYYEN",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "VİRGİN RADYO",
+    "coordinates": {
+      "lat": 39.18554,
+      "lon": 27.60945
+    },
+    "radioStations": [
+      {
+        "title": "VİRGİN RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gönül FM 97.3",
+    "coordinates": {
+      "lat": 39.12074,
+      "lon": 27.18052
+    },
+    "radioStations": [
+      {
+        "title": "Gönül FM 97.3",
+        "subtitle": "Osmaniye",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyogonul.com.tr/radyo-gonul-osmaniye.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net/gonulfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "FRİGBO",
+    "coordinates": {
+      "lat": 39.60111,
+      "lon": 26.40472
+    },
+    "radioStations": [
+      {
+        "title": "FRİGBO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://station.frigbo.com/listen/frigbo/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mayday Records Radio",
+    "coordinates": {
+      "lat": 39.31927,
+      "lon": 26.69341
+    },
+    "radioStations": [
+      {
+        "title": "Mayday Records Radio",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maydayrecords.net/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629"
+      }
+    ]
+  },
+  {
+    "name": "canliradyo.tr - Canlı Radyo & Maç Dinle",
+    "coordinates": {
+      "lat": 39.3925,
+      "lon": 28.13111
+    },
+    "radioStations": [
+      {
+        "title": "canliradyo.tr - Canlı Radyo & Maç Dinle",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://canliradyo.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "BEST KINA",
+    "coordinates": {
+      "lat": 39.58596,
+      "lon": 28.62568
+    },
+    "radioStations": [
+      {
+        "title": "BEST KINA",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wowza3.radyotvonline.com/best/bestkina.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio 5 Turkey",
+    "coordinates": {
+      "lat": 39.54237,
+      "lon": 29.49866
+    },
+    "radioStations": [
+      {
+        "title": "Radio 5 Turkey",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio5.com.tr/wp-content/plugins/under-construction-page/themes/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radyo.yayin.com.tr:4108/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo A (Radyo Anadolu Üniversitesi)",
+    "coordinates": {
+      "lat": 39.42417,
+      "lon": 29.98333
+    },
+    "radioStations": [
+      {
+        "title": "Radyo A (Radyo Anadolu Üniversitesi)",
+        "subtitle": "Eskişehir",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Antalya",
+    "coordinates": {
+      "lat": 39.38306,
+      "lon": 31.03917
+    },
+    "radioStations": [
+      {
+        "title": "Radio Antalya",
+        "subtitle": "Antalya",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioantalya.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://my.radiolize.com/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Borusan Klasik",
+    "coordinates": {
+      "lat": 39.45037,
+      "lon": 31.53409
+    },
+    "radioStations": [
+      {
+        "title": "Borusan Klasik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://23543.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "dinamo.fm fluent",
+    "coordinates": {
+      "lat": 39.57715,
+      "lon": 32.14132
+    },
+    "radioStations": [
+      {
+        "title": "dinamo.fm fluent",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://channels.dinamo.fm/fluent-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Danceland turkey",
+    "coordinates": {
+      "lat": 39.59417,
+      "lon": 33.37778
+    },
+    "radioStations": [
+      {
+        "title": "Danceland turkey",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CLASSICLAND TURKEY",
+    "coordinates": {
+      "lat": 39.63806,
+      "lon": 34.46722
+    },
+    "radioStations": [
+      {
+        "title": "CLASSICLAND TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Tezene",
+    "coordinates": {
+      "lat": 39.5043,
+      "lon": 34.7563
+    },
+    "radioStations": [
+      {
+        "title": "Tezene",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream"
+      }
+    ]
+  },
+  {
+    "name": "BABYLAND TURKEY",
+    "coordinates": {
+      "lat": 39.36311,
+      "lon": 35.47904
+    },
+    "radioStations": [
+      {
+        "title": "BABYLAND TURKEY",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
+    "coordinates": {
+      "lat": 39.35186,
+      "lon": 36.40976
+    },
+    "radioStations": [
+      {
+        "title": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
+        "subtitle": "Konya",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Taksi",
+    "coordinates": {
+      "lat": 39.44492,
+      "lon": 37.039
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Taksi",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyo.in/8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "PowerTürk Dans",
+    "coordinates": {
+      "lat": 39.371,
+      "lon": 38.1137
+    },
+    "radioStations": [
+      {
+        "title": "PowerTürk Dans",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Kent FM",
+    "coordinates": {
+      "lat": 39.45654,
+      "lon": 38.56474
+    },
+    "radioStations": [
+      {
+        "title": "Kent FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/9477e9_5d00a2e59e4d4bada251627401f75c91~mv2.png/v1/fill/w_150,h_114,al_c,q_85,usm_0.66_1.00_0.01/KENT_FM_LOGO.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Fenomen Türk 256",
+    "coordinates": {
+      "lat": 39.35259,
+      "lon": 39.2089
+    },
+    "radioStations": [
+      {
+        "title": "Fenomen Türk 256",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RadyoVoyage",
+    "coordinates": {
+      "lat": 39.43277,
+      "lon": 40.53368
+    },
+    "radioStations": [
+      {
+        "title": "RadyoVoyage",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://voyagesc.radyotvonline.com"
+      }
+    ]
+  },
+  {
+    "name": "PowerTürk Akustik",
+    "coordinates": {
+      "lat": 39.60641,
+      "lon": 40.96844
+    },
+    "radioStations": [
+      {
+        "title": "PowerTürk Akustik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO AKDENIZ",
+    "coordinates": {
+      "lat": 39.35766,
+      "lon": 41.69253
+    },
+    "radioStations": [
+      {
+        "title": "RADYO AKDENIZ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyoakdeniz.com/9470/stream"
+      }
+    ]
+  },
+  {
+    "name": "a PARA",
+    "coordinates": {
+      "lat": 39.60561,
+      "lon": 42.985
+    },
+    "radioStations": [
+      {
+        "title": "a PARA",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "FENOMEN AKUSTIK",
+    "coordinates": {
+      "lat": 39.54056,
+      "lon": 43.67135
+    },
+    "radioStations": [
+      {
+        "title": "FENOMEN AKUSTIK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Küpe FM",
+    "coordinates": {
+      "lat": 39.54694,
+      "lon": 44.08417
+    },
+    "radioStations": [
+      {
+        "title": "Küpe FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.netmedya.net/kupefm"
+      }
+    ]
+  },
+  {
+    "name": "Fenomen Clubbin 256",
+    "coordinates": {
+      "lat": 39.92371,
+      "lon": 44.045
+    },
+    "radioStations": [
+      {
+        "title": "Fenomen Clubbin 256",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Mori",
+    "coordinates": {
+      "lat": 39.70667,
+      "lon": 43.255
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Mori",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://amed.ozelip.com/8040/stream"
+      }
+    ]
+  },
+  {
+    "name": "Loops Radio Techno",
+    "coordinates": {
+      "lat": 39.71467,
+      "lon": 43.04015
+    },
+    "radioStations": [
+      {
+        "title": "Loops Radio Techno",
+        "subtitle": "Istambul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ip179.ozelip.com/7688//asistan/stream"
+      }
+    ]
+  },
+  {
+    "name": "Mayday Records",
+    "coordinates": {
+      "lat": 39.97975,
+      "lon": 41.66997
+    },
+    "radioStations": [
+      {
+        "title": "Mayday Records",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Sinerji",
+    "coordinates": {
+      "lat": 39.90861,
+      "lon": 41.27694
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Sinerji",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.guventechnology.com/9994/stream"
+      }
+    ]
+  },
+  {
+    "name": "Elazığ Mavi Radyo",
+    "coordinates": {
+      "lat": 39.92083,
+      "lon": 40.695
+    },
+    "radioStations": [
+      {
+        "title": "Elazığ Mavi Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://maviradyo.net/assets/images/logo2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.turkhosted.com/6066/stream"
+      }
+    ]
+  },
+  {
+    "name": "Özel FM",
+    "coordinates": {
+      "lat": 39.73919,
+      "lon": 39.49015
+    },
+    "radioStations": [
+      {
+        "title": "Özel FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ozelfm.80.yayin.com.tr/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "DanceLand Anthems",
+    "coordinates": {
+      "lat": 39.89315,
+      "lon": 38.76607
+    },
+    "radioStations": [
+      {
+        "title": "DanceLand Anthems",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://like.radio/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://likeradiostream.com/dancelandanthems"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Odtu Easy",
+    "coordinates": {
+      "lat": 39.89778,
+      "lon": 37.75833
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Odtu Easy",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream3.radyoodtu.com.tr:8000/easy"
+      }
+    ]
+  },
+  {
+    "name": "radyo mydonose",
+    "coordinates": {
+      "lat": 39.74833,
+      "lon": 37.01611
+    },
+    "radioStations": [
+      {
+        "title": "radyo mydonose",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Mars",
+    "coordinates": {
+      "lat": 39.86639,
+      "lon": 36.59889
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Mars",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyomars.com/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyomadyo.com:9400/stream"
+      }
+    ]
+  },
+  {
+    "name": ". Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 39.66028,
+      "lon": 35.88361
+    },
+    "radioStations": [
+      {
+        "title": ". Abdulbasit Abdulsamad",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mp3islam.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Hidayet Çağı",
+    "coordinates": {
+      "lat": 39.82,
+      "lon": 34.80444
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Hidayet Çağı",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.mihr.com/Content/images/mihrcom.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mihr.com/radio/8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beyaz TV",
+    "coordinates": {
+      "lat": 39.95371,
+      "lon": 34.02587
+    },
+    "radioStations": [
+      {
+        "title": "Beyaz TV",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Tarsus FM",
+    "coordinates": {
+      "lat": 39.84528,
+      "lon": 33.50639
+    },
+    "radioStations": [
+      {
+        "title": "Tarsus FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tarsusfm.com.tr/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tarsusfm.80.yayin.com.tr//stream"
+      }
+    ]
+  },
+  {
+    "name": "power plus",
+    "coordinates": {
+      "lat": 39.91987,
+      "lon": 32.85427
+    },
+    "radioStations": [
+      {
+        "title": "power plus",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Gevaş Sesi Radyosu",
+    "coordinates": {
+      "lat": 39.86594,
+      "lon": 31.49572
+    },
+    "radioStations": [
+      {
+        "title": "Gevaş Sesi Radyosu",
+        "subtitle": "Gevaş",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com:8056/stream"
+      }
+    ]
+  },
+  {
+    "name": "literal",
+    "coordinates": {
+      "lat": 39.76903,
+      "lon": 30.9606
+    },
+    "radioStations": [
+      {
+        "title": "literal",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "TURKUVAZ EFSANE",
+    "coordinates": {
+      "lat": 39.77667,
+      "lon": 30.52056
+    },
+    "radioStations": [
+      {
+        "title": "TURKUVAZ EFSANE",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "HEY RADYO",
+    "coordinates": {
+      "lat": 39.80194,
+      "lon": 29.60918
+    },
+    "radioStations": [
+      {
+        "title": "HEY RADYO",
+        "subtitle": "izmir",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.heyradyo.com/assets/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128"
+      }
+    ]
+  },
+  {
+    "name": "RADYO MEGA",
+    "coordinates": {
+      "lat": 39.8,
+      "lon": 29.01667
+    },
+    "radioStations": [
+      {
+        "title": "RADYO MEGA",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://megaradyoiskenderun.ozelip.com/8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "RELAX HOME",
+    "coordinates": {
+      "lat": 39.64917,
+      "lon": 27.88611
+    },
+    "radioStations": [
+      {
+        "title": "RELAX HOME",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "rock station",
+    "coordinates": {
+      "lat": 39.81167,
+      "lon": 27.215
+    },
+    "radioStations": [
+      {
+        "title": "rock station",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION128AAC.aac?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ANTAKYA RENK FM HATAY",
+    "coordinates": {
+      "lat": 39.78561,
+      "lon": 26.34083
+    },
+    "radioStations": [
+      {
+        "title": "ANTAKYA RENK FM HATAY",
+        "subtitle": "Hatay",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayindakiler.com:3016/renk"
+      }
+    ]
+  },
+  {
+    "name": "TURKUVAZ ROMANTİK",
+    "coordinates": {
+      "lat": 40.15552,
+      "lon": 26.41271
+    },
+    "radioStations": [
+      {
+        "title": "TURKUVAZ ROMANTİK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "ÇEŞME VİKİNG RADYO",
+    "coordinates": {
+      "lat": 40.22806,
+      "lon": 27.24222
+    },
+    "radioStations": [
+      {
+        "title": "ÇEŞME VİKİNG RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ip169.ozelip.com/8432/stream"
+      }
+    ]
+  },
+  {
+    "name": "joytürk fm",
+    "coordinates": {
+      "lat": 40.1049,
+      "lon": 27.65399
+    },
+    "radioStations": [
+      {
+        "title": "joytürk fm",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://25553.live.streamtheworld.com/JOY_TURK_SC"
+      }
+    ]
+  },
+  {
+    "name": "Çağrı FM Diyarbakır",
+    "coordinates": {
+      "lat": 40.21401,
+      "lon": 28.91567
+    },
+    "radioStations": [
+      {
+        "title": "Çağrı FM Diyarbakır",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr/8002/stream?/;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Sarıkamış",
+    "coordinates": {
+      "lat": 40.19559,
+      "lon": 29.06013
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Sarıkamış",
+        "subtitle": "Sarıkamış",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radyosarikamis.com/uploads/logo/sarisakmislogo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyositesihazir.com:8004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Zile FM 93.5",
+    "coordinates": {
+      "lat": 40.14192,
+      "lon": 29.97932
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Zile FM 93.5",
+        "subtitle": "Zile",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyozile.com/uploads/logo/Radyo-zile-1.pdf.pdf.pdf-385-x-118-piksel-250-x-400-piksel-_20250317_205042_0000.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyozile.ozelip.com/8114/stream"
+      }
+    ]
+  },
+  {
+    "name": "TİRYAKİ FM",
+    "coordinates": {
+      "lat": 40.18593,
+      "lon": 31.35179
+    },
+    "radioStations": [
+      {
+        "title": "TİRYAKİ FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.turkhosted.com:6056/mp3"
+      }
+    ]
+  },
+  {
+    "name": "ÜLKÜ RADYO",
+    "coordinates": {
+      "lat": 40.1675,
+      "lon": 31.92111
+    },
+    "radioStations": [
+      {
+        "title": "ÜLKÜ RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayindakiler.com:4112/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "POP 90 Turkiye",
+    "coordinates": {
+      "lat": 40.23167,
+      "lon": 32.68389
+    },
+    "radioStations": [
+      {
+        "title": "POP 90 Turkiye",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://media.radiospinner.com/media/logos/180/48628/logo_bnYEmsRas6.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://23613.live.streamtheworld.com/POP90AAC_SC"
+      }
+    ]
+  },
+  {
+    "name": "Romantik SES Sakarya",
+    "coordinates": {
+      "lat": 40.23861,
+      "lon": 33.03222
+    },
+    "radioStations": [
+      {
+        "title": "Romantik SES Sakarya",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.romantikses.com/romantiksessakary/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo 7 Türkü",
+    "coordinates": {
+      "lat": 40.1675,
+      "lon": 34.37389
+    },
+    "radioStations": [
+      {
+        "title": "Radyo 7 Türkü",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT VOT West",
+    "coordinates": {
+      "lat": 40.16833,
+      "lon": 34.8425
+    },
+    "radioStations": [
+      {
+        "title": "TRT VOT West",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtvotwest.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "GELİŞİM RADYO",
+    "coordinates": {
+      "lat": 40.30306,
+      "lon": 35.88639
+    },
+    "radioStations": [
+      {
+        "title": "GELİŞİM RADYO",
+        "subtitle": "Karadeniz",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radyo.yayindakiler.com:4008/stream"
+      }
+    ]
+  },
+  {
+    "name": "KARMA TÜRK",
+    "coordinates": {
+      "lat": 40.31389,
+      "lon": 36.55444
+    },
+    "radioStations": [
+      {
+        "title": "KARMA TÜRK",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.radyomadyo.com:8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADYO AKUSTİKLAND",
+    "coordinates": {
+      "lat": 40.20841,
+      "lon": 37.53123
+    },
+    "radioStations": [
+      {
+        "title": "RADYO AKUSTİKLAND",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Dede Bilişim Test Yayını",
+    "coordinates": {
+      "lat": 40.16005,
+      "lon": 38.08413
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Dede Bilişim Test Yayını",
+        "subtitle": "İstanbul Avrupa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://dedebilisim.com.tr/uploads/settings/1779818800_DedeBili%C5%9Fim%20logo%20yaz%C4%B1-crop.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.sinirsizhost.com.tr/8080/stream"
+      }
+    ]
+  },
+  {
+    "name": "Yeniköy FM",
+    "coordinates": {
+      "lat": 40.28833,
+      "lon": 38.42361
+    },
+    "radioStations": [
+      {
+        "title": "Yeniköy FM",
+        "subtitle": "Yeniköy",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.yenikoyfm.com/uploads/site/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://anadolu.liderhost.com.tr:10924/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Maksat",
+    "coordinates": {
+      "lat": 40.12682,
+      "lon": 39.43424
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Maksat",
+        "subtitle": "Bursa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyomaksat.com.tr/uploads/logo/logo_1.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.sinirsizhost.com.tr/8038/stream"
+      }
+    ]
+  },
+  {
+    "name": "İhya Fm",
+    "coordinates": {
+      "lat": 40.25631,
+      "lon": 40.22289
+    },
+    "radioStations": [
+      {
+        "title": "İhya Fm",
+        "subtitle": "Gaziantep",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ihyafm.com.tr/public/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.yayin.com.tr:2727/stream"
+      }
+    ]
+  },
+  {
+    "name": "MK Radyo",
+    "coordinates": {
+      "lat": 40.20049,
+      "lon": 40.99727
+    },
+    "radioStations": [
+      {
+        "title": "MK Radyo",
+        "subtitle": "Istanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://mkradyo.com/mk.png?v=20260512-0247",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.sinirsizhost.com.tr/8028/stream"
+      }
+    ]
+  },
+  {
+    "name": "RADYO B",
+    "coordinates": {
+      "lat": 40.03885,
+      "lon": 42.16366
+    },
+    "radioStations": [
+      {
+        "title": "RADYO B",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyob.ozelip.com.tr/8042/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Gönül Mısraları",
+    "coordinates": {
+      "lat": 40.30754,
+      "lon": 42.88443
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Gönül Mısraları",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gonulmisralari.com/wp-content/uploads/2026/07/cropped-cropped-gonulmisralarilogo_small.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.gonulmisralari.com/listen/canli/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RUN ON AİR",
+    "coordinates": {
+      "lat": 40.15669,
+      "lon": 43.13424
+    },
+    "radioStations": [
+      {
+        "title": "RUN ON AİR",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio.co/s5865f80fd/listen"
+      }
+    ]
+  },
+  {
+    "name": "BAU RADYO",
+    "coordinates": {
+      "lat": 39.99759,
+      "lon": 44.05096
+    },
+    "radioStations": [
+      {
+        "title": "BAU RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl120.radyotelekom.com.tr/8106/stream.mp4"
+      }
+    ]
+  },
+  {
+    "name": "GARAJ RADYO",
+    "coordinates": {
+      "lat": 40.59825,
+      "lon": 43.08548
+    },
+    "radioStations": [
+      {
+        "title": "GARAJ RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KİSS GENÇ",
+    "coordinates": {
+      "lat": 40.32769,
+      "lon": 42.58705
+    },
+    "radioStations": [
+      {
+        "title": "KİSS GENÇ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dijimedya.radyotvonline.net/gncradyo"
+      }
+    ]
+  },
+  {
+    "name": "SOFT RADYO",
+    "coordinates": {
+      "lat": 40.53945,
+      "lon": 41.98722
+    },
+    "radioStations": [
+      {
+        "title": "SOFT RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.softradyo.com/1140/stream"
+      }
+    ]
+  },
+  {
+    "name": "FLOWRADYO",
+    "coordinates": {
+      "lat": 40.47981,
+      "lon": 40.99373
+    },
+    "radioStations": [
+      {
+        "title": "FLOWRADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Tempo FM 101.5",
+    "coordinates": {
+      "lat": 40.38325,
+      "lon": 40.14272
+    },
+    "radioStations": [
+      {
+        "title": "Tempo FM 101.5",
+        "subtitle": "Terme",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.termetempofm.com.tr/uploads/logo/LOGO_3_1.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyo.in/8062/stream"
+      }
+    ]
+  },
+  {
+    "name": "Esas radyo",
+    "coordinates": {
+      "lat": 40.46001,
+      "lon": 39.47176
+    },
+    "radioStations": [
+      {
+        "title": "Esas radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://yayin.turkhosted.com:6034/stream"
+      }
+    ]
+  },
+  {
+    "name": "DADA RADYO",
+    "coordinates": {
+      "lat": 40.45446,
+      "lon": 37.77353
+    },
+    "radioStations": [
+      {
+        "title": "DADA RADYO",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.laut.fm/dadaradio"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Vokal",
+    "coordinates": {
+      "lat": 40.59167,
+      "lon": 36.95167
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Vokal",
+        "subtitle": "İstanbul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ik.fskit.net/radyohome/media/station/26/logo_square.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Romantik Ses ISPARTA",
+    "coordinates": {
+      "lat": 40.3875,
+      "lon": 36.08111
+    },
+    "radioStations": [
+      {
+        "title": "Romantik Ses ISPARTA",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyo.romantikses.com/romantiksesispart/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Yaren",
+    "coordinates": {
+      "lat": 40.65333,
+      "lon": 35.83306
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Yaren",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.radyoyayini.com:7097/stream"
+      }
+    ]
+  },
+  {
+    "name": "Baby Joy",
+    "coordinates": {
+      "lat": 40.54889,
+      "lon": 34.95333
+    },
+    "radioStations": [
+      {
+        "title": "Baby Joy",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac?dist=https%3A%2F%2Fkarnaval.com%2Fradyolar%2Fbabyjoy&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gender=F&age=34_45&ses=AB&title=B%2CSM%2CEH&burst-time=15&sbmid=7cd2cdcf-161d-4c67-9e51-411cedc6bfe8"
+      }
+    ]
+  },
+  {
+    "name": "RADYO ESTÜ",
+    "coordinates": {
+      "lat": 40.44631,
+      "lon": 34.45259
+    },
+    "radioStations": [
+      {
+        "title": "RADYO ESTÜ",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl120.radyotelekom.com.tr/8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Karakoçan",
+    "coordinates": {
+      "lat": 40.59995,
+      "lon": 33.6153
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Karakoçan",
+        "subtitle": "Karakoçan",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyokarakocan.ozelip.com/8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Bi̇tli̇s Eren",
+    "coordinates": {
+      "lat": 40.46972,
+      "lon": 32.65056
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Bi̇tli̇s Eren",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radyo.beu.edu.tr/assets/custom/image/logo_beu_turkuaz.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sslyayin.netyayin.net/1313/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Trio",
+    "coordinates": {
+      "lat": 40.41134,
+      "lon": 31.57359
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Trio",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radyotrio.radyotvonline.net/radyotrio"
+      }
+    ]
+  },
+  {
+    "name": "GREEKLAND",
+    "coordinates": {
+      "lat": 40.473,
+      "lon": 31.20755
+    },
+    "radioStations": [
+      {
+        "title": "GREEKLAND",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Loops Radio House Station",
+    "coordinates": {
+      "lat": 40.5075,
+      "lon": 30.2925
+    },
+    "radioStations": [
+      {
+        "title": "Loops Radio House Station",
+        "subtitle": "Istambul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://loopsdeep.ozelip.com/7806/stream"
+      }
+    ]
+  },
+  {
+    "name": "AFN 360 Incirlik",
+    "coordinates": {
+      "lat": 40.65501,
+      "lon": 29.27693
+    },
+    "radioStations": [
+      {
+        "title": "AFN 360 Incirlik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://29103.live.streamtheworld.com/AFNE_ICK_SC"
+      }
+    ]
+  },
+  {
+    "name": "Trt Spor",
+    "coordinates": {
+      "lat": 40.37524,
+      "lon": 28.8838
+    },
+    "radioStations": [
+      {
+        "title": "Trt Spor",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "KIYI Muzik",
+    "coordinates": {
+      "lat": 40.35222,
+      "lon": 27.97667
+    },
+    "radioStations": [
+      {
+        "title": "KIYI Muzik",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://kiyi.radioca.st/stream"
+      }
+    ]
+  },
+  {
+    "name": "Fenomen Karışık 256",
+    "coordinates": {
+      "lat": 40.38186,
+      "lon": 27.20587
+    },
+    "radioStations": [
+      {
+        "title": "Fenomen Karışık 256",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Süper 2 FM",
+    "coordinates": {
+      "lat": 40.40836,
+      "lon": 26.67174
+    },
+    "radioStations": [
+      {
+        "title": "Süper 2 FM",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3"
+      }
+    ]
+  },
+  {
+    "name": "TRT Diyarbakır",
+    "coordinates": {
+      "lat": 40.85525,
+      "lon": 26.63266
+    },
+    "radioStations": [
+      {
+        "title": "TRT Diyarbakır",
+        "subtitle": "Diyarbakır",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/41d20783-0d27-48af-a16b-d1df88610d70.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtgap.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Maranata",
+    "coordinates": {
+      "lat": 40.89105,
+      "lon": 26.90201
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Maranata",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://medya.radyomaranata.com:8005/live"
+      }
+    ]
+  },
+  {
+    "name": "Loops Radio Elektronica Station",
+    "coordinates": {
+      "lat": 40.9781,
+      "lon": 27.51101
+    },
+    "radioStations": [
+      {
+        "title": "Loops Radio Elektronica Station",
+        "subtitle": "Istambul",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl22.radyotelekom.com/8232/stream"
+      }
+    ]
+  },
+  {
+    "name": "Erkam Radyo",
+    "coordinates": {
+      "lat": 40.99104,
+      "lon": 28.77123
+    },
+    "radioStations": [
+      {
+        "title": "Erkam Radyo",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.erkamradyo.com/images/mobil.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://api-tv5.yayin.com.tr:8002/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Fenomen Dans 256",
+    "coordinates": {
+      "lat": 41.00244,
+      "lon": 29.23187
+    },
+    "radioStations": [
+      {
+        "title": "Fenomen Dans 256",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "POP HOME",
+    "coordinates": {
+      "lat": 40.78056,
+      "lon": 30.40333
+    },
+    "radioStations": [
+      {
+        "title": "POP HOME",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT Erzurum",
+    "coordinates": {
+      "lat": 40.83889,
+      "lon": 31.16389
+    },
+    "radioStations": [
+      {
+        "title": "TRT Erzurum",
+        "subtitle": "Erzurum",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/60b756f6-d53d-42dd-909b-7e09f2c38d82.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trterzurum.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "POP LAND",
+    "coordinates": {
+      "lat": 40.73583,
+      "lon": 31.60611
+    },
+    "radioStations": [
+      {
+        "title": "POP LAND",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radyo Eksen",
+    "coordinates": {
+      "lat": 40.80083,
+      "lon": 32.19694
+    },
+    "radioStations": [
+      {
+        "title": "Radyo Eksen",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT Çukurova",
+    "coordinates": {
+      "lat": 40.92511,
+      "lon": 33.62586
+    },
+    "radioStations": [
+      {
+        "title": "TRT Çukurova",
+        "subtitle": "Çukurova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/12de3bf5-2267-4eea-9e1c-22cec7288294.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trtcukurova.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TRT Trabzon",
+    "coordinates": {
+      "lat": 40.73528,
+      "lon": 34.47389
+    },
+    "radioStations": [
+      {
+        "title": "TRT Trabzon",
+        "subtitle": "Trabzon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/da27e57f-8cc2-4c2b-ad46-a90350e38f14.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-trttrabzon.medya.trt.com.tr/master.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TheRockRadio",
+    "coordinates": {
+      "lat": 40.97818,
+      "lon": 34.8047
+    },
+    "radioStations": [
+      {
+        "title": "TheRockRadio",
+        "subtitle": "Turkey",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://therock.com.tr/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8"
+      }
+    ]
+  }
+]
