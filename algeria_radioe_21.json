@@ -1,0 +1,380 @@
+[
+  {
+    "name": "إذاعة القرآن الكريم",
+    "coordinates": {
+      "lat": 20.4408,
+      "lon": 1.80551
+    },
+    "radioStations": [
+      {
+        "title": "إذاعة القرآن الكريم",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+      }
+    ]
+  },
+  {
+    "name": ". إذاعة ماهر المعيقلي",
+    "coordinates": {
+      "lat": 22.785,
+      "lon": 5.52278
+    },
+    "radioStations": [
+      {
+        "title": ". إذاعة ماهر المعيقلي",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://backup.qurango.net/radio/maher"
+      }
+    ]
+  },
+  {
+    "name": "Hits 1 Algérie",
+    "coordinates": {
+      "lat": 26.48333,
+      "lon": 8.46667
+    },
+    "radioStations": [
+      {
+        "title": "Hits 1 Algérie",
+        "subtitle": "Alger",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio12.pro-fhi.net/listen/whmnrlow/stream"
+      }
+    ]
+  },
+  {
+    "name": "صوت الغد استراليا",
+    "coordinates": {
+      "lat": 27.19678,
+      "lon": 2.47913
+    },
+    "radioStations": [
+      {
+        "title": "صوت الغد استراليا",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s4.voscast.com:7648"
+      }
+    ]
+  },
+  {
+    "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+    "coordinates": {
+      "lat": 27.87429,
+      "lon": -0.29388
+    },
+    "radioStations": [
+      {
+        "title": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "تفسير بن عثيمين رحمه الله",
+    "coordinates": {
+      "lat": 27.67111,
+      "lon": -8.14743
+    },
+    "radioStations": [
+      {
+        "title": "تفسير بن عثيمين رحمه الله",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/tafseer"
+      }
+    ]
+  },
+  {
+    "name": ".صور من حياة الصحابة",
+    "coordinates": {
+      "lat": 31.019,
+      "lon": -2.72387
+    },
+    "radioStations": [
+      {
+        "title": ".صور من حياة الصحابة",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/sahabah"
+      }
+    ]
+  },
+  {
+    "name": "A ntinea Radio",
+    "coordinates": {
+      "lat": 31.61667,
+      "lon": -2.21667
+    },
+    "radioStations": [
+      {
+        "title": "A ntinea Radio",
+        "subtitle": "Tizi-Ouzou",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen.radioking.com/radio/6640/stream/347"
+      }
+    ]
+  },
+  {
+    "name": ".مختصر السيرة",
+    "coordinates": {
+      "lat": 30.57556,
+      "lon": 2.88417
+    },
+    "radioStations": [
+      {
+        "title": ".مختصر السيرة",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/almukhtasar_fi_alsiyra"
+      }
+    ]
+  },
+  {
+    "name": "France Maghreb 2",
+    "coordinates": {
+      "lat": 31.94932,
+      "lon": 5.32502
+    },
+    "radioStations": [
+      {
+        "title": "France Maghreb 2",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "..مختصر التفسير",
+    "coordinates": {
+      "lat": 36.365,
+      "lon": 6.61472
+    },
+    "radioStations": [
+      {
+        "title": "..مختصر التفسير",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/mukhtasartafsir"
+      }
+    ]
+  },
+  {
+    "name": "Beur FM",
+    "coordinates": {
+      "lat": 35.55597,
+      "lon": 6.17414
+    },
+    "radioStations": [
+      {
+        "title": "Beur FM",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": ".القارئ محمد أيوب",
+    "coordinates": {
+      "lat": 36.73225,
+      "lon": 3.08746
+    },
+    "radioStations": [
+      {
+        "title": ".القارئ محمد أيوب",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/mohammed_ayyub"
+      }
+    ]
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "coordinates": {
+      "lat": 35.69906,
+      "lon": -0.63588
+    },
+    "radioStations": [
+      {
+        "title": "Abdulbasit Abdulsamad",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "LOVE FM: أغاني البوب ​​الكلاسيكية من الثمانينيات وحتى الآن",
+    "coordinates": {
+      "lat": 19.57361,
+      "lon": 5.76806
+    },
+    "radioStations": [
+      {
+        "title": "LOVE FM: أغاني البوب ​​الكلاسيكية من الثمانينيات وحتى الآن",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "beautiful recitation",
+    "coordinates": {
+      "lat": 33.09892,
+      "lon": 1.26082
+    },
+    "radioStations": [
+      {
+        "title": "beautiful recitation",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://qurango.net/radio/salma"
+      }
+    ]
+  },
+  {
+    "name": "109.0 FM Christmas Kids",
+    "coordinates": {
+      "lat": 34.5,
+      "lon": 3.76667
+    },
+    "radioStations": [
+      {
+        "title": "109.0 FM Christmas Kids",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.dar.fm/97821"
+      }
+    ]
+  },
+  {
+    "name": "sleep",
+    "coordinates": {
+      "lat": 24.55528,
+      "lon": 9.485
+    },
+    "radioStations": [
+      {
+        "title": "sleep",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://65.109.81.84:9851/stream"
+      }
+    ]
+  },
+  {
+    "name": "al quran radio",
+    "coordinates": {
+      "lat": 33.51667,
+      "lon": 6.95
+    },
+    "radioStations": [
+      {
+        "title": "al quran radio",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      }
+    ]
+  },
+  {
+    "name": "ygg",
+    "coordinates": {
+      "lat": 29.73354,
+      "lon": 0.65851
+    },
+    "radioStations": [
+      {
+        "title": "ygg",
+        "subtitle": "Algeria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://online.svitle.org:6728/kids.128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Hitradio RTL Chemnitz",
+    "coordinates": {
+      "lat": 34.84218,
+      "lon": 1.54697
+    },
+    "radioStations": [
+      {
+        "title": "Hitradio RTL Chemnitz",
+        "subtitle": "Sachsen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink"
+      }
+    ]
+  }
+]
