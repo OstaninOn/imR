@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Sex Sound Radio",
+    "coordinates": {
+      "lat": 45.68492,
+      "lon": 28.40613
+    },
+    "radioStations": [
+      {
+        "title": "Sex Sound Radio",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://sexsoundradio.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sexsoundradio.com:8000/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Retro FM Moldova",
+    "coordinates": {
+      "lat": 45.90321,
+      "lon": 28.66628
+    },
+    "radioStations": [
+      {
+        "title": "Retro FM Moldova",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://efir.retrofm.md:8000/retro"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM 2000s HITS",
+    "coordinates": {
+      "lat": 46.06169,
+      "lon": 28.83078
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM 2000s HITS",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ascultalive.ro/images/stations/1736887228.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Dance Fm Moldova",
+    "coordinates": {
+      "lat": 46.29488,
+      "lon": 28.65713
+    },
+    "radioStations": [
+      {
+        "title": "Dance Fm Moldova",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://dancefmmoldova.md/images/96x96/10648733/dancefmlogosmall.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://37.233.41.76:8000/dancefm"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Moldova",
+    "coordinates": {
+      "lat": 45.90456,
+      "lon": 28.19516
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.kissfm.md/kissfm.chisinau"
+      }
+    ]
+  },
+  {
+    "name": "Aquarelle FM",
+    "coordinates": {
+      "lat": 46.48195,
+      "lon": 28.25298
+    },
+    "radioStations": [
+      {
+        "title": "Aquarelle FM",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.frocus.net/images/logotv/aquarelle-fm.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://93.115.137.75:8000/aquarellefm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Noroc Moldova",
+    "coordinates": {
+      "lat": 46.4252,
+      "lon": 28.42676
+    },
+    "radioStations": [
+      {
+        "title": "Radio Noroc Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radionoroc.md/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.noroc.tv/radionoroc_aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio DAR",
+    "coordinates": {
+      "lat": 46.52629,
+      "lon": 28.7649
+    },
+    "radioStations": [
+      {
+        "title": "Radio DAR",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.138.191.214/RadioDar"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM Hot Hits",
+    "coordinates": {
+      "lat": 46.63738,
+      "lon": 29.41087
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Hot Hits",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://hitfm.md/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Drive FM",
+    "coordinates": {
+      "lat": 46.72927,
+      "lon": 29.70446
+    },
+    "radioStations": [
+      {
+        "title": "Drive FM",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://109.185.236.241:8000/DriveFM"
+      }
+    ]
+  },
+  {
+    "name": "Eco FM",
+    "coordinates": {
+      "lat": 46.624,
+      "lon": 29.906
+    },
+    "radioStations": [
+      {
+        "title": "Eco FM",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ecofm.md/wp-content/uploads/2017/10/cropped-customcolor_icon_transparent_background-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.138.204.98:8080/ecoFM"
+      }
+    ]
+  },
+  {
+    "name": "Crucial Velocity Radio",
+    "coordinates": {
+      "lat": 46.84275,
+      "lon": 29.6284
+    },
+    "radioStations": [
+      {
+        "title": "Crucial Velocity Radio",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://live.mystreamplayer.com/configs/images/crucialvelocityradio_icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ais-sa2.cdnstream1.com/1369_128"
+      }
+    ]
+  },
+  {
+    "name": "Hit Fm Drive Mode",
+    "coordinates": {
+      "lat": 47.15413,
+      "lon": 29.30008
+    },
+    "radioStations": [
+      {
+        "title": "Hit Fm Drive Mode",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Relax - lo-fi",
+    "coordinates": {
+      "lat": 47.00902,
+      "lon": 28.85938
+    },
+    "radioStations": [
+      {
+        "title": "Radio Relax - lo-fi",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Jurnal Fm",
+    "coordinates": {
+      "lat": 47.14216,
+      "lon": 28.60774
+    },
+    "radioStations": [
+      {
+        "title": "Jurnal Fm",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://jurnalfm.md/wp-content/uploads/2020/08/JFM-LOGO.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.jurnalfm.md/hq"
+      }
+    ]
+  },
+  {
+    "name": "Radio ROKS Moldova",
+    "coordinates": {
+      "lat": 47.08025,
+      "lon": 28.17098
+    },
+    "radioStations": [
+      {
+        "title": "Radio ROKS Moldova",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://gitlab.com/alexby306/host-images/-/raw/c423ddd4e04814d37b020222f2ff4fca04aef928/radio-roks.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.dixi.md:9443/Roks"
+      }
+    ]
+  },
+  {
+    "name": "HIT FM Eurovision Hits",
+    "coordinates": {
+      "lat": 47.57667,
+      "lon": 27.71264
+    },
+    "radioStations": [
+      {
+        "title": "HIT FM Eurovision Hits",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitfm.md/img/channel/qbDkiVaF9GmGwBLA7Za2MGtZAOVhs7h2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac"
+      }
+    ]
+  },
+  {
+    "name": "Love Radio Moldova",
+    "coordinates": {
+      "lat": 47.21023,
+      "lon": 27.80013
+    },
+    "radioStations": [
+      {
+        "title": "Love Radio Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://37.233.41.76:8000/lovefm"
+      }
+    ]
+  },
+  {
+    "name": "Radio ZUM4",
+    "coordinates": {
+      "lat": 47.25548,
+      "lon": 28.30953
+    },
+    "radioStations": [
+      {
+        "title": "Radio ZUM4",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radiozum.md/listen/zum4/ZUM4"
+      }
+    ]
+  },
+  {
+    "name": "Radio Plai",
+    "coordinates": {
+      "lat": 47.19064,
+      "lon": 28.45802
+    },
+    "radioStations": [
+      {
+        "title": "Radio Plai",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioplai.md/logo-radio-plai.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radioplai.md/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Relax - Nature",
+    "coordinates": {
+      "lat": 47.38503,
+      "lon": 28.82535
+    },
+    "radioStations": [
+      {
+        "title": "Radio Relax - Nature",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac"
+      }
+    ]
+  },
+  {
+    "name": "DeepNova Radio",
+    "coordinates": {
+      "lat": 47.26562,
+      "lon": 29.16667
+    },
+    "radioStations": [
+      {
+        "title": "DeepNova Radio",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a8.asurahosting.com:8820/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Glowwave-FM",
+    "coordinates": {
+      "lat": 47.95977,
+      "lon": 29.16068
+    },
+    "radioStations": [
+      {
+        "title": "Glowwave-FM",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://glowlinks.net/the-glow-network.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1"
+      }
+    ]
+  },
+  {
+    "name": "Vocea Basarabiei",
+    "coordinates": {
+      "lat": 47.76817,
+      "lon": 29.01
+    },
+    "radioStations": [
+      {
+        "title": "Vocea Basarabiei",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://voceabasarabiei.md/wp-content/uploads/2022/08/cropped-Favicon-VB-192x192.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.noroc.tv/radiovb_aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Studentus",
+    "coordinates": {
+      "lat": 47.89168,
+      "lon": 28.29339
+    },
+    "radioStations": [
+      {
+        "title": "Radio Studentus",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiolive.studentus.md:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Record Moldova",
+    "coordinates": {
+      "lat": 47.76291,
+      "lon": 27.92854
+    },
+    "radioStations": [
+      {
+        "title": "Radio Record Moldova",
+        "subtitle": "Chișinău",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://212.56.220.74:8000/RecordMD"
+      }
+    ]
+  },
+  {
+    "name": "HIT FM Русский Хит",
+    "coordinates": {
+      "lat": 47.94829,
+      "lon": 27.56669
+    },
+    "radioStations": [
+      {
+        "title": "HIT FM Русский Хит",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio ZUM 1",
+    "coordinates": {
+      "lat": 48.17319,
+      "lon": 27.30075
+    },
+    "radioStations": [
+      {
+        "title": "Radio ZUM 1",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radiozum.md/listen/zum1/ZUM1"
+      }
+    ]
+  },
+  {
+    "name": "Первое радио в вашем мобильном",
+    "coordinates": {
+      "lat": 48.35628,
+      "lon": 27.70293
+    },
+    "radioStations": [
+      {
+        "title": "Первое радио в вашем мобильном",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Relax - Jazz & Blues",
+    "coordinates": {
+      "lat": 48.03686,
+      "lon": 27.81242
+    },
+    "radioStations": [
+      {
+        "title": "Radio Relax - Jazz & Blues",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Haliz Gagauz Radiosu - GRT",
+    "coordinates": {
+      "lat": 48.15659,
+      "lon": 28.28489
+    },
+    "radioStations": [
+      {
+        "title": "Haliz Gagauz Radiosu - GRT",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://s02.radio-tochka.com:8020/radio?type=.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ai Noștri",
+    "coordinates": {
+      "lat": 48.03233,
+      "lon": 28.69899
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ai Noștri",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.ainostri.com/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radio.co/sfd9f42d1d/listen"
+      }
+    ]
+  },
+  {
+    "name": "Master Class FM (MD)",
+    "coordinates": {
+      "lat": 46.75818,
+      "lon": 28.20716
+    },
+    "radioStations": [
+      {
+        "title": "Master Class FM (MD)",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://listen3.myradio24.com/master1"
+      }
+    ]
+  },
+  {
+    "name": "Realitatea FM",
+    "coordinates": {
+      "lat": 46.87795,
+      "lon": 29.23503
+    },
+    "radioStations": [
+      {
+        "title": "Realitatea FM",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://realitatea.md/wp-content/smush-webp/2021/03/cropped-rlive_avatar1-180x180.jpg.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.realitatea.group/realitatea"
+      }
+    ]
+  },
+  {
+    "name": "Inter FM 107.7",
+    "coordinates": {
+      "lat": 46.83089,
+      "lon": 28.58999
+    },
+    "radioStations": [
+      {
+        "title": "Inter FM 107.7",
+        "subtitle": "Pridnestrovie",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://inter-fm.com/hlsstream/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "CITY FM",
+    "coordinates": {
+      "lat": 46.40861,
+      "lon": 30.09611
+    },
+    "radioStations": [
+      {
+        "title": "CITY FM",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cityfm.md/images/360/13545635/LOGOCITY004.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.cityfm.md:8001/cityfm"
+      }
+    ]
+  },
+  {
+    "name": "HIT FM Tricolor de Hituri",
+    "coordinates": {
+      "lat": 47.50525,
+      "lon": 28.27687
+    },
+    "radioStations": [
+      {
+        "title": "HIT FM Tricolor de Hituri",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://hitfm.md/favicon.png?v=2",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Moldova",
+    "coordinates": {
+      "lat": 45.48167,
+      "lon": 28.19722
+    },
+    "radioStations": [
+      {
+        "title": "Radio Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomoldova.md/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiolive.trm.md:8000/RC-Actualitati"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vintage",
+    "coordinates": {
+      "lat": 48.36302,
+      "lon": 27.07847
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vintage",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiovintage.md/favicon/apple-touch-icon.png?v=3",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiovintage.md/vintage_main"
+      }
+    ]
+  },
+  {
+    "name": "Megapolis FM Moldova",
+    "coordinates": {
+      "lat": 46.43229,
+      "lon": 29.27548
+    },
+    "radioStations": [
+      {
+        "title": "Megapolis FM Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://megapolisfm.md:8443/886"
+      }
+    ]
+  },
+  {
+    "name": "Muz FM Moldova",
+    "coordinates": {
+      "lat": 46.33352,
+      "lon": 28.96165
+    },
+    "radioStations": [
+      {
+        "title": "Muz FM Moldova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.muzfm.md/muzfm"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM Best Hits",
+    "coordinates": {
+      "lat": 46.27749,
+      "lon": 28.20052
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Best Hits",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio ZUM 2",
+    "coordinates": {
+      "lat": 46.69857,
+      "lon": 29.09089
+    },
+    "radioStations": [
+      {
+        "title": "Radio ZUM 2",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radiozum.md/listen/zum2/ZUM2"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM Dance",
+    "coordinates": {
+      "lat": 46.51294,
+      "lon": 29.66223
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Dance",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Hit FM Summer Hits",
+    "coordinates": {
+      "lat": 48.38231,
+      "lon": 27.43864
+    },
+    "radioStations": [
+      {
+        "title": "Hit FM Summer Hits",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac"
+      }
+    ]
+  },
+  {
+    "name": "Kiss FM Chișinău",
+    "coordinates": {
+      "lat": 47.77467,
+      "lon": 27.51753
+    },
+    "radioStations": [
+      {
+        "title": "Kiss FM Chișinău",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
+      }
+    ]
+  },
+  {
+    "name": "VibeFM",
+    "coordinates": {
+      "lat": 46.10744,
+      "lon": 28.59303
+    },
+    "radioStations": [
+      {
+        "title": "VibeFM",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.wixstatic.com/media/daef01_5bbe85f23d3d44819ae8a0f4e2dc7097~mv2.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio.co/s6a544f6c9/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio Moldova Tineret",
+    "coordinates": {
+      "lat": 47.09009,
+      "lon": 29.0757
+    },
+    "radioStations": [
+      {
+        "title": "Radio Moldova Tineret",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiomoldova.md/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Focul din Vatră",
+    "coordinates": {
+      "lat": 47.63694,
+      "lon": 28.1407
+    },
+    "radioStations": [
+      {
+        "title": "Focul din Vatră",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://aiciascult.eu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://aiciascult.eu/radio"
+      }
+    ]
+  },
+  {
+    "name": "DeepNova Radio - DanceNova",
+    "coordinates": {
+      "lat": 48.08806,
+      "lon": 28.02556
+    },
+    "radioStations": [
+      {
+        "title": "DeepNova Radio - DanceNova",
+        "subtitle": "Moldova",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)"
+      }
+    ]
+  }
+]
