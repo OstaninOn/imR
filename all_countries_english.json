@@ -994,7 +994,8 @@
     {
       "name": "Samoa",
       "name_ru": "Самоа",
-      "flag": "https://flagcdn.com/w320/ws.png"
+      "flag": "https://flagcdn.com/w320/ws.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/samoa.json"
     },
     {
       "name": "San Marino",
