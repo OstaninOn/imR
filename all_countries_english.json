@@ -839,7 +839,8 @@
     {
       "name": "Niue",
       "name_ru": "Ниуэ",
-      "flag": "https://flagcdn.com/w320/nu.png"
+      "flag": "https://flagcdn.com/w320/nu.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/niue.json"
     },
     {
       "name": "Norfolk Island",
