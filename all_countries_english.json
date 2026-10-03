@@ -16,7 +16,8 @@
     {
       "name": "Algeria",
       "name_ru": "Алжир",
-      "flag": "https://flagcdn.com/w320/dz.png"
+      "flag": "https://flagcdn.com/w320/dz.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/algeria_radioe_21.json"
     },
     {
       "name": "American Samoa",
