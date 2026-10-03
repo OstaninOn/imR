@@ -1174,7 +1174,8 @@
     {
       "name": "Turkey",
       "name_ru": "Турция",
-      "flag": "https://flagcdn.com/w320/tr.png"
+      "flag": "https://flagcdn.com/w320/tr.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/turkey_radio.json"
     },
     {
       "name": "Turkmenistan",
