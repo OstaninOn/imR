@@ -381,7 +381,8 @@
     {
       "name": "Fiji",
       "name_ru": "Фиджи",
-      "flag": "https://flagcdn.com/w320/fj.png"
+      "flag": "https://flagcdn.com/w320/fj.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/fiji.json"
     },
     {
       "name": "Finland",
