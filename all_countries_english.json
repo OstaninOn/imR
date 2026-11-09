@@ -19,12 +19,7 @@
       "flag": "https://flagcdn.com/w320/dz.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/algeria_radioe_21.json"
     },
-    {
-      "name": "American Samoa",
-      "name_ru": "Американское Самоа",
-      "flag": "https://flagcdn.com/w320/as.png",
-      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/american_samoa.json"
-    },
+   
     {
       "name": "Andorra",
       "name_ru": "Андорра",
