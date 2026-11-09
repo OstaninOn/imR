@@ -310,7 +310,8 @@
     {
       "name": "Denmark",
       "name_ru": "Дания",
-      "flag": "https://flagcdn.com/w320/dk.png"
+      "flag": "https://flagcdn.com/w320/dk.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/denmark_115.json"
     },
     {
       "name": "Djibouti",
