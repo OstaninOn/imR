@@ -809,7 +809,8 @@
     {
       "name": "Netherlands",
       "name_ru": "Нидерланды",
-      "flag": "https://flagcdn.com/w320/nl.png"
+      "flag": "https://flagcdn.com/w320/nl.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/netherlands.json"
     },
     {
       "name": "New Caledonia",
