@@ -1219,7 +1219,7 @@
       "name": "United States",
       "name_ru": "США",
       "flag": "https://flagcdn.com/w320/us.png",
-      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/usa_fm.json"
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/usa_fm_radio_2000.json"
     },
     {
       "name": "United States Minor Outlying Islands",
