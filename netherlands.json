@@ -1,0 +1,1550 @@
+[
+  {
+    "name": "Radio 538",
+    "coordinates": {
+      "lat": 53.48025,
+      "lon": 6.15209
+    },
+    "radioStations": [
+      {
+        "title": "Radio 538",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.538.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NPO Radio 1",
+    "coordinates": {
+      "lat": 50.77083,
+      "lon": 6.01806
+    },
+    "radioStations": [
+      {
+        "title": "NPO Radio 1",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=NPO+Radio+1&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.omroep.nl/radio1-sb-aac"
+      }
+    ]
+  },
+  {
+    "name": "NPO Radio 2",
+    "coordinates": {
+      "lat": 53.11583,
+      "lon": 7.16528
+    },
+    "radioStations": [
+      {
+        "title": "NPO Radio 2",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=NPO+Radio+2&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.omroep.nl/radio2-sb-aac"
+      }
+    ]
+  },
+  {
+    "name": "Sky Radio",
+    "coordinates": {
+      "lat": 51.30833,
+      "lon": 3.38611
+    },
+    "radioStations": [
+      {
+        "title": "Sky Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.skyradio.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128"
+      }
+    ]
+  },
+  {
+    "name": "BNR Nieuwsradio",
+    "coordinates": {
+      "lat": 51.9225,
+      "lon": 4.47917
+    },
+    "radioStations": [
+      {
+        "title": "BNR Nieuwsradio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.bnr.nl/assets/bnr-next/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.bnr.nl/bnr_mp3_128_20"
+      }
+    ]
+  },
+  {
+    "name": "Radio 10",
+    "coordinates": {
+      "lat": 51.94167,
+      "lon": 6.62083
+    },
+    "radioStations": [
+      {
+        "title": "Radio 10",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio10.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA"
+      }
+    ]
+  },
+  {
+    "name": "100% NL",
+    "coordinates": {
+      "lat": 52.95988,
+      "lon": 4.75933
+    },
+    "radioStations": [
+      {
+        "title": "100% NL",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=100%25+NL&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.100p.nl/100pctnl.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic",
+    "coordinates": {
+      "lat": 52.6775,
+      "lon": 6.00556
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic",
+        "subtitle": "Amsterdam",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Qmusic&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SLAM!",
+    "coordinates": {
+      "lat": 51.49,
+      "lon": 5.5625
+    },
+    "radioStations": [
+      {
+        "title": "SLAM!",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=SLAM%21&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.slam.nl/slam"
+      }
+    ]
+  },
+  {
+    "name": "NPO Radio 5",
+    "coordinates": {
+      "lat": 52.13583,
+      "lon": 5.49722
+    },
+    "radioStations": [
+      {
+        "title": "NPO Radio 5",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.nporadio5.nl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.omroep.nl/radio5-sb-aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Veronica",
+    "coordinates": {
+      "lat": 51.36,
+      "lon": 4.39583
+    },
+    "radioStations": [
+      {
+        "title": "Radio Veronica",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Radio+Veronica&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac"
+      }
+    ]
+  },
+  {
+    "name": "Sky Radio 101 FM",
+    "coordinates": {
+      "lat": 53.38215,
+      "lon": 5.28528
+    },
+    "radioStations": [
+      {
+        "title": "Sky Radio 101 FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Sky+Radio+101+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NPO 3FM",
+    "coordinates": {
+      "lat": 52.43283,
+      "lon": 4.66155
+    },
+    "radioStations": [
+      {
+        "title": "NPO 3FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.npo3fm.nl/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.omroep.nl/3fm-bb-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Omroep Brabant",
+    "coordinates": {
+      "lat": 52.40833,
+      "lon": 6.90139
+    },
+    "radioStations": [
+      {
+        "title": "Omroep Brabant",
+        "subtitle": "Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Omroep+Brabant&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.omroepbrabant.nl/mp3hq"
+      }
+    ]
+  },
+  {
+    "name": "RADIONL",
+    "coordinates": {
+      "lat": 51.7325,
+      "lon": 3.775
+    },
+    "radioStations": [
+      {
+        "title": "RADIONL",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=RADIONL&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radionl.fm/radionl"
+      }
+    ]
+  },
+  {
+    "name": "NPO Klassiek",
+    "coordinates": {
+      "lat": 53.06468,
+      "lon": 6.33453
+    },
+    "radioStations": [
+      {
+        "title": "NPO Klassiek",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.npoklassiek.nl/svg/npo-klassiek-logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.omroep.nl/radio4-bb-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sublime",
+    "coordinates": {
+      "lat": 52.255,
+      "lon": 6.16389
+    },
+    "radioStations": [
+      {
+        "title": "Sublime",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Sublime&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?dist=sublime_website"
+      }
+    ]
+  },
+  {
+    "name": "Tukker FM",
+    "coordinates": {
+      "lat": 52.97969,
+      "lon": 5.4471
+    },
+    "radioStations": [
+      {
+        "title": "Tukker FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Tukker+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.tukkerfm.nl/tukkerfm"
+      }
+    ]
+  },
+  {
+    "name": "Radio Gelderland",
+    "coordinates": {
+      "lat": 51.62667,
+      "lon": 4.93889
+    },
+    "radioStations": [
+      {
+        "title": "Radio Gelderland",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Radio+Gelderland&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland"
+      }
+    ]
+  },
+  {
+    "name": "KINK",
+    "coordinates": {
+      "lat": 51.17333,
+      "lon": 5.95972
+    },
+    "radioStations": [
+      {
+        "title": "KINK",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://kink.nl/static/kink_x2.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC2.aac?sbmid=860963b4-6223-4be2-908c-1933bde320e6"
+      }
+    ]
+  },
+  {
+    "name": "Radio M Utrecht",
+    "coordinates": {
+      "lat": 51.82167,
+      "lon": 5.91667
+    },
+    "radioStations": [
+      {
+        "title": "Radio M Utrecht",
+        "subtitle": "Utrecht",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/utrecht/apple-touch-icon.png?v=1698097333309",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Joe",
+    "coordinates": {
+      "lat": 52.77917,
+      "lon": 6.90694
+    },
+    "radioStations": [
+      {
+        "title": "Joe",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-radio.dpgmedia.net/c/16/a5/32/31/JOE-4-WEBSITE-220x220.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rijnmond",
+    "coordinates": {
+      "lat": 52.66917,
+      "lon": 5.11806
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rijnmond",
+        "subtitle": "Zuid-Holland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png?v=1689602147266",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Omroep West",
+    "coordinates": {
+      "lat": 53.41417,
+      "lon": 6.72361
+    },
+    "radioStations": [
+      {
+        "title": "Omroep West",
+        "subtitle": "Zuid-Holland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/west/apple-touch-icon.png?v=1698053263425",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.stream.bbvms.com/omroepwest_radio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Continu",
+    "coordinates": {
+      "lat": 51.47667,
+      "lon": 6.18056
+    },
+    "radioStations": [
+      {
+        "title": "Radio Continu",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Radio+Continu&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiocontinu.nl/radiocontinu"
+      }
+    ]
+  },
+  {
+    "name": "Ujala Radio",
+    "coordinates": {
+      "lat": 53.20973,
+      "lon": 5.84318
+    },
+    "radioStations": [
+      {
+        "title": "Ujala Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://ujala.nl/wp-content/uploads/2017/02/cropped-ujala-logo_los-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.ujala.nl/stream/2/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "L1 Radio",
+    "coordinates": {
+      "lat": 52.09,
+      "lon": 4.96111
+    },
+    "radioStations": [
+      {
+        "title": "L1 Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566299847",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTV Noord",
+    "coordinates": {
+      "lat": 51.81769,
+      "lon": 5.393
+    },
+    "radioStations": [
+      {
+        "title": "RTV Noord",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/rtvnoord/27c427e/img/favicons/groningen/apple-touch-icon.png?v=1685435658743",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://media.rtvnoord.nl/icecast/rtvnoord/radio"
+      }
+    ]
+  },
+  {
+    "name": "Studio DMN",
+    "coordinates": {
+      "lat": 51.26667,
+      "lon": 3.90833
+    },
+    "radioStations": [
+      {
+        "title": "Studio DMN",
+        "subtitle": "Noord-Holland, Diemen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.studiodmn.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.it-facilities.be:9006/stream;"
+      }
+    ]
+  },
+  {
+    "name": "Waterstad FM",
+    "coordinates": {
+      "lat": 52.52083,
+      "lon": 6.42083
+    },
+    "radioStations": [
+      {
+        "title": "Waterstad FM",
+        "subtitle": "Friesland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Waterstad+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.waterstadfm.nl/waterstadfm"
+      }
+    ]
+  },
+  {
+    "name": "Joy Radio",
+    "coordinates": {
+      "lat": 52.455,
+      "lon": 5.69306
+    },
+    "radioStations": [
+      {
+        "title": "Joy Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Joy+Radio&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.joyradio.nl/joyradio"
+      }
+    ]
+  },
+  {
+    "name": "Falcon Radio",
+    "coordinates": {
+      "lat": 52.37025,
+      "lon": 5.21413
+    },
+    "radioStations": [
+      {
+        "title": "Falcon Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2ffalconfm.nl%2f",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://server-16.stream-server.nl:8926/;"
+      }
+    ]
+  },
+  {
+    "name": "Studio040",
+    "coordinates": {
+      "lat": 51.6375,
+      "lon": 4.46944
+    },
+    "radioStations": [
+      {
+        "title": "Studio040",
+        "subtitle": "Noord Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://studio040.nl/favicons/studio_040_favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.studio040.nl/studio040.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Maasland Radio",
+    "coordinates": {
+      "lat": 52.20333,
+      "lon": 4.39861
+    },
+    "radioStations": [
+      {
+        "title": "Maasland Radio",
+        "subtitle": "Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Maasland+Radio&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://54.36.89.71:8006/stream"
+      }
+    ]
+  },
+  {
+    "name": "OOG Radio",
+    "coordinates": {
+      "lat": 51.3625,
+      "lon": 5.16528
+    },
+    "radioStations": [
+      {
+        "title": "OOG Radio",
+        "subtitle": "Groningen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.oogtv.nl/wp-content/uploads/2019/06/OOG_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/oogfm/mp3-192/nlpo"
+      }
+    ]
+  },
+  {
+    "name": "Radio Oost",
+    "coordinates": {
+      "lat": 52.9496,
+      "lon": 5.91366
+    },
+    "radioStations": [
+      {
+        "title": "Radio Oost",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/oost/apple-touch-icon.png?v=20260216",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://d34cg2bnc08ruf.cloudfront.net/icecast/rtvoost/radio-oost-mp3"
+      }
+    ]
+  },
+  {
+    "name": "Lokale Omroep Ameland",
+    "coordinates": {
+      "lat": 52.19917,
+      "lon": 6.63611
+    },
+    "radioStations": [
+      {
+        "title": "Lokale Omroep Ameland",
+        "subtitle": "Friesland, Ameland, Nes, Kardinaal de Jongweg 29",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.kabelkrantameland.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://loa.beheerstream.nl:8040/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Decibel",
+    "coordinates": {
+      "lat": 52.70167,
+      "lon": 4.69722
+    },
+    "radioStations": [
+      {
+        "title": "Radio Decibel",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://decibel.nl/images/decibel-mainchannel.webp",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://28033.live.streamtheworld.com/RADIODECIBEL.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Simone FM",
+    "coordinates": {
+      "lat": 51.51833,
+      "lon": 3.99722
+    },
+    "radioStations": [
+      {
+        "title": "Simone FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Simone+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.simone.nl/simone"
+      }
+    ]
+  },
+  {
+    "name": "Glow FM",
+    "coordinates": {
+      "lat": 52.7725,
+      "lon": 6.45417
+    },
+    "radioStations": [
+      {
+        "title": "Glow FM",
+        "subtitle": "Eindhoven",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://glowfm.nl/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.glowfm.nl/glowfm.mp3"
+      }
+    ]
+  },
+  {
+    "name": "BredaNu",
+    "coordinates": {
+      "lat": 53.16167,
+      "lon": 6.76111
+    },
+    "radioStations": [
+      {
+        "title": "BredaNu",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://bredanu.nl/wp-content/uploads/2022/08/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.bredanu.nl/high"
+      }
+    ]
+  },
+  {
+    "name": "A1 Radio",
+    "coordinates": {
+      "lat": 51.54667,
+      "lon": 3.50972
+    },
+    "radioStations": [
+      {
+        "title": "A1 Radio",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.a1mediagroep.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://www.a1mediagroep.nl/a1radio_256"
+      }
+    ]
+  },
+  {
+    "name": "Twente FM",
+    "coordinates": {
+      "lat": 51.2475,
+      "lon": 5.56528
+    },
+    "radioStations": [
+      {
+        "title": "Twente FM",
+        "subtitle": "Overijssel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Twente+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.twentefm.nl:8004/high"
+      }
+    ]
+  },
+  {
+    "name": "Radio Spannenburg",
+    "coordinates": {
+      "lat": 52.00417,
+      "lon": 6.23333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Spannenburg",
+        "subtitle": "Balk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiospannenburg.nl/wp-content/uploads/2024/02/cropped-logo_web_app-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiospannenburg.nl/radiospannenburg"
+      }
+    ]
+  },
+  {
+    "name": "Unity NL",
+    "coordinates": {
+      "lat": 50.96216,
+      "lon": 5.77297
+    },
+    "radioStations": [
+      {
+        "title": "Unity NL",
+        "subtitle": "Leiderdorp",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.unity.nu/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.rudeboymedia.nl/unitynl.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ZuidWest FM",
+    "coordinates": {
+      "lat": 53.44502,
+      "lon": 5.774
+    },
+    "radioStations": [
+      {
+        "title": "ZuidWest FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.zuidwestupdate.nl/wp-content/uploads/2021/03/logos-outline-small.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast.zuidwestfm.nl/zuidwest.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio 794",
+    "coordinates": {
+      "lat": 51.9125,
+      "lon": 4.09861
+    },
+    "radioStations": [
+      {
+        "title": "Radio 794",
+        "subtitle": "Gelderland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtv794.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ats.jammfm.nl:20080/radio794"
+      }
+    ]
+  },
+  {
+    "name": "Radio Texel",
+    "coordinates": {
+      "lat": 53.30333,
+      "lon": 6.39583
+    },
+    "radioStations": [
+      {
+        "title": "Radio Texel",
+        "subtitle": "Noord-Holland, Texel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiotexel.nl/wp-content/uploads/2020/06/logo-wit.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast6.asurahosting.com/proxy/radiotex/stream"
+      }
+    ]
+  },
+  {
+    "name": "Deventer Radio",
+    "coordinates": {
+      "lat": 51.86417,
+      "lon": 4.99444
+    },
+    "radioStations": [
+      {
+        "title": "Deventer Radio",
+        "subtitle": "Overijssel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.deventerrtv.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.deventerrtv.nl:8443/mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Omroep Venlo",
+    "coordinates": {
+      "lat": 52.76417,
+      "lon": 5.65972
+    },
+    "radioStations": [
+      {
+        "title": "Radio Omroep Venlo",
+        "subtitle": "Limburg, Venlo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://omroepvenlo.nl/logos/OMROEP_VENLO-light.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/venlo/mp3-192/nlpo"
+      }
+    ]
+  },
+  {
+    "name": "SRC FM",
+    "coordinates": {
+      "lat": 52.475,
+      "lon": 6.06389
+    },
+    "radioStations": [
+      {
+        "title": "SRC FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.src.fm/images/logo_mob.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Lelystad",
+    "coordinates": {
+      "lat": 51.61083,
+      "lon": 5.29028
+    },
+    "radioStations": [
+      {
+        "title": "Radio Lelystad",
+        "subtitle": "Flevoland, Lelystad",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Radio+Lelystad&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/lelystad/mp3-192/nlpo.stream.vip"
+      }
+    ]
+  },
+  {
+    "name": "Radio Stad Montfoort",
+    "coordinates": {
+      "lat": 53.21823,
+      "lon": 5.48402
+    },
+    "radioStations": [
+      {
+        "title": "Radio Stad Montfoort",
+        "subtitle": "Utrecht, Montfoort, Antoniushof 2",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiostadmontfoort.nl/cms/img/spaw/rsm%20logo%20144px.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream001.digiplay.nl:9038/stream"
+      }
+    ]
+  },
+  {
+    "name": "Qmusic Limburg",
+    "coordinates": {
+      "lat": 51.36833,
+      "lon": 5.86667
+    },
+    "radioStations": [
+      {
+        "title": "Qmusic Limburg",
+        "subtitle": "Amsterdam",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://i.postimg.cc/XYJbrvDT/Qmusic-Limburg.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_high.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio A-FM",
+    "coordinates": {
+      "lat": 52.25917,
+      "lon": 5.78056
+    },
+    "radioStations": [
+      {
+        "title": "Radio A-FM",
+        "subtitle": "Noord-Brabant, Nieuwendijk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioafm.nl/wp-content/themes/RTV_Altena_WP_Theme/assets/img/website_AFM.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/radioafm/mp3-192/nlpo.stream.vip"
+      }
+    ]
+  },
+  {
+    "name": "RN7",
+    "coordinates": {
+      "lat": 52.29504,
+      "lon": 4.90746
+    },
+    "radioStations": [
+      {
+        "title": "RN7",
+        "subtitle": "Gelderland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rn7.nl/favicons/rn7_favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.stream.delivery/rn7"
+      }
+    ]
+  },
+  {
+    "name": "Eemland 1",
+    "coordinates": {
+      "lat": 52.00333,
+      "lon": 5.79028
+    },
+    "radioStations": [
+      {
+        "title": "Eemland 1",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.eemland1.nl/wp-content/uploads/elementor/thumbs/illu_Eemland1_footer-ro6ecr6kl68yjp4ehvyhzowh9fkqa012ilmh0ixkgs.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.eemland1.nl/radio"
+      }
+    ]
+  },
+  {
+    "name": "Radio Ridderkerk",
+    "coordinates": {
+      "lat": 52.21583,
+      "lon": 6.97083
+    },
+    "radioStations": [
+      {
+        "title": "Radio Ridderkerk",
+        "subtitle": "Zuid-Holland, Ridderkerk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvridderkerk.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/ridderk/mp3-192/nlpo.stream.vip"
+      }
+    ]
+  },
+  {
+    "name": "Radio Drenthe",
+    "coordinates": {
+      "lat": 51.62667,
+      "lon": 5.88194
+    },
+    "radioStations": [
+      {
+        "title": "Radio Drenthe",
+        "subtitle": "Drenthe",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/favicons/drenthe/apple-touch-icon.png?v=1689602133492",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio"
+      }
+    ]
+  },
+  {
+    "name": "Omroep Venray",
+    "coordinates": {
+      "lat": 51.47167,
+      "lon": 4.65556
+    },
+    "radioStations": [
+      {
+        "title": "Omroep Venray",
+        "subtitle": "Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.omroepvenray.nl/templates/omroepv/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://icecast.omroepvenray.nl/lov.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Aalsmeer",
+    "coordinates": {
+      "lat": 52.97167,
+      "lon": 6.79444
+    },
+    "radioStations": [
+      {
+        "title": "Radio Aalsmeer",
+        "subtitle": "Noord-Holland, Aalsmeer",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioaalsmeer.nl/wp-content/themes/radioaalsmeer/img/radio-aalsmeer-logo-white.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radioaalsmeer.nl:8000/live"
+      }
+    ]
+  },
+  {
+    "name": "ML5 Radio",
+    "coordinates": {
+      "lat": 52.505,
+      "lon": 4.95972
+    },
+    "radioStations": [
+      {
+        "title": "ML5 Radio",
+        "subtitle": "Midden Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=ML5+Radio&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediacp.audiostreamen.nl:2000/stream/8182"
+      }
+    ]
+  },
+  {
+    "name": "Omroep Land van Cuijk",
+    "coordinates": {
+      "lat": 52.85083,
+      "lon": 5.02639
+    },
+    "radioStations": [
+      {
+        "title": "Omroep Land van Cuijk",
+        "subtitle": "Noord-Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Omroep+Land+van+Cuijk&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo"
+      }
+    ]
+  },
+  {
+    "name": "Optimaal fm",
+    "coordinates": {
+      "lat": 52.075,
+      "lon": 4.65556
+    },
+    "radioStations": [
+      {
+        "title": "Optimaal fm",
+        "subtitle": "nederland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Optimaal+fm&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream-10.pmteurope.com:8002/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Apeldoorn",
+    "coordinates": {
+      "lat": 51.42333,
+      "lon": 3.73472
+    },
+    "radioStations": [
+      {
+        "title": "Radio Apeldoorn",
+        "subtitle": "Gelderland, Apeldoorn",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtv-apeldoorn.nl/images/RTVApeldoorn/SiteLogo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Midland FM",
+    "coordinates": {
+      "lat": 52.025,
+      "lon": 5.24444
+    },
+    "radioStations": [
+      {
+        "title": "Midland FM",
+        "subtitle": "Oude water",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvmiddenholland.nl/wp-content/uploads/2024/02/Logo-MidlandFM.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://qxjr001.digiplay.nl:9188/;"
+      }
+    ]
+  },
+  {
+    "name": "Aladna FM",
+    "coordinates": {
+      "lat": 50.78,
+      "lon": 5.7177
+    },
+    "radioStations": [
+      {
+        "title": "Aladna FM",
+        "subtitle": "Gelderland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://aladnafm.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://aladnafm.beheerstream.nl/8024/stream"
+      }
+    ]
+  },
+  {
+    "name": "Veluwe FM",
+    "coordinates": {
+      "lat": 52.06765,
+      "lon": 4.22188
+    },
+    "radioStations": [
+      {
+        "title": "Veluwe FM",
+        "subtitle": "Harderwijk",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://veluwefm.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://server-51.stream-server.nl:18438/stream"
+      }
+    ]
+  },
+  {
+    "name": "RTV Hollands Midden",
+    "coordinates": {
+      "lat": 52.94583,
+      "lon": 7.15139
+    },
+    "radioStations": [
+      {
+        "title": "RTV Hollands Midden",
+        "subtitle": "Zuid-Holland, Ter Aar",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://rtvhollandsmidden.nl/wp-content/uploads/2023/11/logo-rtvhm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://securestream2.digipal.nl:1805/stream"
+      }
+    ]
+  },
+  {
+    "name": "Roulette FM",
+    "coordinates": {
+      "lat": 52.85583,
+      "lon": 6.20833
+    },
+    "radioStations": [
+      {
+        "title": "Roulette FM",
+        "subtitle": "Utrecht",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Roulette+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.roulettefm.nl/"
+      }
+    ]
+  },
+  {
+    "name": "Regio FM",
+    "coordinates": {
+      "lat": 51.6687,
+      "lon": 5.60921
+    },
+    "radioStations": [
+      {
+        "title": "Regio FM",
+        "subtitle": "Groningen, Siddeburen, Hoofdweg 99A",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Regio+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://audiostreamen.nl:8030/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Capelle",
+    "coordinates": {
+      "lat": 53.18333,
+      "lon": 6.13333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Capelle",
+        "subtitle": "Zuid-Holland, Capelle aan den IJssel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Radio+Capelle&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radiocapelle.nl/radiocapelle-high.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Leuk FM",
+    "coordinates": {
+      "lat": 51.4475,
+      "lon": 4.92917
+    },
+    "radioStations": [
+      {
+        "title": "Leuk FM",
+        "subtitle": "Gelderland, Lichtenvoorde",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Leuk+FM&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nlpo.stream.vip/leukfm/mp3-192/nlpo.stream.vip"
+      }
+    ]
+  },
+  {
+    "name": "Omroep P&M",
+    "coordinates": {
+      "lat": 52.40833,
+      "lon": 6.62222
+    },
+    "radioStations": [
+      {
+        "title": "Omroep P&M",
+        "subtitle": "Limburg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://na.ui-avatars.com/api/?name=Omroep+P%26M&size=85&length=2&font-size=0.32&rounded=false&bold=true&format=png&background=1E40AF&color=FFFFFF",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://ms3ic.mx-cd.net/153-661255/Radio_Peel_en_Maas"
+      }
+    ]
+  },
+  {
+    "name": "Radio Hoeksche Waard",
+    "coordinates": {
+      "lat": 51.50917,
+      "lon": 4.27917
+    },
+    "radioStations": [
+      {
+        "title": "Radio Hoeksche Waard",
+        "subtitle": "Zuid-Holland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.omroephw.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiostream.omroephw.nl/"
+      }
+    ]
+  },
+  {
+    "name": "Langstraat NL",
+    "coordinates": {
+      "lat": 51.78,
+      "lon": 4.61667
+    },
+    "radioStations": [
+      {
+        "title": "Langstraat NL",
+        "subtitle": "Noord-Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.langstraatmedia.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediaserv74.live-streams.nl/proxy/langstraatnl/stream"
+      }
+    ]
+  },
+  {
+    "name": "NH Gooi",
+    "coordinates": {
+      "lat": 51.74917,
+      "lon": 4.1
+    },
+    "radioStations": [
+      {
+        "title": "NH Gooi",
+        "subtitle": "Noord Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nhgooi.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.nhgooi.nl:8001/mp3live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Seabreeze",
+    "coordinates": {
+      "lat": 52.1175,
+      "lon": 6.01944
+    },
+    "radioStations": [
+      {
+        "title": "Radio Seabreeze",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioseabreeze.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.radioseabreeze.nl/"
+      }
+    ]
+  },
+  {
+    "name": "Langstraat FM",
+    "coordinates": {
+      "lat": 53.06051,
+      "lon": 5.67822
+    },
+    "radioStations": [
+      {
+        "title": "Langstraat FM",
+        "subtitle": "Noord-Brabant",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.langstraatmedia.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mediaserv74.live-streams.nl/proxy/langstraatfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio 350",
+    "coordinates": {
+      "lat": 51.3125,
+      "lon": 6.11528
+    },
+    "radioStations": [
+      {
+        "title": "Radio 350",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radio350.nl/wp-content/uploads/2022/01/favicon2-300x300.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radio350.nl/live/radio350"
+      }
+    ]
+  },
+  {
+    "name": "Radio Schouwen-Duiveland",
+    "coordinates": {
+      "lat": 52.21755,
+      "lon": 5.13575
+    },
+    "radioStations": [
+      {
+        "title": "Radio Schouwen-Duiveland",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiosd.nl/wp-content/uploads/2019/07/sdlogoklein.gif",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s13.myradiostream.com:42769/listen.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTV IJsselmond",
+    "coordinates": {
+      "lat": 51.87333,
+      "lon": 6.37639
+    },
+    "radioStations": [
+      {
+        "title": "RTV IJsselmond",
+        "subtitle": "Overijsel",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.rtvijsselmond.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rtvijsselmond.nl/live"
+      }
+    ]
+  },
+  {
+    "name": "Bingo FM",
+    "coordinates": {
+      "lat": 52.08833,
+      "lon": 6.45
+    },
+    "radioStations": [
+      {
+        "title": "Bingo FM",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s.regiogroei.cloud/img/brand-logos/resized/logo_bingofm.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/bingofm-bb-mp3"
+      }
+    ]
+  },
+  {
+    "name": "WEEFF Radio",
+    "coordinates": {
+      "lat": 52.66103,
+      "lon": 6.74046
+    },
+    "radioStations": [
+      {
+        "title": "WEEFF Radio",
+        "subtitle": "Noord-Holland, Hoorn",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.streekomroepwestfriesland.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio"
+      }
+    ]
+  },
+  {
+    "name": "Radio JND",
+    "coordinates": {
+      "lat": 51.88,
+      "lon": 5.63472
+    },
+    "radioStations": [
+      {
+        "title": "Radio JND",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiojnd.nl/storage/media/folder-2/XUK1xwyrWf5VWPpYgC1cgNEifEGrYH1S67Uq06Ph.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiojnd.nl/radiojnd.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Studio Rheden",
+    "coordinates": {
+      "lat": 52.33,
+      "lon": 5.54167
+    },
+    "radioStations": [
+      {
+        "title": "Studio Rheden",
+        "subtitle": "Netherlands FM",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://studiorheden.nl/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://picy.studiorhedenlive.nl/str"
+      }
+    ]
+  }
+]
