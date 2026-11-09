@@ -1,0 +1,2072 @@
+[
+  {
+    "name": "DR P3",
+    "coordinates": {
+      "lat": 54.93306,
+      "lon": 8.86674
+    },
+    "radioStations": [
+      {
+        "title": "DR P3",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A05H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P1",
+    "coordinates": {
+      "lat": 54.91918,
+      "lon": 9.59523
+    },
+    "radioStations": [
+      {
+        "title": "DR P1",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2020%2F02%2F10%2Fp1_logo_primaert.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A03H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Østjyllands Radio",
+    "coordinates": {
+      "lat": 54.90896,
+      "lon": 9.78917
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Østjyllands Radio",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/da/DR_P4_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A14H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR p4 København",
+    "coordinates": {
+      "lat": 54.85621,
+      "lon": 10.51726
+    },
+    "radioStations": [
+      {
+        "title": "DR p4 København",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.gss.dr.dk/A/A08H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P6 Beat",
+    "coordinates": {
+      "lat": 54.83038,
+      "lon": 11.13567
+    },
+    "radioStations": [
+      {
+        "title": "DR P6 Beat",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/DR_P7_Mix_2017_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.gss.dr.dk/A/A29H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic FM",
+    "coordinates": {
+      "lat": 54.77662,
+      "lon": 11.50017
+    },
+    "radioStations": [
+      {
+        "title": "Classic FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/59/Hits_Radio_2024.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://webradio.classicfm.dk/classichorsens"
+      }
+    ]
+  },
+  {
+    "name": "DR P8 JAZZ",
+    "coordinates": {
+      "lat": 54.76906,
+      "lon": 11.87425
+    },
+    "radioStations": [
+      {
+        "title": "DR P8 JAZZ",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/50/DR_P8_Jazz_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A22H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Fyn",
+    "coordinates": {
+      "lat": 55.10091,
+      "lon": 14.70664
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Fyn",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/c3/DR_P2_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A07H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 København (MP3)",
+    "coordinates": {
+      "lat": 54.98704,
+      "lon": 12.28461
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 København (MP3)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/c4/DR_P3_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A08H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "POP FM 80er",
+    "coordinates": {
+      "lat": 55.22992,
+      "lon": 11.76092
+    },
+    "radioStations": [
+      {
+        "title": "POP FM 80er",
+        "subtitle": "Copenhagen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://static.mytuner.mobi/media/tvos_radios/hmpru8q4znst.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com//popfm80.mp3"
+      }
+    ]
+  },
+  {
+    "name": "nordic lodge copenhagen",
+    "coordinates": {
+      "lat": 55.19705,
+      "lon": 11.59603
+    },
+    "radioStations": [
+      {
+        "title": "nordic lodge copenhagen",
+        "subtitle": "Copenhagen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Odense_-_Sankt_Knuds_kirke_2005-07-16.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radio.streemlion.com:1160/stream"
+      }
+    ]
+  },
+  {
+    "name": "DR P3 (AAC)",
+    "coordinates": {
+      "lat": 54.9976,
+      "lon": 10.84381
+    },
+    "radioStations": [
+      {
+        "title": "DR P3 (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p3.28743ad0.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Classic Rock Danmark",
+    "coordinates": {
+      "lat": 55.05982,
+      "lon": 10.60677
+    },
+    "radioStations": [
+      {
+        "title": "Classic Rock Danmark",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Michael_Learns_to_Rock_live_at_Philippines_%282022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.classicfm.dk/classicrock"
+      }
+    ]
+  },
+  {
+    "name": "DR P5",
+    "coordinates": {
+      "lat": 55.27023,
+      "lon": 9.90081
+    },
+    "radioStations": [
+      {
+        "title": "DR P5",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/63/DR_P5_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A25H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P2",
+    "coordinates": {
+      "lat": 55.24943,
+      "lon": 9.48771
+    },
+    "radioStations": [
+      {
+        "title": "DR P2",
+        "subtitle": "Copenhagen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d7/DR_P1_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.gss.dr.dk/A/A04H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Nova",
+    "coordinates": {
+      "lat": 55.05941,
+      "lon": 8.95508
+    },
+    "radioStations": [
+      {
+        "title": "Nova",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-bauerdk.sharp-stream.com/nova128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
+    "coordinates": {
+      "lat": 55.47028,
+      "lon": 8.45187
+    },
+    "radioStations": [
+      {
+        "title": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Vinylhits.dk",
+    "coordinates": {
+      "lat": 55.33051,
+      "lon": 8.76966
+    },
+    "radioStations": [
+      {
+        "title": "Vinylhits.dk",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/T%C3%B8nderTorv.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.vinylhits.dk/vinylmp3"
+      }
+    ]
+  },
+  {
+    "name": "POP FM DK",
+    "coordinates": {
+      "lat": 55.4904,
+      "lon": 9.47216
+    },
+    "radioStations": [
+      {
+        "title": "POP FM DK",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioplay.dk/tesla/static/favicons/radioplay-dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-bauerdk.sharp-stream.com/popfm128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Retro-Radio Millennium",
+    "coordinates": {
+      "lat": 55.56568,
+      "lon": 9.75257
+    },
+    "radioStations": [
+      {
+        "title": "Retro-Radio Millennium",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/RMF_FM_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://tx-2.retro-radio.dk/TX-2"
+      }
+    ]
+  },
+  {
+    "name": "100% Kim Larsen",
+    "coordinates": {
+      "lat": 55.39594,
+      "lon": 10.38831
+    },
+    "radioStations": [
+      {
+        "title": "100% Kim Larsen",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kimlarsen.dk/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.wlmm.dk/kimlarsenmp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Nordjylland",
+    "coordinates": {
+      "lat": 55.31274,
+      "lon": 10.78964
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Nordjylland",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/82/DR-Byen_%288744441471%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A10H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Folk",
+    "coordinates": {
+      "lat": 55.40276,
+      "lon": 11.35459
+    },
+    "radioStations": [
+      {
+        "title": "Radio Folk",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TRT_logo_%282018-%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiojar.com/fqt2y0ds97zuv"
+      }
+    ]
+  },
+  {
+    "name": "TechnoBase.FM - MP3 192k",
+    "coordinates": {
+      "lat": 55.4426,
+      "lon": 11.79011
+    },
+    "radioStations": [
+      {
+        "title": "TechnoBase.FM - MP3 192k",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/K%C3%B8ge_-_statue_af_Frederik_7._-_Torvet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.technobase.fm/tunein-mp3-pls"
+      }
+    ]
+  },
+  {
+    "name": "Always Elvis Radio",
+    "coordinates": {
+      "lat": 55.45802,
+      "lon": 12.18214
+    },
+    "radioStations": [
+      {
+        "title": "Always Elvis Radio",
+        "subtitle": "Randers",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn6.aptoide.com/imgs/c/3/b/c3b89d33b4eda78e379811a3993c2d48_icon.png?w=128",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radioserver.dk/alwayselvisradio"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 København (AAC)",
+    "coordinates": {
+      "lat": 55.27589,
+      "lon": 14.80236
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 København (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Danmarks Radio P6",
+    "coordinates": {
+      "lat": 55.5928,
+      "lon": 12.67221
+    },
+    "radioStations": [
+      {
+        "title": "Danmarks Radio P6",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A29H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "80's Hits",
+    "coordinates": {
+      "lat": 55.67594,
+      "lon": 12.56553
+    },
+    "radioStations": [
+      {
+        "title": "80's Hits",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiostationer.dk",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac"
+      }
+    ]
+  },
+  {
+    "name": "Classic.fm",
+    "coordinates": {
+      "lat": 55.64152,
+      "lon": 12.08035
+    },
+    "radioStations": [
+      {
+        "title": "Classic.fm",
+        "subtitle": "Vejle",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.classicfm.dk/cla8d"
+      }
+    ]
+  },
+  {
+    "name": "Tango Copenhagen Radio",
+    "coordinates": {
+      "lat": 55.72111,
+      "lon": 11.46547
+    },
+    "radioStations": [
+      {
+        "title": "Tango Copenhagen Radio",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/96/B%C3%B8lgen%2C_Vejle_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0"
+      }
+    ]
+  },
+  {
+    "name": "TechnoBase.FM - AACplus 96k",
+    "coordinates": {
+      "lat": 55.67954,
+      "lon": 11.08864
+    },
+    "radioStations": [
+      {
+        "title": "TechnoBase.FM - AACplus 96k",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://listen.technobase.fm/tunein-aacplus-pls"
+      }
+    ]
+  },
+  {
+    "name": "DR P8 JAZZ (AAC)",
+    "coordinates": {
+      "lat": 55.8326,
+      "lon": 10.59723
+    },
+    "radioStations": [
+      {
+        "title": "DR P8 JAZZ (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Sjælland",
+    "coordinates": {
+      "lat": 55.86066,
+      "lon": 9.85034
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Sjælland",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A11H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Syd",
+    "coordinates": {
+      "lat": 55.70927,
+      "lon": 9.5357
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Syd",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A12H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "World Music Radio",
+    "coordinates": {
+      "lat": 55.75726,
+      "lon": 8.9275
+    },
+    "radioStations": [
+      {
+        "title": "World Music Radio",
+        "subtitle": "Randers",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://wmr.dk/logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.wlmm.dk:8010/wmrmp3"
+      }
+    ]
+  },
+  {
+    "name": "go!FM",
+    "coordinates": {
+      "lat": 55.62112,
+      "lon": 8.48069
+    },
+    "radioStations": [
+      {
+        "title": "go!FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.gofm.dk/wp-content/uploads/2017/08/cropped-gofm-logo-512-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/gofm"
+      }
+    ]
+  },
+  {
+    "name": "Skala FM",
+    "coordinates": {
+      "lat": 56.09006,
+      "lon": 8.24402
+    },
+    "radioStations": [
+      {
+        "title": "Skala FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://skala.fm/wp-content/uploads/sites/2/2024/08/cropped-favicon_skala-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.skala.fm/ska8d"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Esbjerg",
+    "coordinates": {
+      "lat": 56.13615,
+      "lon": 8.97662
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Esbjerg",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A15H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Historyradio.org low bandwidth",
+    "coordinates": {
+      "lat": 56.1697,
+      "lon": 9.54508
+    },
+    "radioStations": [
+      {
+        "title": "Historyradio.org low bandwidth",
+        "subtitle": "North Jutland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://cdn-profiles.tunein.com/s361016/images/logod.jpg?t=639246983870000000",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast1.asurahosting.com/proxy/historyr/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "ANR",
+    "coordinates": {
+      "lat": 56.03434,
+      "lon": 9.93177
+    },
+    "radioStations": [
+      {
+        "title": "ANR",
+        "subtitle": "Nordjylland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://anr.dk/img/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.anr.dk/anr"
+      }
+    ]
+  },
+  {
+    "name": "DR Nyheder",
+    "coordinates": {
+      "lat": 56.15674,
+      "lon": 10.21076
+    },
+    "radioStations": [
+      {
+        "title": "DR Nyheder",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A02L.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio4",
+    "coordinates": {
+      "lat": 55.91148,
+      "lon": 11.59756
+    },
+    "radioStations": [
+      {
+        "title": "Radio4",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio4.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.radio4.dk/radio4"
+      }
+    ]
+  },
+  {
+    "name": "DR P1 (AAC)",
+    "coordinates": {
+      "lat": 55.97073,
+      "lon": 12.0225
+    },
+    "radioStations": [
+      {
+        "title": "DR P1 (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p1.29c35f9c.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Danmarks Radio P4; Trekanten",
+    "coordinates": {
+      "lat": 55.92791,
+      "lon": 12.30081
+    },
+    "radioStations": [
+      {
+        "title": "Danmarks Radio P4; Trekanten",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A13H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Globus Guld Jul",
+    "coordinates": {
+      "lat": 56.41578,
+      "lon": 10.87825
+    },
+    "radioStations": [
+      {
+        "title": "Globus Guld Jul",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.probroadcast.dk/guldjul"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Midt-Vest (AAC)",
+    "coordinates": {
+      "lat": 56.2375,
+      "lon": 10.23778
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Midt-Vest (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Midt/Vest",
+    "coordinates": {
+      "lat": 56.4607,
+      "lon": 10.03639
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Midt/Vest",
+        "subtitle": "Holstebro",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.gss.dr.dk/A/A09H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NOVA - Horsens 103.6 FM",
+    "coordinates": {
+      "lat": 56.45319,
+      "lon": 9.40201
+    },
+    "radioStations": [
+      {
+        "title": "NOVA - Horsens 103.6 FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3"
+      }
+    ]
+  },
+  {
+    "name": "Plantland Radio",
+    "coordinates": {
+      "lat": 56.2,
+      "lon": 8.76667
+    },
+    "radioStations": [
+      {
+        "title": "Plantland Radio",
+        "subtitle": "Copenhagen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.plantlandradio.com/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "PartyFM",
+    "coordinates": {
+      "lat": 56.36009,
+      "lon": 8.61607
+    },
+    "radioStations": [
+      {
+        "title": "PartyFM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.partyfm.dk/Party320"
+      }
+    ]
+  },
+  {
+    "name": "Limfjord Plus Slager",
+    "coordinates": {
+      "lat": 56.54856,
+      "lon": 8.31019
+    },
+    "radioStations": [
+      {
+        "title": "Limfjord Plus Slager",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://websitebuilder.one.com/favicon/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://media.limfjordnetradio.dk/plusslager128"
+      }
+    ]
+  },
+  {
+    "name": "Retro-Radio Jul",
+    "coordinates": {
+      "lat": 56.56699,
+      "lon": 9.02707
+    },
+    "radioStations": [
+      {
+        "title": "Retro-Radio Jul",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://isstream.kanalplus.fm/TX-1"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Østjylland (AAC)",
+    "coordinates": {
+      "lat": 56.77276,
+      "lon": 9.33925
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Østjylland (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Viva",
+    "coordinates": {
+      "lat": 56.64306,
+      "lon": 9.79029
+    },
+    "radioStations": [
+      {
+        "title": "Radio Viva",
+        "subtitle": "Kolding",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioviva.dk/wp-content/themes/radioviva_dk/images/logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.wlmm.dk/radioviva"
+      }
+    ]
+  },
+  {
+    "name": "Radio Globus",
+    "coordinates": {
+      "lat": 56.49839,
+      "lon": 10.46887
+    },
+    "radioStations": [
+      {
+        "title": "Radio Globus",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.probroadcast.dk/radioglobus"
+      }
+    ]
+  },
+  {
+    "name": "Nova 100 Dansk",
+    "coordinates": {
+      "lat": 56.99609,
+      "lon": 10.30807
+    },
+    "radioStations": [
+      {
+        "title": "Nova 100 Dansk",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Humleborg",
+    "coordinates": {
+      "lat": 57.048,
+      "lon": 9.9187
+    },
+    "radioStations": [
+      {
+        "title": "Radio Humleborg",
+        "subtitle": "Fredensborg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://humleborg.dk/templates/yootheme/vendor/yootheme/theme-joomla/assets/images/favicon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream2.rcast.net/64145"
+      }
+    ]
+  },
+  {
+    "name": "Radio Alfa Aarhus",
+    "coordinates": {
+      "lat": 56.80399,
+      "lon": 9.51441
+    },
+    "radioStations": [
+      {
+        "title": "Radio Alfa Aarhus",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/alfaaarhus"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Bornholm",
+    "coordinates": {
+      "lat": 56.95523,
+      "lon": 8.69491
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Bornholm",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A30H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Julekanalen (Classic FM Jul)",
+    "coordinates": {
+      "lat": 57.04072,
+      "lon": 8.49144
+    },
+    "radioStations": [
+      {
+        "title": "Julekanalen (Classic FM Jul)",
+        "subtitle": "Danmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.julekanalen.dk/julekanalen"
+      }
+    ]
+  },
+  {
+    "name": "Radio 7 Ravensburg",
+    "coordinates": {
+      "lat": 57.11548,
+      "lon": 8.6172
+    },
+    "radioStations": [
+      {
+        "title": "Radio 7 Ravensburg",
+        "subtitle": "Baden-Wuerttemberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streams.radio7.de/rv/mp3-192/web"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Bornholm",
+    "coordinates": {
+      "lat": 57.27021,
+      "lon": 9.94102
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Bornholm",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A06H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "myROCK",
+    "coordinates": {
+      "lat": 57.33188,
+      "lon": 10.52251
+    },
+    "radioStations": [
+      {
+        "title": "myROCK",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
+      }
+    ]
+  },
+  {
+    "name": "WMR - World Music Radio",
+    "coordinates": {
+      "lat": 57.25679,
+      "lon": 10.99738
+    },
+    "radioStations": [
+      {
+        "title": "WMR - World Music Radio",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.probroadcast.dk/wmr"
+      }
+    ]
+  },
+  {
+    "name": "DR P2 (AAC)",
+    "coordinates": {
+      "lat": 57.44073,
+      "lon": 10.53661
+    },
+    "radioStations": [
+      {
+        "title": "DR P2 (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Viva - Kolding",
+    "coordinates": {
+      "lat": 57.46417,
+      "lon": 9.98229
+    },
+    "radioStations": [
+      {
+        "title": "Radio Viva - Kolding",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioviva.dk/wp-content/themes/radioviva_dk/images/viva_logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.probroadcast.dk/radioviva"
+      }
+    ]
+  },
+  {
+    "name": "Radio Denmark FM",
+    "coordinates": {
+      "lat": 57.08822,
+      "lon": 9.26622
+    },
+    "radioStations": [
+      {
+        "title": "Radio Denmark FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Midt & Vest",
+    "coordinates": {
+      "lat": 57.72093,
+      "lon": 10.58394
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Midt & Vest",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.dr.dk/A/A09H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Trekanten (AAC)",
+    "coordinates": {
+      "lat": 55.06067,
+      "lon": 15.13058
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Trekanten (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Tango Copenhagen",
+    "coordinates": {
+      "lat": 55.90861,
+      "lon": 8.53041
+    },
+    "radioStations": [
+      {
+        "title": "Tango Copenhagen",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://tangocopenhagen.radio/wp-content/uploads/2019/03/logo-square-large-2-comp.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Fyn (AAC)",
+    "coordinates": {
+      "lat": 56.19442,
+      "lon": 10.6821
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Fyn (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio IIII",
+    "coordinates": {
+      "lat": 55.32006,
+      "lon": 15.18662
+    },
+    "radioStations": [
+      {
+        "title": "Radio IIII",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.radio4.dk/radio4"
+      }
+    ]
+  },
+  {
+    "name": "Radio Alfa Skive",
+    "coordinates": {
+      "lat": 55.00801,
+      "lon": 11.91057
+    },
+    "radioStations": [
+      {
+        "title": "Radio Alfa Skive",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/alfaskive"
+      }
+    ]
+  },
+  {
+    "name": "Danmarks Radio P3",
+    "coordinates": {
+      "lat": 55.2554,
+      "lon": 12.37936
+    },
+    "radioStations": [
+      {
+        "title": "Danmarks Radio P3",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A27L.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Midt/Vest",
+    "coordinates": {
+      "lat": 55.0951,
+      "lon": 10.24226
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Midt/Vest",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A17H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Klitholm - Det Ny Kanal 1",
+    "coordinates": {
+      "lat": 55.57025,
+      "lon": 9.13974
+    },
+    "radioStations": [
+      {
+        "title": "Radio Klitholm - Det Ny Kanal 1",
+        "subtitle": "Hvide Sande",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioklitholm.dk/wp-content/uploads/2022/11/sortlogo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radioklitholm.dk:8000/stream"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Esbjerg",
+    "coordinates": {
+      "lat": 56.03606,
+      "lon": 12.6136
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Esbjerg",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A26H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Østjylland",
+    "coordinates": {
+      "lat": 56.25762,
+      "lon": 9.86316
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Østjylland",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A24H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DRR",
+    "coordinates": {
+      "lat": 56.71482,
+      "lon": 10.11682
+    },
+    "radioStations": [
+      {
+        "title": "DRR",
+        "subtitle": "Randers",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioabc.dk/wp-content/uploads/2020/05/ABC-logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radioserver.dk/abc"
+      }
+    ]
+  },
+  {
+    "name": "Radio Alfa Midtjylland",
+    "coordinates": {
+      "lat": 54.93788,
+      "lon": 9.25547
+    },
+    "radioStations": [
+      {
+        "title": "Radio Alfa Midtjylland",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://alfa.side-walk.dk/logos/xEEssAXlAQ8G3lsJEBO21sOH2bkrz0SoiG1ZroEs.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/alfamidt"
+      }
+    ]
+  },
+  {
+    "name": "Radio Alfa",
+    "coordinates": {
+      "lat": 55.84523,
+      "lon": 9.23769
+    },
+    "radioStations": [
+      {
+        "title": "Radio Alfa",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/alfa"
+      }
+    ]
+  },
+  {
+    "name": "Skaga FM",
+    "coordinates": {
+      "lat": 55.56691,
+      "lon": 10.08863
+    },
+    "radioStations": [
+      {
+        "title": "Skaga FM",
+        "subtitle": "Hirtshals",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://skagafm.dk/skagafm/wp-content/uploads/Logo.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.wlmm.dk/skagafm.m3u"
+      }
+    ]
+  },
+  {
+    "name": "X FM K",
+    "coordinates": {
+      "lat": 56.74944,
+      "lon": 8.41953
+    },
+    "radioStations": [
+      {
+        "title": "X FM K",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uniradio.out.airtime.pro/uniradio_a"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Fyn",
+    "coordinates": {
+      "lat": 56.30673,
+      "lon": 9.16835
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Fyn",
+        "subtitle": "København",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A02H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Danmarks Radio p2",
+    "coordinates": {
+      "lat": 55.77981,
+      "lon": 8.29524
+    },
+    "radioStations": [
+      {
+        "title": "Danmarks Radio p2",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-icy.dr.dk/A/A04L.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nord",
+    "coordinates": {
+      "lat": 56.12196,
+      "lon": 12.31056
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nord",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.google.com/search?q=radio+nord+vendsyssel+logo&sca_esv=daf07b3e4903b956&rlz=1C1GCEA_enDK821DK821&udm=2&biw=1920&bih=957&sxsrf=AHTn8zoY_JcHKXHPGn44U5eR_iAx7SeRug%3A1745569894314&ei=ZkgLaND3Es3GwPAP5J-OoAI&oq=radio+nord+&gs_lp=EgNpbWciC3JhZGlvIG5vcmQgKgIIATIHECMYJxjJAjIHECMYJxjJAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOVkULouWKdWcAJ4AJABAJgBPqABqAKqAQE1uAEDyAEA-AEBmAIGoAKAAsICBhAAGAgYHsICBBAAGB6YAwCIBgGSBwE2oAfzEbIHATS4B_sB&sclient=img#vhid=teST4f9UGIDA0M&vssid=mosaic",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://netradio.radionord.dk:8000/RadioNord"
+      }
+    ]
+  },
+  {
+    "name": "Mix FM",
+    "coordinates": {
+      "lat": 55.36569,
+      "lon": 9.06316
+    },
+    "radioStations": [
+      {
+        "title": "Mix FM",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hello.citrus3.com:2020/stream/mixfm"
+      }
+    ]
+  },
+  {
+    "name": "NyhedsTjek.dk",
+    "coordinates": {
+      "lat": 56.9815,
+      "lon": 9.63917
+    },
+    "radioStations": [
+      {
+        "title": "NyhedsTjek.dk",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://nyhedstjek.dk/favicon-32x32.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic FM Østjylland",
+    "coordinates": {
+      "lat": 56.79334,
+      "lon": 8.85282
+    },
+    "radioStations": [
+      {
+        "title": "Classic FM Østjylland",
+        "subtitle": "Østjylland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.classicfm.dk/cla8a"
+      }
+    ]
+  },
+  {
+    "name": "Radio Victoria Esbjerg",
+    "coordinates": {
+      "lat": 55.97153,
+      "lon": 9.61129
+    },
+    "radioStations": [
+      {
+        "title": "Radio Victoria Esbjerg",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiovictoria.dk/wp-content/themes/radiovictoria_dk/images/logo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.probroadcast.dk/victoria"
+      }
+    ]
+  },
+  {
+    "name": "Rockkanalen",
+    "coordinates": {
+      "lat": 56.83626,
+      "lon": 9.89255
+    },
+    "radioStations": [
+      {
+        "title": "Rockkanalen",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.kanalplus.fm/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.kanalplus.fm/kp96"
+      }
+    ]
+  },
+  {
+    "name": "Psyradio - Chillout",
+    "coordinates": {
+      "lat": 57.19774,
+      "lon": 9.67173
+    },
+    "radioStations": [
+      {
+        "title": "Psyradio - Chillout",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://komplex2.psyradio.org:8020/chillout"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 København (AAC)",
+    "coordinates": {
+      "lat": 55.66768,
+      "lon": 11.73967
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 København (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "DR Ramasjang/Ultra Radio",
+    "coordinates": {
+      "lat": 56.26725,
+      "lon": 8.32167
+    },
+    "radioStations": [
+      {
+        "title": "DR Ramasjang/Ultra Radio",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "http://www.dr.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-icy.gss.dr.dk/A/A24H.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P6 BEAT (AAC)",
+    "coordinates": {
+      "lat": 55.2416,
+      "lon": 10.53675
+    },
+    "radioStations": [
+      {
+        "title": "DR P6 BEAT (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p6beat.4efb4634.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "The Voice",
+    "coordinates": {
+      "lat": 56.37797,
+      "lon": 9.66065
+    },
+    "radioStations": [
+      {
+        "title": "The Voice",
+        "subtitle": "Copenhagen",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/173.svg?ver=1490628415",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://live-bauerdk.sharp-stream.com/voice128.mp3"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Sjælland (AAC)",
+    "coordinates": {
+      "lat": 55.74232,
+      "lon": 12.30276
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Sjælland (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Viborg",
+    "coordinates": {
+      "lat": 57.37047,
+      "lon": 9.71466
+    },
+    "radioStations": [
+      {
+        "title": "Radio Viborg",
+        "subtitle": "Viborg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radioviborg.dk/wp-content/uploads/2017/09/cropped-favicon-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://webradio.radioviborg.dk/viborg"
+      }
+    ]
+  },
+  {
+    "name": "Radio Solo",
+    "coordinates": {
+      "lat": 57.59253,
+      "lon": 10.40456
+    },
+    "radioStations": [
+      {
+        "title": "Radio Solo",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiosolo.dk/wp-content/uploads/2021/06/radiosolo.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/solo"
+      }
+    ]
+  },
+  {
+    "name": "Dansktop Kanalen",
+    "coordinates": {
+      "lat": 55.2571,
+      "lon": 12.02125
+    },
+    "radioStations": [
+      {
+        "title": "Dansktop Kanalen",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.classicfm.dk/dansktop"
+      }
+    ]
+  },
+  {
+    "name": "Radio 40plus",
+    "coordinates": {
+      "lat": 57.16466,
+      "lon": 10.14571
+    },
+    "radioStations": [
+      {
+        "title": "Radio 40plus",
+        "subtitle": "Vordingborg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radio40plus.dk/images/logo_rund_150.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.radiosolutions.dk/radio40plus"
+      }
+    ]
+  },
+  {
+    "name": "Radio VLR",
+    "coordinates": {
+      "lat": 56.30145,
+      "lon": 10.47505
+    },
+    "radioStations": [
+      {
+        "title": "Radio VLR",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.vlr.dk/vlr8d"
+      }
+    ]
+  },
+  {
+    "name": "Radio M",
+    "coordinates": {
+      "lat": 55.83946,
+      "lon": 12.54432
+    },
+    "radioStations": [
+      {
+        "title": "Radio M",
+        "subtitle": "Herning",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioserver.dk/radiom"
+      }
+    ]
+  },
+  {
+    "name": "Retro Millennium",
+    "coordinates": {
+      "lat": 55.38482,
+      "lon": 10.13784
+    },
+    "radioStations": [
+      {
+        "title": "Retro Millennium",
+        "subtitle": "Nivå",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://tx-2.retro-radio.dk/TX-2"
+      }
+    ]
+  },
+  {
+    "name": "DR P4 Syd (AAC)",
+    "coordinates": {
+      "lat": 56.48176,
+      "lon": 8.77991
+    },
+    "radioStations": [
+      {
+        "title": "DR P4 Syd (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio ALR",
+    "coordinates": {
+      "lat": 55.44903,
+      "lon": 10.65769
+    },
+    "radioStations": [
+      {
+        "title": "Radio ALR",
+        "subtitle": "Nordjylland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streamer.radio.co/s6a9beb92e/listen"
+      }
+    ]
+  },
+  {
+    "name": "DLF aktuelle Presseschau",
+    "coordinates": {
+      "lat": 55.53888,
+      "lon": 11.5912
+    },
+    "radioStations": [
+      {
+        "title": "DLF aktuelle Presseschau",
+        "subtitle": "Deutschland und NRW",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.deutschlandfunk.de/presseschauen-100.html",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Classic FM (Fyn)",
+    "coordinates": {
+      "lat": 55.08959,
+      "lon": 9.46084
+    },
+    "radioStations": [
+      {
+        "title": "Classic FM (Fyn)",
+        "subtitle": "Fyn",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.classicfm.dk/cla12a"
+      }
+    ]
+  },
+  {
+    "name": "2town Radio",
+    "coordinates": {
+      "lat": 55.53926,
+      "lon": 11.22708
+    },
+    "radioStations": [
+      {
+        "title": "2town Radio",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://s0.wp.com/i/blank.jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming.radio.co/sd9d980ff0/listen"
+      }
+    ]
+  },
+  {
+    "name": "Radio VLR - Classic Christmas",
+    "coordinates": {
+      "lat": 55.32993,
+      "lon": 11.13857
+    },
+    "radioStations": [
+      {
+        "title": "Radio VLR - Classic Christmas",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://netradio.vlr.dk/popup2"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Nordjylland (AAC)",
+    "coordinates": {
+      "lat": 55.97313,
+      "lon": 10.153
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Nordjylland (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Haderslev",
+    "coordinates": {
+      "lat": 55.15735,
+      "lon": 8.76901
+    },
+    "radioStations": [
+      {
+        "title": "Radio Haderslev",
+        "subtitle": "Haderslev",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://radiohaderslev.dk/wp-content/uploads/2018/12/RadioHaderslev_PNG.png",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://media.wlmm.dk/radiohaderslevmp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Fasanen Frederiksberg",
+    "coordinates": {
+      "lat": 55.51086,
+      "lon": 8.91872
+    },
+    "radioStations": [
+      {
+        "title": "Radio Fasanen Frederiksberg",
+        "subtitle": "Frederiksberg",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://www.radiokultur.dk/favicon.ico",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://c14.radioboss.fm:18228/stream"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Midt-Vest (AAC)",
+    "coordinates": {
+      "lat": 55.05732,
+      "lon": 9.7408
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Midt-Vest (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/Nordborg_Slot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "DR P5 Østjylland (AAC)",
+    "coordinates": {
+      "lat": 54.65944,
+      "lon": 11.35504
+    },
+    "radioStations": [
+      {
+        "title": "DR P5 Østjylland (AAC)",
+        "subtitle": "Denmark",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/e/ea/DR_P6_Beat_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8"
+      }
+    ]
+  }
+]
