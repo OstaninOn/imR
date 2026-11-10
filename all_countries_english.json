@@ -896,7 +896,8 @@
     {
       "name": "Portugal",
       "name_ru": "Португалия",
-      "flag": "https://flagcdn.com/w320/pt.png"
+      "flag": "https://flagcdn.com/w320/pt.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/portugal_129_.json"
     },
     {
       "name": "Puerto Rico",
