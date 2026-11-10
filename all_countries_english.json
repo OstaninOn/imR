@@ -1003,11 +1003,7 @@
       "flag": "https://flagcdn.com/w320/rs.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/serbia_radio_stations_100.json"
     },
-    {
-      "name": "Seychelles",
-      "name_ru": "Сейшельские Острова",
-      "flag": "https://flagcdn.com/w320/sc.png"
-    },
+   
     {
       "name": "Sierra Leone",
       "name_ru": "Сьерра-Леоне",
