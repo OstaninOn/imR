@@ -1,0 +1,2324 @@
+[
+  {
+    "name": "Rádio Comercial",
+    "coordinates": {
+      "lat": 40.64575,
+      "lon": -8.64643
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fstatic2.mytuner.mobi%2Fmedia%2Ftvos_radios%2FdrkZNBUn6W.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "TSF Rádio Notícias",
+    "coordinates": {
+      "lat": 38.01469,
+      "lon": -7.86284
+    },
+    "radioStations": [
+      {
+        "title": "TSF Rádio Notícias",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2024%2Ftsf.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://directo.tsf.pt/tsfdirecto.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Observador",
+    "coordinates": {
+      "lat": 41.5514,
+      "lon": -8.42311
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Observador",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fobservador.pt%2Fwp-content%2Fthemes%2Fobservador-child%2Fassets%2Fbuild%2Fimg%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.23.85.126:8455/stream"
+      }
+    ]
+  },
+  {
+    "name": "Cidade FM",
+    "coordinates": {
+      "lat": 41.80716,
+      "lon": -6.75898
+    },
+    "radioStations": [
+      {
+        "title": "Cidade FM",
+        "subtitle": "Bragança",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcidade.fm%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/cidade.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mega Hits",
+    "coordinates": {
+      "lat": 39.82364,
+      "lon": -7.49101
+    },
+    "radioStations": [
+      {
+        "title": "Mega Hits",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=http%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs6745q.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://22353.live.streamtheworld.com:3690/MEGA_HITS_SC"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Renascença",
+    "coordinates": {
+      "lat": 40.20686,
+      "lon": -8.41996
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Renascença",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Frrsite-images.azureedge.net%2Ffavicon%2Fapple-touch-icon.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://29339.live.streamtheworld.com/RADIO_RENASCENCA_SC"
+      }
+    ]
+  },
+  {
+    "name": "M80 Rádio – 60s",
+    "coordinates": {
+      "lat": 38.56587,
+      "lon": -7.90405
+    },
+    "radioStations": [
+      {
+        "title": "M80 Rádio – 60s",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fde%2FIgreja_da_Gra%25C3%25A7a_-_%25C3%2589vora_-_Portugal_%252852137100284%2529.jpg%2F500px-Igreja_da_Gra%25C3%25A7a_-_%25C3%2589vora_-_Portugal_%252852137100284%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/m8060.aac"
+      }
+    ]
+  },
+  {
+    "name": "RDP Africa (Portugal)",
+    "coordinates": {
+      "lat": 37.01869,
+      "lon": -7.92716
+    },
+    "radioStations": [
+      {
+        "title": "RDP Africa (Portugal)",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Frdp-africa.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Commercial",
+    "coordinates": {
+      "lat": 40.53754,
+      "lon": -7.26631
+    },
+    "radioStations": [
+      {
+        "title": "Radio Commercial",
+        "subtitle": "Guarda",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc3%2FLogo_Radio_Comercial.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/comercial.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antena 3 (Portugal)",
+    "coordinates": {
+      "lat": 39.74362,
+      "lon": -8.80705
+    },
+    "radioStations": [
+      {
+        "title": "Antena 3 (Portugal)",
+        "subtitle": "Leiria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F1rcQ9sr%2F1-143718101410.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR"
+      }
+    ]
+  },
+  {
+    "name": "M80 Rádio – Indie",
+    "coordinates": {
+      "lat": 38.72509,
+      "lon": -9.1498
+    },
+    "radioStations": [
+      {
+        "title": "M80 Rádio – Indie",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F78%2FAzulejo_Metro_Cidade_Universit%25C3%25A1ria.jpg%2F500px-Azulejo_Metro_Cidade_Universit%25C3%25A1ria.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/m80indie.aac"
+      }
+    ]
+  },
+  {
+    "name": "Antena 1 (Portugal)",
+    "coordinates": {
+      "lat": 39.29379,
+      "lon": -7.43122
+    },
+    "radioStations": [
+      {
+        "title": "Antena 1 (Portugal)",
+        "subtitle": "Portalegre",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2Fantena-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR"
+      }
+    ]
+  },
+  {
+    "name": "Radio Comercial Portugal",
+    "coordinates": {
+      "lat": 41.1485,
+      "lon": -8.61097
+    },
+    "radioStations": [
+      {
+        "title": "Radio Comercial Portugal",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F35%2FArranjo_do_Centro_Hist%25C3%25B3rico_do_Porto_Santo_-_2023-06-05_-_Image_241755.jpg%2F500px-Arranjo_do_Centro_Hist%25C3%25B3rico_do_Porto_Santo_-_2023-06-05_-_Image_241755.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/rctuga.aac"
+      }
+    ]
+  },
+  {
+    "name": "Antena 2 Jazzin (Portugal)",
+    "coordinates": {
+      "lat": 39.46203,
+      "lon": -8.7118
+    },
+    "radioStations": [
+      {
+        "title": "Antena 2 Jazzin (Portugal)",
+        "subtitle": "Santarém",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fantena-2-jazzin.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Antena 1 Açores (Portugal)",
+    "coordinates": {
+      "lat": 38.5244,
+      "lon": -8.8882
+    },
+    "radioStations": [
+      {
+        "title": "Antena 1 Açores (Portugal)",
+        "subtitle": "Azores",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fantena-1-acores.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Antena 3",
+    "coordinates": {
+      "lat": 41.76719,
+      "lon": -8.58393
+    },
+    "radioStations": [
+      {
+        "title": "Antena 3",
+        "subtitle": "Viana do Castelo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F1-143718101410.png%3Fq%3D10%26v%3D3%26w%3D275&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "M80 Rádio – Portugal",
+    "coordinates": {
+      "lat": 41.74019,
+      "lon": -7.46879
+    },
+    "radioStations": [
+      {
+        "title": "M80 Rádio – Portugal",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FAntigo_mosteiro_de_S%25C3%25A3o_Bento%252C_Bragan%25C3%25A7a%252C_Portugal_-_2011-08-23_-_Image_87065.jpg%2F500px-Antigo_mosteiro_de_S%25C3%25A3o_Bento%252C_Bragan%25C3%25A7a%252C_Portugal_-_2011-08-23_-_Image_87065.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/m80nacional.aac"
+      }
+    ]
+  },
+  {
+    "name": "Alto Tamega FM",
+    "coordinates": {
+      "lat": 40.66165,
+      "lon": -7.90905
+    },
+    "radioStations": [
+      {
+        "title": "Alto Tamega FM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9f%2FFachada_da_Casa_do_Cruzeiro%252C_Viseu.jpg%2F500px-Fachada_da_Casa_do_Cruzeiro%252C_Viseu.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://188.93.231.97:9300/;"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Amália",
+    "coordinates": {
+      "lat": 37.73952,
+      "lon": -25.66874
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Amália",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=http%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs113888q.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.radio.com.pt:9496/;"
+      }
+    ]
+  },
+  {
+    "name": "radio orbital",
+    "coordinates": {
+      "lat": 32.66568,
+      "lon": -16.92547
+    },
+    "radioStations": [
+      {
+        "title": "radio orbital",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.orbital.pt%2Ficon.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.radio.com.pt/proxy/401?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "105.4 Cascais - O Rock da Linha",
+    "coordinates": {
+      "lat": 41.07749,
+      "lon": -8.2876
+    },
+    "radioStations": [
+      {
+        "title": "105.4 Cascais - O Rock da Linha",
+        "subtitle": "Estremadura",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.1054cascais.com%2Fimg%2Fcover.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antena 1 - Main",
+    "coordinates": {
+      "lat": 37.43718,
+      "lon": -8.76194
+    },
+    "radioStations": [
+      {
+        "title": "Antena 1 - Main",
+        "subtitle": "Beja",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F5-563718101410.png%3Fq%3D10%26v%3D3%26w%3D275&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocast.rtp.pt/antena180a.mp3"
+      }
+    ]
+  },
+  {
+    "name": "FUTURA - Rádio de Autor",
+    "coordinates": {
+      "lat": 41.56204,
+      "lon": -7.82452
+    },
+    "radioStations": [
+      {
+        "title": "FUTURA - Rádio de Autor",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radiofutura.pt%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s4.radio.co/s7e7b6c165/listen"
+      }
+    ]
+  },
+  {
+    "name": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+    "coordinates": {
+      "lat": 41.21089,
+      "lon": -7.42889
+    },
+    "radioStations": [
+      {
+        "title": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2026%2Fpef-fm.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.radio.com.pt/proxy/426?mp=/stream;"
+      }
+    ]
+  },
+  {
+    "name": "Antena 1 Madeira (Portugal)",
+    "coordinates": {
+      "lat": 38.8,
+      "lon": -8.06667
+    },
+    "radioStations": [
+      {
+        "title": "Antena 1 Madeira (Portugal)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fantena-1-madeira.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "OXIGÉNIO 102.6 FM",
+    "coordinates": {
+      "lat": 40.47758,
+      "lon": -7.82951
+    },
+    "radioStations": [
+      {
+        "title": "OXIGÉNIO 102.6 FM",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.oxigenio.fm%2Fwp-content%2Fuploads%2F2018%2F11%2Fcropped-favicon-180x180.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://proic1.evspt.com/oxigenio_aac"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Sol Madeira (103.7 FM)",
+    "coordinates": {
+      "lat": 38.59576,
+      "lon": -8.64945
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Sol Madeira (103.7 FM)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2Frandom%2F2024%2Fradio-sol.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.serv.pt/8010/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Antena 1 Fado",
+    "coordinates": {
+      "lat": 37.44386,
+      "lon": -8.79772
+    },
+    "radioStations": [
+      {
+        "title": "Antena 1 Fado",
+        "subtitle": "Faro",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F1022-000919141305.png%3Fq%3D10%26v%3D3%26w%3D120&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://radiocast.rtp.pt/antena1fado80a.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RDP Internacional (Portugal)",
+    "coordinates": {
+      "lat": 41.13015,
+      "lon": -7.12023
+    },
+    "radioStations": [
+      {
+        "title": "RDP Internacional (Portugal)",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Frdp-internacional.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "NTR - Network Radio",
+    "coordinates": {
+      "lat": 39.08333,
+      "lon": -8.61667
+    },
+    "radioStations": [
+      {
+        "title": "NTR - Network Radio",
+        "subtitle": "Leiria",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fntr.fm%2Fwp-content%2Fuploads%2F2017%2F06%2FNTR-Logo-600x600-Dark_Bg-v1-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://is.ntradio.pt/ntr"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Festival Madeira (98.4 FM)",
+    "coordinates": {
+      "lat": 39.27899,
+      "lon": -8.99853
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Festival Madeira (98.4 FM)",
+        "subtitle": "Slough, Windsor, Maidenhead, Heathrow",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2Frandom%2F2024%2Fradio-festival.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.serv.pt/8012/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Cascais FM 105.4",
+    "coordinates": {
+      "lat": 39.1,
+      "lon": -8.78333
+    },
+    "radioStations": [
+      {
+        "title": "Cascais FM 105.4",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.1054cascais.com%2Fimg%2Flogo_white.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radioregional.pt:8220/stream/2/;/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RUC Rádio Universidade de Coimbra",
+    "coordinates": {
+      "lat": 41.19078,
+      "lon": -7.90181
+    },
+    "radioStations": [
+      {
+        "title": "RUC Rádio Universidade de Coimbra",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.ruc.pt%2Fapple-icon.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.ruc.pt/high"
+      }
+    ]
+  },
+  {
+    "name": "Benfica FM",
+    "coordinates": {
+      "lat": 38.1639,
+      "lon": -8.43588
+    },
+    "radioStations": [
+      {
+        "title": "Benfica FM",
+        "subtitle": "Santarém",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FCastelo_dos_Mouros_-_Sintra_-_Portugal_%252815936762666%2529.jpg%2F500px-Castelo_dos_Mouros_-_Sintra_-_Portugal_%252815936762666%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benficaplay_benficaplay-radio_08de155dbd06_audio/benficaplay_benficaplay-radio_08de155dbd06_hls/benficaplay-radio-hls.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Hiper FM",
+    "coordinates": {
+      "lat": 37.66449,
+      "lon": -8.45799
+    },
+    "radioStations": [
+      {
+        "title": "Hiper FM",
+        "subtitle": "Santarém",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=http%3A%2F%2Fwww.hiper.fm%2Fapple-touch-icon.png%3Fv%3Dqaqbm5nz6j&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://195.23.85.126:9500/;"
+      }
+    ]
+  },
+  {
+    "name": "Antena 2 Ópera",
+    "coordinates": {
+      "lat": 41.03333,
+      "lon": -8.36667
+    },
+    "radioStations": [
+      {
+        "title": "Antena 2 Ópera",
+        "subtitle": "Viana do Castelo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fantena-2-opera.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Antena 3 Madeira (Portugal)",
+    "coordinates": {
+      "lat": 41.11652,
+      "lon": -7.91022
+    },
+    "radioStations": [
+      {
+        "title": "Antena 3 Madeira (Portugal)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fantena-3-madeira.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Comercial Rock",
+    "coordinates": {
+      "lat": 41.6,
+      "lon": -7.71667
+    },
+    "radioStations": [
+      {
+        "title": "Radio Comercial Rock",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.onlineradiobox.com%2Fimg%2Fl%2F6%2F79496.v16.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.bauermedia.pt/rcrock.aac"
+      }
+    ]
+  },
+  {
+    "name": "Radio Rock Pirata",
+    "coordinates": {
+      "lat": 39.47039,
+      "lon": -31.25504
+    },
+    "radioStations": [
+      {
+        "title": "Radio Rock Pirata",
+        "subtitle": "Açores",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradio.softshell-octatonic.ts.net%2Flogo.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.softshell-octatonic.ts.net/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Nova",
+    "coordinates": {
+      "lat": 33.06667,
+      "lon": -16.31667
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Nova",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radionova.fm%2Fwp-content%2Fuploads%2F2023%2F05%2Fcropped-favicon-180x180.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.radios.pt:9528/;"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Pico",
+    "coordinates": {
+      "lat": 40.29174,
+      "lon": -8.4535
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Pico",
+        "subtitle": "Azores",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FMonumento_ao_Emigrante_-_Pateira_de_Fermentelos_-_Portugal_%252824246449026%2529.jpg%2F500px-Monumento_ao_Emigrante_-_Pateira_de_Fermentelos_-_Portugal_%252824246449026%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.radios.pt:9420/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Palmeira Madeira (96.1 FM)",
+    "coordinates": {
+      "lat": 38.13446,
+      "lon": -6.97604
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Palmeira Madeira (96.1 FM)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2Frandom%2F2024%2Fradio-palmeira.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.serv.pt/8018/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Estação Diária Rádio, Viseu – 96.8 FM",
+    "coordinates": {
+      "lat": 41.78046,
+      "lon": -8.19726
+    },
+    "radioStations": [
+      {
+        "title": "Estação Diária Rádio, Viseu – 96.8 FM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.968.fm%2Fimages%2Flogo_mobile.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.radio.com.pt/proxy/430?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Antena 2 (AAC)",
+    "coordinates": {
+      "lat": 41.27466,
+      "lon": -6.55518
+    },
+    "radioStations": [
+      {
+        "title": "Antena 2 (AAC)",
+        "subtitle": "Bragança",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rtp.pt%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Radio Biblia",
+    "coordinates": {
+      "lat": 39.80387,
+      "lon": -8.28618
+    },
+    "radioStations": [
+      {
+        "title": "Radio Biblia",
+        "subtitle": "Castelo Branco",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fpublic-rf-upload.minhawebradio.net%2F198355%2Ffavicon%2Fe546f187222f5837de85785dde53de8f.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://servidor30-4.brlogic.com:7398/live?source=website"
+      }
+    ]
+  },
+  {
+    "name": "MRR Manitu Rock Radio",
+    "coordinates": {
+      "lat": 40.0,
+      "lon": -7.91667
+    },
+    "radioStations": [
+      {
+        "title": "MRR Manitu Rock Radio",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.wix.com%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.streemlion.com:4515/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Foz do Mondego",
+    "coordinates": {
+      "lat": 38.30278,
+      "lon": -7.25507
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Foz do Mondego",
+        "subtitle": "Évora",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Frfmondego.pt%2Fwp-content%2Fuploads%2F2021%2F09%2Fcropped-LOGO-PEQ-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nl.digitalrm.pt:8216/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Clube Madeira (106.8 FM)",
+    "coordinates": {
+      "lat": 37.49459,
+      "lon": -7.51271
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Clube Madeira (106.8 FM)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2Frandom%2F2024%2Fradio-clube.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.serv.pt/8020/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gongas Radio",
+    "coordinates": {
+      "lat": 40.25631,
+      "lon": -7.78039
+    },
+    "radioStations": [
+      {
+        "title": "Gongas Radio",
+        "subtitle": "cascais",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc5%2FPortrait_of_Auguste_Fr%25C3%25A9d%25C3%25A9ric_Viesse_de_Marmont%252C_Marshal_of_the_Empire._Engraver_J._N._Joly%252C_after_a_painted_portrait_by_Meyer._1810%25E2%2580%25931815.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail_unscaled&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a6.asurahosting.com:7930/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RDS Romantica",
+    "coordinates": {
+      "lat": 39.309,
+      "lon": -9.339
+    },
+    "radioStations": [
+      {
+        "title": "RDS Romantica",
+        "subtitle": "Seixal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fplayer.yesstreaming.com%2Fuploads%2Flogos%2F1727175777_c4e6b4b27f8127d74391.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s9.yesstreaming.net:9066/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Regional - Portugal",
+    "coordinates": {
+      "lat": 39.06598,
+      "lon": -9.38184
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Regional - Portugal",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradioregional.pt%2Fwp-content%2Fuploads%2F2022%2F02%2Frr-logo-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://play.radioregional.pt/stream/1/"
+      }
+    ]
+  },
+  {
+    "name": "Batida FM",
+    "coordinates": {
+      "lat": 38.94877,
+      "lon": -8.008
+    },
+    "radioStations": [
+      {
+        "title": "Batida FM",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fbatida.fm%2Fimages%2Ffbcover.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-icy.rayo.pt/batidafm.mp3?direct=true"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Atalaia",
+    "coordinates": {
+      "lat": 41.36591,
+      "lon": -8.28376
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Atalaia",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radioatalaia.pt%2Fimages%2Fapple-touch-icon.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://mpc.my-control-panel.eu/stream/radioatalaia"
+      }
+    ]
+  },
+  {
+    "name": "Radio Transforma",
+    "coordinates": {
+      "lat": 39.57588,
+      "lon": -7.83374
+    },
+    "radioStations": [
+      {
+        "title": "Radio Transforma",
+        "subtitle": "Santarém",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradiotransforma.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fcropped-logo-radio-192x192.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast1.redeaudio.com/proxy/radiotransforma/stream"
+      }
+    ]
+  },
+  {
+    "name": "Antena 2 - Main",
+    "coordinates": {
+      "lat": 38.29304,
+      "lon": -8.22661
+    },
+    "radioStations": [
+      {
+        "title": "Antena 2 - Main",
+        "subtitle": "Setúbal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F3-363718101410.png%3Fq%3D10%26v%3D3%26w%3D275&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocast.rtp.pt/antena280a.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RDP Internacional - Main",
+    "coordinates": {
+      "lat": 42.14149,
+      "lon": -8.19405
+    },
+    "radioStations": [
+      {
+        "title": "RDP Internacional - Main",
+        "subtitle": "Viana do Castelo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fcommon%2Fimg%2Fchannels%2Flogos%2Fcolor%2Fhorizontal%2F120-344318101410.png%3Fq%3D10%26v%3D3%26w%3D275&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocast.rtp.pt/rdpint80a.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RTP - Radio ZigZag",
+    "coordinates": {
+      "lat": 41.70738,
+      "lon": -8.05165
+    },
+    "radioStations": [
+      {
+        "title": "RTP - Radio ZigZag",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn-images.rtp.pt%2Fplay%2Fzigzag%2Fimgs%2Fzz_logowhite.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radiocast.rtp.pt/zigzag80a.mp3"
+      }
+    ]
+  },
+  {
+    "name": "NOITE FM",
+    "coordinates": {
+      "lat": 41.03798,
+      "lon": -7.34825
+    },
+    "radioStations": [
+      {
+        "title": "NOITE FM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.noite.fm%2Fwp-content%2Fuploads%2F2024%2F06%2FLogo_noiteFM_Vector_Forground-3-09.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://servidor.noite.pt:9002/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Clube de Lamego",
+    "coordinates": {
+      "lat": 38.55748,
+      "lon": -28.48017
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Clube de Lamego",
+        "subtitle": "Açores",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=http%3A%2F%2Frclamego.com%2Fupload%2F5f6d3c2bc65e68.77595989.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://audio.ptisp.com:8110/;"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Elvas",
+    "coordinates": {
+      "lat": 32.81137,
+      "lon": -17.24862
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Elvas",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradioelvas.com%2Fwp-content%2Fuploads%2F2024%2F02%2FLogo-RE-768x341.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios2.justweb.pt:8066/stream?type=http&nocache=297"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Calheta",
+    "coordinates": {
+      "lat": 40.59773,
+      "lon": -8.23541
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Calheta",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fplayer.radiocalheta.pt%2Fstatic%2Fuploads%2Fradiocalheta%2Falbum_art.1762951317.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://player.radiocalheta.pt/listen/radiocalheta/live"
+      }
+    ]
+  },
+  {
+    "name": "Rádio clube de Colares",
+    "coordinates": {
+      "lat": 37.41394,
+      "lon": -7.98654
+    },
+    "radioStations": [
+      {
+        "title": "Rádio clube de Colares",
+        "subtitle": "Colares",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.guiadecolares.pt%2Fradio%2FFavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs3.ptservidor.net/8012/live"
+      }
+    ]
+  },
+  {
+    "name": "Radio Amigos do Mundo",
+    "coordinates": {
+      "lat": 41.6,
+      "lon": -8.78333
+    },
+    "radioStations": [
+      {
+        "title": "Radio Amigos do Mundo",
+        "subtitle": "Braga",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radioamigosdomundo.com%2Fpublic%2F01100-2026-05-16.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sonic.servsonic.com:7004/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Marinahais",
+    "coordinates": {
+      "lat": 41.58996,
+      "lon": -7.23513
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Marinahais",
+        "subtitle": "Bragança",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radiomarinhais.pt%2Fwp-content%2Fuploads%2F2023%2F06%2Fcropped-favicon_rm-192x192.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios2.justweb.pt/8052/stream"
+      }
+    ]
+  },
+  {
+    "name": "RÁDIO EU SOU GOIÁS",
+    "coordinates": {
+      "lat": 39.99737,
+      "lon": -6.87693
+    },
+    "radioStations": [
+      {
+        "title": "RÁDIO EU SOU GOIÁS",
+        "subtitle": "Goiás",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEiFjuZpvO8NObJg4xbuvohiOA9-9xz5Ts80exF8_r0kycPUt_vx8D36UCecT4c1hMpBmgz_g9FoUzhVocxpJmsgXxKjKXqe-s5P5c7o7lgIbHEpejbVPMlEYioBRwOKpokdJaeRQghKznhXO6T663om4hMiXPPPFRLMfFvKh7LGCin_Sc25Iq6iDdCfrQy7%3Ds144&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live9.livemus.com.br:27374/stream"
+      }
+    ]
+  },
+  {
+    "name": "RES FM",
+    "coordinates": {
+      "lat": 40.05607,
+      "lon": -8.8866
+    },
+    "radioStations": [
+      {
+        "title": "RES FM",
+        "subtitle": "Coimbra",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fresfmradio.com%2Fwp-content%2Fuploads%2F2021%2F09%2FLogo_RES-FM_Verde_2.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream2.soundflux.eu:8440/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Lusitânia",
+    "coordinates": {
+      "lat": 39.1329,
+      "lon": -7.84041
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Lusitânia",
+        "subtitle": "Évora",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fradio-lusitania.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "RUA FM",
+    "coordinates": {
+      "lat": 37.00864,
+      "lon": -8.94311
+    },
+    "radioStations": [
+      {
+        "title": "RUA FM",
+        "subtitle": "Faro",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Frua.pt%2Fwp-content%2Fuploads%2F2021%2F10%2Fcropped-favicon-270x270.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://centova.radio.com.pt/proxy/037?mp=/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Zarco Madeira (89.6 FM)",
+    "coordinates": {
+      "lat": 40.87053,
+      "lon": -7.55901
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Zarco Madeira (89.6 FM)",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2Frandom%2F2024%2Fradio-zarco.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio.serv.pt/8014/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio Meio Do Mato",
+    "coordinates": {
+      "lat": 39.93335,
+      "lon": -8.14238
+    },
+    "radioStations": [
+      {
+        "title": "Radio Meio Do Mato",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmeiodomato.com%2Fstatic%2Fimg%2Flogo.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.meiodomato.com/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Universitária UMinho",
+    "coordinates": {
+      "lat": 38.98006,
+      "lon": -8.97842
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Universitária UMinho",
+        "subtitle": "Braga",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fstatic2.mytuner.mobi%2Fmedia%2Ftvos_radios%2F773%2Frum-radio-universitaria-do-minho.b70e0901.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.radio.com.pt:9558/stream"
+      }
+    ]
+  },
+  {
+    "name": "ESR - East Side Radio",
+    "coordinates": {
+      "lat": 38.78184,
+      "lon": -7.17066
+    },
+    "radioStations": [
+      {
+        "title": "ESR - East Side Radio",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fesr.li%2Ffavicon-32x32.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ice.ether.esr.li/esr-ch1.aac"
+      }
+    ]
+  },
+  {
+    "name": "RCA - Rádio Clube de Armamar",
+    "coordinates": {
+      "lat": 41.45442,
+      "lon": -8.73653
+    },
+    "radioStations": [
+      {
+        "title": "RCA - Rádio Clube de Armamar",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.mytuner.mobi%2Fmedia%2Ftvos_radios%2F287%2Frca-radio-clube-de-armamar.d8198e90.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios2.justweb.pt/8054/stream"
+      }
+    ]
+  },
+  {
+    "name": "Total FM",
+    "coordinates": {
+      "lat": 38.82364,
+      "lon": -8.83325
+    },
+    "radioStations": [
+      {
+        "title": "Total FM",
+        "subtitle": "Almancil",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Ftotalfm.pt%2Fwp-content%2Fuploads%2Ffbrfg%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu57-sonic.instainternet.com:8068/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Algoritmo",
+    "coordinates": {
+      "lat": 38.06078,
+      "lon": -8.7822
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Algoritmo",
+        "subtitle": "Setúbal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fjagsilva.com%2Ffavicon.svg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://jagsilva.com/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Jornal do Centro",
+    "coordinates": {
+      "lat": 42.04729,
+      "lon": -8.60764
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Jornal do Centro",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-jornal-do-centro.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com:9120//stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Musgo",
+    "coordinates": {
+      "lat": 41.34395,
+      "lon": -7.34426
+    },
+    "radioStations": [
+      {
+        "title": "Radio Musgo",
+        "subtitle": "Vila Real",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradiomusgo.com%2Fimg%2Fmusgologo_verde_site_small.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.radiomusgo.com/main"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Palavra Antiga",
+    "coordinates": {
+      "lat": 41.07171,
+      "lon": -8.23021
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Palavra Antiga",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fpalavraantiga.org%2Fweb%2Fimage%2F717-e4330d3e%2Flogo-palavraantiga-512.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.palavraantiga.org/listen/palavraantiga/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Zig Zag",
+    "coordinates": {
+      "lat": 38.73333,
+      "lon": -27.05
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Zig Zag",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.celsoazevedo.com%2Ffiles%2F2022%2F11%2Fradio-zig-zag.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Movimento",
+    "coordinates": {
+      "lat": 32.73834,
+      "lon": -16.73836
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Movimento",
+        "subtitle": "Lisboa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=http%3A%2F%2Fradiomovimento.pt%2Fimages%2Frm-logo_2023.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.rcast.net/61025"
+      }
+    ]
+  },
+  {
+    "name": "Cool FM Albufeira",
+    "coordinates": {
+      "lat": 40.95396,
+      "lon": -8.65437
+    },
+    "radioStations": [
+      {
+        "title": "Cool FM Albufeira",
+        "subtitle": "Aveiro",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcoolfm.live%2Fassets%2Fimages%2Ffaveicon%2Ffavicon-96x96.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://a1.asurahosting.com:9360/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "AfroBeat Radio",
+    "coordinates": {
+      "lat": 37.83428,
+      "lon": -8.4452
+    },
+    "radioStations": [
+      {
+        "title": "AfroBeat Radio",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fafrobeat-radio.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://smartmedia.stmxp.net:8068/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Onda Azul",
+    "coordinates": {
+      "lat": 41.40787,
+      "lon": -8.11922
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Onda Azul",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-onda-azul.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://ecmanager4.pro-fhi.net:1540/stream"
+      }
+    ]
+  },
+  {
+    "name": "Radio Vibe",
+    "coordinates": {
+      "lat": 41.58085,
+      "lon": -6.21549
+    },
+    "radioStations": [
+      {
+        "title": "Radio Vibe",
+        "subtitle": "Amadora",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradio-vibe-101-stream-render-4tnt.onrender.com%2Fstatic%2Fradio-vibe.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio-vibe-101-stream-render-4tnt.onrender.com/live"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Clube Paços de Ferreira 101.8 FM",
+    "coordinates": {
+      "lat": 40.31448,
+      "lon": -7.45759
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Clube Paços de Ferreira 101.8 FM",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fplatform-upload.cdn-brlogic.com%2F253943%2Feditor%2F3d5286d73cd7089f2a2c81cb7ae52edb.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://servidor15-3.brlogic.com:7088/live?source=15118"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Montemuro",
+    "coordinates": {
+      "lat": 40.4504,
+      "lon": -8.78613
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Montemuro",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-montemuro.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://shoutcast.htt.pt:8060/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Radio QUÂNTICA",
+    "coordinates": {
+      "lat": 38.80954,
+      "lon": -7.27055
+    },
+    "radioStations": [
+      {
+        "title": "Radio QUÂNTICA",
+        "subtitle": "Lisbon",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Funify-fm-bucket.s3.amazonaws.com%2F521fe997332647c8934b2d54146d0f57.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://libretime.radioquantica.com/main.mp3"
+      }
+    ]
+  },
+  {
+    "name": "MSFS Radio",
+    "coordinates": {
+      "lat": 37.38333,
+      "lon": -8.26667
+    },
+    "radioStations": [
+      {
+        "title": "MSFS Radio",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmsfsradio.com%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radio.msfsradio.com/listen/msfs/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Hertz",
+    "coordinates": {
+      "lat": 40.33872,
+      "lon": -6.81515
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Hertz",
+        "subtitle": "Guarda",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradiohertz.pt%2Fwp-content%2Fuploads%2F2017%2F01%2Fcropped-Teste1-192x192.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios2.justweb.pt/8042/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Clube do Dão",
+    "coordinates": {
+      "lat": 39.51667,
+      "lon": -8.33333
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Clube do Dão",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-clube-do-dao.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com/8052/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio VFM",
+    "coordinates": {
+      "lat": 38.7816,
+      "lon": -9.49702
+    },
+    "radioStations": [
+      {
+        "title": "Rádio VFM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-vfm.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://cast.redewt.net/proxy/vfm/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Neptuno",
+    "coordinates": {
+      "lat": 39.49156,
+      "lon": -7.98656
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Neptuno",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-neptuno.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://85.25.185.202:8801/autodj"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Tágide",
+    "coordinates": {
+      "lat": 41.08944,
+      "lon": -8.24643
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Tágide",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradiotagide.pt%2Fwp-content%2Fuploads%2F2022%2F04%2Fcropped-SIMBOLO_TAGIDE-32x32.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://azuracast.rhoster.pt/listen/radio_tagide/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Médio Tejo",
+    "coordinates": {
+      "lat": 39.04223,
+      "lon": -8.282
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Médio Tejo",
+        "subtitle": "Santarém",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fdd%2FMiradouro_do_Cristo-Rei_-_Matagosa_-_Portugal_%25F0%259F%2587%25B5%25F0%259F%2587%25B9_%252853799837341%2529.jpg%2F500px-Miradouro_do_Cristo-Rei_-_Matagosa_-_Portugal_%25F0%259F%2587%25B5%25F0%259F%2587%25B9_%252853799837341%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream.expandenarrativa.pt/radio"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Lafões FM",
+    "coordinates": {
+      "lat": 38.73749,
+      "lon": -8.53953
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Lafões FM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radiolafoes.pt%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com/9304/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Miróbriga",
+    "coordinates": {
+      "lat": 41.87852,
+      "lon": -8.25741
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Miróbriga",
+        "subtitle": "Viana do Castelo",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.radiom24.com%2Fassets%2Fdist%2Fimg%2Flogo-md.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio OnBouge Português",
+    "coordinates": {
+      "lat": 41.47319,
+      "lon": -7.74387
+    },
+    "radioStations": [
+      {
+        "title": "Rádio OnBouge Português",
+        "subtitle": "Vila Real",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2c%2FSoaring_Temperatures_and_Searing_Fires_in_Portugal_and_Spain_%2528MODIS_2025-08-14%2529.jpg%2F500px-Soaring_Temperatures_and_Searing_Fires_in_Portugal_and_Spain_%2528MODIS_2025-08-14%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onbouge.eu/flux/onbouge-pt.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beat FM",
+    "coordinates": {
+      "lat": 40.37678,
+      "lon": -8.35003
+    },
+    "radioStations": [
+      {
+        "title": "Beat FM",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F933a04_980c4409a7004eb981b44a4ae1ba283a~mv2.png%2Fv1%2Ffill%2Fw_620%2Ch_260%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2Flogo_BeatRadio.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://185.32.188.17:8043/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Montanha",
+    "coordinates": {
+      "lat": 36.9403,
+      "lon": -25.01401
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Montanha",
+        "subtitle": "Vila Real",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FGiestas_ou_maias_do_Paul_da_Serra%252C_Madeira%252C_Jos%25C3%25A9_Lemos_Silva_-_2022-05-05_-_Image_209455.jpg%2F500px-Giestas_ou_maias_do_Paul_da_Serra%252C_Madeira%252C_Jos%25C3%25A9_Lemos_Silva_-_2022-05-05_-_Image_209455.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s2.ndvendas.com:7202/;"
+      }
+    ]
+  },
+  {
+    "name": "Radio OnBouge",
+    "coordinates": {
+      "lat": 32.79673,
+      "lon": -17.04323
+    },
+    "radioStations": [
+      {
+        "title": "Radio OnBouge",
+        "subtitle": "Madeira",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F66%2FArquiteto_Carlos_Ramos%252C_Lisboa%252C_Portugal_-_c._1960_-_Image_128080.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail_unscaled&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onbouge.eu/flux/onbouge.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio US Nelas",
+    "coordinates": {
+      "lat": 40.838,
+      "lon": -8.31853
+    },
+    "radioStations": [
+      {
+        "title": "Rádio US Nelas",
+        "subtitle": "Viseu",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.radoxo.com%2Fimages%2Fportugal%2Fradio-us-nelas.webp&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com/8054/stream"
+      }
+    ]
+  },
+  {
+    "name": "RIO – Rádio Internacional Odemira",
+    "coordinates": {
+      "lat": 37.6551,
+      "lon": -7.49555
+    },
+    "radioStations": [
+      {
+        "title": "RIO – Rádio Internacional Odemira",
+        "subtitle": "Beja",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fminhawebradio.com%2Fcontents%2F27516%2Favatar%2Fxmb453e2ea36898b581380f0a72ac3675d_27516_1775041699.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://hts02.brascast.com:10476/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Paralelo",
+    "coordinates": {
+      "lat": 41.34482,
+      "lon": -8.6059
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Paralelo",
+        "subtitle": "Porto",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fradio.indymedia.pt%2Fparalelo-star.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radioparalelo.indymedia.pt/listen/paralelo/radio.mp3"
+      }
+    ]
+  },
+  {
+    "name": "RCP - Rádio Clube da Pampilhosa",
+    "coordinates": {
+      "lat": 41.08845,
+      "lon": -6.9683
+    },
+    "radioStations": [
+      {
+        "title": "RCP - Rádio Clube da Pampilhosa",
+        "subtitle": "Pampilhosa",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rcpfm.com%2Fwp-content%2Fuploads%2F2024%2F11%2F92.6elogo-1024x1024.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com:10977/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio RTP Antena 1",
+    "coordinates": {
+      "lat": 39.55784,
+      "lon": -7.80779
+    },
+    "radioStations": [
+      {
+        "title": "Rádio RTP Antena 1",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fantena1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio RTP Antena 2",
+    "coordinates": {
+      "lat": 39.93312,
+      "lon": -8.40356
+    },
+    "radioStations": [
+      {
+        "title": "Rádio RTP Antena 2",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fantena2.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio RTP Fado",
+    "coordinates": {
+      "lat": 38.85755,
+      "lon": -8.30369
+    },
+    "radioStations": [
+      {
+        "title": "Rádio RTP Fado",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fantena1fado.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Cidade FM",
+    "coordinates": {
+      "lat": 37.11748,
+      "lon": -8.53698
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Cidade FM",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo_Radio_Cidade_FM_256x256.avif&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Cidade Hip Hop",
+    "coordinates": {
+      "lat": 40.72727,
+      "lon": -6.82914
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Cidade Hip Hop",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo_Radio_Cidade_Hip_Hop_256x256.avif&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Cidade Latina",
+    "coordinates": {
+      "lat": 39.44025,
+      "lon": -8.95506
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Cidade Latina",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo_Radio_Cidade_Latina_256x256.avif&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial Dance",
+    "coordinates": {
+      "lat": 39.27511,
+      "lon": -9.27885
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial Dance",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fybykwjqku6rh.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial By Night",
+    "coordinates": {
+      "lat": 39.64148,
+      "lon": -7.56538
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial By Night",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2FnoCover.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial One Hit Wonders",
+    "coordinates": {
+      "lat": 41.33979,
+      "lon": -8.5518
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial One Hit Wonders",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd8%2FA_Glimpse_into_Porto%2527s_Character_Terracotta_Roofs%252C_Tiled_Facades%252C_and_Construction_in_Progress_%252855246734006%2529.jpg%2F500px-A_Glimpse_into_Porto%2527s_Character_Terracotta_Roofs%252C_Tiled_Facades%252C_and_Construction_in_Progress_%252855246734006%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial Kids",
+    "coordinates": {
+      "lat": 39.83621,
+      "lon": -8.4781
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial Kids",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2FComercial-Kids.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial 90s",
+    "coordinates": {
+      "lat": 37.98785,
+      "lon": -8.38759
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial 90s",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fwr-90.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rcbest90.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Comercial 2000s",
+    "coordinates": {
+      "lat": 41.84827,
+      "lon": -8.86538
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Comercial 2000s",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fwr-2000s.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio M80",
+    "coordinates": {
+      "lat": 41.89292,
+      "lon": -7.76297
+    },
+    "radioStations": [
+      {
+        "title": "Rádio M80",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogod.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Mega Hits",
+    "coordinates": {
+      "lat": 41.13333,
+      "lon": -7.78333
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Mega Hits",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo_megafm_new.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://29023.live.streamtheworld.com/MEGA_HITS_SC"
+      }
+    ]
+  },
+  {
+    "name": "Rádio MEO Music",
+    "coordinates": {
+      "lat": 39.1,
+      "lon": -28.01667
+    },
+    "radioStations": [
+      {
+        "title": "Rádio MEO Music",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ffd%2FVista_de_Horta_desde_Monte_da_Guia%252C_isla_de_Fayal%252C_Azores%252C_Portugal%252C_2020-07-27%252C_DD_07-18_HDR_PAN.jpg%2F500px-Vista_de_Horta_desde_Monte_da_Guia%252C_isla_de_Fayal%252C_Azores%252C_Portugal%252C_2020-07-27%252C_DD_07-18_HDR_PAN.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://centova.radios.pt:8495/;listen.pls"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Radar",
+    "coordinates": {
+      "lat": 32.66667,
+      "lon": -17.1
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Radar",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7d%2FConfer%25C3%25AAncia_de_Rui_Carita_As_Escava%25C3%25A7%25C3%25B5es_nas_Casas_Jo%25C3%25A3o_Esmeraldo%252C_1989_-_2018-02-27_-_Image_145842.jpg%2F500px-Confer%25C3%25AAncia_de_Rui_Carita_As_Escava%25C3%25A7%25C3%25B5es_nas_Casas_Jo%25C3%25A3o_Esmeraldo%252C_1989_-_2018-02-27_-_Image_145842.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://proic1.evspt.com/radar_aac"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Smooth FM",
+    "coordinates": {
+      "lat": 40.43953,
+      "lon": -8.66655
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Smooth FM",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo-smooth-fm_0.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Rádio TSF",
+    "coordinates": {
+      "lat": 38.08088,
+      "lon": -7.4212
+    },
+    "radioStations": [
+      {
+        "title": "Rádio TSF",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo-tsf.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Miúdos",
+    "coordinates": {
+      "lat": 41.5992,
+      "lon": -8.11852
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Miúdos",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo2.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://s5.radio.co/s9c516a065/listen"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Quinta do Conde",
+    "coordinates": {
+      "lat": 41.95047,
+      "lon": -7.16437
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Quinta do Conde",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Fradio-quinta-do-conde.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com/8100/stream"
+      }
+    ]
+  },
+  {
+    "name": "Marcoense FM",
+    "coordinates": {
+      "lat": 39.98365,
+      "lon": -7.89666
+    },
+    "radioStations": [
+      {
+        "title": "Marcoense FM",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Flogo.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://137.74.160.250:8000/;stream/1"
+      }
+    ]
+  },
+  {
+    "name": "Rádio NoAr",
+    "coordinates": {
+      "lat": 40.23968,
+      "lon": -8.07079
+    },
+    "radioStations": [
+      {
+        "title": "Rádio NoAr",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2FRadio-NoAr_156.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://radios3.justweb.pt:8026/stream"
+      }
+    ]
+  },
+  {
+    "name": "Rádio Sines",
+    "coordinates": {
+      "lat": 38.25663,
+      "lon": -7.69933
+    },
+    "radioStations": [
+      {
+        "title": "Rádio Sines",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FDismantled_canon_%25281918%2529_-_Adriano_de_Sousa_Lopes_%25281879-1944%2529_%252839353070685%2529.jpg%2F500px-Dismantled_canon_%25281918%2529_-_Adriano_de_Sousa_Lopes_%25281879-1944%2529_%252839353070685%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://sp0.redeaudio.com/9580/stream"
+      }
+    ]
+  },
+  {
+    "name": "Fama Rádio",
+    "coordinates": {
+      "lat": 37.16849,
+      "lon": -7.51804
+    },
+    "radioStations": [
+      {
+        "title": "Fama Rádio",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FLITUATUI%2FM3UPT%2Fmain%2Flogos%2Ffama.radio.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://eu10.fastcast4u.com/famaradio"
+      }
+    ]
+  },
+  {
+    "name": "Venice Classic Radio - Auditorium",
+    "coordinates": {
+      "lat": 40.84598,
+      "lon": -7.17887
+    },
+    "radioStations": [
+      {
+        "title": "Venice Classic Radio - Auditorium",
+        "subtitle": "Portugal",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F30%2FAntigo_Mercado_de_Escravos_-_Lagos_-_Portugal_%252851844855374%2529.jpg%2F500px-Antigo_Mercado_de_Escravos_-_Lagos_-_Portugal_%252851844855374%2529.jpg%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1"
+      }
+    ]
+  }
+]
