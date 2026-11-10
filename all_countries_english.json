@@ -1186,7 +1186,8 @@
     {
       "name": "United Kingdom",
       "name_ru": "Великобритания",
-      "flag": "https://flagcdn.com/w320/gb.png"
+      "flag": "https://flagcdn.com/w320/gb.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/usa_fm.json"
     },
     {
       "name": "United States",
