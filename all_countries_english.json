@@ -1059,7 +1059,8 @@
     {
       "name": "Spain",
       "name_ru": "Испания",
-      "flag": "https://flagcdn.com/w320/es.png"
+      "flag": "https://flagcdn.com/w320/es.png",
+      "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/spain_fm_308.json"
     },
     {
       "name": "Sri Lanka",
