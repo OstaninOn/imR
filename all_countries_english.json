@@ -533,11 +533,7 @@
       "flag": "https://flagcdn.com/w320/ie.png",
       "stationsJSON": "https://raw.githubusercontent.com/OstaninOn/imR/refs/heads/main/ireland_fm_37.json"
     },
-    {
-      "name": "Isle of Man",
-      "name_ru": "Остров Мэн",
-      "flag": "https://flagcdn.com/w320/im.png"
-    },
+   
     {
       "name": "Israel",
       "name_ru": "Израиль",
