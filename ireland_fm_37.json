@@ -1,0 +1,668 @@
+[
+  {
+    "name": "RTÉ Radio 1",
+    "coordinates": {
+      "lat": 53.3498,
+      "lon": -6.2603
+    },
+    "radioStations": [
+      {
+        "title": "RTÉ Radio 1",
+        "subtitle": "Dublin, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F92%2FDublin_-_aerial_-_2025-07-07_01.jpg%2F500px-Dublin_-_aerial_-_2025-07-07_01.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dapi%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://29053.live.streamtheworld.com:443/RTE_1_INTAACLC/HLS/playlist.m3u8?tdsdk=rte"
+      }
+    ]
+  },
+  {
+    "name": "RTÉ 2FM",
+    "coordinates": {
+      "lat": 52.14,
+      "lon": -10.27
+    },
+    "radioStations": [
+      {
+        "title": "RTÉ 2FM",
+        "subtitle": "Dingle, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fdc%2FDingle_Strand_Street.jpg%2F500px-Dingle_Strand_Street.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dapi%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://25683.live.streamtheworld.com:443/RTE_2FM_INTAACLC/HLS/playlist.m3u8?tdsdk=rte"
+      }
+    ]
+  },
+  {
+    "name": "RTÉ Lyric FM",
+    "coordinates": {
+      "lat": 55.25,
+      "lon": -7.265
+    },
+    "radioStations": [
+      {
+        "title": "RTÉ Lyric FM",
+        "subtitle": "Carndonagh, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F98%2FCarndonagh_SW_View_1996_08_29-mod.jpg%2F500px-Carndonagh_SW_View_1996_08_29-mod.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dapi%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://14153.live.streamtheworld.com:443/RTE_LYRIC_FMAACLC/HLS/playlist.m3u8?tdsdk=rte"
+      }
+    ]
+  },
+  {
+    "name": "RTÉ Raidió na Gaeltachta",
+    "coordinates": {
+      "lat": 53.8549,
+      "lon": -9.2988
+    },
+    "radioStations": [
+      {
+        "title": "RTÉ Raidió na Gaeltachta",
+        "subtitle": "Castlebar, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8e%2FMarket_Street_Castlebar.jpg%2F500px-Market_Street_Castlebar.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dapi%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://29083.live.streamtheworld.com:443/RTE_RAIDIO_NA_GAELTACHTAAACLC/HLS/playlist.m3u8?tdsdk=rte"
+      }
+    ]
+  },
+  {
+    "name": "98FM",
+    "coordinates": {
+      "lat": 51.95,
+      "lon": -7.845
+    },
+    "radioStations": [
+      {
+        "title": "98FM",
+        "subtitle": "Youghal, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fi.resized.co%2F98fm%2FeyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy45OGZtLmNvbVxcXC9pXFxcL2xvZ28ucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjMsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy45OGZtLmNvbVxcXC9pbWFnZXNcXFwvbm9faW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjU2MjMwZTUzNzU1NGJhZTZkYmU2ODY3NjE0YzM1OWI3ZWI3N2I4M2MifQ%3D%3D%2Flogo.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live.audioxi.com/98DANCE"
+      }
+    ]
+  },
+  {
+    "name": "Beat 102-103",
+    "coordinates": {
+      "lat": 52.8436,
+      "lon": -8.9864
+    },
+    "radioStations": [
+      {
+        "title": "Beat 102-103",
+        "subtitle": "Ennis, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPodcastSource122%2Fv4%2Fd0%2Fc0%2Fdb%2Fd0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9%2F70aabc5c-2d63-43ab-ad31-12d2592c7c32.png%2F1200x1200bf-60.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edgex.audioxi.com/BEAT"
+      }
+    ]
+  },
+  {
+    "name": "C103",
+    "coordinates": {
+      "lat": 54.2492,
+      "lon": -6.9683
+    },
+    "radioStations": [
+      {
+        "title": "C103",
+        "subtitle": "Monaghan, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmm.aiircdn.com%2F619%2F5d5199be0aa8e.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onic.cork.live.stream.broadcasting.news/stream-c103-west"
+      }
+    ]
+  },
+  {
+    "name": "Clare FM",
+    "coordinates": {
+      "lat": 52.3369,
+      "lon": -6.4633
+    },
+    "radioStations": [
+      {
+        "title": "Clare FM",
+        "subtitle": "Wexford, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.clare.fm%2Fwp-content%2Fuploads%2F2024%2F09%2FCLARE-FM-LOGO-HEADER-TRANS-272x90-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://22733.live.streamtheworld.com:443/CLARE_FM.mp3?dist=web"
+      }
+    ]
+  },
+  {
+    "name": "Classic Hits Radio",
+    "coordinates": {
+      "lat": 51.55,
+      "lon": -9.265
+    },
+    "radioStations": [
+      {
+        "title": "Classic Hits Radio",
+        "subtitle": "Skibbereen, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmmo.aiircdn.com%2F286%2F650a94ce36fd7.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/CLASSIC"
+      }
+    ]
+  },
+  {
+    "name": "FM104",
+    "coordinates": {
+      "lat": 53.4239,
+      "lon": -7.9407
+    },
+    "radioStations": [
+      {
+        "title": "FM104",
+        "subtitle": "Athlone, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmmo.aiircdn.com%2F301%2F63435a48d085e.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onic.dublin.live.stream.broadcasting.news/stream-fm104?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417"
+      }
+    ]
+  },
+  {
+    "name": "Highland Radio",
+    "coordinates": {
+      "lat": 54.6538,
+      "lon": -8.1106
+    },
+    "radioStations": [
+      {
+        "title": "Highland Radio",
+        "subtitle": "Donegal, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fhighlandradio.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fcropped-highland-favicon-01-180x180.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://27873.live.streamtheworld.com:443/HIGHLAND_RADIO.mp3"
+      }
+    ]
+  },
+  {
+    "name": "iRadio",
+    "coordinates": {
+      "lat": 52.6811,
+      "lon": -7.8022
+    },
+    "radioStations": [
+      {
+        "title": "iRadio",
+        "subtitle": "Thurles, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1425495497410818050%2Fbtb4eQjn_400x400.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/IRADNWAAC"
+      }
+    ]
+  },
+  {
+    "name": "Kfm",
+    "coordinates": {
+      "lat": 53.9713,
+      "lon": -8.295
+    },
+    "radioStations": [
+      {
+        "title": "Kfm",
+        "subtitle": "Boyle, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmmo.aiircdn.com%2F516%2F607824528e9c8.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/KFM?_=668840"
+      }
+    ]
+  },
+  {
+    "name": "Limerick's Live 95FM",
+    "coordinates": {
+      "lat": 53.49,
+      "lon": -10.021
+    },
+    "radioStations": [
+      {
+        "title": "Limerick's Live 95FM",
+        "subtitle": "Clifden, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmm.aiircdn.com%2F617%2F5d77b07fec8c4.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onic.cork.live.stream.broadcasting.news/stream-live95"
+      }
+    ]
+  },
+  {
+    "name": "LMFM",
+    "coordinates": {
+      "lat": 52.8408,
+      "lon": -6.9261
+    },
+    "radioStations": [
+      {
+        "title": "LMFM",
+        "subtitle": "Carlow, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmm.aiircdn.com%2F616%2F5d5138dc14031.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onic.drogheda.live.stream.broadcasting.news/stream-lmfm?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507"
+      }
+    ]
+  },
+  {
+    "name": "Mid West Radio",
+    "coordinates": {
+      "lat": 52.135,
+      "lon": -8.647
+    },
+    "radioStations": [
+      {
+        "title": "Mid West Radio",
+        "subtitle": "Mallow, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.midwestradio.ie%2Fwp-content%2Fuploads%2F2024%2F11%2FMidwest_Radio.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://29338.live.streamtheworld.com:443/MIDWEST_RADIOAAC/HLS/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "Midlands 103",
+    "coordinates": {
+      "lat": 53.727,
+      "lon": -6.879
+    },
+    "radioStations": [
+      {
+        "title": "Midlands 103",
+        "subtitle": "Kells, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F27%2FDV405_no.192_Dublin_from_Phoenix_Park.png%2F500px-DV405_no.192_Dublin_from_Phoenix_Park.png%3Futm_source%3Dcommons.wikimedia.org%26utm_campaign%3Dimageinfo%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://28573.live.streamtheworld.com:443/MIDLANDS_103.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Newstalk",
+    "coordinates": {
+      "lat": 52.447,
+      "lon": -9.486
+    },
+    "radioStations": [
+      {
+        "title": "Newstalk",
+        "subtitle": "Listowel, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.newstalk.com%2Fi%2Fandroid-icon-192x192.png%3Fv%3D6&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edgex.audioxi.com/NT"
+      }
+    ]
+  },
+  {
+    "name": "Northern Sound",
+    "coordinates": {
+      "lat": 52.7935,
+      "lon": -6.1415
+    },
+    "radioStations": [
+      {
+        "title": "Northern Sound",
+        "subtitle": "Arklow, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fassets.radioplayer.org%2F372%2F37235%2F600%2F600%2Fla1azzs4.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://19983.live.streamtheworld.com/NORTHERN_SOUND_SC"
+      }
+    ]
+  },
+  {
+    "name": "Q102",
+    "coordinates": {
+      "lat": 53.198,
+      "lon": -8.566
+    },
+    "radioStations": [
+      {
+        "title": "Q102",
+        "subtitle": "Loughrea, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F1%2F1f%2FLoughrea_Town_Sign_-_Discover_Ireland.jpg%2F500px-Loughrea_Town_Sign_-_Discover_Ireland.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dapi%26utm_content%3Dthumbnail&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://onic.dublin.live.stream.broadcasting.news/stream-q102"
+      }
+    ]
+  },
+  {
+    "name": "Radio Kerry",
+    "coordinates": {
+      "lat": 53.43,
+      "lon": -9.331
+    },
+    "radioStations": [
+      {
+        "title": "Radio Kerry",
+        "subtitle": "Oughterard, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fi.resized.co%2Fradiokerry-ie%2FeyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL3JhZGlvLWtlcnJ5LWxvZ28uanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo5MDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5yYWRpb2tlcnJ5LmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjM3MWY1NTQ3MzEzMDdiYzcyYmIyMzYwMmNiZDFkMDA1NDY3OTRlNSJ9%2Fradio-kerry-logo.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://27743.live.streamtheworld.com/RADIO_KERRY_SC"
+      }
+    ]
+  },
+  {
+    "name": "Radio Nova",
+    "coordinates": {
+      "lat": 52.2593,
+      "lon": -7.1101
+    },
+    "radioStations": [
+      {
+        "title": "Radio Nova",
+        "subtitle": "Waterford, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.nova.ie%2Fwp-content%2Fuploads%2F2024%2F11%2Fcolor-logo.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://22183.live.streamtheworld.com:443/RADIONOVA.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Red FM",
+    "coordinates": {
+      "lat": 53.34,
+      "lon": -7.05
+    },
+    "radioStations": [
+      {
+        "title": "Red FM",
+        "subtitle": "Edenderry, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmm.aiircdn.com%2F157%2F58de62950e8e5.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edgex.audioxi.com/RED"
+      }
+    ]
+  },
+  {
+    "name": "South East Radio",
+    "coordinates": {
+      "lat": 54.0037,
+      "lon": -6.4041
+    },
+    "radioStations": [
+      {
+        "title": "South East Radio",
+        "subtitle": "Dundalk, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmmo.aiircdn.com%2F277%2F68b5bcf64b32c.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://28553.live.streamtheworld.com:443/SOUTH_EAST_RADIO.mp3"
+      }
+    ]
+  },
+  {
+    "name": "SPIN 1038",
+    "coordinates": {
+      "lat": 52.0587,
+      "lon": -9.5075
+    },
+    "radioStations": [
+      {
+        "title": "SPIN 1038",
+        "subtitle": "Killarney, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fimg.resized.co%2Fshuffle%2FeyJkYXRhIjoie1widXJsXCI6XCJodHRwczovL21lZGlhLmdvbG91ZG5vdy5jb20vdXBsb2Fkcy8xNzIxMTQzOTg4L1NwaW4xMDM4XzUwMC5wbmdcIixcIndpZHRoXCI6MjEwLFwiaGVpZ2h0XCI6MjEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6Ly93d3cuZ29sb3Vkbm93LmNvbS9pbWFnZXMvbG9nby5zdmdcIn0iLCJoYXNoIjoiMDBiNmNmNTFlNWVmMWEzOThlMTY5Y2I3NDc1MDIzODE4OThjODYyNyJ9%2FSpin1038_500.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999"
+      }
+    ]
+  },
+  {
+    "name": "SPIN South West",
+    "coordinates": {
+      "lat": 54.95,
+      "lon": -7.734
+    },
+    "radioStations": [
+      {
+        "title": "SPIN South West",
+        "subtitle": "Letterkenny, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.spinsouthwest.com%2Fi%2Fandroid-icon-192x192.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/SW"
+      }
+    ]
+  },
+  {
+    "name": "Sunshine 106.8",
+    "coordinates": {
+      "lat": 53.9908,
+      "lon": -7.3606
+    },
+    "radioStations": [
+      {
+        "title": "Sunshine 106.8",
+        "subtitle": "Cavan, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fmm.aiircdn.com%2F529%2F5e1463a7c9707.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://live-bauerie.sharp-stream.com/SUN?_=808250"
+      }
+    ]
+  },
+  {
+    "name": "Tipp FM",
+    "coordinates": {
+      "lat": 54.3067,
+      "lon": -8.1772
+    },
+    "radioStations": [
+      {
+        "title": "Tipp FM",
+        "subtitle": "Manorhamilton, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Ftippfm.com%2Fplayer%2Fdata%2Fimages%2Fwhatsapp.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://22193.live.streamtheworld.com:443/TIPP_FM.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Today FM",
+    "coordinates": {
+      "lat": 53.09,
+      "lon": -7.916
+    },
+    "radioStations": [
+      {
+        "title": "Today FM",
+        "subtitle": "Birr, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.todayfm.com%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://edgex.audioxi.com/TD"
+      }
+    ]
+  },
+  {
+    "name": "Community Radio Youghal",
+    "coordinates": {
+      "lat": 52.3553,
+      "lon": -7.7039
+    },
+    "radioStations": [
+      {
+        "title": "Community Radio Youghal",
+        "subtitle": "Clonmel, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.cry104fm.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fcropped-cropped-cry104fm-logo-official-youghal-radio-cork-ireland-square--192x192.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://142.132.158.102:8221/stream"
+      }
+    ]
+  },
+  {
+    "name": "Dundalk 100 FM",
+    "coordinates": {
+      "lat": 53.7271,
+      "lon": -7.7936
+    },
+    "radioStations": [
+      {
+        "title": "Dundalk 100 FM",
+        "subtitle": "Longford, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fdundalkfm.ie%2Fwp-content%2Fuploads%2F2026%2F06%2Fdundalk-fm-banner-2026.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://80.249.249.245:8000/;?1485109331489"
+      }
+    ]
+  },
+  {
+    "name": "Flirt FM",
+    "coordinates": {
+      "lat": 51.902,
+      "lon": -8.959
+    },
+    "radioStations": [
+      {
+        "title": "Flirt FM",
+        "subtitle": "Macroom, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fflirtfm.ie%2Ffavicon.ico&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://audio-edge-cmc51.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900"
+      }
+    ]
+  },
+  {
+    "name": "Liffey Sound FM",
+    "coordinates": {
+      "lat": 53.5164,
+      "lon": -8.85
+    },
+    "radioStations": [
+      {
+        "title": "Liffey Sound FM",
+        "subtitle": "Tuam, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fliffeysoundfm.ie%2Fwp-content%2Fuploads%2F2017%2F01%2FLogo_edit-300x239.jpg&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://stream.liffeysoundfm.ie:8000/listen.pls.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Near FM",
+    "coordinates": {
+      "lat": 53.0344,
+      "lon": -7.3011
+    },
+    "radioStations": [
+      {
+        "title": "Near FM",
+        "subtitle": "Portlaoise, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fnearfm.ie%2Fwp-content%2Fuploads%2F2014%2F05%2Fnear-top-logo-long-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://nearfm-radiohosting.radioca.st/stream.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Phoenix FM",
+    "coordinates": {
+      "lat": 51.85,
+      "lon": -8.298
+    },
+    "radioStations": [
+      {
+        "title": "Phoenix FM",
+        "subtitle": "Cobh, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.phoenixfm.ie%2Fwp-content%2Fuploads%2F2023%2F07%2Fcropped-favicon-270x270.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02"
+      }
+    ]
+  },
+  {
+    "name": "Raidió na Life",
+    "coordinates": {
+      "lat": 53.017,
+      "lon": -9.385
+    },
+    "radioStations": [
+      {
+        "title": "Raidió na Life",
+        "subtitle": "Doolin, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.raidionalife.ie%2Fwp-content%2Fuploads%2Fcropped-favicon-180x180.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "http://beryl.streamguys.com:5010/live"
+      }
+    ]
+  },
+  {
+    "name": "Tipperary Mid-West Radio",
+    "coordinates": {
+      "lat": 53.7179,
+      "lon": -6.3561
+    },
+    "radioStations": [
+      {
+        "title": "Tipperary Mid-West Radio",
+        "subtitle": "Drogheda, Ireland",
+        "logo": "dot.radiowaves.left.and.right",
+        "imageURL": "https://wsrv.nl/?url=https%3A%2F%2Fwww.tippmidwestradio.com%2Fwp-content%2Fuploads%2F2025%2F09%2Ftmwr-Icon-1024-1.png&w=85&h=85&fit=cover&output=jpg",
+        "imageSize": 85,
+        "playerImageSize": 85,
+        "streamURL": "https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3"
+      }
+    ]
+  }
+]
